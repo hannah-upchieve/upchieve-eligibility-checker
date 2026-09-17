@@ -175,13 +175,15 @@ function isEligible(school) {
   return meetsFRL || meetsCEO;
 }
 
+// Must not match "Yes participating without using any Provision or the CEO",
+// which contains "CEO" but means the school is not using it.
 function isCommunityEligibilityYes(value) {
   if (!value) return false;
-  const normalized = value.toString().trim().toLowerCase();
-  return (
-    normalized.includes("yes") &&
-    (normalized.includes("community eligibility") || normalized.includes("ceo"))
-  );
+  return value
+    .toString()
+    .trim()
+    .toLowerCase()
+    .startsWith("yes under community eligibility");
 }
 
 async function loadStateSchools(code) {

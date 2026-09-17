@@ -13,6 +13,7 @@ assets/logos/         UPchieve logo
 js/states.js          state list → CSV filename mapping
 js/app.js             CSV loading, search, eligibility calculation
 data/<STATE>.csv      one file per state (see data/README.md)
+scripts/              rebuild the state CSVs from an NCES ELSI export
 ```
 
 ## Before launch
@@ -20,15 +21,11 @@ data/<STATE>.csv      one file per state (see data/README.md)
 Set `NOMINATION_URL` at the top of [`js/app.js`](js/app.js) — it's currently a `#`
 placeholder behind the "Nominate your school" button.
 
-## Adding state data
+## State data
 
-Drop a CSV into `data/` named with the two-letter state code (`data/NY.csv`). Required
-columns and the eligibility rule are documented in [`data/README.md`](data/README.md).
-
-States without a CSV show a "no data yet" message rather than breaking, so you can ship
-with a few states and add the rest over time.
-
-**`data/CA.csv` is fake sample data for testing — replace it before launch.**
+All 51 files (50 states + DC) are in `data/`, covering 95,461 schools, built from an NCES
+ELSI export of CCD 2024-25 data. Columns, the eligibility rule, and how to regenerate
+from a newer export are documented in [`data/README.md`](data/README.md).
 
 ## Eligibility rule
 
