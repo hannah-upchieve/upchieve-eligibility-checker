@@ -51,30 +51,27 @@ python3 -m http.server 8123
 
 Then open http://localhost:8123.
 
-## Deploy to GitHub Pages
+## Deployment
 
-1. Create a new repo on github.com (e.g. `upchieve-eligibility-checker`). Public repos
-   get Pages for free.
-2. From this folder:
+Live at **https://hannah-upchieve.github.io/upchieve-eligibility-checker/**, served by
+GitHub Pages from the `main` branch, root folder.
 
-```bash
-git init && git add . && git commit -m "UPchieve school eligibility checker" && git branch -M main
-```
-
-3. Connect and push (replace `ORG` with your GitHub org or username):
+To publish a change (new state CSVs, copy edits, the nomination URL):
 
 ```bash
-git remote add origin https://github.com/ORG/upchieve-eligibility-checker.git && git push -u origin main
+git add . && git commit -m "Add NY and TX school data" && git push
 ```
 
-4. In the repo on GitHub: **Settings → Pages → Build and deployment → Source: Deploy from
-   a branch**, branch `main`, folder `/ (root)`. Save.
-5. After a minute the site is live at `https://ORG.github.io/upchieve-eligibility-checker/`.
-
-Every later `git push` to `main` redeploys automatically.
+Pages rebuilds automatically, usually within a minute.
 
 ### Custom domain (optional)
 
 To serve it at something like `eligibility.upchieve.org`, add the domain under
-**Settings → Pages → Custom domain** and create a CNAME record pointing at
-`ORG.github.io` with your DNS provider.
+**Settings → Pages → Custom domain** in the repo, then create a CNAME record pointing at
+`hannah-upchieve.github.io` with your DNS provider.
+
+### Moving it to the UPchieve org later
+
+**Settings → General → Transfer ownership.** The Pages URL changes to
+`https://upchieve.github.io/upchieve-eligibility-checker/`, so update any links from the
+program landing page.
