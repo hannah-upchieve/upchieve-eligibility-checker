@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Check your school's eligibility — UPchieve</title>
+  <link rel="stylesheet" href="css/tokens.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <main class="page">
+    <img class="logo" src="assets/logos/header-logo-teal.svg" alt="UPchieve" />
+
+    <div class="card">
+      <h1>Check your school's eligibility</h1>
+      <p class="lede">Select your state, then find your school.</p>
+
+      <div class="field">
+        <label for="state-select">Your state</label>
+        <select id="state-select"></select>
+      </div>
+
+      <div class="field" id="search-section" hidden>
+        <label for="school-search">Your school</label>
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 32 32" aria-hidden="true">
+            <path fill="currentColor" d="m13.907.001c-7.669 0-13.907 6.228-13.907 13.896s6.239 13.907 13.907 13.907c3.711 0 7.006-1.578 9.501-3.954l-.274.285 7.862 7.862 1.004-1.015-7.862-7.862-.274.285c2.374-2.494 3.94-5.799 3.94-9.509 0-7.668-6.228-13.896-13.896-13.896zm0 1.426c6.895 0 12.47 5.575 12.47 12.47s-5.575 12.47-12.47 12.47-12.47-5.575-12.47-12.47 5.575-12.47 12.47-12.47z"/>
+          </svg>
+          <input
+            type="text"
+            id="school-search"
+            placeholder="Start typing your school's name"
+            autocomplete="off"
+            disabled
+          />
+        </div>
+        <p class="hint">Cities are listed so you can tell similar names apart.</p>
+        <ul id="results-list" class="results-list" hidden></ul>
+      </div>
+
+      <p id="status-message" class="status-message" role="status"></p>
+
+      <section id="result-card" class="result-card" hidden></section>
+    </div>
+
+    <p class="disclaimer">
+      This is an estimate, not an official determination. Questions? Email
+      <a href="mailto:support@upchieve.org">support@upchieve.org</a>.
+    </p>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="js/states.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

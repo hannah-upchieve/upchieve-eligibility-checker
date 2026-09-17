@@ -1,0 +1,6 @@
+school_name,district_name,city_name,total_students,frl_eligible_students,national_school_lunch_program
+Lincoln High School,Oakland Unified,Oakland,850,400,No
+Lincoln Elementary School,San Francisco Unified,San Francisco,420,120,No
+Washington High School,Fresno Unified,Fresno,1200,600,Yes under Community Eligibility Option (CEO)
+Roosevelt Middle School,San Diego Unified,San Diego,700,150,No
+Jefferson Elementary School,Sacramento City Unified,Sacramento,300,280,No

@@ -1,0 +1,123 @@
+/* UPchieve Design System — Core tokens
+   Sourced from high-line/src/scss/setup/{_colors,_fonts,_border-radius,_spacing-tokens,_transitions}.scss
+*/
+
+/* Work Sans — variable font, locally hosted */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('../fonts/WorkSans-VariableFont_wght.ttf') format('truetype-variations'),
+       url('../fonts/WorkSans-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Work Sans';
+  src: url('../fonts/WorkSans-Italic-VariableFont_wght.ttf') format('truetype-variations'),
+       url('../fonts/WorkSans-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  /* ——— Brand color ——— */
+  --upc-green:              #16d2aa;  /* primary brand, success, "UPchieve green" */
+  --upc-green-soft:         #8ae8d4;  /* lighter brand accent (new-design palette) */
+  --upc-green-chat-bot:     #e9f9f5;  /* tinted surface */
+  --upc-green-selected:     #f2fbf9;  /* faint tinted surface */
+  --upc-green-hover:        #0d8269;  /* darker green for hovers on green */
+  --upc-teal-dark:          #0a5f50;  /* dark teal — use as text/label on --upc-green fills, and as a grounded brand accent */
+  --upc-teal-deep:          #074036;  /* deepest teal — for headings, body copy on green surfaces */
+
+  /* ——— Primary action (blue) ——— */
+  --upc-blue:               #1855d1;  /* information + primary buttons */
+  --upc-blue-hover:         #103a90;
+  --upc-blue-bg:            #f1f8fe;  /* light blue surface */
+  --upc-blue-bg-alt:        #e3f2fd;  /* backdrop blue */
+  --upc-blue-bg-clear:      #f0f7fd;
+  --upc-blue-step:          #1855d166;
+
+  /* ——— Semantic state ——— */
+  --upc-error:              #f44747;
+  --upc-warning:            #ff8c5f;
+  --upc-warning-bg:         #feeab2;
+  --upc-information:        #1855d1;
+
+  /* ——— Text ——— */
+  --fg-1:                   #343440;  /* soft black — primary text */
+  --fg-2:                   #77778b;  /* secondary text, icons */
+  --fg-3:                   #666f7d;  /* minor/default grey */
+  --fg-disabled:            #abb2bd;
+  --fg-banned:              #8b939f;
+  --fg-icon:                #676879;
+
+  /* ——— Backgrounds ——— */
+  --bg-app:                 #f1f3f6;  /* app canvas */
+  --bg-card:                #ffffff;
+  --bg-alt:                 #f6f6f6;
+
+  /* ——— Borders ——— */
+  --border-1:               #d6e0ef;  /* primary borders, hint */
+  --border-2:               #d8dee5;  /* secondary borders */
+
+  /* ——— Role/persona accents (pastel tints) ——— */
+  --role-student:           #f9bef9;
+  --role-volunteer:         #fedf85;
+  --role-teacher:           #76e5fd;
+
+  /* ——— Subject accents (pastels) ——— */
+  --subj-math:              #f7aef8;
+  --subj-sat:               #54defd;
+  --subj-college:           #fed766;
+
+  /* ——— Shadows ——— */
+  --shadow-1:               0 2px 6px rgba(0, 0, 0, 0.04);
+  --shadow-2:               0 4px 12px rgba(0, 0, 0, 0.05);
+  --shadow-3:               0 8px 24px rgba(0, 0, 0, 0.08);
+
+  /* ——— Radii ——— */
+  --radius-sm:              4px;   /* form inputs, small pills */
+  --radius-md:              8px;   /* cards, containers — MOST COMMON */
+  --radius-lg:              20px;  /* large buttons, pills */
+  --radius-round:           9999px;
+
+  /* ——— Spacing scale ——— */
+  --space-xs:               8px;
+  --space-sm:               16px;
+  --space-md:               20px;
+  --space-lg:               24px;
+  --space-xl:               30px;
+  --space-xxl:              32px;
+
+  /* ——— Motion ——— */
+  --t-fast:                 0.15s ease-in;
+  --t-std:                  0.2s ease;
+  --t-slow:                 0.3s ease;
+
+  /* ——— Type ——— */
+  --font-sans:              'Work Sans', Helvetica, Arial, sans-serif;
+  --fw-regular:             400;
+  --fw-medium:              500;
+  --fw-semibold:            600;
+  --fw-bold:                700;
+}
+
+/* ——— Semantic type recipes (mirrors scss font-category mixin) ——— */
+html, body { font-family: var(--font-sans); color: var(--fg-1); background: var(--bg-app); -webkit-font-smoothing: antialiased; }
+
+.t-display-lg  { font: var(--fw-medium)   40px/1.25 var(--font-sans); }
+.t-display-sm  { font: var(--fw-medium)   24px/1.25 var(--font-sans); }
+.t-heading     { font: var(--fw-regular)  18px/1.25 var(--font-sans); }
+.t-subheading  { font: var(--fw-medium)   16px/1.25 var(--font-sans); }
+.t-body        { font: var(--fw-regular)  16px/1.5  var(--font-sans); }
+.t-helper      { font: var(--fw-regular)  14px/1.5  var(--font-sans); color: var(--fg-2); }
+.t-button      { font: var(--fw-medium)   16px/1.25 var(--font-sans); }
+.t-caption     { font: var(--fw-medium)   12px/1.25 var(--font-sans); }
+
+h1 { font: var(--fw-medium) 40px/1.25 var(--font-sans); color: var(--fg-1); margin: 0; }
+h2 { font: var(--fw-medium) 24px/1.25 var(--font-sans); color: var(--fg-1); margin: 0; }
+h3 { font: var(--fw-regular) 18px/1.25 var(--font-sans); color: var(--fg-1); margin: 0; }
+h4 { font: var(--fw-medium) 16px/1.25 var(--font-sans); color: var(--fg-1); margin: 0; }
+p  { font: var(--fw-regular) 16px/1.5 var(--font-sans); color: var(--fg-1); margin: 0; }
+small { font: var(--fw-regular) 14px/1.5 var(--font-sans); color: var(--fg-2); }
