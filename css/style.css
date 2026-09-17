@@ -22,7 +22,7 @@ body {
 }
 
 .logo {
-  height: 28px;
+  height: 40px;
   display: block;
   margin: 0 auto var(--space-lg);
 }
