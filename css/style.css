@@ -240,6 +240,22 @@ input:disabled {
   margin: 0;
 }
 
+.explanation {
+  font: var(--fw-regular) 14px/1.5 var(--font-sans);
+  color: var(--fg-1);
+  margin: var(--space-sm) 0 0;
+}
+
+.explanation a {
+  color: var(--upc-blue);
+  font-weight: var(--fw-medium);
+  text-decoration: none;
+}
+
+.explanation a:hover {
+  text-decoration: underline;
+}
+
 .btn {
   display: inline-block;
   border-radius: var(--radius-lg);

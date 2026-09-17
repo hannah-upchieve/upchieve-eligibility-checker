@@ -17,6 +17,7 @@ const statusMessage = document.getElementById("status-message");
 
 let currentSchools = [];
 let currentStateName = "";
+let currentStateCode = "";
 
 populateStates();
 
@@ -40,6 +41,7 @@ stateSelect.addEventListener("change", async () => {
   const code = stateSelect.value;
   const state = STATES.find((s) => s.code === code);
   currentStateName = state ? state.name : "";
+  currentStateCode = state ? state.code : "";
   resetResults();
   searchInput.value = "";
   searchInput.disabled = true;
@@ -104,7 +106,7 @@ function renderResults(matches) {
 
     const city = document.createElement("span");
     city.className = "school-city";
-    city.textContent = school.city_name;
+    city.textContent = cityWithState(school);
 
     li.append(name, city);
     li.addEventListener("click", () => selectSchool(school));
@@ -147,7 +149,7 @@ function renderEligibility(school) {
 
   const meta = document.createElement("p");
   meta.className = "school-meta";
-  meta.textContent = [school.district_name, school.city_name]
+  meta.textContent = [school.district_name, cityWithState(school)]
     .filter(Boolean)
     .join(" · ");
   body.appendChild(meta);
@@ -158,10 +160,31 @@ function renderEligibility(school) {
     nominate.href = NOMINATION_URL;
     nominate.textContent = "Nominate your school";
     body.appendChild(nominate);
+  } else {
+    const explanation = document.createElement("p");
+    explanation.className = "explanation";
+    const supportLink = document.createElement("a");
+    supportLink.href = `mailto:${SUPPORT_EMAIL}`;
+    supportLink.textContent = SUPPORT_EMAIL;
+    explanation.append(
+      "UPchieve only partners with schools that are at least 40% low-income. " +
+        "If you believe your school should be eligible based on this criteria, " +
+        "please reach out to us at ",
+      supportLink,
+      "."
+    );
+    body.appendChild(explanation);
   }
 
   resultCard.appendChild(body);
   resultCard.scrollIntoView({ behavior: "smooth", block: "nearest" });
+}
+
+function cityWithState(school) {
+  if (!school.city_name) return "";
+  return currentStateCode
+    ? `${school.city_name}, ${currentStateCode}`
+    : school.city_name;
 }
 
 function isEligible(school) {
