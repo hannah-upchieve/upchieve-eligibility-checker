@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """Turn an NCES ELSI public-school export into one CSV per state for the checker.
 
-Usage:  python3 scripts/build_state_csvs.py <ELSI_export.csv>
+Usage:  python3 scripts/build_state_csvs.py <ELSI_export.csv> [admin_approved.csv]
+
+The optional second file adds the `admin_approved` column. It needs the columns
+school_name, city, state, admin_approved; rows are matched to the ELSI data on
+state + school name + city, falling back to state + school name. Where the same
+school appears more than once with conflicting values, an approval wins.
 
 Expects these ELSI columns (the year suffix may differ between exports):
   School Name / State Name / Location City / Agency Name /
@@ -117,6 +122,28 @@ def count(value):
     return value if value.isdigit() else ""
 
 
+def match_key(text):
+    return re.sub(r"[^a-z0-9]+", " ", (text or "").lower()).strip()
+
+
+def load_admin_approvals(path):
+    """Return (by state+name+city, by state+name) lookups of approval flags."""
+    with_city = {}
+    without_city = {}
+    with open(path, encoding="utf-8-sig") as handle:
+        for row in csv.DictReader(handle):
+            state = (row.get("state") or "").strip().upper()
+            name = match_key(row.get("school_name"))
+            approved = (row.get("admin_approved") or "").strip().lower() == "true"
+            if not state or not name:
+                continue
+            key = (state, name, match_key(row.get("city")))
+            with_city[key] = with_city.get(key, False) or approved
+            short = (state, name)
+            without_city[short] = without_city.get(short, False) or approved
+    return with_city, without_city
+
+
 def find_column(fieldnames, prefix):
     for name in fieldnames:
         if name.startswith(prefix):
@@ -124,9 +151,13 @@ def find_column(fieldnames, prefix):
     raise SystemExit(f"Could not find a column starting with {prefix!r}")
 
 
-def main(source_path):
+def main(source_path, approvals_path=None):
     repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     out_dir = os.path.join(repo_root, "data")
+
+    approved_with_city, approved_without_city = (
+        load_admin_approvals(approvals_path) if approvals_path else ({}, {})
+    )
 
     with open(source_path, encoding="utf-8-sig") as handle:
         lines = [line for line in handle.read().split("\n")]
@@ -146,6 +177,9 @@ def main(source_path):
     skipped_no_enrollment = 0
     skipped_unknown_state = 0
     footer_rows = 0
+    matched_with_city = 0
+    matched_without_city = 0
+    unmatched = 0
 
     for row in reader:
         # Trailing footnote lines parse as short rows.
@@ -163,17 +197,34 @@ def main(source_path):
             skipped_no_enrollment += 1
             continue
 
+        school_name = smart_title(row[col_name])
+        city_name = smart_title(row[col_city])
+
+        name_key = match_key(school_name)
+        full_key = (state_code, name_key, match_key(city_name))
+        if full_key in approved_with_city:
+            approved = approved_with_city[full_key]
+            matched_with_city += 1
+        elif (state_code, name_key) in approved_without_city:
+            approved = approved_without_city[(state_code, name_key)]
+            matched_without_city += 1
+        else:
+            approved = False
+            unmatched += 1
+
         by_state[state_code].append({
-            "school_name": smart_title(row[col_name]),
+            "school_name": school_name,
             "district_name": smart_title(row[col_district]),
-            "city_name": smart_title(row[col_city]),
+            "city_name": city_name,
             "total_students": total,
             "frl_eligible_students": count(row[col_frl]),
             "national_school_lunch_program": clean(row[col_nslp]),
+            "admin_approved": "true" if approved else "false",
         })
 
     columns = ["school_name", "district_name", "city_name", "total_students",
-               "frl_eligible_students", "national_school_lunch_program"]
+               "frl_eligible_students", "national_school_lunch_program",
+               "admin_approved"]
 
     os.makedirs(out_dir, exist_ok=True)
     written = 0
@@ -190,9 +241,19 @@ def main(source_path):
     print(f"Skipped {skipped_no_enrollment} rows with no enrollment")
     if skipped_unknown_state:
         print(f"Skipped {skipped_unknown_state} rows with an unrecognized state")
+    if approvals_path:
+        approved_count = sum(
+            1 for schools in by_state.values()
+            for s in schools if s["admin_approved"] == "true"
+        )
+        print(
+            f"admin_approved: matched {matched_with_city} on state+name+city, "
+            f"{matched_without_city} on state+name, {unmatched} unmatched; "
+            f"{approved_count} approved"
+        )
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
+    if not 2 <= len(sys.argv) <= 3:
         raise SystemExit(__doc__)
-    main(sys.argv[1])
+    main(*sys.argv[1:])

@@ -14,11 +14,13 @@ One CSV per state, named `data/<STATE_CODE>.csv` using the two-letter code in
 | `total_students` | Total enrollment |
 | `frl_eligible_students` | Students eligible for free/reduced lunch; blank when not reported |
 | `national_school_lunch_program` | NSLP participation status; blank when not reported |
+| `admin_approved` | `true` / `false` — manually approved by UPchieve, overriding the calculation |
 
 ## Eligibility rule (implemented in `js/app.js`)
 
-A school is **eligible** if either:
+A school is **eligible** if any of:
 
+- `admin_approved` is `true`, or
 - `frl_eligible_students / total_students >= 40%`, or
 - `national_school_lunch_program` starts with "Yes under Community Eligibility Option"
 
@@ -40,8 +42,12 @@ These files were built from an NCES ELSI public-school export (CCD 2024-25). To 
 2. Run:
 
 ```bash
-python3 scripts/build_state_csvs.py ~/Downloads/ELSI_csv_export_XXXX.csv
+python3 scripts/build_state_csvs.py ~/Downloads/ELSI_csv_export_XXXX.csv admin_approved.csv
 ```
+
+The second file is optional and supplies `admin_approved`; it needs the columns
+`school_name, city, state, admin_approved`. Rows are matched on state + school name +
+city, falling back to state + school name. Omitting it sets every school to `false`.
 
 The script title-cases ALL-CAPS names (keeping acronyms like ISD, USD, HS, and fixing
 McKinley / O'Brien / St. / 10th), maps state names to codes, and drops rows with no

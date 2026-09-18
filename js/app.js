@@ -188,6 +188,8 @@ function cityWithState(school) {
 }
 
 function isEligible(school) {
+  if (school.admin_approved.toLowerCase() === "true") return true;
+
   const total = Number(school.total_students);
   const frl = Number(school.frl_eligible_students);
   const hasValidCounts = Number.isFinite(total) && total > 0 && Number.isFinite(frl);
@@ -233,6 +235,7 @@ async function loadStateSchools(code) {
       total_students: (row.total_students || "").toString().trim(),
       frl_eligible_students: (row.frl_eligible_students || "").toString().trim(),
       national_school_lunch_program: (row.national_school_lunch_program || "").trim(),
+      admin_approved: (row.admin_approved || "").trim(),
     }))
     .filter((row) => row.school_name.length > 0);
 }
