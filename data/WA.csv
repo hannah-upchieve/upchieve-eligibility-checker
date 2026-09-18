@@ -53,6 +53,7 @@ Arlington Elementary,Spokane School District,Spokane,379,316,Yes under Community
 Arlington Elementary School,Tacoma School District,Tacoma,390,296,Yes under Community Eligibility Option (CEO),false
 Arlington High School,Arlington School District,Arlington,1650,611,Yes participating without using any Provision or the CEO,false
 Arlington Open Doors,Arlington School District,Arlington,64,32,No,true
+Arlington Special Educ School,Arlington School District,Arlington,0,,No,true
 Armin Jahr Elementary,Bremerton School District,Bremerton,495,324,Yes under Community Eligibility Option (CEO),false
 Arrowhead Elementary,Northshore School District,Kenmore,332,105,Yes participating without using any Provision or the CEO,false
 Arthur Jacobsen Elementary,Auburn School District,Auburn,367,220,Yes under Community Eligibility Option (CEO),false
@@ -332,6 +333,7 @@ Chinook Middle School,Kennewick School District,Kennewick,950,392,Yes under Comm
 Chinook Middle School,North Thurston Public Schools,Lacey,746,414,Yes under Community Eligibility Option (CEO),true
 Chinook Middle School,Highline School District,SeaTac,620,452,Yes under Community Eligibility Option (CEO),true
 Chloe Clark Elementary,Steilacoom Hist. School District,DuPont,475,128,Yes participating without using any Provision or the CEO,false
+Choice,Riverview School District,Carnation,0,,Yes participating without using any Provision or the CEO,true
 Choice Academy,North Kitsap School District,Kingston,54,24,No,true
 Choice Academy,Highline School District,Seattle,176,87,No,true
 Choice Middle and High School,Shelton School District,Shelton,217,129,Yes under Community Eligibility Option (CEO),true
@@ -507,6 +509,7 @@ Dungeness Virtual School,Sequim School District,Sequim,97,45,No,false
 Dunlap Elementary School,Seattle School District No. 1,Seattle,261,201,Yes under Community Eligibility Option (CEO),false
 Dutch Hill Elementary,Snohomish School District,Snohomish,694,154,Yes participating without using any Provision or the CEO,false
 Dwight D Eisenhower Elementary,Vancouver School District,Vancouver,386,193,Yes under Community Eligibility Option (CEO),false
+Dynamic Family Services,Federal Way School District,Kent,0,,No,true
 E B Walker High School,Puyallup School District,Puyallup,120,76,Yes under Community Eligibility Option (CEO),true
 E Omak Elementary,Omak School District,Omak,327,254,Yes under Community Eligibility Option (CEO),false
 Eagle Creek Elementary,Arlington School District,Arlington,665,290,Yes participating without using any Provision or the CEO,false
@@ -815,6 +818,7 @@ Gregory Heights Elementary,Highline School District,Burien,488,249,Yes under Com
 Greywolf Elementary School,Sequim School District,Sequim,506,261,Yes under Community Eligibility Option (CEO),false
 Griffin Bay School,San Juan Island School District,Friday Harbor,47,16,Yes participating without using any Provision or the CEO,false
 Griffin Bay School Open Doors,San Juan Island School District,Friday Harbor,6,,No,false
+Griffin Home,Renton School District,Renton,0,,No,true
 Griffin School,Griffin School District,Olympia,585,184,Yes participating without using any Provision or the CEO,true
 Grove Elementary,Marysville School District,Marysville,392,182,Yes under Community Eligibility Option (CEO),false
 H.e.a.r.t. High School,Rochester School District,Rochester,37,23,Yes under Community Eligibility Option (CEO),true
@@ -1602,6 +1606,7 @@ Open Doors Battle Ground,Battle Ground School District,Brush Prairie,47,23,No,fa
 Open Doors Evergreen,Evergreen School District (Clark),Vancouver,157,83,No,false
 Open Doors Re-Engagement,West Valley School District (Spokane),Spokane,3,,No,false
 Open Doors Re-Engagement,Wenatchee School District,Wenatchee,91,69,No,true
+Open Doors Reengagement Program,Chimacum School District,Chimacum,0,,No,true
 Open Doors Youth Reengagement,Sultan School District,Sultan,11,7,No,true
 Open Doors Youth Reengagement (1418),Federal Way School District,Federal Way,154,127,Yes under Community Eligibility Option (CEO),true
 Opportunity Elementary,Central Valley School District,Spokane Valley,631,467,Yes under Community Eligibility Option (CEO),false
@@ -1727,6 +1732,7 @@ Poulsbo Elementary School,North Kitsap School District,Poulsbo,487,132,Yes parti
 Poulsbo Middle School,North Kitsap School District,Poulsbo,713,246,Yes participating without using any Provision or the CEO,false
 Prairie High School,Battle Ground School District,Brush Prairie,1502,653,Yes participating without using any Provision or the CEO,false
 Prairie View Elementary,Mead School District,Spokane,386,123,Yes participating without using any Provision or the CEO,false
+Pratt Academy,Spokane School District,Spokane,0,,Yes under Community Eligibility Option (CEO),true
 Preschool,Stevenson-Carson School District,Stevenson,8,,No,false
 Prescott Elementary School,Prescott School District,Prescott,139,92,Yes under Community Eligibility Option (CEO),false
 Prescott High School,Prescott School District,Prescott,48,35,Yes under Community Eligibility Option (CEO),true
@@ -1743,6 +1749,7 @@ Prune Hill Elem,Camas School District,Camas,406,72,Yes participating without usi
 Psd Special Services,Puyallup School District,Puyallup,52,23,No,false
 Ptarmigan Ridge Elementary School,Orting School District,Orting,723,281,Yes participating without using any Provision or the CEO,false
 Puesta Del Sol Elementary School,Bellevue School District,Bellevue,494,120,Yes participating without using any Provision or the CEO,false
+Puget Sound High School,Highline School District,Burien,0,,No,true
 Puget Sound Skills Center,Highline School District,Seattle,3,,Yes under Community Eligibility Option (CEO),false
 Pullman High School,Pullman School District,Pullman,838,274,Yes participating without using any Provision or the CEO,false
 Purdy Elementary School,Peninsula School District,Gig Harbor,483,100,Yes participating without using any Provision or the CEO,false
@@ -1777,6 +1784,7 @@ Raymond Elementary School,Raymond School District,Raymond,245,167,Yes under Comm
 Raymond Jr Sr High School,Raymond School District,Raymond,240,161,Yes under Community Eligibility Option (CEO),true
 Re-Engagement School (Nine Mile Falls),Nine Mile Falls School District,Nine Mile Falls,5,,No,false
 Re-Entry High School,Clover Park School District,Lakewood,5,,No,false
+Re-Entry Middle School,Clover Park School District,Lakewood,0,,No,true
 Reardan Elementary School,Reardan-Edwall School District,Reardan,345,166,Yes participating without using any Provision or the CEO,false
 Reardan Middle-Senior High School,Reardan-Edwall School District,Reardan,315,141,Yes participating without using any Provision or the CEO,false
 Reardan-Edwall School District Options' Program,Reardan-Edwall School District,Reardan,65,34,No,false
@@ -1787,6 +1795,7 @@ Redmond Middle School,Lake Washington School District,Redmond,1009,176,Yes parti
 Reed Elementary School,Tacoma School District,Tacoma,426,309,Yes under Community Eligibility Option (CEO),false
 Reeves Middle School,Olympia School District,Olympia,394,141,Yes participating without using any Provision or the CEO,false
 Regal Elementary,Spokane School District,Spokane,381,321,Yes under Community Eligibility Option (CEO),false
+Regional Justice Center,Kent School District,Kent,0,,No,true
 Remann Hall Juvenile Detention Center,Tacoma School District,Tacoma,21,4,No,true
 Renaissance Alternative High School,Bremerton School District,Bremerton,81,59,Yes under Community Eligibility Option (CEO),true
 Renaissance School of Art and Reasoning,Lake Washington School District,Sammamish,80,3,No,false
@@ -1813,6 +1822,7 @@ Ridgeview Elementary,Spokane School District,Spokane,301,219,Yes under Community
 Ridgeview Elementary,Yakima School District,Yakima,533,465,Yes under Community Eligibility Option (CEO),false
 Ridgeview Group Home,Yakima School District,Yakima,3,,No,false
 Ridgewood Elementary School,Kent School District,Renton,412,89,Yes under Community Eligibility Option (CEO),false
+Rise Academy,Soap Lake School District,Soap Lake,0,,No,true
 Rising Star Elementary School,Seattle School District No. 1,Seattle,324,226,Yes under Community Eligibility Option (CEO),false
 Ritzville Grade School,Ritzville School District,Ritzville,193,112,Yes participating without using any Provision or the CEO,false
 Ritzville High School,Ritzville School District,Ritzville,133,52,Yes under Community Eligibility Option (CEO),false
@@ -2214,6 +2224,7 @@ Tukwila Elementary,Tukwila School District,Tukwila,458,327,Yes under Community E
 Tumwater High School,Tumwater School District,Tumwater,1117,342,Yes participating without using any Provision or the CEO,false
 Tumwater Hill Elementary,Tumwater School District,Tumwater,400,150,Yes participating without using any Provision or the CEO,false
 Tumwater Middle School,Tumwater School District,Tumwater,665,237,Yes participating without using any Provision or the CEO,false
+Twin Cedars High School,Concrete School District,Concrete,0,,No,true
 Twin City Elementary,Stanwood-Camano School District,Stanwood,440,150,Yes participating without using any Provision or the CEO,false
 Twin Falls Middle School,Snoqualmie Valley School District,North Bend,556,93,Yes participating without using any Provision or the CEO,false
 Twin Harbors a Branch of New Market Skills Center,Aberdeen School District,Aberdeen,31,7,No,false
@@ -2316,6 +2327,7 @@ Washington State School for the Deaf,Washington Center for Deaf and Hard of Hear
 Washington Virtual Academy Omak Elementary,Omak School District,Omak,1290,979,No,false
 Washington Virtual Academy Omak High School,Omak School District,Omak,1841,1285,No,true
 Washington Virtual Academy Omak Middle School,Omak School District,Omak,1168,875,No,false
+Washington Youth Academy,Washington Military Department,Bremerton,0,,Yes participating without using any Provision or the CEO,true
 Washougal High School,Washougal School District,Washougal,942,376,Yes participating without using any Provision or the CEO,false
 Washougal Learning Academy,Washougal School District,Washougal,13,5,No,false
 Washougal Special Services,Washougal School District,Washougal,36,15,No,false
@@ -2405,6 +2417,7 @@ Wing Luke Elementary School,Seattle School District No. 1,Seattle,334,239,Yes un
 Winlock Middle School,Winlock School District,Winlock,160,109,Yes under Community Eligibility Option (CEO),true
 Winlock Miller Elementary,Winlock School District,Winlock,415,265,Yes under Community Eligibility Option (CEO),false
 Winlock Senior High,Winlock School District,Winlock,226,136,Yes under Community Eligibility Option (CEO),true
+Winolequa Learning Academy,Winlock School District,Winlock,0,,No,true
 Wisdom Ridge Academy,Ridgefield School District,Ridgefield,200,61,No,false
 Wishkah Valley Elementary/High School,Wishkah Valley School District,Aberdeen,178,108,Yes under Community Eligibility Option (CEO),false
 Wishram High and Elementary Schl,Wishram School District,Wishram,91,86,Yes under Community Eligibility Option (CEO),true

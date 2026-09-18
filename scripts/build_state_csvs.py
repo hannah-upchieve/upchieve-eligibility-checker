@@ -192,11 +192,6 @@ def main(source_path, approvals_path=None):
             skipped_unknown_state += 1
             continue
 
-        total = count(row[col_total])
-        if not total or int(total) == 0:
-            skipped_no_enrollment += 1
-            continue
-
         school_name = smart_title(row[col_name])
         city_name = smart_title(row[col_city])
 
@@ -211,6 +206,14 @@ def main(source_path, approvals_path=None):
         else:
             approved = False
             unmatched += 1
+
+        # Rows with no enrollment are closed schools and administrative
+        # records, except when UPchieve has approved the school — then it is
+        # somewhere a student actually attends and has to stay searchable.
+        total = count(row[col_total])
+        if (not total or int(total) == 0) and not approved:
+            skipped_no_enrollment += 1
+            continue
 
         by_state[state_code].append({
             "school_name": school_name,

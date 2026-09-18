@@ -216,6 +216,7 @@ Bay Virtual Franchise,Bay,Panama City,25,3,No,false
 Bay Virtual Instruction Program,Bay,Panama City,2,,No,false
 Bay Virtual Instruction Program (District Provided),Bay,Panama City,14,6,No,false
 Bay Vista Fundamental Elementary School,Pinellas,St Petersburg,574,207,Yes under Community Eligibility Option (CEO),false
+Baycare Behavioral Health,Pasco,New Port Richey,0,,Yes under Community Eligibility Option (CEO),true
 Bayonet Point Middle School,Pasco,New Port Richey,668,419,Yes under Community Eligibility Option (CEO),true
 Bayshore Elementary School,Manatee,Bradenton,711,514,Yes under Community Eligibility Option (CEO),false
 Bayshore Elementary School,St. Lucie,Port St Lucie,879,595,Yes participating without using any Provision or the CEO,false
@@ -348,6 +349,7 @@ Bradford Elementary School,Bradford,Starke,745,506,Yes under Community Eligibili
 Bradford High School,Bradford,Starke,785,389,Yes under Community Eligibility Option (CEO),true
 Bradford Middle School,Bradford,Starke,408,247,Yes under Community Eligibility Option (CEO),true
 Bradford Virtual Franchise with Flvs,Bradford,Starke,2,,No,false
+Bradford Virtual Instruction Program,Bradford,Starke,0,,No,true
 Bradford Virtual Instruction Program (District Provided),Bradford,Starke,1,,No,false
 Brandon High School,Hillsborough,Brandon,1835,981,Yes under Community Eligibility Option (CEO),true
 Brandon Success Center,Hillsborough,Seffner,97,78,Yes under Community Eligibility Option (CEO),true
@@ -1036,6 +1038,7 @@ Escambia Virtual Academy Franchise,Escambia,Pensacola,159,23,No,false
 Escambia Westgate Center,Escambia,Pensacola,127,67,Yes under Community Eligibility Option (CEO),true
 Ese Birth Thru Age 5,Hillsborough,Tampa,52,3,No,false
 Ese Countywide,Pinellas,Pinellas Park,206,3,No,false
+Ese Development Center,Santa Rosa,Milton,0,,No,true
 Ese Homebound,Martin,Stuart,5,,No,false
 Ese Other Teaching Services,Palm Beach,West Palm Beach,121,7,No,false
 Ese Pre Kindergarten Disabilities Center,Duval,Jacksonville,159,30,No,false
@@ -1063,6 +1066,7 @@ Everglades Preparatory Academy,Miami-Dade,Homestead,374,181,Yes under Community 
 Everglades Preparatory Academy,Palm Beach,Pahokee,116,100,Yes under Community Eligibility Option (CEO),true
 Everglades Preparatory Academy High School,Miami-Dade,Homestead,464,235,Yes under Community Eligibility Option (CEO),true
 Excelsior Prep Charter Middle School,Hillsborough,Tampa,38,35,Yes participating without using any Provision or the CEO,false
+Excelsior Prep Charter School,Hillsborough,Tampa,,187,Yes participating without using any Provision or the CEO,true
 Excelsior Prep Charter School of Hialeah,Miami-Dade,Hialeah,287,274,Yes participating without using any Provision or the CEO,true
 Excelsior Prep Charter School of Miami Gardens,Miami-Dade,Miami Gardens,413,388,Yes participating without using any Provision or the CEO,true
 Exceptional Student Education,Indian River,Vero Beach,26,,No,false
@@ -2089,6 +2093,7 @@ Marion Charter School,Marion,Ocala,228,132,Yes under Community Eligibility Optio
 Marion County Acceleration Academy,Marion,Ocala,304,191,Yes under Community Eligibility Option (CEO),false
 Marion Oaks Elementary School,Marion,Ocala,1196,785,Yes under Community Eligibility Option (CEO),false
 Marion Reg. Juvenile Detention Center,Marion,Ocala,94,3,Yes participating without using any Provision or the CEO,true
+Marion Technical Institute,Marion,Ocala,,278,Yes under Community Eligibility Option (CEO),true
 Mariposa Elementary School,St. Lucie,Port St Lucie,792,402,Yes under Community Eligibility Option (CEO),false
 Marjorie G. Kinnan Elementary School,Manatee,Sarasota,522,355,Yes under Community Eligibility Option (CEO),false
 Marjorie Kinnan Rawlings Elem,Pinellas,Pinellas Park,433,290,Yes under Community Eligibility Option (CEO),false
@@ -2858,6 +2863,7 @@ Princeton House Charter,Orange,Orlando,117,,No,false
 Professional & Technical High School,Osceola,Kissimmee,544,199,Yes under Community Eligibility Option (CEO),true
 Professional Academy Magnet at Loften High School,Alachua,Gainesville,328,149,Yes participating without using any Provision or the CEO,true
 Progress Village Middle Magnet,Hillsborough,Tampa,849,366,Yes under Community Eligibility Option (CEO),true
+Project Compass,Orange,Orlando,0,,Yes under Community Eligibility Option (CEO),true
 Project Search,Brevard,Cocoa Beach,19,3,No,false
 Punta Gorda Middle School,Charlotte,Punta Gorda,1098,468,Yes under Community Eligibility Option (CEO),true
 Purcell Elementary School,Polk,Mulberry,438,358,Yes under Community Eligibility Option (CEO),false
@@ -3748,6 +3754,7 @@ Vista Pointe Elementary,Orange,Orlando,488,261,Yes under Community Eligibility O
 Volusia Online Learning-Flvs (Franchise),Volusia,Debary,442,133,No,false
 Volusia Pines Elementary School,Volusia,Lake Helen,477,268,Yes under Community Eligibility Option (CEO),false
 Volusia Regional Juvenile Detention Center,Volusia,Daytona Beach,70,39,Yes participating without using any Provision or the CEO,false
+Volusia Virtual Instruction Program District Provided,Volusia,Debary,0,,No,true
 Voyager K-8,Osceola,St Cloud,1246,512,Yes participating without using any Provision or the CEO,false
 W E Cherry Elementary School,Clay,Orange Park,652,487,Yes under Community Eligibility Option (CEO),false
 W T Moore Elementary School,Leon,Tallahassee,519,207,Yes under Community Eligibility Option (CEO),false
@@ -3791,6 +3798,7 @@ Warrington Preparatory Academy,Escambia,Pensacola,559,477,Yes under Community El
 Washington Academy of Varying Exceptionalities (Wave),Washington,Chipley,64,35,Yes under Community Eligibility Option (CEO),true
 Washington Elementary Magnet School,Palm Beach,Riviera Beach,241,196,Yes under Community Eligibility Option (CEO),false
 Washington Elementary School,Hillsborough,Tampa,276,217,Yes under Community Eligibility Option (CEO),false
+Washington Institute for Specialized Education,Washington,Chipley,0,,No,true
 Washington Senior High School,Escambia,Pensacola,1676,767,Yes under Community Eligibility Option (CEO),false
 Washington Shores Elementary,Orange,Orlando,301,255,Yes under Community Eligibility Option (CEO),false
 Washington Shores Primary Learning Center,Orange,Orlando,82,47,Yes under Community Eligibility Option (CEO),false

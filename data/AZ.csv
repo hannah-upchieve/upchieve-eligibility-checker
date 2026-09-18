@@ -1,6 +1,7 @@
 school_name,district_name,city_name,total_students,frl_eligible_students,national_school_lunch_program,admin_approved
 A J Mitchell Elementary School,Nogales Unified District (4457),Nogales,301,,Yes under Community Eligibility Option (CEO),false
 A+ Charter Schools,A+ Charter Schools (1000166),Maricopa,370,,No,false
+A. C. E.,Marana Unified District (4404),Marana,0,,No,true
 Aaec - Paradise Valley,Arizona Agribusiness & Equine Center Inc. (4331),Phoenix,269,,No,false
 Aaec - Smcc Campus,Arizona Agribusiness & Equine Center Inc. (85816),Phoenix,426,,Yes under Community Eligibility Option (CEO),true
 Aaec Online,Arizona Agribusiness & Equine Center INC. (134379),Mesa,51,,No,false
@@ -37,6 +38,7 @@ Agua Fria High School,Agua Fria Union High School District (4289),Avondale,1535,
 Aguila Elementary School,Aguila Elementary District (4249),Aguila,124,,Yes under Community Eligibility Option (CEO),true
 Aguila Pre-School,Aguila Elementary District (4249),Aguila,17,,No,false
 Aguilar School,Tempe School District (4258),Tempe,350,,Yes under Community Eligibility Option (CEO),false
+Aim Higher College Prep Academy,Espiritu Schools (92902),Phoenix,,,,true
 Ajo Elementary School,Ajo Unified District (4409),Ajo,258,,Yes under Provision 2,true
 Ajo High School,Ajo Unified District (4409),Ajo,139,,Yes under Provision 2,true
 Akimel O'Otham Pee Posh (3-5),Akimel O'Otham Pee Posh Charter School Inc. (78966),Coolidge,10,,No,false
@@ -115,6 +117,7 @@ Arizona College Prep Middle School,Chandler Unified District #80 (4242),Chandler
 Arizona Collegiate High School,Pima Prevention Partnership (90536),Phoenix,139,,Yes under Community Eligibility Option (CEO),true
 Arizona Connections Academy,Arizona Connections Academy Charter School Inc. (87407),Gilbert,1891,,No,true
 Arizona Conservatory for Arts and Academics,Edkey Inc. dba Arizona Conservatory for Arts and (79981),Phoenix,235,,Yes under Community Eligibility Option (CEO),true
+Arizona Conservatory for Arts and Academics,Edkey Inc. dba Arizona Conservatory for Arts and (79981),Phoenix,,,,true
 Arizona Conservatory for Arts and Academics Elementary Schoo,Edkey Inc. - Redwood Academy (81043),Phoenix,109,,Yes under Community Eligibility Option (CEO),false
 Arizona Desert Elementary School,Gadsden Elementary District (4505),San Luis,662,,Yes under Community Eligibility Option (CEO),false
 Arizona Desert Elementary School,Tolleson Elementary District (4264),Tolleson,843,,Yes under Community Eligibility Option (CEO),true
@@ -128,6 +131,7 @@ Arlington Elementary School,Arlington Elementary District (4274),Arlington,297,,
 Arredondo Elementary School,Tempe School District (4258),Tempe,470,,Yes under Community Eligibility Option (CEO),false
 Arrowhead Elementary School,Deer Valley Unified District (4246),Glendale,515,,Yes participating without using any Provision or the CEO,false
 Arroyo Elementary School,Washington Elementary School District (4260),Glendale,504,,Yes under Community Eligibility Option (CEO),true
+Arthur M Hamilton School,Murphy Elementary District (4265),Phoenix,,,,true
 Arts Academy at Estrella Mountain,P.L.C. Charter Schools (6235),Tolleson,895,,Yes under Community Eligibility Option (CEO),true
 Asante Preparatory Academy,Dysart Unified District (4243),Surprise,876,,Yes participating without using any Provision or the CEO,false
 Asdb - Elp Fbc East Valley Preschool,Arizona State Schools for the Deaf and the Blind (6393),Chandler,10,,No,false
@@ -164,6 +168,7 @@ Auhs Online Acadamy,Antelope Union High School District (4506),Wellton,10,,No,fa
 Avalon Elementary,Excalibur Charter Schools Inc. (79214),Apache Junction,313,,Yes participating without using any Provision or the CEO,true
 Avondale Middle School,Avondale Elementary District (4272),Avondale,351,,Yes participating without using any Provision or the CEO,true
 Az Compass Prep School,AZ Compass Schools Inc. (89869),Chandler,267,,Yes under Community Eligibility Option (CEO),true
+Aztec High School,Az-Tec High School (4508),Yuma,,,,true
 Baboquivari High School,Baboquivari Unified School District #40 (4412),Topawa,210,,Yes under Community Eligibility Option (CEO),true
 Baboquivari Middle School,Baboquivari Unified School District #40 (4412),Topawa,151,,Yes under Community Eligibility Option (CEO),true
 Bagdad Elementary School,Bagdad Unified District (4468),Bagdad,286,,Yes participating without using any Provision or the CEO,false
@@ -308,6 +313,7 @@ Canyon Springs STEM Academy,Deer Valley Unified District (4246),Anthem,805,,Yes 
 Canyon Valley High School,Gilbert Unified District (4239),Gilbert,283,,No,false
 Canyon View Elementary School,Catalina Foothills Unified District (4410),Tucson,394,,Yes participating without using any Provision or the CEO,false
 Canyon View High School,Agua Fria Union High School District (4289),Waddell,2141,,Yes participating without using any Provision or the CEO,false
+Canyon View Prep Academy,Park View School Inc. (10970),Prescott Valley,,,,true
 Capitol Elementary School,Phoenix Elementary District (4256),Phoenix,373,,Yes under Community Eligibility Option (CEO),true
 Capps Elementary School,Heber-Overgaard Unified District (4392),Heber,107,,Yes participating without using any Provision or the CEO,false
 Carden of Tucson,Carden of Tucson Inc. (78858),Tucson,57,,No,false
@@ -373,6 +379,7 @@ Chandler Traditional Academy - Independence,Chandler Unified District #80 (4242)
 Chandler Traditional Academy - Liberty Campus,Chandler Unified District #80 (4242),Chandler,677,,Yes participating without using any Provision or the CEO,false
 Chandler Traditional Academy-Freedom,Chandler Unified District #80 (4242),Gilbert,551,,Yes participating without using any Provision or the CEO,false
 Chandler Traditional Academy-Humphrey,Chandler Unified District #80 (4242),Chandler,606,,Yes participating without using any Provision or the CEO,false
+Changemaker High School,Institute for Transformative Education Inc. (90876),Tucson,,,,true
 Chaparral Elementary School,Higley Unified School District (4248),Gilbert,734,,Yes participating without using any Provision or the CEO,false
 Chaparral Elementary School,Washington Elementary School District (4260),Phoenix,415,,Yes under Community Eligibility Option (CEO),false
 Chaparral High School,Scottsdale Unified District (4240),Scottsdale,1773,,Yes participating without using any Provision or the CEO,false
@@ -420,6 +427,7 @@ Combs Center for Success Middle School,J O Combs Unified School District (4445),
 Combs High School,J O Combs Unified School District (4445),San Tan Valley,1182,,Yes participating without using any Provision or the CEO,false
 Combs Online School for Success,J O Combs Unified School District (4445),San Tan Vly,116,,No,false
 Combs Traditional Academy,J O Combs Unified School District (4445),San Tan Valley,211,,Yes participating without using any Provision or the CEO,false
+Compadre High School,Tempe Union High School District (4287),Tempe,0,,No,true
 Compass High School,Compass High School Inc. (79467),Tucson,449,,No,true
 Concho Elementary School,Concho Elementary District (4160),Concho,129,,Yes under Community Eligibility Option (CEO),true
 Concordia Charter School,Concordia Charter School Inc. (89556),Mesa,106,,Yes under Provision 2,false
@@ -598,6 +606,7 @@ Dzil Libei Elementary School,Tuba City Unified School District #15 (4197),Tuba C
 E C Nash School,Amphitheater Unified District (4406),Tucson,305,,Yes under Community Eligibility Option (CEO),false
 Eagle College Prep,EAGLE South Mountain Charter Inc. (89850),Phoenix,437,,Yes under Community Eligibility Option (CEO),true
 Eagle College Prep Maryvale,EAGLE College Prep Maryvale LLC (91938),Phoenix,293,,Yes under Community Eligibility Option (CEO),true
+Eagle College Prep Phoenix South,EAGLE College Prep Harmony LLC (91170),Phoenix,,,,true
 Eagle College Preparatory School- Mesa,EAGLE College Prep Mesa LLC. (91939),Mesa,146,,Yes under Community Eligibility Option (CEO),true
 Eagle Online Academy,Thatcher Unified District (4219),Thatcher,49,,No,false
 Eagle Ridge Elementary School,Paradise Valley Unified District (4241),Phoenix,569,,Yes under Community Eligibility Option (CEO),false
@@ -623,6 +632,7 @@ Edkey Inc. - Sequoia Deaf School,Edkey Inc. - Sequoia School for the Deaf and Ha
 Edoptions HS Learning Center,Educational Options Foundation (90201),Peoria,465,,No,true
 Edoptions Preparatory Academy,Educational Options Foundation (90201),Nogales,88,,No,true
 Educational Opportunity Center Charter High School,Yuma Private Industry Council Inc. (4509),Yuma,101,,Yes under Community Eligibility Option (CEO),true
+Edupreneurship Student Charter School,EduPreneurship Inc. (4341),Phoenix,,,,true
 Eduprize Online Instruction,Eduprize Schools LLC (89412),Queen Creek,49,,No,false
 Eduprize School,Eduprize Schools LLC (89412),Queen Creek,1733,,No,false
 Eduprize School Gilbert,Eduprize Schools LLC (89412),Gilbert,1270,,No,false
@@ -700,6 +710,7 @@ Ford Elementary,Tucson Unified District (4403),Tucson,182,,Yes under Community E
 Fort Mohave Elementary School,Mohave Valley Elementary District (4379),Fort Mohave,400,,Yes participating without using any Provision or the CEO,false
 Fort Thomas Elementary School,Fort Thomas Unified District (4221),Fort Thomas,207,,Yes under Community Eligibility Option (CEO),false
 Fort Thomas High School,Fort Thomas Unified District (4221),Fort Thomas,284,,Yes under Community Eligibility Option (CEO),true
+Fountain Hills Charter School,Fountain Hills Charter School (4356),Fountain Hls,,,,true
 Fountain Hills High School,Fountain Hills Unified District (4247),Fountain Hills,347,,Yes participating without using any Provision or the CEO,false
 Fountain Hills Middle School,Fountain Hills Unified District (4247),Fountain Hls,250,,Yes participating without using any Provision or the CEO,false
 Fountain Hills Virtual Academy,Fountain Hills Unified District (4247),Fountain Hills,55,,No,false
@@ -772,6 +783,7 @@ Gilbert Elementary School,Gilbert Unified District (4239),Gilbert,563,,Yes parti
 Gilbert High School,Gilbert Unified District (4239),Gilbert,2418,,Yes participating without using any Provision or the CEO,false
 Girls Leadership Academy of Arizona,CPLC Community Schools (4300),Phoenix,48,,Yes under Community Eligibility Option (CEO),true
 Gladden Farms Elementary,Marana Unified District (4404),Marana,742,,Yes participating without using any Provision or the CEO,false
+Glassford Hill Middle School,Humboldt Unified District (4469),Prescott Valley,0,,No,true
 Glen Canyon Outdoor Academy,Glen Canyon Outdoor Academy (1001519),Page,181,,No,false
 Glendale American School,Glendale Elementary District (4271),Glendale,678,,Yes under Community Eligibility Option (CEO),false
 Glendale Elementary Online (G.e.o.) Learning,Glendale Elementary District (4271),Glendale,25,,No,false
@@ -889,6 +901,7 @@ Holladay Intermediate Magnet School,Tucson Unified District (4403),Tucson,186,,Y
 Hollinger K-8 School,Tucson Unified District (4403),Tucson,542,,Yes under Community Eligibility Option (CEO),true
 Holmes Elementary School,Mesa Unified District (4235),Mesa,536,,Yes under Community Eligibility Option (CEO),false
 Homer Davis Elementary School,Flowing Wells Unified District (4405),Tucson,403,,Yes under Community Eligibility Option (CEO),false
+Hope College and Career Readiness Academy,Maricopa County Regional School District (4234),Phoenix,,,Yes under Community Eligibility Option (CEO),true
 Hope High School,Blueprint Education (81041),Phoenix,155,,No,true
 Hope High School Online,Blueprint Education (81041),Glendale,391,,No,true
 Hopi Elementary School,Scottsdale Unified District (4240),Phoenix,674,,Yes participating without using any Provision or the CEO,false
@@ -939,6 +952,7 @@ Ingleside Middle School,Scottsdale Unified District (4240),Phoenix,789,,Yes part
 Innovation Tech High School,Tucson Unified District (4403),Tucson,333,,Yes under Community Eligibility Option (CEO),false
 Inspiration Mountain School,Deer Valley Unified District (4246),Phoenix,789,,Yes participating without using any Provision or the CEO,false
 Integrated Preschool,Window Rock Unified District (4154),Fort Defiance,39,,No,false
+Integrity Education Centre,Integrity Education Incorporated (5174),Tempe,,,,true
 Intelli-School,SC Jensen Corporation Inc. dba Intelli-School (79951),Chandler,48,,No,true
 Intelli-School - Metro Center,PAS Charter Inc. dba Intelli-School (79953),Phoenix,39,,No,true
 Intelli-School - Paradise Valley,Intelli-School Inc. (4352),Phoenix,63,,No,true
@@ -1017,6 +1031,7 @@ Kathryn Sue Simonton Elementary,J O Combs Unified School District (4445),Queen C
 Keller Elementary School,Mesa Unified District (4235),Mesa,581,,Yes under Community Eligibility Option (CEO),false
 Kelly,Edkey Inc. - Sequoia School for the Deaf and Hard (81050),Phoenix,21,,Yes under Community Eligibility Option (CEO),false
 Ken 'Chief' Hill Learning Academy,Chandler Unified District #80 (4242),Chandler,146,,No,false
+Kenilworth Elementary School,Phoenix Elementary District (4256),Phoenix,,,Yes under Community Eligibility Option (CEO),true
 Kerr Center for Agriscience,Mesa Unified District (4235),Mesa,450,,Yes under Community Eligibility Option (CEO),false
 Keystone Montessori Charter School,Keystone Montessori Charter School Inc. (10878),Phoenix,203,,No,false
 Khalsa Montessori Elementary School - Phoenix,Khalsa Montessori Elementary Schools (4360),Phoenix,118,,No,false
@@ -1098,6 +1113,7 @@ Leading Edge Academy Maricopa,Leading Edge Academy Maricopa (90637),Maricopa,872
 Leading Edge Academy Mountain View,Leading Edge Academy Queen Creek (91174),Queen Creek,294,,Yes under Community Eligibility Option (CEO),true
 Leading Edge Academy Online,LEAD Charter Schools (79967),Gilbert,70,,No,false
 Learning Foundation,CAFA Inc. dba Learning Foundation Performing Arts (79971),Mesa,139,,Yes under Community Eligibility Option (CEO),true
+Learning Foundation and Performing Arts Alta Mesa,CAFA Inc. dba Learning Foundation and Performing (90328),Mesa,,,,true
 Learning Foundation and Performing Arts Gilbert,CAFA Inc. dba Learning Foundation and Performing (90327),Gilbert,259,,Yes participating without using any Provision or the CEO,false
 Learning Foundation and Performing Arts Warner,CAFA Inc. dba Learning Foundation and Performing (90327),Gilbert,285,,Yes participating without using any Provision or the CEO,false
 Learning Institute The,Phoenix School of Academic Excellence The (6379),Phoenix,95,,No,true
@@ -1408,6 +1424,7 @@ Ombudsman Hiaki Charter,Ombudsman Educational Services Ltd.a subsidiary (4323),T
 Ombudsman Online Academy,Ombudsman Educational Services Ltd.a subsidiary (4323),Glendale,469,,No,false
 Omega Alpha Academy School,Omega Alpha Academy (79503),Douglas,201,,Yes participating without using any Provision or the CEO,true
 Online School of Arizona,Online School of Arizona (1001719),Tucson,45,,No,false
+Open Doors Community School,Open Doors Community School Inc. (91238),Marana,,,,true
 Orange Grove Elementary School,Somerton Elementary District (4500),Somerton,412,,Yes under Community Eligibility Option (CEO),false
 Orange Grove Middle School,Catalina Foothills Unified District (4410),Tucson,683,,Yes participating without using any Provision or the CEO,false
 Orangedale Early Learning Center,Balsz Elementary District (4268),Phoenix,32,,Yes under Community Eligibility Option (CEO),false
@@ -1440,8 +1457,10 @@ Paradise Honors High School,Paragon Management Inc. (5180),Surprise,1028,,Yes pa
 Paradise Honors Middle School,Paragon Management Inc. (5180),Surprise,696,,No,false
 Paradise Valley High School,Paradise Valley Unified District (4241),Phoenix,1900,,Yes participating without using any Provision or the CEO,true
 Paragon Science Academy,Daisy Education Corporation dba Paragon Science Ac (89917),Chandler,601,,Yes participating without using any Provision or the CEO,false
+Paramount Academy,Paramount Education Studies Inc (79205),Peoria,,,,true
 Park Elementary School,Holbrook Unified District (4389),Holbrook,161,,Yes under Community Eligibility Option (CEO),false
 Park Meadows Elementary School,Deer Valley Unified District (4246),Glendale,495,,Yes under Community Eligibility Option (CEO),false
+Park View Middle School,Park View School Inc. (10970),Prescott Valley,,,,true
 Parker Alternative School,Parker Unified School District (4510),Parker,37,,No,false
 Parker High School,Parker Unified School District (4510),Parker,478,,Yes under Community Eligibility Option (CEO),true
 Parkridge Elementary,Peoria Unified School District (4237),Peoria,895,,Yes participating without using any Provision or the CEO,false
@@ -1491,6 +1510,7 @@ Peralta School,Cartwright Elementary District (4282),Phoenix,817,,Yes under Comm
 Peralta Trail Elementary School,Apache Junction Unified District (4443),Apache Junction,282,,Yes participating without using any Provision or the CEO,false
 Percy L Julian School,Roosevelt Elementary District (4279),Phoenix,256,,Yes under Community Eligibility Option (CEO),true
 Perry High School,Chandler Unified District #80 (4242),Gilbert,2373,,Yes participating without using any Provision or the CEO,false
+Phoenix Advantage Charter School,Phoenix Advantage Charter School Inc. (4338),Phoenix,,,,true
 Phoenix Coding Academy,Phoenix Union High School District (4286),Phoenix,224,,Yes under Community Eligibility Option (CEO),true
 Phoenix College Preparatory Academy,MCCCD on behalf of Phoenix College Preparatory Aca (81174),Phoenix,261,,Yes under Community Eligibility Option (CEO),true
 Phoenix Digital Academy,Phoenix Union High School District (4286),Phoenix,70,,No,false
@@ -1517,7 +1537,9 @@ Pima High School,Pima Unified District (4220),Pima,335,,Yes participating withou
 Pima Junior High School,Pima Unified District (4220),Pima,180,,Yes participating without using any Provision or the CEO,true
 Pima Partnership Academy,Pima Prevention Partnership dba Pima Partnership A (89864),Tucson,34,,Yes under Community Eligibility Option (CEO),true
 Pima Partnership School The,Pima Prevention Partnership dba Pima Partnership S (79959),Tucson,86,,Yes under Community Eligibility Option (CEO),true
+Pima Prevention Partnership-Tucson,Pima Prevention Partnership dba Pima Partnership S (79959),Tucson,0,,No,true
 Pima Rose Academy,Pima Rose Academy Inc. (90997),Tucson,442,,No,false
+Pima Vocational High School,Pima County (4420),Tucson,,,,true
 Pine Forest School,Pine Forest Education Association Inc. (4201),Flagstaff,215,,No,false
 Pine Strawberry Elementary School,Pine Strawberry Elementary District (4214),Pine,97,,Yes participating without using any Provision or the CEO,false
 Pinnacle Charter High School,Pinnacle Education-Kino Inc. (81009),Nogales,52,,No,false
@@ -1572,6 +1594,7 @@ Pxu City,Phoenix Union High School District (4286),Phoenix,85,,No,false
 Quail Run Elementary School,Paradise Valley Unified District (4241),Phoenix,533,,Yes participating without using any Provision or the CEO,false
 Quail Run Elementary School,Marana Unified District (4404),Tucson,539,,Yes participating without using any Provision or the CEO,false
 Quartz Hill Elementary,Gilbert Unified District (4239),Gilbert,469,,Yes participating without using any Provision or the CEO,false
+Quartzsite Elementary School,Quartzsite Elementary District (4511),Quartzsite,0,,No,true
 Queen Creek Elementary School,Queen Creek Unified District (4245),Queen Creek,711,,Yes participating without using any Provision or the CEO,false
 Queen Creek High School,Queen Creek Unified District (4245),Queen Creek,1968,,Yes participating without using any Provision or the CEO,false
 Queen Creek Junior High School,Queen Creek Unified District (4245),Queen Creek,657,,Yes participating without using any Provision or the CEO,false
@@ -1651,6 +1674,7 @@ Round Valley High School,Round Valley Unified District (4155),Eagar,386,,Yes und
 Round Valley Middle School,Round Valley Unified District (4155),Eagar,269,,Yes under Community Eligibility Option (CEO),true
 Rover Elementary School,Tempe School District (4258),Tempe,382,,Yes under Community Eligibility Option (CEO),true
 Royal Palm Middle School,Washington Elementary School District (4260),Phoenix,465,,Yes under Community Eligibility Option (CEO),true
+RSD High School,RSD Charter School Inc. (81033),Phoenix,,,,true
 Rudy G Bologna Elementary,Chandler Unified District #80 (4242),Chandler,455,,Yes under Community Eligibility Option (CEO),false
 Ruth Fisher Middle School,Saddle Mountain Unified School District (4254),Tonopah,745,,Yes participating without using any Provision or the CEO,true
 Ruth Powell Elementary School,Safford Unified District (4218),Safford,575,,Yes under Community Eligibility Option (CEO),false
@@ -1738,6 +1762,7 @@ Sequoia Lehi Charter School,Edkey Inc. - Pathfinder Academy (81045),Mesa,114,,Ye
 Sequoia Pathfinder Academy at Eastmark,Edkey Inc. - Pathfinder Academy (81045),Mesa,294,,Yes under Community Eligibility Option (CEO),false
 Sequoia Pathfinder Academy at Verrado Way and I-10,Edkey Inc. - Sequoia Choice Schools (4329),Buckeye,602,,Yes under Community Eligibility Option (CEO),false
 Sequoia Pathway Academy,Edkey Inc. - Sequoia Pathway Academy (92226),Maricopa,674,,Yes under Community Eligibility Option (CEO),true
+Sequoia Secondary School,Edkey Inc. dba Sequoia Charter School (6446),Mesa,,,,true
 Sequoia Village School,Edkey Inc. - Sequoia Village School (79211),Show Low,173,,Yes under Community Eligibility Option (CEO),true
 Sequoya Elementary School,Scottsdale Unified District (4240),Scottsdale,575,,Yes participating without using any Provision or the CEO,false
 Settlers Point Elementary,Gilbert Unified District (4239),Gilbert,524,,Yes participating without using any Provision or the CEO,false
@@ -1788,6 +1813,7 @@ Somerton Middle School,Somerton Elementary District (4500),Somerton,697,,Yes und
 Sonoma Ranch Elementary School,Gilbert Unified District (4239),Gilbert,466,,Yes participating without using any Provision or the CEO,false
 Sonoran Foothills School,Deer Valley Unified District (4246),Phoenix,921,,Yes participating without using any Provision or the CEO,false
 Sonoran Heights Middle School,Dysart Unified District (4243),Surprise,560,,Yes participating without using any Provision or the CEO,false
+Sonoran Science Academy - Davis Monthan,Daisy Education Corporation dba. Sonoran Science A (90284),Tucson,,,,true
 Sonoran Science Academy - Phoenix,Daisy Education Corporation dba Sonoran Science Ac (89914),Phoenix,439,,Yes under Community Eligibility Option (CEO),true
 Sonoran Science Academy - Tucson,Daisy Education Corporation dba Sonoran Science Ac (79049),Tucson,689,,Yes participating without using any Provision or the CEO,false
 Sonoran Science Academy East,Daisy Education Corporation dba Sonoran Science Ac (89915),Tucson,467,,Yes under Community Eligibility Option (CEO),true
@@ -1811,6 +1837,7 @@ Southside Community School,Aprender Tucson (79426),Tucson,227,,Yes under Communi
 Southwest Campus,West-MEC - Western Maricopa Education Center (80923),Buckeye,33,,No,false
 Southwest Elementary School,Roosevelt Elementary District (4279),Phoenix,475,,Yes under Community Eligibility Option (CEO),true
 Southwest Jr. High School,Gadsden Elementary District (4505),San Luis,652,,Yes under Provision 2,true
+Southwest Key Transitional Learning Center,Maricopa County Regional School District (4234),Phoenix,0,,No,true
 Southwest Leadership Academy,Southwest Leadership Academy (92043),Phoenix,223,,Yes under Community Eligibility Option (CEO),true
 Spectrum Elementary,Gilbert Unified District (4239),Gilbert,578,,Yes participating without using any Provision or the CEO,false
 St David Elementary School,St David Unified District (4173),Saint David,296,,Yes under Community Eligibility Option (CEO),true
@@ -1912,7 +1939,9 @@ The Odyssey Preparatory Academy,The Odyssey Preparatory Academy Inc. (90287),Buc
 The Odyssey Preparatory Academy - Sienna Hills,The Odyssey Preparatory Academy Inc. (90287),Buckeye,472,,No,false
 The Odyssey Preparatory Academy Goodyear,The Odyssey Preparatory Academy Inc. (90287),Goodyear,522,,No,false
 The Paideia Academy of South Phoenix,The Paideia Academies Inc (91250),Phoenix,579,,Yes under Community Eligibility Option (CEO),true
+The Peak School,PEAK School Inc. The (79866),Flagstaff,,,,true
 Think Through Academy,Think Through Academy (92976),Phoenix,61,,Yes under Community Eligibility Option (CEO),true
+Thomas a Edison School,Phoenix Elementary District (4256),Phoenix,,,Yes under Community Eligibility Option (CEO),true
 Thomas M Knoles Elementary School,Flagstaff Unified District (4192),Flagstaff,395,,Yes participating without using any Provision or the CEO,false
 Thompson Ranch Elementary,Dysart Unified District (4243),El Mirage,759,,Yes under Community Eligibility Option (CEO),true
 Thrivepoint High School at Avondale,ThrivePoint High School Inc. (79059),Avondale,134,,No,true
@@ -1924,6 +1953,7 @@ Thrivepoint High School at Union Hills,ThrivePoint High School Inc. (79059),Glen
 Thrivepoint Online High School,ThrivePoint High School Inc. (79059),Glendale,513,,No,false
 Thunderbird High School,Glendale Union High School District (4285),Phoenix,1592,,Yes participating without using any Provision or the CEO,true
 Thunderbolt Middle School,Lake Havasu Unified District (4368),Lake Havasu City,734,,Yes participating without using any Provision or the CEO,true
+Tia East,Tucson International Academy Inc. (79979),Tucson,,,,true
 Tia West,Tucson International Academy Inc. (79979),Tucson,131,,Yes under Community Eligibility Option (CEO),true
 Tierra Del Sol Elementary School,Somerton Elementary District (4500),Somerton,579,,Yes under Community Eligibility Option (CEO),false
 Tiger Knowledge Online (Tko),Globe Unified District (4208),Globe,28,,No,false
@@ -2002,6 +2032,7 @@ Verrado High School,Agua Fria Union High School District (4289),Buckeye,2012,,Ye
 Verrado Middle School,Litchfield Elementary District (4281),Buckeye,731,,Yes participating without using any Provision or the CEO,false
 Vesey Elementary School,Tucson Unified District (4403),Tucson,673,,Yes under Community Eligibility Option (CEO),false
 Victory Collegiate Academy,Victory Collegiate Academy Corporation (92985),Phoenix,291,,Yes under Community Eligibility Option (CEO),true
+Victory High School - West Campus,Victory High School Inc. (4358),Phoenix,,,,true
 Villa De Paz Elementary School,Pendergast Elementary District (4283),Phoenix,550,,Yes under Community Eligibility Option (CEO),true
 Villa Montessori - Phoenix Campus,Villa Montessori Charter School (4339),Phoenix,500,,No,false
 Villa Oasis Interscholastic Center for Education (Voice),Mary C O'Brien Accommodation District (4435),Eloy,75,,Yes under Provision 3,true
@@ -2017,8 +2048,10 @@ Vista College Preparatory - Metro North Elementary,Vista College Preparatory Inc
 Vista College Preparatory - Metro North Middle,Vista College Preparatory Inc. (91948),Phoenix,188,,Yes under Community Eligibility Option (CEO),false
 Vista Del Sur Accelerated,Laveen Elementary District (4276),Laveen,893,,Yes under Community Eligibility Option (CEO),true
 Vista Grande High School,Casa Grande Union High School District (4453),Casa Grande,1943,,Yes under Community Eligibility Option (CEO),true
+Vista Grove Preparatory Academy Middle School,Kaizen Education Foundation dba Vista Grove Prepar (79871),Mesa,,,,true
 Vista High School,Yuma Union High School District (4507),Yuma,175,,Yes under Community Eligibility Option (CEO),true
 Vista Peak,Deer Valley Unified District (4246),Phoenix,63,,Yes participating without using any Provision or the CEO,true
+Vista Verde Middle School,Paradise Valley Unified District (4241),Phoenix,,,,true
 Vistancia Elementary School,Peoria Unified School District (4237),Peoria,1089,,Yes participating without using any Provision or the CEO,false
 Vulture Peak Middle School,Wickenburg Unified District (4236),Wickenburg,118,,Yes participating without using any Provision or the CEO,true
 W Arthur Sewel Elementary School,Tucson Unified District (4403),Tucson,200,,Yes under Community Eligibility Option (CEO),false

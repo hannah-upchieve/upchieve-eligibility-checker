@@ -40,6 +40,7 @@ Academy H S,Plano ISD,Plano,275,41,Yes participating without using any Provision
 Academy Int,Academy ISD,Little River,444,169,Yes under Provision 2,false
 Academy Middle,Academy ISD,Little River,417,143,Yes under Provision 2,false
 Academy of Accelerated Learning,Academy of Accelerated Learning Inc,Houston,738,652,Yes under Community Eligibility Option (CEO),false
+Academy of Choice,Spring Branch ISD,Houston,0,,Yes participating without using any Provision or the CEO,true
 Academy of Creative Ed,North East ISD,San Antonio,121,73,Yes under Community Eligibility Option (CEO),false
 Academy of Dallas,Academy of Dallas,Dallas,220,194,Yes under Community Eligibility Option (CEO),true
 Academy of Visual and Performing Arts,Academy of Visual and Performing Arts,Fort Worth,146,3,Yes under Community Eligibility Option (CEO),false
@@ -645,6 +646,9 @@ Beverly Cheatham El,Allen ISD,Allen,669,92,Yes participating without using any P
 Beverly El,Plano ISD,Allen,361,73,Yes participating without using any Provision or the CEO,false
 Beverly Hills Int,Pasadena ISD,Houston,802,639,Yes under Community Eligibility Option (CEO),true
 Bexar Co J J a E P,Judson ISD,San Antonio,3,,No,true
+Bexar Co J J a E P,Edgewood ISD,San Antonio,,,,true
+Bexar Co J J a E P,Southwest ISD,San Antonio,,,,true
+Bexar Co J J a E P,Alamo Heights ISD,San Antonio,,,,true
 Bexar Co J J a E P,South San Antonio ISD,San Antonio,1,,Yes under Community Eligibility Option (CEO),true
 Bexar Co J J a E P,East Central ISD,San Antonio,2,,No,true
 Bexar Co J J a E P,Southside ISD,San Antonio,3,,Yes under Community Eligibility Option (CEO),true
@@ -1264,6 +1268,7 @@ Carver El,Goose Creek Cisd,Baytown,566,502,Yes participating without using any P
 Carver El,Georgetown ISD,Georgetown,711,302,Yes participating without using any Provision or the CEO,false
 Carver El,Greenville ISD,Greenville,612,569,Yes under Community Eligibility Option (CEO),false
 Carver H S for Applied Tech/Engineering/Arts,Aldine ISD,Houston,708,573,Yes under Community Eligibility Option (CEO),true
+Casa Esperanza Recovery Home,United ISD,Laredo,,,,true
 Casa View El,Dallas ISD,Dallas,530,507,Yes under Community Eligibility Option (CEO),false
 Casey El,Austin ISD,Austin,544,308,Yes under Community Eligibility Option (CEO),false
 Cash El,San Benito Cisd,San Benito,611,502,Yes under Community Eligibility Option (CEO),false
@@ -1362,12 +1367,21 @@ Cesar Chavez Learning Center,Dallas ISD,Dallas,541,537,Yes under Community Eligi
 Cesar Chavez Middle,La Joya ISD,Mission,625,545,Yes under Community Eligibility Option (CEO),false
 Cesar Chavez Middle,Waco ISD,Waco,786,735,Yes participating without using any Provision or the CEO,true
 Cesar Chavez Pri,Fort Worth ISD,Ft Worth,447,421,Yes under Community Eligibility Option (CEO),false
+Challenge Academy,Bruceville-Eddy ISD,Eddy,0,,Yes participating without using any Provision or the CEO,true
 Challenge Academy,Connally ISD,Waco,1,,No,true
 Challenge Academy,Robinson ISD,Waco,2,,Yes participating without using any Provision or the CEO,true
 Challenge Academy,Waco ISD,Waco,52,48,Yes participating without using any Provision or the CEO,true
 Challenge Academy,Midway ISD,Waco,1,,Yes participating without using any Provision or the CEO,true
 Challenge Academy,West ISD,Waco,1,,No,true
+Challenge Academy,Mart ISD,Waco,,,,true
+Challenge Academy,McGregor ISD,Waco,,,,true
+Challenge Academy,Axtell ISD,Waco,,,,true
 Challenge Academy,La Vega ISD,Waco,2,,Yes under Community Eligibility Option (CEO),true
+Challenge Academy,Bosqueville ISD,Waco,,,,true
+Challenge Academy,China Spring ISD,Waco,,,,true
+Challenge Academy,Crawford ISD,Waco,,,,true
+Challenge Academy,Lorena ISD,Waco,,,,true
+Challenge Academy,Riesel ISD,Waco,,,,true
 Challenge Early College H S,Houston ISD,Houston,485,395,Yes under Community Eligibility Option (CEO),true
 Challenger El,Pearland ISD,Pearland,614,239,Yes participating without using any Provision or the CEO,false
 Chamberlin El,Stephenville ISD,Stephenville,503,283,Yes under Community Eligibility Option (CEO),false
@@ -2082,6 +2096,7 @@ Dime Box School,Dime Box ISD,Dime Box,156,122,Yes participating without using an
 Dimmitt H S,Dimmitt ISD,Dimmitt,324,250,Yes under Community Eligibility Option (CEO),true
 Dimmitt Middle,Dimmitt ISD,Dimmitt,246,201,Yes under Community Eligibility Option (CEO),true
 Disciplinary Alternative Education Program,Cleveland ISD,Cleveland,126,117,Yes under Community Eligibility Option (CEO),true
+Disciplinary Alternative Education Program,Schertz-Cibolo-U City ISD,Schertz,,,,true
 Disciplinary Alternative Educational Progam (Daep),Bryan ISD,Bryan,81,71,Yes under Community Eligibility Option (CEO),true
 Disciplinary Alternative Placement Center,Richardson ISD,Dallas,124,84,Yes under Community Eligibility Option (CEO),false
 Discipline Alternative School at Saegert,Seguin ISD,Seguin,44,40,Yes under Community Eligibility Option (CEO),true
@@ -3736,6 +3751,7 @@ Horn H S,Mesquite ISD,Mesquite,2757,2033,Yes under Community Eligibility Option 
 Horne El,Cypress-Fairbanks ISD,Houston,908,758,Yes under Community Eligibility Option (CEO),false
 Hornedo Middle,El Paso ISD,El Paso,1442,567,Yes participating without using any Provision or the CEO,false
 Hornsby-Dunlap El,Del Valle ISD,Austin,711,688,Yes under Community Eligibility Option (CEO),false
+Horton Disciplinary Alternative Education Program,Weslaco ISD,Weslaco,0,,Yes under Community Eligibility Option (CEO),true
 Hosp El,Frisco ISD,Frisco,666,77,Yes participating without using any Provision or the CEO,false
 Hospital/Homebound,Dallas ISD,Dallas,29,14,Yes under Community Eligibility Option (CEO),false
 Hot Wells Middle,San Antonio ISD,San Antonio,595,559,Yes under Community Eligibility Option (CEO),false
@@ -4396,6 +4412,7 @@ Jubilee - Lake View University Prep,Jubilee Academies,San Antonio,548,507,Yes un
 Jubilee Brownsville,Jubilee Academies,Brownsville,999,818,Yes under Community Eligibility Option (CEO),true
 Jubilee Harlingen,Jubilee Academies,Harlingen,377,302,Yes under Community Eligibility Option (CEO),true
 Jubilee Highland Hills,Jubilee Academies,San Antonio,686,621,Yes under Community Eligibility Option (CEO),true
+Jubilee Highland Park,Jubilee Academies,San Antonio,,,,true
 Jubilee Kingsville,Jubilee Academies,Kingsville,302,259,Yes under Community Eligibility Option (CEO),true
 Jubilee Leadership Academy,Jubilee Academies,Brownsville,545,476,Yes under Community Eligibility Option (CEO),false
 Jubilee Living Way,Jubilee Academies,Brownsville,363,306,Yes under Community Eligibility Option (CEO),false
@@ -4585,8 +4602,10 @@ Kipp Austin College Prep,Kipp Texas Public Schools,Austin,465,438,Yes under Comm
 Kipp Austin Collegiate,Kipp Texas Public Schools,Austin,847,771,Yes under Community Eligibility Option (CEO),true
 Kipp Austin Comunidad,Kipp Texas Public Schools,Austin,513,482,Yes under Community Eligibility Option (CEO),false
 Kipp Austin Obras,Kipp Texas Public Schools,Austin,373,346,Yes under Community Eligibility Option (CEO),false
+Kipp Austin Vista Middle Schools,Kipp Texas Public Schools,Austin,,,,true
 Kipp Camino Academy,Kipp Texas Public Schools,San Antonio,408,385,Yes under Community Eligibility Option (CEO),true
 Kipp Climb Academy,Kipp Texas Public Schools,Houston,679,482,Yes under Community Eligibility Option (CEO),false
+Kipp Connect H S,Kipp Texas Public Schools,Houston,,,,true
 Kipp Connect Houston Pri,Kipp Texas Public Schools,Houston,1056,810,Yes under Community Eligibility Option (CEO),false
 Kipp Connect Preparatory,Kipp Texas Public Schools,Houston,979,712,Yes under Community Eligibility Option (CEO),true
 Kipp Dream Prep,Kipp Texas Public Schools,Houston,929,891,Yes under Community Eligibility Option (CEO),false
@@ -4964,6 +4983,7 @@ Lewisville School of Science and Technology Lower,Texas College Preparatory Acad
 Lexington Creek El,Fort Bend ISD,Missouri City,506,219,Yes participating without using any Provision or the CEO,false
 Lexington El,Lexington ISD,Lexington,488,200,Yes participating without using any Provision or the CEO,false
 Lexington H S,Lexington ISD,Lexington,336,121,Yes participating without using any Provision or the CEO,true
+Lexington Middle,Corpus Christi ISD,Corpus Christi,,,,true
 Lexington Middle,Lexington ISD,Lexington,228,87,Yes participating without using any Provision or the CEO,true
 Leyendecker El,Laredo ISD,Laredo,406,406,Yes under Community Eligibility Option (CEO),false
 Libby El,Carthage ISD,Carthage,375,207,Yes participating without using any Provision or the CEO,false
@@ -5018,6 +5038,7 @@ Lincoln Humanities/Communications Magnet High Sch,Dallas ISD,Dallas,580,562,Yes 
 Lincoln J H,Coldspring-Oakhurst Cisd,Coldspring,323,221,Yes under Community Eligibility Option (CEO),true
 Lincoln Middle,Port Arthur ISD,Port Arthur,619,527,Yes under Community Eligibility Option (CEO),true
 Lincoln Middle,San Angelo ISD,San Angelo,781,577,Yes under Community Eligibility Option (CEO),true
+Lincoln Park Sch,Brownsville ISD,Brownsville,0,,Yes under Community Eligibility Option (CEO),true
 Linda Herrington El,Round Rock ISD,Round Rock,842,76,Yes participating without using any Provision or the CEO,false
 Linda Jobe Middle,Mansfield ISD,Mansfield,820,444,Yes participating without using any Provision or the CEO,true
 Linda Lyon El,Rockwall ISD,Heath,886,220,Yes participating without using any Provision or the CEO,false
@@ -5160,6 +5181,10 @@ Lowell Smith Jr Int,Cleburne ISD,Cleburne,958,714,Yes participating without usin
 Lowery El,Cypress-Fairbanks ISD,Houston,660,392,Yes participating without using any Provision or the CEO,false
 Lowery Freshman Center,Allen ISD,Allen,1674,,No,false
 Lowery Road,Fort Worth ISD,Fort Worth,414,336,Yes under Community Eligibility Option (CEO),false
+Lubbock Co J J a E P,Frenship ISD,Lubbock,,,,true
+Lubbock Co J J a E P,New Deal ISD,Lubbock,,,,true
+Lubbock Co J J a E P,Idalou ISD,Lubbock,,,,true
+Lubbock Co J J a E P,Slaton ISD,Lubbock,,,,true
 Lubbock Co J J a E P,Lubbock ISD,Lubbock,8,,No,true
 Lubbock Co Juvenile Justice Ctr,Lubbock ISD,Lubbock,57,,No,false
 Lubbock H S,Lubbock ISD,Lubbock,1927,1037,Yes under Community Eligibility Option (CEO),true
@@ -5219,6 +5244,7 @@ Lytle J H,Lytle ISD,Lytle,420,296,Yes participating without using any Provision 
 Lytle Primary School,Lytle ISD,Lytle,342,277,Yes participating without using any Provision or the CEO,false
 M B North E C Lrn Ctr,West Orange-Cove Cisd,Orange,308,308,Yes under Community Eligibility Option (CEO),false
 M L King Academy,San Antonio ISD,San Antonio,532,511,Yes under Community Eligibility Option (CEO),true
+M L King Middle,Beaumont ISD,Beaumont,,,,true
 M L Phillips El,Fort Worth ISD,Fort Worth,394,345,Yes under Community Eligibility Option (CEO),false
 M R Wood Center for Learning,Fort Bend ISD,Sugar Land,134,89,Yes under Community Eligibility Option (CEO),true
 M Rivas Pri Discovery Academy,Donna ISD,Donna,413,362,Yes under Community Eligibility Option (CEO),false
@@ -5426,6 +5452,7 @@ Maxfield El,Gorman ISD,Gorman,108,87,Yes under Community Eligibility Option (CEO
 May El,May ISD,May,129,87,Yes under Community Eligibility Option (CEO),false
 May El,Northside ISD,San Antonio,426,186,Yes participating without using any Provision or the CEO,false
 May H S,May ISD,May,114,40,Yes under Community Eligibility Option (CEO),true
+Maya Angelou H S,Dallas ISD,Dallas,,,,true
 Mayde Creek El,Katy ISD,Houston,816,621,Yes under Community Eligibility Option (CEO),false
 Mayde Creek H S,Katy ISD,Houston,3036,2323,Yes under Community Eligibility Option (CEO),true
 Mayde Creek J H,Katy ISD,Houston,1214,924,Yes under Community Eligibility Option (CEO),true
@@ -5871,7 +5898,10 @@ New Horizon H S,Joshua ISD,Joshua,30,19,Yes participating without using any Prov
 New Horizons Learning Center,Greenville ISD,Greenville,77,66,Yes under Community Eligibility Option (CEO),true
 New Horizons Ranch School,Mullin ISD,Goldthwaite,40,,No,false
 New Jjaep,Weatherford ISD,Willow Park,6,,Yes participating without using any Provision or the CEO,false
+New Middle,Crandall ISD,Crandall,,,,true
+New Middle,Rockwall ISD,Fate,,,,true
 New Middle,Mesquite ISD,Mesquite,670,585,Yes under Community Eligibility Option (CEO),true
+New Middle,Ector County ISD,Odessa,,,,true
 New Neighbor Campus,Bakerripley Community Schools,Houston,33,31,Yes under Community Eligibility Option (CEO),false
 New Summerfield School,New Summerfield ISD,New Summerfield,526,428,Yes under Community Eligibility Option (CEO),true
 New Tech H S at B F Darrell H S,Dallas ISD,Dallas,407,368,Yes under Community Eligibility Option (CEO),true
@@ -6179,8 +6209,10 @@ Oyster Creek El,Fort Bend ISD,Sugar Land,824,513,Yes participating without using
 Ozona El,Crockett County Consolidated CSD,Ozona,264,184,Yes under Community Eligibility Option (CEO),false
 Ozona H S,Crockett County Consolidated CSD,Ozona,214,125,Yes under Community Eligibility Option (CEO),true
 Ozona Middle,Crockett County Consolidated CSD,Ozona,143,90,Yes under Community Eligibility Option (CEO),true
+P a S S Learning Ctr,Highland Park ISD,Dallas,,,,true
 P a S S Learning Ctr,Richardson ISD,Dallas,10,,No,true
 P a S S Learning Ctr,Garland ISD,Dallas,11,,No,true
+P a S S Learning Ctr,Duncanville ISD,Dallas,,,,true
 P a S S Learning Ctr,Grand Prairie ISD,Dallas,1,,No,true
 P E Wallace Middle,Mount Pleasant ISD,Mount Pleasant,698,574,Yes under Community Eligibility Option (CEO),false
 P H Greene El,Clear Creek ISD,Webster,545,315,Yes participating without using any Provision or the CEO,false
@@ -6495,6 +6527,7 @@ Porter Early College H S,Brownsville ISD,Brownsville,1543,1439,Yes under Communi
 Porter El,Mesquite ISD,Mesquite,445,360,Yes under Community Eligibility Option (CEO),false
 Porter El,New Caney ISD,Porter,931,777,Yes participating without using any Provision or the CEO,false
 Porter H S,New Caney ISD,Porter,2094,1432,Yes participating without using any Provision or the CEO,true
+Positive Redirection Ctr,San Benito Cisd,San Benito,0,,Yes under Community Eligibility Option (CEO),true
 Positive Solutions Charter,Positive Solutions Charter School,San Antonio,93,,No,true
 Post El,Cypress-Fairbanks ISD,Houston,798,607,Yes under Community Eligibility Option (CEO),false
 Post El,Post ISD,Post,311,246,Yes participating without using any Provision or the CEO,false
@@ -6608,6 +6641,7 @@ Progreso El,Progreso ISD,Progreso,262,262,Yes under Community Eligibility Option
 Progreso H S,Progreso ISD,Progreso,431,431,Yes under Community Eligibility Option (CEO),true
 Project Chrysalis Middle,Houston ISD,Houston,241,204,Yes under Community Eligibility Option (CEO),true
 Project Restore,Magnolia ISD,Conroe,1,,No,true
+Project Restore,New Caney ISD,New Caney,,,,true
 Project Tyke,Katy ISD,Katy,13,,No,false
 Promesa Academy Charter School,Promesa Academy Charter School,San Antonio,248,148,Yes participating without using any Provision or the CEO,false
 Promesa College Prep Brownsville,Valere Public Schools,Brownsville,185,156,Yes under Community Eligibility Option (CEO),false
@@ -6628,6 +6662,7 @@ Pstem Academy,Raul Yzaguirre Schools for Success,Houston,482,464,Yes under Commu
 Puckett El,Amarillo ISD,Amarillo,316,101,Yes participating without using any Provision or the CEO,false
 Pugh El,Houston ISD,Houston,256,249,Yes under Community Eligibility Option (CEO),false
 Pullam El,Brownsville ISD,Brownsville,889,601,Yes under Community Eligibility Option (CEO),false
+Pupil Personnel Campus,Northside ISD,San Antonio,,,,true
 Purcell El,Abilene ISD,Abilene,537,432,Yes under Community Eligibility Option (CEO),false
 Purefoy El,Frisco ISD,Frisco,606,63,Yes participating without using any Provision or the CEO,false
 Purple Heart El,Socorro ISD,El Paso,914,656,Yes under Community Eligibility Option (CEO),false
@@ -7132,6 +7167,7 @@ S T E P - Detention,Round Rock ISD,Georgetown,9,6,Yes participating without usin
 S T E P - Detention,Jarrell ISD,Georgetown,2,,Yes participating without using any Provision or the CEO,false
 S T E P - J J a E P,Jarrell ISD,Georgetown,2,,Yes participating without using any Provision or the CEO,true
 S T E P - J J a E P,Georgetown ISD,Georgetown,2,,No,true
+S T E P - J J a E P,Round Rock ISD,Georgetown,,,,true
 S T E P Detention,Taylor ISD,Georgetown,2,,Yes participating without using any Provision or the CEO,false
 S/Sgt Michael P Barrera Veterans El,Somerset ISD,Von Ormy,639,523,Yes under Community Eligibility Option (CEO),false
 Sabinal El,Sabinal ISD,Sabinal,238,215,Yes under Community Eligibility Option (CEO),false
@@ -7251,6 +7287,7 @@ Santa Fe J H,Santa Fe ISD,Santa Fe,1003,505,Yes participating without using any 
 Santa Fe Middle,Cleveland ISD,Cleveland,1117,1074,Yes under Community Eligibility Option (CEO),false
 Santa Gertrudis Academy H S,Santa Gertrudis ISD,Kingsville,393,162,Yes participating without using any Provision or the CEO,true
 Santa Gertrudis School,Santa Gertrudis ISD,Kingsville,433,177,Yes participating without using any Provision or the CEO,true
+Santa Maria Academic Academy-Options Campus (6-12),Santa Maria ISD,Santa Maria,,,,true
 Santa Maria El,Laredo ISD,Laredo,465,462,Yes under Community Eligibility Option (CEO),false
 Santa Maria H S,Santa Maria ISD,Santa Maria,165,161,Yes under Community Eligibility Option (CEO),true
 Santa Maria Middle,Santa Maria ISD,Santa Maria,123,121,Yes under Community Eligibility Option (CEO),true
@@ -7733,11 +7770,14 @@ STEM Academy at Valley Ridge El,Lewisville ISD,Lewisville,582,233,Yes participat
 STEM Middle,Victoria ISD,Victoria,641,499,Yes under Community Eligibility Option (CEO),false
 Step - Core,Leander ISD,Georgetown,4,,Yes participating without using any Provision or the CEO,false
 Step - Core,Hutto ISD,Georgetown,1,,Yes participating without using any Provision or the CEO,false
+Step - Detention,Florence ISD,Georgetown,,,,true
+Step - Detention,Liberty Hill ISD,Georgetown,,,,true
 Step - Detention,Leander ISD,Georgetown,3,,Yes participating without using any Provision or the CEO,true
 Step --Detention,Hutto ISD,Georgetown,2,,Yes participating without using any Provision or the CEO,true
 Step Charter El,Step Charter School,Houston,293,226,Yes under Community Eligibility Option (CEO),true
 Step Charter II,Step Charter School,Houston,324,285,Yes under Community Eligibility Option (CEO),false
 Step Charter III,Step Charter School,Houston,76,59,Yes participating without using any Provision or the CEO,false
+Step- Detention,Thrall ISD,Georgetown,,,,true
 Step-Core,Taylor ISD,Georgetown,1,,Yes participating without using any Provision or the CEO,false
 Stephanie Cravens Early Childhood,Sheldon ISD,Houston,556,481,Yes participating without using any Provision or the CEO,false
 Stephen C Foster El,Dallas ISD,Dallas,604,586,Yes under Community Eligibility Option (CEO),false
@@ -7800,6 +7840,7 @@ Stuart Career Tech H S,Goose Creek Cisd,Baytown,597,439,Yes participating withou
 Stuart Place El,Harlingen Cisd,Harlingen,578,317,Yes under Community Eligibility Option (CEO),false
 Stubblefield Academy,Willis ISD,Willis,25,19,Yes participating without using any Provision or the CEO,true
 Stubblefield Lrn Ctr,Lufkin ISD,Lufkin,56,40,Yes under Community Eligibility Option (CEO),true
+Stubblefield Lrn Ctr,Zavalla ISD,Lufkin,,,,true
 Stubblefield Lrn Ctr,Diboll ISD,Lufkin,9,,No,true
 Stubblefield Lrn Ctr,Central ISD,Lufkin,5,,Yes under Community Eligibility Option (CEO),true
 Stubblefield Lrn Ctr,Hudson ISD,Lufkin,9,6,Yes participating without using any Provision or the CEO,true
@@ -7830,6 +7871,7 @@ Summer Creek H S,Humble ISD,Houston,3972,1872,Yes participating without using an
 Summer Creek Middle,Crowley ISD,Crowley,1035,740,Yes participating without using any Provision or the CEO,true
 Summerwood El,Humble ISD,Houston,644,278,Yes participating without using any Provision or the CEO,false
 Summit Hill El,Howe ISD,Howe,323,203,Yes participating without using any Provision or the CEO,false
+Summit Learning Center,Duncanville ISD,Duncanville,0,,Yes participating without using any Provision or the CEO,true
 Summitt El,Austin ISD,Austin,764,202,Yes participating without using any Provision or the CEO,false
 Sun Ridge Middle,Socorro ISD,El Paso,978,632,Yes participating without using any Provision or the CEO,true
 Sun Valley El,Southwest ISD,San Antonio,616,480,Yes under Community Eligibility Option (CEO),false
@@ -7925,7 +7967,9 @@ Tatum H S,Tatum ISD,Tatum,437,227,Yes participating without using any Provision 
 Tatum Middle,Tatum ISD,Tatum,321,200,Yes participating without using any Provision or the CEO,true
 Tatum Pri,Tatum ISD,Tatum,328,234,Yes participating without using any Provision or the CEO,false
 Tavola El,New Caney ISD,New Caney,859,503,Yes participating without using any Provision or the CEO,false
+Taylor County Learning Center,Merkel ISD,Abilene,,,,true
 Taylor County Learning Center,Abilene ISD,Abilene,26,15,Yes under Community Eligibility Option (CEO),true
+Taylor County Learning Center,Wylie ISD,Abilene,,,,true
 Taylor Creek El,Lampasas ISD,Copperas Cove,555,302,Yes participating without using any Provision or the CEO,false
 Taylor El,Abilene ISD,Abilene,662,422,Yes under Community Eligibility Option (CEO),false
 Taylor El,Grapevine-Colleyville ISD,Colleyville,511,35,Yes participating without using any Provision or the CEO,false
@@ -8575,7 +8619,9 @@ Wall Special Ee,Water Valley ISD,Water Valley,2,,Yes participating without using
 Wall Special Programs,Olfen ISD,Rowena,3,,Yes under Community Eligibility Option (CEO),false
 Wall Special Programs,Sterling City ISD,Wall,12,3,Yes participating without using any Provision or the CEO,false
 Wall Special Programs,Water Valley ISD,Water Valley,4,,Yes participating without using any Provision or the CEO,false
+Wallace Accelerated H S,Blackwell Cisd,Colorado City,,,,true
 Wallace Accelerated H S,Colorado ISD,Colorado City,18,15,Yes under Community Eligibility Option (CEO),true
+Wallace Accelerated H S,Hermleigh ISD,Colorado City,,,,true
 Wallace El,Richardson ISD,Dallas,654,364,Yes participating without using any Provision or the CEO,false
 Waller H S,Waller ISD,Waller,2995,1755,Yes participating without using any Provision or the CEO,true
 Waller J H,Waller ISD,Waller,951,614,Yes participating without using any Provision or the CEO,true
@@ -8769,6 +8815,7 @@ Wheatley School of Early Childhood Programs,Port Arthur ISD,Port Arthur,380,349,
 Wheeler School,Wheeler ISD,Wheeler,372,228,Yes participating without using any Provision or the CEO,true
 Wheelock El,Lubbock ISD,Lubbock,344,313,Yes under Community Eligibility Option (CEO),false
 Whidby El,Houston ISD,Houston,369,350,Yes under Community Eligibility Option (CEO),false
+Whispering Hills Achievement Center,Flatonia ISD,Flatonia,,,,true
 Whispering Pines El,Humble ISD,Humble,608,484,Yes participating without using any Provision or the CEO,false
 Whitaker El,El Paso ISD,El Paso,386,321,Yes under Community Eligibility Option (CEO),false
 White Deer El,White Deer ISD,White Deer,166,84,Yes participating without using any Provision or the CEO,false

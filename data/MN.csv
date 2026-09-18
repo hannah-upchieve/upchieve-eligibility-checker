@@ -48,6 +48,7 @@ Adrian Secondary,Adrian Public School District,Adrian,155,55,Yes participating w
 Adult Academics,Robbinsdale Public School District,Crystal,1,,Yes participating without using any Provision or the CEO,true
 Afsa Elementary,AFSA High School,Little Canada,149,123,Yes participating without using any Provision or the CEO,false
 Afsa High School,AFSA High School,Vadnais Heights,246,137,Yes participating without using any Provision or the CEO,false
+Afterschool Program,Detroit Lakes Public School Dist.,Detroit Lakes,0,,No,true
 Afton-Lakeland Elementary,Stillwater Area Public Schools,Lakeland,437,69,Yes participating without using any Provision or the CEO,false
 Agamim Classical Academy,Agamim Classical Academy,Edina,266,121,Yes participating without using any Provision or the CEO,false
 Ages 3-5 Early Childhood Special Ed,South Washington County Schools,Cottage Grove,591,171,No,false
@@ -65,6 +66,8 @@ Albert Lea Senior High,Albert Lea Public School District,Albert Lea,1196,606,Yes
 Albertville Primary,St. Michael-Albertville Schools,Albertville,422,92,Yes participating without using any Provision or the CEO,false
 ALC - Sartell,St. Cloud Public School District,Sartell,2,,No,false
 ALC - Sauk Rapids,St. Cloud Public School District,Sauk Rapids,59,35,No,false
+ALC Evening High School,Saint Paul Public Schools,Saint Paul,0,,No,true
+ALC Extended Day,Minneapolis Public School District,Minneapolis,0,,No,true
 ALC Gateway to College,Saint Paul Public Schools,Saint Paul,107,73,No,true
 ALC Independent Study,Osseo Public School District,Brooklyn Park,26,21,No,true
 ALC Independent Study,Duluth Public School District,Duluth,235,138,No,false
@@ -134,6 +137,7 @@ Avon Elementary,Albany Public School District,Avon,264,49,Yes participating with
 Babbitt Elementary,St. Louis County School District,Babbitt,95,59,Yes participating without using any Provision or the CEO,false
 Badger Elementary,Badger Public School District,Badger,124,72,Yes participating without using any Provision or the CEO,false
 Badger Secondary,Badger Public School District,Badger,99,54,Yes participating without using any Provision or the CEO,false
+Bagley Alp,Bagley Public School District,Bagley,0,,No,true
 Bagley Elementary,Bagley Public School District,Bagley,482,285,Yes participating without using any Provision or the CEO,false
 Bagley Secondary,Bagley Public School District,Bagley,388,215,Yes participating without using any Provision or the CEO,true
 Bamber Valley Elementary School,Rochester Public School District,Rochester,599,126,Yes participating without using any Provision or the CEO,false
@@ -173,6 +177,7 @@ Belle Plaine Ecse,Belle Plaine Public School District,Belle Plaine,42,15,No,fals
 Belle Plaine Junior High,Belle Plaine Public School District,Belle Plaine,255,56,Yes participating without using any Provision or the CEO,false
 Belle Plaine Senior High,Belle Plaine Public School District,Belle Plaine,475,92,Yes participating without using any Provision or the CEO,false
 Belle Plaine Transitions/Work Exper,Belle Plaine Public School District,Belle Plaine,10,4,No,false
+Bemidji Area Learning Center,Bemidji Public School District,Bemidji,0,,No,true
 Bemidji Middle,Bemidji Public School District,Bemidji,967,388,Yes participating without using any Provision or the CEO,false
 Bemidji Middle Alp,Bemidji Public School District,Bemidji,1,,No,false
 Bemidji Regional Interdist. Council,Bemidji Regional Interdist. Council,Bemidji,22,,No,false
@@ -226,6 +231,7 @@ Bluesky Charter School,Bluesky Charter School,Bloomington,634,298,No,false
 Bluff Creek Elementary,Eastern Carver County Public School,Chanhassen,462,95,Yes participating without using any Provision or the CEO,false
 Bluff View Elementary,Lake City Public School District,Lake City,592,219,Yes participating without using any Provision or the CEO,false
 Bluffview Montessori,Bluffview Montessori,Winona,209,46,Yes participating without using any Provision or the CEO,false
+Bold Alp,Bird Island-Olivia-Lake Lillian,Olivia,0,,No,true
 Bold Middle School,Bird Island-Olivia-Lake Lillian,Olivia,173,81,Yes participating without using any Provision or the CEO,false
 Bold Senior High School,Bird Island-Olivia-Lake Lillian,Olivia,203,68,Yes participating without using any Provision or the CEO,true
 Bold-Bird Island Elementary,Bird Island-Olivia-Lake Lillian,Olivia,260,129,Yes participating without using any Provision or the CEO,false
@@ -238,6 +244,7 @@ Branch Out Transitional Services,West St. Paul-Mendota Heights-Eagan,West Saint 
 Brandon Elementary,Brandon-Evansville Public Schools,Brandon,107,43,Yes participating without using any Provision or the CEO,false
 Brandon-Evansville High School,Brandon-Evansville Public Schools,Brandon,158,59,Yes participating without using any Provision or the CEO,false
 Brandon-Evansville Middle School,Brandon-Evansville Public Schools,Brandon,124,38,Yes participating without using any Provision or the CEO,false
+Breckenridge Area Learning Program,Breckenridge Public School District,Breckenridge,0,,No,true
 Breckenridge Elementary,Breckenridge Public School District,Breckenridge,265,141,Yes participating without using any Provision or the CEO,false
 Breckenridge Middle/High School,Breckenridge Public School District,Breckenridge,311,120,Yes participating without using any Provision or the CEO,false
 Bridge Transition Program,Stillwater Area Public Schools,Stillwater,37,15,Yes participating without using any Provision or the CEO,false
@@ -251,6 +258,7 @@ Brooklyn Center Early College Acad,Brooklyn Center Community Schools,Brooklyn Ce
 Brooklyn Center Ecse Age 3 - 5,Brooklyn Center Community Schools,Brooklyn Center,18,11,No,false
 Brooklyn Center Elementary School,Brooklyn Center Community Schools,Brooklyn Center,708,566,Yes under Community Eligibility Option (CEO),false
 Brooklyn Center High School,Brooklyn Center Community Schools,Brooklyn Center,539,426,Yes under Community Eligibility Option (CEO),true
+Brooklyn Center Independent Study,Brooklyn Center Community Schools,Brooklyn Center,0,,No,true
 Brooklyn Center Middle School,Brooklyn Center Community Schools,Brooklyn Center,334,275,Yes under Community Eligibility Option (CEO),true
 Brooklyn Middle STEAM School,Osseo Public School District,Brooklyn Park,931,575,Yes under Community Eligibility Option (CEO),true
 Brookside Academy,Cambridge-Isanti Public School Dist,Cambridge,13,9,Yes under Community Eligibility Option (CEO),false
@@ -331,6 +339,7 @@ Centennial Elementary,Richfield Public School District,Richfield,303,224,Yes par
 Centennial High School,Centennial Public School District,Circle Pines,2067,465,Yes participating without using any Provision or the CEO,false
 Centennial Middle,Centennial Public School District,Lino Lakes,1595,405,Yes participating without using any Provision or the CEO,false
 Center School,Minneapolis Public School District,Minneapolis,37,36,Yes under Community Eligibility Option (CEO),true
+Center School Extended,Minneapolis Public School District,Minneapolis,0,,No,true
 Centerview Elementary,Spring Lake Park Public Schools,Blaine,685,389,Yes participating without using any Provision or the CEO,false
 Centerville Elementary,Centennial Public School District,Centerville,607,89,Yes participating without using any Provision or the CEO,false
 Central Education Campus,New Prague Area Schools,New Prague,105,23,No,false
@@ -344,6 +353,7 @@ Central Lakes Adventure School,Central Lakes Adventure School,Pillager,36,23,Yes
 Central Middle,East Grand Forks Public Schools,East Grand Forks,463,135,Yes participating without using any Provision or the CEO,false
 Central Middle,Central Public School District,Norwood Young America,216,59,No,false
 Central Middle,White Bear Lake School District,White Bear Lake,922,178,Yes participating without using any Provision or the CEO,false
+Central Middle Alternative (Cmap),Wayzata Public School District,Plymouth,0,,No,true
 Central Middle School,Eden Prairie Public School District,Eden Prairie,1860,517,Yes participating without using any Provision or the CEO,false
 Central Minnesota Virtual Academy,St. Cloud Public School District,Waite Park,53,31,No,false
 Central Park Elementary,Roseville Public School District,Roseville,411,285,Yes under Community Eligibility Option (CEO),false
@@ -439,6 +449,7 @@ Cook County Middle,Cook County Public Schools,Grand Marais,95,42,Yes participati
 Cook County Senior High,Cook County Public Schools,Grand Marais,177,68,Yes participating without using any Provision or the CEO,false
 Coon Rapids High School,Anoka-Hennepin School District,Coon Rapids,1975,999,Yes participating without using any Provision or the CEO,true
 Coon Rapids Middle School,Anoka-Hennepin School District,Coon Rapids,1295,720,Yes participating without using any Provision or the CEO,true
+Cooperative Area Learning Prg.,Rosemount-Apple Valley-Eagan,Apple Valley,0,,No,true
 Cornelia Elementary,Edina Public School District,Edina,617,164,Yes participating without using any Provision or the CEO,false
 Cornerstone,Hutchinson Public School District,Hutchinson,10,7,No,true
 Cornerstone Montessori Elementary,Cornerstone Montessori Elementary,Saint Paul,132,72,Yes under Community Eligibility Option (CEO),false
@@ -585,6 +596,7 @@ East Central Senior Secondary,East Central School District,Finlayson,309,116,Yes
 East Grand Forks Senior High,East Grand Forks Public Schools,East Grand Forks,608,184,Yes participating without using any Provision or the CEO,true
 East High School,Duluth Public School District,Duluth,1495,294,Yes participating without using any Provision or the CEO,true
 East Lake Elementary School,Rosemount-Apple Valley-Eagan,Lakeville,844,149,Yes participating without using any Provision or the CEO,false
+East Middle Alternative (Emap),Wayzata Public School District,Plymouth,0,,No,true
 East Range Academy of Tech-Science,East Range Academy of Tech-Science,Mountain Iron,127,114,Yes under Community Eligibility Option (CEO),true
 East Rapids Elementary,Grand Rapids Public School District,Grand Rapids,639,297,Yes participating without using any Provision or the CEO,false
 East Ridge High School,South Washington County Schools,Woodbury,2072,303,Yes participating without using any Provision or the CEO,false
@@ -901,6 +913,7 @@ Hmong College Prep Academy HS,Hmong College Prep Academy,Saint Paul,791,626,Yes 
 Hmong College Prep Academy MS,Hmong College Prep Academy,Saint Paul,724,588,Yes under Community Eligibility Option (CEO),true
 Hmong International Elementary,Minneapolis Public School District,Minneapolis,258,238,Yes under Community Eligibility Option (CEO),false
 Hoa High School,Hastings Public School District,Hastings,13,6,No,false
+Hoffman Learning Center,St. Peter Public School District,Saint Peter,0,,Yes participating without using any Provision or the CEO,true
 Holdingford Elementary,Holdingford Public School District,Holdingford,589,186,Yes participating without using any Provision or the CEO,false
 Holdingford Secondary,Holdingford Public School District,Holdingford,509,138,Yes participating without using any Provision or the CEO,false
 Home/Hospital Instruction,Saint Paul Public Schools,Saint Paul,3,,No,true
@@ -1206,6 +1219,7 @@ Longfellow Elementary School,Rochester Public School District,Rochester,265,97,Y
 Lonsdale Pre K-6,Tri-City United School District,Lonsdale,331,78,Yes participating without using any Provision or the CEO,false
 Loring Elementary,Minneapolis Public School District,Minneapolis,321,220,Yes under Community Eligibility Option (CEO),false
 Loring-Nicollet High,Minneapolis Public School District,Minneapolis,57,38,Yes under Community Eligibility Option (CEO),true
+Loveworks Academy for Arts,Loveworks Academy for Arts,Minneapolis,0,,No,true
 Lowell Elementary,Brainerd Public School District,Brainerd,355,141,Yes under Community Eligibility Option (CEO),false
 Lowell Elementary,Duluth Public School District,Duluth,312,138,Yes participating without using any Provision or the CEO,false
 Lowell Elementary Spanish Immersion,Duluth Public School District,Duluth,329,47,Yes participating without using any Provision or the CEO,false
@@ -1321,6 +1335,7 @@ Milaca Secondary High,Milaca Public School District,Milaca,730,284,Yes participa
 Milroy Elementary,Milroy Public School District,Milroy,29,12,Yes participating without using any Provision or the CEO,false
 Miltona Elementary,Alexandria Public School District,Miltona,126,22,Yes participating without using any Provision or the CEO,false
 Minneapolis Academy & Career Center,Minneapolis Public School District,Minneapolis,76,63,Yes under Community Eligibility Option (CEO),true
+Minneapolis Academy & Career Extend,Minneapolis Public School District,Minneapolis,0,,No,true
 Minnehaha Elementary,Lake Superior Public School Dist.,Two Harbors,367,144,Yes participating without using any Provision or the CEO,false
 Minneota Elementary,Minneota Public School District,Minneota,258,69,Yes participating without using any Provision or the CEO,false
 Minneota Secondary,Minneota Public School District,Minneota,296,72,Yes participating without using any Provision or the CEO,false
@@ -1414,6 +1429,7 @@ Murray County Central Elementary,Murray County Central Schools,Slayton,137,60,Ye
 Murray County Central High School,Murray County Central Schools,Slayton,328,90,Yes participating without using any Provision or the CEO,false
 Murray Middle School,Saint Paul Public Schools,Saint Paul,576,329,Yes under Community Eligibility Option (CEO),true
 Myers-Wilkins Elementary,Duluth Public School District,Duluth,329,279,Yes under Community Eligibility Option (CEO),false
+N.e. Regional Correction Cntr.,Proctor Public School District,Saginaw,0,,No,true
 Nasha Shkola Charter School,Nasha Shkola Charter School,Brooklyn Park,138,109,Yes under Community Eligibility Option (CEO),true
 Nashwauk Secondary,Nashwauk-Keewatin School District,Nashwauk,228,118,Yes participating without using any Provision or the CEO,true
 Naytahwaush Community School,Naytahwaush Community School,Naytahwaush,134,109,Yes under Community Eligibility Option (CEO),false
@@ -1421,6 +1437,7 @@ Ncs Online Program,New Century School,Saint Paul,23,20,No,false
 Neill Elementary,Robbinsdale Public School District,Crystal,359,262,Yes under Community Eligibility Option (CEO),false
 Nellie Stone Johnson Elementary,Minneapolis Public School District,Minneapolis,304,294,Yes under Community Eligibility Option (CEO),false
 Nerstrand Charter School,Nerstrand Charter School,Nerstrand,102,24,Yes participating without using any Provision or the CEO,false
+Nets,Mounds View Public School District,Shoreview,0,,Yes participating without using any Provision or the CEO,true
 Nett Lake Elementary,Nett Lake Public School District,Orr,48,38,Yes under Community Eligibility Option (CEO),false
 Neveln Elementary,Austin Public School District,Austin,381,240,Yes under Community Eligibility Option (CEO),false
 Nevis Elementary,Nevis Public School District,Nevis,342,156,Yes participating without using any Provision or the CEO,false
@@ -1574,6 +1591,7 @@ Osakis Secondary,Osakis Public School District,Osakis,415,133,Yes participating 
 Oshawa Learning Academy,St. Peter Public School District,Saint Peter,25,22,No,false
 Oshki Manidoo Center,Bemidji Public School District,Bemidji,4,,No,true
 Oshki Ogimaag Charter School,Oshki Ogimaag Charter School,Grand Portage,19,6,Yes under Community Eligibility Option (CEO),false
+Osseo ALC Alternative Programs,Osseo Public School District,Brooklyn Park,0,,No,true
 Osseo Education Center,Osseo Public School District,Osseo,99,62,Yes under Community Eligibility Option (CEO),false
 Osseo Middle School,Osseo Public School District,Osseo,1128,401,Yes under Community Eligibility Option (CEO),false
 Osseo Senior High,Osseo Public School District,Osseo,2289,1169,Yes under Community Eligibility Option (CEO),true
@@ -1598,6 +1616,7 @@ Park Brook Elementary,Osseo Public School District,Brooklyn Park,298,223,Yes und
 Park Center IB World School,Osseo Public School District,Brooklyn Park,2061,1307,Yes under Community Eligibility Option (CEO),true
 Park High School,South Washington County Schools,Cottage Grove,1992,571,Yes participating without using any Provision or the CEO,false
 Park Rapids Area Century Elementary,Park Rapids Public School District,Park Rapids,861,448,Yes participating without using any Provision or the CEO,false
+Park Rapids Area Century Middle,Park Rapids Public School District,Park Rapids,,83,Yes participating without using any Provision or the CEO,true
 Park Rapids Senior High,Park Rapids Public School District,Park Rapids,420,174,Yes participating without using any Provision or the CEO,true
 Park Rapids Virtual Academy High,Park Rapids Public School District,Park Rapids,21,8,No,false
 Park Rapids Virtual Academy Middle,Park Rapids Public School District,Park Rapids,1,,No,false
@@ -1625,6 +1644,7 @@ Paynesville Area Elementary,Paynesville Area Schools,Paynesville,429,127,Yes par
 Paynesville Area Secondary School,Paynesville Area Schools,Paynesville,465,132,Yes participating without using any Provision or the CEO,false
 Pearson Elementary,Wheaton Area Public School District,Wheaton,177,78,Yes participating without using any Provision or the CEO,false
 Pearson Vpk,Shakopee Public School District,Shakopee,31,28,No,false
+Pelican Rapids Alt Learning Center,Pelican Rapids Public Schools,Pelican Rapids,0,,No,true
 Pelican Rapids Secondary,Pelican Rapids Public Schools,Pelican Rapids,374,218,Yes participating without using any Provision or the CEO,true
 Pequot Lakes Middle,Pequot Lakes Public Schools,Pequot Lakes,581,191,Yes participating without using any Provision or the CEO,false
 Pequot Lakes Senior High,Pequot Lakes Public Schools,Pequot Lakes,599,179,Yes participating without using any Provision or the CEO,false
@@ -1634,6 +1654,7 @@ Perpich Center for Arts Education,Perpich Center for Arts Education,Golden Valle
 Peter Hobart Elementary,St. Louis Park Public School Dist.,Saint Louis Park,435,191,Yes participating without using any Provision or the CEO,false
 Phoenix Academy Charter School,Phoenix Academy Charter School,North Branch,156,67,Yes participating without using any Provision or the CEO,false
 Phoenix Learning Center,Buffalo-Hanover-Montrose Schools,Buffalo,36,15,No,false
+Phoenix School,Robbinsdale Public School District,Plymouth,0,,No,true
 Piedmont Elementary,Duluth Public School District,Duluth,410,239,Yes under Community Eligibility Option (CEO),false
 Pike Lake Elementary,Proctor Public School District,Duluth,293,68,Yes participating without using any Provision or the CEO,false
 Pike Lake Kindergarten Center,Mounds View Public School District,New Brighton,733,381,Yes participating without using any Provision or the CEO,false
@@ -1848,6 +1869,7 @@ Roosevelt Elementary,Willmar Public School District,Willmar,580,374,Yes particip
 Roosevelt High,Minneapolis Public School District,Minneapolis,1148,543,Yes under Community Eligibility Option (CEO),true
 Roosevelt High - Sws,Minneapolis Public School District,Minneapolis,91,,No,true
 Roosevelt Middle,Anoka-Hennepin School District,Blaine,1087,366,Yes participating without using any Provision or the CEO,false
+Rosa Parks Charter High School,Rosa Parks Charter High School,Rochester,0,,Yes under Community Eligibility Option (CEO),true
 Rosa Parks Elementary,Mankato Public School District,Mankato,425,239,Yes under Community Eligibility Option (CEO),false
 Roseau Elementary,Roseau Public School District,Roseau,574,186,Yes participating without using any Provision or the CEO,false
 Roseau Secondary,Roseau Public School District,Roseau,527,124,Yes participating without using any Provision or the CEO,false
@@ -1887,6 +1909,7 @@ Saint Paul Online Elementary School,Saint Paul Public Schools,Saint Paul,109,94,
 Saint Paul Online High School,Saint Paul Public Schools,Saint Paul,324,256,No,false
 Saint Paul Online Middle School,Saint Paul Public Schools,Saint Paul,145,123,No,false
 Saints Academy,St. Francis Area Schools,Saint Francis,144,63,Yes participating without using any Provision or the CEO,true
+Saints Guided Studies,St. Francis Area Schools,Saint Francis,0,,Yes participating without using any Provision or the CEO,true
 Saints Online Elementary,St. Francis Area Schools,Saint Francis,3,,No,false
 Saints Online High School,St. Francis Area Schools,Saint Francis,87,33,No,true
 Saints Online Middle School,St. Francis Area Schools,Saint Francis,16,9,No,false
@@ -2003,6 +2026,7 @@ Special Ed.,St. Louis Park Public School Dist.,Saint Louis Park,15,5,No,false
 Special Ed. N.p.,Duluth Public School District,Duluth,25,4,No,false
 Special Education,Mankato Public School District,Mankato,233,99,No,true
 Special Education,West St. Paul-Mendota Heights-Eagan,Mendota Heights,3,,No,false
+Special Education Facilities,St. Cloud Public School District,Waite Park,,63,No,true
 Special Services,Hastings Public School District,Hastings,2,,No,false
 Special Services,Shakopee Public School District,Shakopee,152,78,No,false
 Spectrum High School,Spectrum High School,Elk River,502,74,Yes participating without using any Provision or the CEO,false
@@ -2255,6 +2279,7 @@ Vision,St. Croix River Education District,Pine City,19,12,Yes under Community El
 Vista Education Center,Fridley Public School District,Fridley,5,,Yes under Community Eligibility Option (CEO),false
 Vista View Elementary,Burnsville-Eagan-Savage Schools,Burnsville,311,207,Yes under Community Eligibility Option (CEO),false
 Voa High,Minneapolis Public School District,Minneapolis,75,66,Yes under Community Eligibility Option (CEO),true
+Voa High Extended,Minneapolis Public School District,Minneapolis,0,,No,true
 Voluntary Pre-Kindergarten,Detroit Lakes Public School Dist.,Detroit Lakes,17,8,No,false
 Voluntary Prekindergarten School,Fridley Public School District,Fridley,138,95,Yes participating without using any Provision or the CEO,false
 Voyager Elementary,Alexandria Public School District,Alexandria,446,124,Yes participating without using any Provision or the CEO,false

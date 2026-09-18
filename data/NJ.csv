@@ -97,6 +97,7 @@ Atlantic County Elementary and Middle Schools,Atlantic County Special Services S
 Atlantic County High School,Atlantic County Special Services School District,Mays Landing,112,51,Yes participating without using any Provision or the CEO,false
 Atlantic County Institute of Technology,Atlantic County Vocational School District,Mays Landing,1852,1160,No,true
 Atlantic Highlands Elementary School,Henry Hudson Regional School District,Atlantic Highlands,282,51,No,false
+Atlantic Regional School,Office of Education Department of Children and Families,Egg Harbor,0,,No,true
 Audubon Junior/Senior High School,Audubon Public School District,Audubon,801,210,Yes participating without using any Provision or the CEO,false
 Audubon Park Preschool,Audubon Public School District,Audubon Park,56,6,Yes participating without using any Provision or the CEO,false
 Augusta Preschool Academy,Irvington Public School District,Irvington,330,237,Yes participating without using any Provision or the CEO,false
@@ -171,6 +172,7 @@ Bergen County Institute for Science and Technology,Bergen County Vocational Tech
 Bergen County Technical High School - Paramus,Bergen County Vocational Technical School District,Paramus,288,101,No,false
 Bergen County Technical High School - Paramus,Bergen County Vocational Technical School District,Paramus,14,8,Yes participating without using any Provision or the CEO,false
 Bergen County Technical High School - Teterboro,Bergen County Vocational Technical School District,Teterboro,665,96,Yes participating without using any Provision or the CEO,false
+Bergen Regional School,Office of Education Department of Children and Families,Paramus,0,,No,true
 Bergenfield High School,Bergenfield Borough School District,Bergenfield,1239,488,Yes participating without using any Provision or the CEO,false
 Berkeley Elementary,Westwood Regional School District,Westwood,277,50,Yes participating without using any Provision or the CEO,false
 Berkeley Elementary School,Bloomfield Township School District,Bloomfield,453,309,Yes participating without using any Provision or the CEO,false
@@ -250,6 +252,7 @@ Burlington City High School,Burlington City Public School District,Burlington,75
 Burlington County Alternative High School,Burlington County Special Services School District,Mt. Laurel,71,18,Yes participating without using any Provision or the CEO,false
 Burlington County Institute of Technology - Medford,Burlington County Institute of Technology School District,Medford,896,327,Yes participating without using any Provision or the CEO,true
 Burlington County Institute of Technology - Westampton,Burlington County Institute of Technology School District,Westampton,1300,682,Yes participating without using any Provision or the CEO,true
+Burlington Regional School,Office of Education Department of Children and Families,Mt Holly,0,,No,true
 Burlington Township High School,Burlington Township School District,Burlington,1118,352,Yes participating without using any Provision or the CEO,false
 Burlington Township Middle School at Springside,Burlington Township School District,Burlington,822,319,Yes participating without using any Provision or the CEO,false
 Burnet Hill Elementary School,Livingston Board of Education School District,Livingston,425,9,No,false
@@ -270,12 +273,14 @@ Camden County Technical School-Pennsauken,Camden County Technical School Distric
 Camden High School,Camden City School District,Camden,425,231,Yes under Community Eligibility Option (CEO),true
 Camden Prep Inc.,Camden Prep Inc.,Camden,1498,1402,No,true
 Camden Street Elementary School,Newark Public School District,Newark,685,589,Yes participating without using any Provision or the CEO,true
+Camden Virtua,Office of Education Department of Children and Families,Camden,,,No,true
 Camden's Promise Charter School,Camden's Promise Charter School,Camden,2457,2243,No,true
 Campbell Elementary School,Metuchen Public School District,Metuchen,698,78,Yes participating without using any Provision or the CEO,false
 Canfield Avenue School,Mine Hill Township School District,Mine Hill,382,165,No,false
 Cape May City Elementary School,Cape May City School District,Cape May,155,42,Yes participating without using any Provision or the CEO,false
 Cape May County High School,Cape May County Special Services School District,Cape May Court House,84,23,Yes participating without using any Provision or the CEO,false
 Cape May County Technical High School,Cape May County Technical High School District,Cape May Court House,587,243,Yes participating without using any Provision or the CEO,false
+Cape May Regional School,Office of Education Department of Children and Families,Cape May Court House,0,,No,true
 Capital City High School,Trenton Public School District,Trenton,756,424,Yes under Community Eligibility Option (CEO),false
 Captain James Lawrence Elementary School,Burlington City Public School District,Burlington,229,186,No,false
 Carl H. Kumpf School,Clark Township Public School District,Clark,528,44,Yes participating without using any Provision or the CEO,false
@@ -349,6 +354,7 @@ Chelsea Heights School,Atlantic City School District,Atlantic City,267,238,Yes p
 Cherokee High School,Lenape Regional High School District,Marlton,2082,351,Yes participating without using any Provision or the CEO,false
 Cherry Hill High School East,Cherry Hill School District,Cherry Hill,2120,391,Yes participating without using any Provision or the CEO,false
 Cherry Hill High School West,Cherry Hill School District,Cherry Hill,1287,442,Yes participating without using any Provision or the CEO,true
+Cherry Hill Regional School,Office of Education Department of Children and Families,Cherry Hill,0,,No,true
 Cherry Hill School,River Edge School District,River Edge,697,15,No,false
 Cherry Street School,Bridgeton City School District,Bridgeton,522,505,Yes under Community Eligibility Option (CEO),true
 Chessie Dentley Roberts Academy School No. 30,Elizabeth Public Schools,Elizabeth,729,641,Yes participating without using any Provision or the CEO,true
@@ -439,6 +445,7 @@ Cooper's Poynt Family School,Camden City School District,Camden,381,238,Yes unde
 Copeland Middle School,Rockaway Township School District,Rockaway,799,163,Yes participating without using any Provision or the CEO,false
 Copper Hill Elementary School,Flemington-Raritan Regional School District,Ringoes,572,121,Yes participating without using any Provision or the CEO,false
 Cornelia F. Bradford School,Jersey City Public Schools,Jersey City,1082,105,Yes participating without using any Provision or the CEO,false
+Costello Prep,Office of Education Juvenile Justice Commission,Tabernacle,0,,No,true
 Countryside Elementary School,Mount Laurel Township School District,Mount Laurel,293,49,Yes participating without using any Provision or the CEO,false
 County Prep High School,Hudson County Schools of Technology School District,Jersey City,892,509,Yes participating without using any Provision or the CEO,true
 County Road School,Demarest School District,Demarest,221,4,No,false
@@ -462,6 +469,7 @@ Crossroads South Middle School,South Brunswick School District,Monmouth Junction
 Cumberland Campus,Salem County Special Services School District,Bridgeton,88,46,No,false
 Cumberland County Technical Education Center,Cumberland County Board of Vocational Education,Millville,1296,526,No,false
 Cumberland Regional High School,Cumberland Regional School District,Bridgeton,1161,429,Yes participating without using any Provision or the CEO,false
+Cumberland Regional School,Office of Education Department of Children and Families,Vineland,0,,No,true
 Dale Avenue,Paterson Public School District,Paterson,228,179,Yes under Community Eligibility Option (CEO),false
 Dane Barse Elementary School,Vineland Public School District,Vineland,245,178,Yes participating without using any Provision or the CEO,false
 Daniel F. Ryan Elementary School No. 19,Passaic City School District,Passaic,590,589,Yes under Community Eligibility Option (CEO),true
@@ -746,6 +754,7 @@ G.h. Carson Elementary School,Pennsauken Township Board of Education School Dist
 Gables Elementary School,Neptune Township School District,Neptune,284,216,Yes participating without using any Provision or the CEO,false
 Galloway Township Middle School,Galloway Township Public School District,Galloway,705,396,Yes participating without using any Provision or the CEO,true
 Gantner Avenue School,Elmwood Park School District,Elmwood Park,339,193,Yes participating without using any Provision or the CEO,false
+Garden State Correctional Facility,Office of Educational Services Department of Corrections,Yardville,0,,No,true
 Garfield Early Childhood Learning Center,Garfield Public School District,Garfield,204,98,Yes participating without using any Provision or the CEO,false
 Garfield Ecdc,Willingboro Public School District,Willingboro,294,165,No,false
 Garfield Elementary School,Kearny,Kearny,428,323,Yes participating without using any Provision or the CEO,false
@@ -1124,6 +1133,7 @@ Joyce Kilmer School,Milltown School District,Milltown,444,97,Yes participating w
 Juan Pablo Duarte - Jose Julian Marti School No 28,Elizabeth Public Schools,Elizabeth,878,790,Yes participating without using any Provision or the CEO,true
 Julia a Traphagen School,Waldwick School District,Waldwick,414,4,No,false
 Julia A. Barnes School,Jersey City Public Schools,Jersey City,433,306,Yes under Community Eligibility Option (CEO),true
+Juvenile Medium Secure Facility,Office of Education Juvenile Justice Commission,Bordentown,0,,No,true
 K. Johnson D. Vaughan and M. Jackson STEM Academy,Elizabeth Public Schools,Elizabeth,740,576,No,false
 Katharine D Malone Elementary School,Rockaway Township School District,Rockaway,303,57,Yes participating without using any Provision or the CEO,false
 Kawameeh Middle School,Township of Union School District,Union,729,315,Yes participating without using any Provision or the CEO,false
@@ -1444,6 +1454,7 @@ Mercer County Technical School Health Sciences Academy,Area Vocational Technical
 Mercer County Technical School STEM Academy,Area Vocational Technical School District of Mercer County,Pennington,141,56,No,false
 Mercer Elementary School,Mercer County Special Services School District,Hamilton,141,61,Yes participating without using any Provision or the CEO,true
 Mercer High School,Mercer County Special Services School District,Hamilton,200,99,Yes participating without using any Provision or the CEO,false
+Mercer Regional School,Office of Education Department of Children and Families,Trenton,0,,No,true
 Mercerville Elementary School,Hamilton Township Public School District,Hamilton,350,166,Yes participating without using any Provision or the CEO,false
 Merchantville Elementary School,Merchantville School District,Merchantville,394,166,No,false
 Merriam Avenue School,Newton Public School District,Newton,483,269,Yes participating without using any Provision or the CEO,false
@@ -1560,6 +1571,7 @@ New Egypt High School,Plumsted Township School District,New Egypt,509,127,Yes pa
 New Egypt Primary School,Plumsted Township School District,New Egypt,177,36,Yes participating without using any Provision or the CEO,false
 New Hanover Township School,New Hanover Township,Wrightstown,185,97,No,true
 New Horizons Community Charter School,New Horizons Community Charter School,Newark,370,367,No,true
+New Jersey Training School,Office of Education Juvenile Justice Commission,Jamesburg,0,,No,true
 New Milford High School,New Milford Public School District,New Milford,584,124,Yes participating without using any Provision or the CEO,false
 New Monmouth Elementary School,Middletown Township Public School District,Middletown,508,91,Yes participating without using any Provision or the CEO,false
 New Providence High School,New Providence School District,New Providence,644,20,No,false
@@ -1652,6 +1664,8 @@ Ocean County Vocational Technical School Brick Center,Ocean County Vocational Te
 Ocean County Vocational Technical School Jackson Center,Ocean County Vocational Technical School District,Jackson,2,,No,false
 Ocean County Vocational Technical School Waretown Center,Ocean County Vocational Technical School District,Waretown,74,13,Yes participating without using any Provision or the CEO,false
 Ocean Gate Elementary School,Ocean Gate School District,Ocean Gate,141,82,Yes participating without using any Provision or the CEO,false
+Ocean Rch,Office of Education Juvenile Justice Commission,Forked River,0,,No,true
+Ocean Regional School,Office of Education Department of Children and Families,Toms River,0,,No,true
 Ocean Road Elementary School,Point Pleasant Borough School District,Point Pleasant,483,75,Yes participating without using any Provision or the CEO,false
 Ocean Township Elementary School,Township of Ocean School District,Oakhurst,410,205,Yes participating without using any Provision or the CEO,false
 Ocean Township High School,Township of Ocean School District,Oakhurst,925,327,Yes participating without using any Provision or the CEO,false
@@ -1764,6 +1778,7 @@ Pine Beach Elementary School,Toms River Regional School District,Pine Beach,371,
 Pine Brook School,Manalapan-Englishtown Regional School District,Manalapan,494,83,Yes participating without using any Provision or the CEO,false
 Pine Grove Manor School,Franklin Township Public School District,Somerset,346,266,Yes participating without using any Provision or the CEO,false
 Pine Hill Middle School,Pine Hill School District,Pine Hill,323,248,Yes participating without using any Provision or the CEO,true
+Pinelands Rch,Office of Education Juvenile Justice Commission,Tabernacle,0,,No,true
 Pinelands Regional High School,Pinelands Regional School District,Little Egg Harbor,1063,528,Yes participating without using any Provision or the CEO,false
 Pinelands Regional Jr. High School,Pinelands Regional School District,Little Egg Harbor,500,245,Yes participating without using any Provision or the CEO,false
 Piner Elementary School,Lakewood Township School District,Lakewood,364,337,Yes participating without using any Provision or the CEO,false
@@ -2285,6 +2300,7 @@ Village Elementary School,Montgomery Township School District,Skillman,591,42,Ye
 Village Elementary School,West Windsor-Plainsboro Regional School District,West Windsor,657,50,Yes participating without using any Provision or the CEO,false
 Village School,Holmdel Township School District,Holmdel,822,27,No,false
 Vincent Capuana School No. 15,Passaic City School District,Passaic,147,144,Yes under Community Eligibility Option (CEO),false
+Vineland Preparatory Academy,Office of Education Juvenile Justice Commission,Vineland,0,,No,true
 Vineland Public Charter School,Vineland Public Charter School,Vineland,428,77,Yes under Community Eligibility Option (CEO),false
 Vineland Senior High School,Vineland Public School District,Vineland,2736,1687,Yes participating without using any Provision or the CEO,true
 Viola L Sickles School,Fair Haven School District,Fair Haven,464,3,Yes participating without using any Provision or the CEO,false
@@ -2292,6 +2308,7 @@ Virgil I. Grissom Elementary School,Old Bridge Township School District,Old Brid
 Von E. Mauger Middle School,Middlesex Borough School District,Middlesex,502,220,Yes participating without using any Provision or the CEO,false
 Voorhees High School,North Hunterdon-Voorhees Regional High School District,Glen Gardner,733,40,No,false
 Voorhees Middle School,Voorhees Township School District,Voorhees,979,168,Yes participating without using any Provision or the CEO,false
+Voorhees Rch,Office of Education Juvenile Justice Commission,Glen Gardner,0,,No,true
 W. R. James Sr. Elementary School,Willingboro Public School District,Willingboro,408,320,Yes participating without using any Provision or the CEO,false
 Wahlstrom Early Childhood Academy,East Orange School District,East Orange,157,50,Yes under Community Eligibility Option (CEO),false
 Waldwick High School,Waldwick School District,Waldwick,434,8,No,false
@@ -2426,6 +2443,7 @@ William Cullen Bryant School,Teaneck School District,Teaneck,283,103,Yes partici
 William Davies Middle School,Hamilton Township School District,Mays Landing,943,569,Yes participating without using any Provision or the CEO,true
 William F. Halloran School No.22,Elizabeth Public Schools,Elizabeth,1140,890,Yes participating without using any Provision or the CEO,true
 William G. Rohrer Middle School,Haddon Township School District,Westmont,414,66,Yes participating without using any Provision or the CEO,false
+William H. Fauver Youth Correctional Facility,Office of Educational Services Department of Corrections,Annandale,,,,true
 William H. Ross III School,Margate City School District,Margate,186,13,Yes participating without using any Provision or the CEO,false
 William Harrison Elementary School,Trenton Public School District,Trenton,243,215,Yes under Community Eligibility Option (CEO),false
 William J. McGinn Elementary School,Scotch Plains-Fanwood School District,Scotch Plains,543,6,No,false

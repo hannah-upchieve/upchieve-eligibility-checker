@@ -52,4 +52,9 @@ city, falling back to state + school name. Omitting it sets every school to `fal
 The script title-cases ALL-CAPS names (keeping acronyms like ISD, USD, HS, and fixing
 McKinley / O'Brien / St. / 10th), maps state names to codes, and drops rows with no
 enrollment — closed schools and administrative records, which aren't places a student
-would search for.
+would search for. Admin-approved schools are kept even with no enrollment, since those
+are real places a student attends.
+
+Schools in the approval list that aren't in the NCES export at all (about 1,500,
+largely alternative programs and recently opened schools) are not in these files and
+can't be found on the site.
