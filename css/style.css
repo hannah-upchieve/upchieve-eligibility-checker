@@ -10,30 +10,26 @@
   display: none !important;
 }
 
+/* Transparent so the page takes on whatever it is embedded in. tokens.css
+   sets a background on `html` too, which paints the canvas on its own. */
+html,
 body {
   margin: 0;
-  background: var(--bg-app);
+  background: transparent;
 }
 
 .page {
   max-width: 520px;
   margin: 0 auto;
-  padding: 40px var(--space-md) var(--space-xxl);
-}
-
-.logo {
-  height: 40px;
-  display: block;
-  margin: 0 auto var(--space-lg);
+  padding: var(--space-xs) var(--space-md) var(--space-md);
 }
 
 /* ——— Card ——— */
 
+/* No surface of its own — the host page supplies the background. */
 .card {
-  background: var(--bg-card);
-  border-radius: var(--radius-md);
-  box-shadow: var(--shadow-1);
-  padding: var(--space-xl);
+  background: transparent;
+  padding: 0;
 }
 
 .card h1 {
@@ -292,10 +288,6 @@ input:disabled {
 
 @media (max-width: 560px) {
   .page {
-    padding: var(--space-lg) var(--space-sm) var(--space-lg);
-  }
-
-  .card {
-    padding: var(--space-md);
+    padding: var(--space-xs) var(--space-sm) var(--space-md);
   }
 }
