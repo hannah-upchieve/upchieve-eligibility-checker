@@ -1,14 +1,14 @@
 const FRL_THRESHOLD = 0.40;
 
-// TODO: replace with the real nomination form URL
-const NOMINATION_URL = "#";
 const SUPPORT_EMAIL = "support@upchieve.org";
 
 const ICON_ELIGIBLE = `<svg class="result-icon" viewBox="0 0 44 44" fill="none" aria-hidden="true"><circle cx="21.93" cy="22.2" r="19.79" fill="#f2fbf9" stroke="#16d2aa" stroke-width="4"/><path d="m19.6 27.99.75.75m-.75-.75-.75.75m.75-.75c.75.75.75.75.75.75m0 0c-.41.42-1.09.42-1.5 0m1.5 0 10.95-10.95c.42-.42.42-1.09 0-1.51-.41-.41-1.09-.41-1.5 0l-10.2 10.2-4.93-4.93c-.41-.41-1.09-.41-1.5 0-.42.42-.42 1.09 0 1.51l5.68 5.68" stroke="#16d2aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></svg>`;
 
 const ICON_NOT_ELIGIBLE = `<svg class="result-icon" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="m8 16c4.4183 0 8-3.5817 8-8 0-4.41828-3.5817-8-8-8-4.41827 0-8 3.58172-8 8 0 4.4183 3.58173 8 8 8zm-.784-10.608c.15198.136.36798.204.64801.204.27198 0 .47998-.068.62397-.204.15203-.144.22802-.344.22802-.6s-.07599-.452-.22802-.588c-.14399-.136-.35199-.204-.62397-.204-.28003 0-.49603.068-.64801.204-.14398.136-.216.332-.216.588s.07202.456.216.6zm1.284 7.212v-6h-1.284v6z" fill="#1855d1"/></svg>`;
 
-const stateSelect = document.getElementById("state-select");
+const stateButton = document.getElementById("state-button");
+const stateValue = document.getElementById("state-value");
+const stateList = document.getElementById("state-list");
 const searchSection = document.getElementById("search-section");
 const searchInput = document.getElementById("school-search");
 const resultsList = document.getElementById("results-list");
@@ -22,36 +22,102 @@ let currentStateCode = "";
 populateStates();
 
 function populateStates() {
-  const placeholder = document.createElement("option");
-  placeholder.value = "";
-  placeholder.textContent = "Select your state";
-  placeholder.disabled = true;
-  placeholder.selected = true;
-  stateSelect.appendChild(placeholder);
-
   for (const state of STATES) {
-    const option = document.createElement("option");
-    option.value = state.code;
+    const option = document.createElement("li");
+    option.className = "result-item option";
+    option.setAttribute("role", "option");
+    option.setAttribute("aria-selected", "false");
+    option.dataset.code = state.code;
+    option.tabIndex = -1;
     option.textContent = state.name;
-    stateSelect.appendChild(option);
+    option.addEventListener("click", () => chooseState(state));
+    stateList.appendChild(option);
   }
 }
 
-stateSelect.addEventListener("change", async () => {
-  const code = stateSelect.value;
-  const state = STATES.find((s) => s.code === code);
-  currentStateName = state ? state.name : "";
-  currentStateCode = state ? state.code : "";
+function stateOptions() {
+  return [...stateList.querySelectorAll(".option")];
+}
+
+function openStateList() {
+  stateList.hidden = false;
+  stateButton.setAttribute("aria-expanded", "true");
+  const selected = stateList.querySelector('[aria-selected="true"]');
+  (selected || stateOptions()[0]).focus();
+  if (selected) selected.scrollIntoView({ block: "center" });
+  postHeight();
+}
+
+function closeStateList({ refocus = false } = {}) {
+  if (stateList.hidden) return;
+  stateList.hidden = true;
+  stateButton.setAttribute("aria-expanded", "false");
+  if (refocus) stateButton.focus();
+  postHeight();
+}
+
+stateButton.addEventListener("click", () => {
+  if (stateList.hidden) openStateList();
+  else closeStateList();
+});
+
+stateButton.addEventListener("keydown", (e) => {
+  if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+    e.preventDefault();
+    openStateList();
+  }
+});
+
+stateList.addEventListener("keydown", (e) => {
+  const options = stateOptions();
+  const index = options.indexOf(document.activeElement);
+
+  if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+    e.preventDefault();
+    const step = e.key === "ArrowDown" ? 1 : -1;
+    const next = Math.min(Math.max(index + step, 0), options.length - 1);
+    options[next].focus();
+  } else if (e.key === "Home" || e.key === "End") {
+    e.preventDefault();
+    options[e.key === "Home" ? 0 : options.length - 1].focus();
+  } else if (e.key === "Enter" || e.key === " ") {
+    e.preventDefault();
+    document.activeElement.click();
+  } else if (e.key === "Escape" || e.key === "Tab") {
+    closeStateList({ refocus: e.key === "Escape" });
+  } else if (/^[a-z]$/i.test(e.key)) {
+    // Jump to the next state starting with that letter, as a native select does.
+    const after = options.slice(index + 1).concat(options.slice(0, index + 1));
+    const match = after.find((o) =>
+      o.textContent.toLowerCase().startsWith(e.key.toLowerCase())
+    );
+    if (match) match.focus();
+  }
+});
+
+document.addEventListener("click", (e) => {
+  if (!e.target.closest(".select-wrap")) closeStateList();
+});
+
+async function chooseState(state) {
+  currentStateName = state.name;
+  currentStateCode = state.code;
+
+  stateValue.textContent = state.name;
+  stateButton.classList.remove("is-placeholder");
+  for (const option of stateOptions()) {
+    option.setAttribute("aria-selected", String(option.dataset.code === state.code));
+  }
+  closeStateList({ refocus: true });
+
   resetResults();
   searchInput.value = "";
   searchInput.disabled = true;
   searchSection.hidden = true;
 
-  if (!code) return;
-
   setStatus(`Loading schools in ${currentStateName}…`);
   try {
-    currentSchools = await loadStateSchools(code);
+    currentSchools = await loadStateSchools(state.code);
     setStatus("");
     searchSection.hidden = false;
     searchInput.disabled = false;
@@ -65,7 +131,7 @@ stateSelect.addEventListener("change", async () => {
     );
     postHeight();
   }
-});
+}
 
 searchInput.addEventListener("input", () => {
   const query = searchInput.value.trim().toLowerCase();
@@ -160,22 +226,15 @@ function renderEligibility(school) {
     .join(" · ");
   body.appendChild(meta);
 
-  if (eligible) {
-    const nominate = document.createElement("a");
-    nominate.className = "btn btn-primary";
-    nominate.href = NOMINATION_URL;
-    nominate.textContent = "Nominate your school";
-    body.appendChild(nominate);
-  } else {
+  if (!eligible) {
     const explanation = document.createElement("p");
     explanation.className = "explanation";
     const supportLink = document.createElement("a");
     supportLink.href = `mailto:${SUPPORT_EMAIL}`;
     supportLink.textContent = SUPPORT_EMAIL;
     explanation.append(
-      "UPchieve only partners with schools that are at least 40% low-income. " +
-        "If you believe your school should be eligible based on this criteria, " +
-        "please reach out to us at ",
+      "If you believe your school should be eligible based on the criteria " +
+        "above, please reach out to us at ",
       supportLink,
       "."
     );
@@ -270,8 +329,8 @@ function postHeight() {
   // never reports less than the iframe's own height, so it could not shrink.
   const page = document.querySelector(".page");
   let height = Math.ceil(page.getBoundingClientRect().bottom + window.scrollY);
-  if (!resultsList.hidden) {
-    const bottom = resultsList.getBoundingClientRect().bottom + window.scrollY;
+  for (const panel of document.querySelectorAll(".results-list:not([hidden])")) {
+    const bottom = panel.getBoundingClientRect().bottom + window.scrollY;
     height = Math.max(height, Math.ceil(bottom) + 16);
   }
   // A couple of pixels of slack: at an exact fit, sub-pixel rounding is

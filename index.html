@@ -4,6 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Check your school's eligibility — UPchieve</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/tokens.css" />
   <link rel="stylesheet" href="css/style.css" />
   <script>
@@ -21,8 +24,23 @@
       <p class="lede">Select your state, then find your school.</p>
 
       <div class="field">
-        <label for="state-select">Your state</label>
-        <select id="state-select"></select>
+        <span class="field-label" id="state-label">Your state</span>
+        <div class="select-wrap">
+          <button
+            type="button"
+            id="state-button"
+            class="select-button is-placeholder"
+            aria-haspopup="listbox"
+            aria-expanded="false"
+            aria-labelledby="state-label state-button"
+          >
+            <span id="state-value">Select your state</span>
+            <svg class="select-caret" viewBox="0 0 12 8" aria-hidden="true">
+              <path d="M1 1.5 6 6.5l5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+          <ul id="state-list" class="results-list" role="listbox" aria-labelledby="state-label" hidden></ul>
+        </div>
       </div>
 
       <div class="field" id="search-section" hidden>
