@@ -169,8 +169,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 341377006057,Bergen Boulevard School,Ridgefield School District,Ridgefield,187,93,Yes participating without using any Provision or the CEO,false
 340147000250,Bergen County Academies,Bergen County Vocational Technical School District,Hackensack,1130,110,Yes participating without using any Provision or the CEO,false
 340147003543,Bergen County Institute for Science and Technology,Bergen County Vocational Technical School District,Demarest,290,24,No,false
-,Bergen County Technical High School - Paramus,Bergen County Vocational Technical School District,Paramus,288,101,No,false
-,Bergen County Technical High School - Paramus,Bergen County Vocational Technical School District,Paramus,14,8,Yes participating without using any Provision or the CEO,false
+340147000252,Bergen County Technical High School - Paramus (Special Education),Bergen County Vocational Technical School District,Paramus,288,101,No,false
+340147000264,Bergen County Technical High School - Paramus (Vocational),Bergen County Vocational Technical School District,Paramus,14,8,Yes participating without using any Provision or the CEO,false
 340147000262,Bergen County Technical High School - Teterboro,Bergen County Vocational Technical School District,Teterboro,665,96,Yes participating without using any Provision or the CEO,false
 340008500743,Bergen Regional School,Office of Education Department of Children and Families,Paramus,0,,No,true
 340150000268,Bergenfield High School,Bergenfield Borough School District,Bergenfield,1239,488,Yes participating without using any Provision or the CEO,false

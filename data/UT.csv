@@ -551,8 +551,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 490114000881,Millcreek High,Washington District,St George,118,59,Yes participating without using any Provision or the CEO,true
 490021000133,Millcreek Jr High,Davis District,Bountiful,673,115,Yes participating without using any Provision or the CEO,false
 490012000674,Millville School,Cache District,Millville,493,157,Yes participating without using any Provision or the CEO,false
-,Minersville School,Beaver District,Minersville,82,44,Yes participating without using any Provision or the CEO,false
-,Minersville School,Beaver District,Minersville,38,24,No,false
+490006000040,Minersville School (Elementary School),Beaver District,Minersville,82,44,Yes participating without using any Provision or the CEO,false
+490006000912,Minersville School (Middle School),Beaver District,Minersville,38,24,No,false
 490003501085,Moab Charter School,Moab Charter School,Moab,70,27,Yes participating without using any Provision or the CEO,false
 490045000795,Mona School,Juab District,Mona,280,71,Yes participating without using any Provision or the CEO,false
 490093000541,Monroe School,Sevier District,Monroe,537,257,Yes participating without using any Provision or the CEO,false

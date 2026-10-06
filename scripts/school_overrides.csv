@@ -1,0 +1,22 @@
+state,school_name,total_students,nces_id,new_school_name
+OK,Dimensions Academy,561,402172002710,Dimensions Academy (High School)
+OK,Dimensions Academy,738,402172002714,Dimensions Academy (Elementary School)
+TX,Tekoa Academy of Accelerated Studies,236,480013908309,Tekoa Academy of Accelerated Studies (Elementary School)
+TX,Tekoa Academy of Accelerated Studies,46,480013912285,Tekoa Academy of Accelerated Studies (Middle School)
+TX,Tekoa Academy of Accelerated Studies,52,480013912365,Tekoa Academy of Accelerated Studies (High School)
+UT,Minersville School,82,490006000040,Minersville School (Elementary School)
+UT,Minersville School,38,490006000912,Minersville School (Middle School)
+TX,Beta Academy,1032,480144614073,Beta Academy (Grades PK–5)
+TX,Beta Academy,537,480144613188,Beta Academy (Grades 6–12)
+OK,Oklahoma School for the Deaf,54,400007502347,Oklahoma School for the Deaf (Grades PK–8)
+OK,Oklahoma School for the Deaf,39,400007502348,Oklahoma School for the Deaf (Grades 9–12)
+TX,Bean El,235,482850022880,Bean El (Grades PK–3)
+TX,Bean El,218,482850010907,Bean El (Grades 4–5)
+OH,Riverdale Elementary School,197,390475102907,Riverdale Elementary School (Grades K–2)
+OH,Riverdale Elementary School,221,390475102908,Riverdale Elementary School (Grades 3–5)
+MI,Waterford Montessori Academy,188,260105308898,Waterford Montessori Academy (Grades K–8)
+MI,Waterford Montessori Academy,213,260105308562,Waterford Montessori Academy (Grades PK–5)
+NJ,Bergen County Technical High School - Paramus,288,340147000252,Bergen County Technical High School - Paramus (Special Education)
+NJ,Bergen County Technical High School - Paramus,14,340147000264,Bergen County Technical High School - Paramus (Vocational)
+CA,Excel Academy Charter,1069,060250014435,Excel Academy Charter
+CA,Excel Academy Charter,660,,

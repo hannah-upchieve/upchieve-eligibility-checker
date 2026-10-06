@@ -2838,8 +2838,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 061317004183,Evergreen Middle,Evergreen Union,Cottonwood,399,223,Yes under Community Eligibility Option (CEO),true
 061182010665,Evergreen Valley High,East Side Union High,San Jose,2703,606,Yes under Provision 2,false
 061455001725,Ewing Elementary,Fresno Unified,Fresno,842,708,Yes under Community Eligibility Option (CEO),false
-,Excel Academy Charter,Excel Academy Charter District,Irvine,1069,446,,false
-,Excel Academy Charter,Excel Academy Charter District,Irvine,660,331,,false
+060250014435,Excel Academy Charter,Excel Academy Charter District,Irvine,1069,446,,false
 060231305058,Excelsior Charter,Excelsior Charter District,Victorville,2170,1568,Yes under Community Eligibility Option (CEO),true
 060196614354,Excelsior Charter School Corona-Norco,Excelsior Charter School Corona-Norco District,Corona,133,68,Yes under Community Eligibility Option (CEO),true
 061488001841,Excelsior Elementary,Garden Grove Unified,Garden Grove,426,343,Yes under Community Eligibility Option (CEO),false

@@ -526,8 +526,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481428012409,Bayside Int,Clear Creek ISD,League City,978,271,Yes participating without using any Provision or the CEO,false
 482115002107,Baytown J H,Goose Creek Cisd,Baytown,711,576,Yes participating without using any Provision or the CEO,true
 483873004325,Beacon Hill Pri,San Antonio ISD,San Antonio,267,236,Yes under Community Eligibility Option (CEO),false
-,Bean El,Lubbock ISD,Lubbock,218,204,Yes under Community Eligibility Option (CEO),false
-,Bean El,Lubbock ISD,Lubbock,235,231,Yes under Community Eligibility Option (CEO),false
+482850010907,Bean El (Grades 4–5),Lubbock ISD,Lubbock,218,204,Yes under Community Eligibility Option (CEO),false
+482850022880,Bean El (Grades PK–3),Lubbock ISD,Lubbock,235,231,Yes under Community Eligibility Option (CEO),false
 482391002642,Bear Branch El,Humble ISD,Kingwood,623,120,Yes participating without using any Provision or the CEO,false
 482874005895,Bear Branch El,Magnolia ISD,Magnolia,489,144,Yes participating without using any Provision or the CEO,false
 482874013624,Bear Branch Int,Magnolia ISD,Magnolia,1082,411,Yes participating without using any Provision or the CEO,false
@@ -632,8 +632,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481323010559,Bessie Coleman Middle,Cedar Hill ISD,Cedar Hill,488,362,Yes under Community Eligibility Option (CEO),true
 480783021293,Best El,Alief ISD,Houston,655,609,Yes participating without using any Provision or the CEO,false
 481168003325,Besteiro Middle,Brownsville ISD,Brownsville,558,527,Yes under Community Eligibility Option (CEO),true
-,Beta Academy,Beta Academy,Houston,1032,764,Yes participating without using any Provision or the CEO,true
-,Beta Academy,Beta Academy,Houston,537,346,Yes participating without using any Provision or the CEO,true
+480144614073,Beta Academy (Grades PK–5),Beta Academy,Houston,1032,764,Yes participating without using any Provision or the CEO,true
+480144613188,Beta Academy (Grades 6–12),Beta Academy,Houston,537,346,Yes participating without using any Provision or the CEO,true
 483510003542,Bethany El,Plano ISD,Plano,266,53,Yes participating without using any Provision or the CEO,false
 482517013138,Bethke El,Katy ISD,Katy,964,517,Yes under Community Eligibility Option (CEO),false
 482526011019,Bette Perot El,Keller ISD,Keller,498,122,Yes participating without using any Provision or the CEO,false
@@ -7992,9 +7992,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483447003871,Ted Flores El,Pearsall ISD,Pearsall,503,420,Yes under Community Eligibility Option (CEO),false
 483432017033,Tegeler Community School,Pasadena ISD,Pasadena,150,130,Yes under Community Eligibility Option (CEO),false
 483294008447,Tejeda Middle,North East ISD,San Antonio,1014,256,Yes participating without using any Provision or the CEO,false
-,Tekoa Academy of Accelerated Studies,Tekoa Academy of Accelerated Studies STEM School,Port Arthur,46,37,Yes under Community Eligibility Option (CEO),true
-,Tekoa Academy of Accelerated Studies,Tekoa Academy of Accelerated Studies STEM School,Port Arthur,236,224,Yes under Community Eligibility Option (CEO),true
-,Tekoa Academy of Accelerated Studies,Tekoa Academy of Accelerated Studies STEM School,Port Arthur,52,36,Yes under Community Eligibility Option (CEO),true
+480013912285,Tekoa Academy of Accelerated Studies (Middle School),Tekoa Academy of Accelerated Studies STEM School,Port Arthur,46,37,Yes under Community Eligibility Option (CEO),true
+480013908309,Tekoa Academy of Accelerated Studies (Elementary School),Tekoa Academy of Accelerated Studies STEM School,Port Arthur,236,224,Yes under Community Eligibility Option (CEO),true
+480013912365,Tekoa Academy of Accelerated Studies (High School),Tekoa Academy of Accelerated Studies STEM School,Port Arthur,52,36,Yes under Community Eligibility Option (CEO),true
 480013912116,Tekoa Academy of Accelerated Studies - Orange,Tekoa Academy of Accelerated Studies STEM School,Orange,85,85,Yes under Community Eligibility Option (CEO),true
 481830006945,Telles Academy,El Paso ISD,El Paso,26,23,Yes under Community Eligibility Option (CEO),true
 484233004827,Temple H S,Temple ISD,Temple,2320,1531,Yes under Community Eligibility Option (CEO),true

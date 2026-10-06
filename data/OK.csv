@@ -442,8 +442,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 400991002667,Dickson MS,Dickson,Ardmore,282,165,Yes participating without using any Provision or the CEO,true
 400991000432,Dickson Upper ES,Dickson,Ardmore,277,164,Yes participating without using any Provision or the CEO,false
 400552029704,Dierks ES,Broken Bow,Broken Bow,387,311,Yes under Community Eligibility Option (CEO),false
-,Dimensions Academy,Norman,Norman,561,410,Yes under Community Eligibility Option (CEO),true
-,Dimensions Academy,Norman,Norman,738,400,Yes under Community Eligibility Option (CEO),true
+402172002710,Dimensions Academy (High School),Norman,Norman,561,410,Yes under Community Eligibility Option (CEO),true
+402172002714,Dimensions Academy (Elementary School),Norman,Norman,738,400,Yes under Community Eligibility Option (CEO),true
 403024029799,Disney ES,Tulsa,Tulsa,724,693,Yes under Community Eligibility Option (CEO),false
 403024029771,Dolores Huerta ES,Tulsa,Tulsa,324,292,Yes under Community Eligibility Option (CEO),false
 400885000374,Donald P Sloat JHS,Coweta,Coweta,541,252,Yes participating without using any Provision or the CEO,false
@@ -1150,8 +1150,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 400007602349,Oklahoma Schl for the Blind ES,Oklahoma School for the Blind,Muskogee,14,14,Yes under Community Eligibility Option (CEO),false
 400007602350,Oklahoma Schl for the Blind HS,Oklahoma School for the Blind,Muskogee,48,40,Yes under Community Eligibility Option (CEO),false
 400007602916,Oklahoma Schl for the Blind MS,Oklahoma School for the Blind,Muskogee,17,14,Yes under Community Eligibility Option (CEO),false
-,Oklahoma School for the Deaf,Oklahoma School for the Deaf,Sulphur,54,46,Yes under Community Eligibility Option (CEO),true
-,Oklahoma School for the Deaf,Oklahoma School for the Deaf,Sulphur,39,30,Yes under Community Eligibility Option (CEO),true
+400007502347,Oklahoma School for the Deaf (Grades PK–8),Oklahoma School for the Deaf,Sulphur,54,46,Yes under Community Eligibility Option (CEO),true
+400007502348,Oklahoma School for the Deaf (Grades 9–12),Oklahoma School for the Deaf,Sulphur,39,30,Yes under Community Eligibility Option (CEO),true
 400002100848,Oklahoma Union ES,Oklahoma Union,South Coffeyville,265,178,Yes participating without using any Provision or the CEO,false
 400002129712,Oklahoma Union HS,Oklahoma Union,South Coffeyville,185,112,Yes participating without using any Provision or the CEO,false
 400002102290,Oklahoma Union MS,Oklahoma Union,South Coffeyville,143,87,Yes participating without using any Provision or the CEO,true

@@ -2623,8 +2623,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390464802570,River View High School,River View Local,Warsaw,662,435,Yes participating without using any Provision or the CEO,false
 390464804164,River View Intermediate School,River View Local,Warsaw,485,306,Yes participating without using any Provision or the CEO,true
 390438400791,River's Edge Montessori Elementary School,Dayton City,Dayton,552,,Yes under Community Eligibility Option (CEO),false
-,Riverdale Elementary School,Riverdale Local,Mt Blanchard,197,,No,false
-,Riverdale Elementary School,Riverdale Local,Mt Blanchard,221,,No,false
+390475102907,Riverdale Elementary School (Grades K–2),Riverdale Local,Mt Blanchard,197,,No,false
+390475102908,Riverdale Elementary School (Grades 3–5),Riverdale Local,Mt Blanchard,221,,No,false
 390475102909,Riverdale High School,Riverdale Local,Mt Blanchard,321,318,Yes participating without using any Provision or the CEO,true
 390475102910,Riverdale Middle School,Riverdale Local,Mt Blanchard,208,,No,false
 390004302979,Riverside Community School Inc. Dba Riverside Academy,Riverside Community School Inc. dba Riverside Academy,Cincinnati,192,,Yes under Community Eligibility Option (CEO),true
