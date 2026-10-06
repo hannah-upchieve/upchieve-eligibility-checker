@@ -2,6 +2,11 @@ const FRL_THRESHOLD = 0.40;
 
 const SUPPORT_EMAIL = "support@upchieve.org";
 
+// UPchieve serves grades 6–12. A school whose highest grade is below this is
+// ineligible; one whose highest grade is exactly this is checked as usual but
+// gets a note that its younger students aren't covered.
+const LOWEST_SERVED_GRADE = 6;
+
 const ICON_ELIGIBLE = `<svg class="result-icon" viewBox="0 0 44 44" fill="none" aria-hidden="true"><circle cx="21.93" cy="22.2" r="19.79" fill="#f2fbf9" stroke="#16d2aa" stroke-width="4"/><path d="m19.6 27.99.75.75m-.75-.75-.75.75m.75-.75c.75.75.75.75.75.75m0 0c-.41.42-1.09.42-1.5 0m1.5 0 10.95-10.95c.42-.42.42-1.09 0-1.51-.41-.41-1.09-.41-1.5 0l-10.2 10.2-4.93-4.93c-.41-.41-1.09-.41-1.5 0-.42.42-.42 1.09 0 1.51l5.68 5.68" stroke="#16d2aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></svg>`;
 
 const ICON_NOT_ELIGIBLE = `<svg class="result-icon" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="m8 16c4.4183 0 8-3.5817 8-8 0-4.41828-3.5817-8-8-8-4.41827 0-8 3.58172-8 8 0 4.4183 3.58173 8 8 8zm-.784-10.608c.15198.136.36798.204.64801.204.27198 0 .47998-.068.62397-.204.15203-.144.22802-.344.22802-.6s-.07599-.452-.22802-.588c-.14399-.136-.35199-.204-.62397-.204-.28003 0-.49603.068-.64801.204-.14398.136-.216.332-.216.588s.07202.456.216.6zm1.284 7.212v-6h-1.284v6z" fill="#1855d1"/></svg>`;
@@ -199,11 +204,16 @@ function selectSchool(school) {
 }
 
 function renderEligibility(school) {
-  const eligible = isEligible(school);
+  const topGrade = gradeNumber(school.max_grade);
+  const tooYoung = topGrade !== null && topGrade < LOWEST_SERVED_GRADE;
+  const eligible = !tooYoung && isEligible(school);
+  const partlyServed = eligible && topGrade === LOWEST_SERVED_GRADE;
 
   resultCard.innerHTML = eligible ? ICON_ELIGIBLE : ICON_NOT_ELIGIBLE;
   resultCard.hidden = false;
-  resultCard.className = `result-card ${eligible ? "eligible" : "not-eligible"}`;
+  resultCard.className = `result-card ${
+    partlyServed ? "eligible-caveat" : eligible ? "eligible" : "not-eligible"
+  }`;
 
   const body = document.createElement("div");
   body.className = "result-body";
@@ -221,12 +231,27 @@ function renderEligibility(school) {
 
   const meta = document.createElement("p");
   meta.className = "school-meta";
-  meta.textContent = [school.district_name, cityWithState(school)]
+  meta.textContent = [gradeRange(school), school.district_name, cityWithState(school)]
     .filter(Boolean)
     .join(" · ");
   body.appendChild(meta);
 
-  if (!eligible) {
+  if (tooYoung) {
+    body.appendChild(explanationParagraph(
+      "UPchieve currently provides support for students in 6th through " +
+        "12th grade."
+    ));
+  } else if (partlyServed) {
+    const note = explanationParagraph(
+      " UPchieve currently provides support for students in 6th through " +
+        "12th grade. This means that only a limited number of students at your " +
+        "school would be eligible to receive support from UPchieve."
+    );
+    const label = document.createElement("strong");
+    label.textContent = "NOTE:";
+    note.prepend(label);
+    body.appendChild(note);
+  } else if (!eligible) {
     const explanation = document.createElement("p");
     explanation.className = "explanation";
     const supportLink = document.createElement("a");
@@ -243,6 +268,42 @@ function renderEligibility(school) {
 
   resultCard.appendChild(body);
   resultCard.scrollIntoView({ behavior: "smooth", block: "nearest" });
+}
+
+function explanationParagraph(text) {
+  const p = document.createElement("p");
+  p.className = "explanation";
+  p.textContent = text;
+  return p;
+}
+
+// "Prekindergarten" -> -1, "Kindergarten" -> 0, "6th Grade" -> 6. Anything
+// else (blank, "Ungraded", "Adult Education") is null: no grade rule applies.
+function gradeNumber(value) {
+  const text = (value || "").trim().toLowerCase();
+  if (text === "prekindergarten") return -1;
+  if (text === "kindergarten") return 0;
+  const match = text.match(/^(\d+)(st|nd|rd|th) grade$/);
+  return match ? Number(match[1]) : null;
+}
+
+// "Grades K-5", or "Grade 6" for a single grade. Left out when either end
+// isn't a numbered grade (blank, "Ungraded", "Adult Education"). Shown no
+// higher than 12th: NCES lists some early-college high schools as going to 13th.
+function gradeRange(school) {
+  let low = gradeNumber(school.min_grade);
+  let high = gradeNumber(school.max_grade);
+  if (low === null || high === null) return "";
+  if (high > 12) high = 12;
+  if (low > 12) low = 12;
+  if (low === high) return `Grade ${gradeShort(low)}`;
+  return `Grades ${gradeShort(low)}-${gradeShort(high)}`;
+}
+
+function gradeShort(number) {
+  if (number === -1) return "PK";
+  if (number === 0) return "K";
+  return String(number);
 }
 
 function cityWithState(school) {
@@ -301,6 +362,8 @@ async function loadStateSchools(code) {
       frl_eligible_students: (row.frl_eligible_students || "").toString().trim(),
       national_school_lunch_program: (row.national_school_lunch_program || "").trim(),
       admin_approved: (row.admin_approved || "").trim(),
+      min_grade: (row.min_grade || "").trim(),
+      max_grade: (row.max_grade || "").trim(),
     }))
     .filter((row) => row.school_name.length > 0);
 }
