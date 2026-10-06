@@ -15,6 +15,9 @@ Expects these ELSI columns (the year suffix may differ between exports):
 Writes data/<STATE_CODE>.csv with the columns the checker reads. Rows with no
 enrollment (missing or 0 students) are dropped: those are closed schools and
 administrative records, not places a student would search for.
+
+This rewrites data/ without the nces_id column; run scripts/add_nces_ids.py
+afterwards to add it back.
 """
 
 import csv
