@@ -56,12 +56,14 @@ stateSelect.addEventListener("change", async () => {
     searchSection.hidden = false;
     searchInput.disabled = false;
     searchInput.focus();
+    postHeight();
   } catch (err) {
     console.error(err);
     currentSchools = [];
     setStatus(
       `We don't have ${currentStateName} schools loaded yet. Email ${SUPPORT_EMAIL} and we'll help you check.`
     );
+    postHeight();
   }
 });
 
@@ -73,6 +75,7 @@ searchInput.addEventListener("input", () => {
   if (query.length < 2) {
     resultsList.innerHTML = "";
     resultsList.hidden = true;
+    postHeight();
     return;
   }
 
@@ -92,6 +95,7 @@ function renderResults(matches) {
     li.className = "no-match";
     li.textContent = "No schools with that name. Try a shorter search.";
     resultsList.appendChild(li);
+    postHeight();
     return;
   }
 
@@ -119,11 +123,13 @@ function renderResults(matches) {
     resultsList.appendChild(li);
   }
   resultsList.hidden = false;
+  postHeight();
 }
 
 function selectSchool(school) {
   resultsList.hidden = true;
   renderEligibility(school);
+  postHeight();
 }
 
 function renderEligibility(school) {
@@ -246,8 +252,37 @@ function resetResults() {
   resultCard.hidden = true;
   resultCard.innerHTML = "";
   setStatus("");
+  postHeight();
 }
 
 function setStatus(msg) {
   statusMessage.textContent = msg;
 }
+
+/* ——— Embedding ———
+   Tell a host page how tall this content is, so an iframe can size to it.
+   The results dropdown is absolutely positioned and so does not grow the
+   document — it has to be measured separately or it gets clipped. */
+
+function postHeight() {
+  if (window.parent === window) return;
+  // Measured off the content, not scrollHeight: inside an iframe scrollHeight
+  // never reports less than the iframe's own height, so it could not shrink.
+  const page = document.querySelector(".page");
+  let height = Math.ceil(page.getBoundingClientRect().bottom + window.scrollY);
+  if (!resultsList.hidden) {
+    const bottom = resultsList.getBoundingClientRect().bottom + window.scrollY;
+    height = Math.max(height, Math.ceil(bottom) + 16);
+  }
+  // A couple of pixels of slack: at an exact fit, sub-pixel rounding is
+  // enough to raise a scrollbar inside the frame.
+  window.parent.postMessage(
+    { type: "upchieve-eligibility-height", height: height + 2 },
+    "*"
+  );
+}
+
+// Observes the content element, not body: body is stretched by the iframe
+// viewport, so it does not always change size when the content does.
+new ResizeObserver(postHeight).observe(document.querySelector(".page"));
+window.addEventListener("load", postHeight);

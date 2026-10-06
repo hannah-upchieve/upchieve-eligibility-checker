@@ -6,6 +6,13 @@
   <title>Check your school's eligibility — UPchieve</title>
   <link rel="stylesheet" href="css/tokens.css" />
   <link rel="stylesheet" href="css/style.css" />
+  <script>
+    // ?bare hides the title and intro, for embedding under a heading the host
+    // page already provides. Set on <html> so there is no flash of the title.
+    if (new URLSearchParams(location.search).has("bare")) {
+      document.documentElement.classList.add("bare");
+    }
+  </script>
 </head>
 <body>
   <main class="page">
