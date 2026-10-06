@@ -17,7 +17,7 @@ enrollment (missing or 0 students) are dropped: those are closed schools and
 administrative records, not places a student would search for.
 
 This rewrites data/ without the nces_id column; run scripts/add_nces_ids.py
-afterwards to add it back.
+afterwards to add it back, then scripts/add_grades.py for the grade columns.
 """
 
 import csv
