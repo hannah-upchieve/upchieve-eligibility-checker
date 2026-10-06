@@ -3046,8 +3046,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 263231007791,University High School Academy,Southfield Public School District,Lathrup Village,274,99,Yes under Community Eligibility Option (CEO),false
 262994006578,University Hills Elem School,Rochester Community School District,Rochester Hills,379,32,Yes participating without using any Provision or the CEO,false
 263231008426,University Middle School Academy,Southfield Public School District,Lathrup Village,338,136,Yes under Community Eligibility Option (CEO),false
-,University Preparatory Academy Psad Elementary,University Preparatory Academy (PSAD),Detroit,467,347,Yes under Community Eligibility Option (CEO),false
-,University Preparatory Academy Psad Elementary,University Preparatory Academy (PSAD),Detroit,438,358,Yes under Community Eligibility Option (CEO),false
+260095607836,University Preparatory Elementary - Mark Murray Campus,University Preparatory Academy (PSAD),Detroit,467,347,Yes under Community Eligibility Option (CEO),false
+260095607905,University Preparatory Elementary - Ellen Thompson Campus,University Preparatory Academy (PSAD),Detroit,438,358,Yes under Community Eligibility Option (CEO),false
 260095607842,University Preparatory Academy Psad High School,University Preparatory Academy (PSAD),Detroit,559,373,Yes under Community Eligibility Option (CEO),true
 260095607940,University Preparatory Academy Psad Middle,University Preparatory Academy (PSAD),Detroit,384,297,Yes under Community Eligibility Option (CEO),true
 260096108416,University Preparatory Art Design Elementary,University Preparatory Art & Design,Detroit,389,309,Yes under Community Eligibility Option (CEO),false

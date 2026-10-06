@@ -116,8 +116,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040187002995,Arizona College Prep Middle School,Chandler Unified District #80 (4242),Chandler,907,,Yes participating without using any Provision or the CEO,false
 040082103226,Arizona Collegiate High School,Pima Prevention Partnership (90536),Phoenix,139,,Yes under Community Eligibility Option (CEO),true
 040042703160,Arizona Connections Academy,Arizona Connections Academy Charter School Inc. (87407),Gilbert,1891,,No,true
-,Arizona Conservatory for Arts and Academics,Edkey Inc. dba Arizona Conservatory for Arts and (79981),Phoenix,235,,Yes under Community Eligibility Option (CEO),true
-,Arizona Conservatory for Arts and Academics,Edkey Inc. dba Arizona Conservatory for Arts and (79981),Phoenix,,,,true
+040065303004,Arizona Conservatory for Arts and Academics,Edkey Inc. dba Arizona Conservatory for Arts and (79981),Phoenix,235,,Yes under Community Eligibility Option (CEO),true
 040063702032,Arizona Conservatory for Arts and Academics Elementary Schoo,Edkey Inc. - Redwood Academy (81043),Phoenix,109,,Yes under Community Eligibility Option (CEO),false
 040324001806,Arizona Desert Elementary School,Gadsden Elementary District (4505),San Luis,662,,Yes under Community Eligibility Option (CEO),false
 040849001705,Arizona Desert Elementary School,Tolleson Elementary District (4264),Tolleson,843,,Yes under Community Eligibility Option (CEO),true
@@ -1320,7 +1319,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040026402084,Montessori De Santa Cruz Charter School,Santa Cruz Valley Opportunities in Education Inc. (79066),Amado,81,,No,true
 040007200834,Montessori Education Centre Charter School - Mesa,Montessori Education Centre Charter School (4363),Mesa,255,,No,false
 040007202264,Montessori Education Centre Charter School - North Campus,Montessori Education Centre Charter School (4363),Mesa,186,,No,false
-,Montessori Schoolhouse,Montessori Schoolhouse of Tucson Inc. (4428),Tucson,134,,No,false
+040012601778,Montessori Schoolhouse,Montessori Schoolhouse of Tucson Inc. (4428),Tucson,134,,No,false
 040406000324,Monument Valley High School,Kayenta Unified School District #27 (4396),Kayenta,618,,Yes under Community Eligibility Option (CEO),true
 040906000931,Moon Mountain School,Washington Elementary School District (4260),Phoenix,474,,Yes under Community Eligibility Option (CEO),false
 040345000280,Moon Valley High School,Glendale Union High School District (4285),Phoenix,1471,,Yes participating without using any Provision or the CEO,true

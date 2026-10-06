@@ -1,5 +1,5 @@
 nces_id,school_name,district_name,city_name,total_students,frl_eligible_students,national_school_lunch_program,admin_approved
-,A Seminole County Virtual School,Seminole,Lake Mary,210,38,No,false
+120171007703,A Seminole County Virtual School,Seminole,Lake Mary,210,38,No,false
 120009000067,A. Crawford Mosley High School,Bay,Lynn Haven,1864,553,Yes participating without using any Provision or the CEO,false
 120009008970,A. Gary Walsingham Academy,Bay,Panama City Beach,470,189,Yes under Community Eligibility Option (CEO),false
 120051000811,A. K. Suter Elementary School,Escambia,Pensacola,500,242,Yes participating without using any Provision or the CEO,false
@@ -838,7 +838,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120045000626,Dixie County High School,Dixie,Cross City,791,495,Yes under Community Eligibility Option (CEO),true
 120156001614,Dixie M. Hollins High School,Pinellas,Kenneth City,1934,924,Yes under Community Eligibility Option (CEO),true
 120045007816,Dixie Virtual Franchise,Dixie,Cross City,7,,No,false
-,Dixie Virtual Instruction Program,Dixie,Cross City,2,,No,false
+120045008031,Dixie Virtual Instruction Program,Dixie,Cross City,2,,No,false
 120159001712,Dixieland Elementary School,Polk,Lakeland,344,281,Yes under Community Eligibility Option (CEO),false
 120087004871,Doby Elementary School,Hillsborough,Apollo Beach,680,297,Yes under Community Eligibility Option (CEO),false
 120039003164,Doctors Charter School of Miami Shores,Miami-Dade,Miami Shores,567,137,Yes participating without using any Provision or the CEO,false
