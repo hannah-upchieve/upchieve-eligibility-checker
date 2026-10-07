@@ -11,7 +11,6 @@
   --margin-blue: #1855d1;
   --chalk-green: #16d2aa;
   --tint-green: #eaf9f5;
-  --tint-yellow: #fff7dd;   /* light tint of the design system's #fedf85 */
   --mono: "Space Mono", monospace;
   --offset-shadow: 4px 5px 0 rgba(22, 33, 58, 0.12);
 }
@@ -253,11 +252,6 @@ input:disabled {
 
 .result-card.eligible {
   background: var(--tint-green);
-}
-
-/* Eligible, but the school only goes up to 6th grade. */
-.result-card.eligible-caveat {
-  background: var(--tint-yellow);
 }
 
 .result-card.not-eligible {

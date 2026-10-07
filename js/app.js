@@ -3,9 +3,11 @@ const FRL_THRESHOLD = 0.40;
 const SUPPORT_EMAIL = "support@upchieve.org";
 
 // UPchieve serves grades 6–12. A school whose highest grade is below this is
-// ineligible; one whose highest grade is exactly this is checked as usual but
-// gets a note that its younger students aren't covered (unless it has none).
+// ineligible, and so is one that ends at this grade but starts below it (only
+// a few of its students would qualify). An eligible school that starts below
+// it gets a note saying which of its grades are covered.
 const LOWEST_SERVED_GRADE = 6;
+const HIGHEST_SERVED_GRADE = 12;
 
 const ICON_ELIGIBLE = `<svg class="result-icon" viewBox="0 0 44 44" fill="none" aria-hidden="true"><circle cx="21.93" cy="22.2" r="19.79" fill="#f2fbf9" stroke="#16d2aa" stroke-width="4"/><path d="m19.6 27.99.75.75m-.75-.75-.75.75m.75-.75c.75.75.75.75.75.75m0 0c-.41.42-1.09.42-1.5 0m1.5 0 10.95-10.95c.42-.42.42-1.09 0-1.51-.41-.41-1.09-.41-1.5 0l-10.2 10.2-4.93-4.93c-.41-.41-1.09-.41-1.5 0-.42.42-.42 1.09 0 1.51l5.68 5.68" stroke="#16d2aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></svg>`;
 
@@ -204,22 +206,19 @@ function selectSchool(school) {
 }
 
 function renderEligibility(school) {
-  const topGrade = gradeNumber(school.max_grade);
-  const tooYoung = topGrade !== null && topGrade < LOWEST_SERVED_GRADE;
-  const eligible = !tooYoung && isEligible(school);
-  // Only schools that also have younger students get the note: a 6th-grade-
-  // only school is fully served. An unknown lowest grade keeps the note.
   const lowGrade = gradeNumber(school.min_grade);
-  const partlyServed =
-    eligible &&
-    topGrade === LOWEST_SERVED_GRADE &&
-    (lowGrade === null || lowGrade < LOWEST_SERVED_GRADE);
+  const topGrade = gradeNumber(school.max_grade);
+  const startsYoung = lowGrade !== null && lowGrade < LOWEST_SERVED_GRADE;
+  const tooYoung = topGrade !== null && topGrade < LOWEST_SERVED_GRADE;
+  // Ends at 6th but starts below it, e.g. K-6. A 6th-grade-only school is
+  // fully served and goes through the usual rules.
+  const fewServed = startsYoung && topGrade === LOWEST_SERVED_GRADE;
+  const meetsRules = isEligible(school);
+  const eligible = !tooYoung && !fewServed && meetsRules;
 
   resultCard.innerHTML = eligible ? ICON_ELIGIBLE : ICON_NOT_ELIGIBLE;
   resultCard.hidden = false;
-  resultCard.className = `result-card ${
-    partlyServed ? "eligible-caveat" : eligible ? "eligible" : "not-eligible"
-  }`;
+  resultCard.className = `result-card ${eligible ? "eligible" : "not-eligible"}`;
 
   const body = document.createElement("div");
   body.className = "result-body";
@@ -247,11 +246,21 @@ function renderEligibility(school) {
       "UPchieve currently provides support for students in 6th through " +
         "12th grade."
     ));
-  } else if (partlyServed) {
+  } else if (fewServed && meetsRules) {
+    body.appendChild(explanationParagraph(
+      "UPchieve currently supports students in 6th through 12th grade. " +
+        "Unfortunately, since only a limited number of students from your " +
+        "school fall within this range, your school is not eligible for the " +
+        "Level Up program at this time."
+    ));
+  } else if (eligible && startsYoung && topGrade !== null) {
+    const top = Math.min(topGrade, HIGHEST_SERVED_GRADE);
+    const grades = top === LOWEST_SERVED_GRADE + 1
+      ? `6th and ${top}th`
+      : `6th through ${top}th`;
     const note = explanationParagraph(
-      " UPchieve currently provides support for students in 6th through " +
-        "12th grade. This means that only a limited number of students at your " +
-        "school would be eligible to receive support from UPchieve."
+      ` Only the ${grades} grade students at your school would be eligible ` +
+        "for support through this program."
     );
     const label = document.createElement("strong");
     label.textContent = "NOTE:";
