@@ -592,7 +592,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370063000258,Down East Middle and Smyrna Elementary,Carteret County Public Schools,Smyrna,262,259,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 370333002336,Dr Hubert Eaton Sr Elem,New Hanover County Schools,Wilmington,461,140,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 370333002337,Dr John Codington Elem,New Hanover County Schools,Wilmington,470,125,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
-370048002836,Draughn High School,Burke County Schools,Valdese,661,649,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+370048002836,Draughn High School,Burke County Schools,Valdese,661,649,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370048002705,Drexel Elementary,Burke County Schools,Morganton,477,471,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370297001213,Druid Hills Academy,Charlotte-Mecklenburg Schools,Charlotte,288,285,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 370039000114,Dublin Primary,Bladen County Schools,Dublin,234,231,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -674,7 +674,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370033001922,Eastern Elementary,Beaufort County Schools,Washington,484,481,Yes participating without using any Provision or the CEO,false,Prekindergarten,1st Grade
 370192000821,Eastern Guilford High,Guilford County Schools,Gibsonville,1200,1192,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370192000832,Eastern Guilford Middle,Guilford County Schools,Gibsonville,901,898,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
-370507203235,Eastern Nc School for the Deaf,Eastern NC School for the Deaf,Wilson,36,33,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
+370507203235,Eastern Nc School for the Deaf,Eastern NC School for the Deaf,Wilson,36,33,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 370378001519,Eastern Randolph High School,Randolph County School System,Ramseur,586,582,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370488001949,Eastern Wayne Elementary,Wayne County Public Schools,Goldsboro,597,574,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370488001950,Eastern Wayne High,Wayne County Public Schools,Goldsboro,781,766,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
@@ -831,7 +831,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370472001859,Fuquay-Varina Elementary,Wake County Schools,Fuquay-Varina,772,277,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370472001861,Fuquay-Varina High,Wake County Schools,Fuquay-Varina,1858,466,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 370472001860,Fuquay-Varina Middle,Wake County Schools,Fuquay-Varina,1004,284,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-370327000736,G R Edwards Elementary,Nash County Public Schools,Rocky Mount,632,618,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
+370327000736,G R Edwards Elementary,Nash County Public Schools,Rocky Mount,632,618,Yes participating without using any Provision or the CEO,true,Kindergarten,5th Grade
 370001201499,G R Whitfield,Pitt County Schools,Grimesland,560,557,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 370132000551,G W Bulluck Elementary,Edgecombe County Public Schools,Rocky Mount,535,532,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370132000552,G W Carver Elementary,Edgecombe County Public Schools,Pinetops,550,538,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -879,7 +879,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370300001295,Gouge Primary,Mitchell County Schools,Bakersville,144,141,Yes participating without using any Provision or the CEO,false,Prekindergarten,2nd Grade
 370297001886,Gov's Village STEM (Lower),Charlotte-Mecklenburg Schools,Charlotte,784,781,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 370297002396,Gov's Village STEM (Upper),Charlotte-Mecklenburg Schools,Charlotte,684,681,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
-370032003236,Governor Morehead School for the Blind,Governor Morehead School for the Blind,Raleigh,35,32,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
+370032003236,Governor Morehead School for the Blind,Governor Morehead School for the Blind,Raleigh,35,32,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 370348001446,Grady Brown Elementary,Orange County Schools,Hillsborough,406,242,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370331000382,Graham a Barden Elementary,Craven County Board of Education,Havelock,237,218,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370003000009,Graham High,Alamance-Burlington Schools,Graham,828,825,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
@@ -1029,7 +1029,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370348001932,Hillsborough Elementary,Orange County Schools,Hillsborough,435,76,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370126000385,Hillside High,Durham Public Schools,Durham,1433,1430,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370078002626,Hiwassee Dam High,Cherokee County Schools,Murphy,137,134,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-370078000319,Hiwassee Dam Middle,Cherokee County Schools,Murphy,122,118,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+370078000319,Hiwassee Dam Middle,Cherokee County Schools,Murphy,122,118,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 370414001673,Hobbton Elementary,Sampson County Schools,Newton Grove,453,433,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 370414001672,Hobbton High,Sampson County Schools,Newton Grove,467,464,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370414000939,Hobbton Middle,Sampson County Schools,Newton Grove,428,425,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
@@ -1105,7 +1105,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370441001751,J Sam Gentry Middle,Surry County Schools,Mount Airy,320,317,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 370001100409,J W Coon Elementary,Cumberland County Schools,Fayetteville,186,183,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370225000969,J W McLauchlin Elementary,Hoke County Schools,Raeford,304,301,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
-370132000752,J W Parker Middle,Edgecombe County Public Schools,Rocky Mount,336,333,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
+370132000752,J W Parker Middle,Edgecombe County Public Schools,Rocky Mount,336,333,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 370001100431,J W Seabrook Elementary,Cumberland County Schools,Fayetteville,271,268,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370225001172,J W Turlington School,Hoke County Schools,Raeford,26,23,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
 370333002213,J. C. Roe Center,New Hanover County Schools,Wilmington,14,11,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
@@ -1176,7 +1176,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370204000903,Junaluska Elementary,Haywood County Schools,Waynesville,428,425,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 370001202142,Junius H Rose High,Pitt County Schools,Greenville,1568,1565,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370243003686,Kannapolis Middle School 6,Kannapolis City Schools,Kannapolis,358,355,Yes participating without using any Provision or the CEO,false,6th Grade,6th Grade
-370243002161,Kannapolis Middle School 7/8,Kannapolis City Schools,Kannapolis,782,779,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
+370243002161,Kannapolis Middle School 7/8,Kannapolis City Schools,Kannapolis,782,779,Yes participating without using any Provision or the CEO,true,7th Grade,8th Grade
 370192002989,Kearns Academy,Guilford County Schools,High Point,108,105,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370120000499,Kenansville Elementary,Duplin County Schools,Kenansville,599,596,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 370297001232,Kennedy Middle,Charlotte-Mecklenburg Schools,Charlotte,990,987,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -1209,7 +1209,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370405001621,Knollwood Elementary,Rowan-Salisbury Schools,Salisbury,585,582,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370108000452,Knotts Island Elementary,Currituck County Schools,Knotts Island,91,40,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 370150000616,Konnoak Elementary,Winston Salem / Forsyth County Schools,Winston Salem,600,597,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-370150000633,Konnoak Middle School,Winston Salem / Forsyth County Schools,Winston Salem,363,360,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+370150000633,Konnoak Middle School,Winston Salem / Forsyth County Schools,Winston Salem,363,360,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 370405002850,Koontz Elementary,Rowan-Salisbury Schools,Salisbury,554,514,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370045003190,Koontz Intermediate,Buncombe County Schools,Asheville,725,719,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
 370465001824,L B Yancey Elementary,Vance County Schools,Henderson,186,183,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -1281,7 +1281,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370268001115,Lincolnton Middle,Lincoln County Schools,Lincolnton,563,560,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 370024000068,Lindley Park Elementary,Asheboro City Schools,Asheboro,403,398,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 370162000695,Lingerfeldt Elementary,Gaston County Schools,Gastonia,450,447,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-370126000539,Little River Elementary,Durham Public Schools,Durham,326,323,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
+370126000539,Little River Elementary,Durham Public Schools,Durham,326,323,Yes participating without using any Provision or the CEO,true,Prekindergarten,5th Grade
 370393001572,Littlefield Middle,Public Schools of Robeson County,Lumberton,632,629,Yes participating without using any Provision or the CEO,true,4th Grade,8th Grade
 370472001874,Lockhart Elementary,Wake County Schools,Knightdale,463,460,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370432001710,Locust Elementary,Stanly County Schools,Locust,563,560,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -1354,7 +1354,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370297002784,Martin Luther King Jr Middle,Charlotte-Mecklenburg Schools,Charlotte,844,841,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 370472001877,Martin Middle,Wake County Schools,Raleigh,1011,299,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 370132003350,Martin Millennium Academy,Edgecombe County Public Schools,Tarboro,548,537,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
-370078000321,Martins Creek Elementary,Cherokee County Schools,Murphy,137,134,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
+370078000321,Martins Creek Elementary,Cherokee County Schools,Murphy,137,134,Yes participating without using any Provision or the CEO,true,Prekindergarten,5th Grade
 370003000203,Marvin B Smith Elementary,Alamance-Burlington Schools,Burlington,556,552,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370462002651,Marvin Elementary,Union County Public Schools,Marvin,666,29,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370462002845,Marvin Ridge High,Union County Public Schools,Waxhaw,1961,84,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -1517,7 +1517,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370192000839,Nathanael Greene Elementary,Guilford County Schools,Liberty,263,258,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 370297001246,Nations Ford Elementary,Charlotte-Mecklenburg Schools,Charlotte,610,607,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370034303289,Nc Leadership Charter Academy,NC Leadership Charter Academy,Kernersville,1209,,No,false,Kindergarten,12th Grade
-370507303234,Nc School for the Deaf,NC School for the Deaf,Morganton,64,61,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
+370507303234,Nc School for the Deaf,NC School for the Deaf,Morganton,64,61,Yes participating without using any Provision or the CEO,false,Prekindergarten,12th Grade
 370039803362,Nc Virtual Academy,NC Virtual Academy,Durham,3482,,No,true,Kindergarten,12th Grade
 370126000544,Neal Middle,Durham Public Schools,Durham,706,703,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 370294001180,Nebo Elementary School,McDowell County Schools,Nebo,354,351,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -1572,7 +1572,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370066000117,North Elementary,Caswell County Schools,Providence,320,317,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370363001481,North End Elementary,Person County Schools,Roxboro,283,280,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 370472002824,North Forest Pines Elementary,Wake County Schools,Raleigh,536,223,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-370150000624,North Forsyth Magnet High,Winston Salem / Forsyth County Schools,Winston Salem,1084,1081,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+370150000624,North Forsyth Magnet High,Winston Salem / Forsyth County Schools,Winston Salem,1084,1081,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370472001882,North Garner Middle,Wake County Schools,Garner,831,828,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 370162000702,North Gaston High,Gaston County Schools,Dallas,1061,1058,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370003000012,North Graham Elementary,Alamance-Burlington Schools,Graham,362,359,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -1708,7 +1708,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370001201503,Pactolus,Pitt County Schools,Greenville,657,654,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 370192000793,Page High,Guilford County Schools,Greensboro,1648,1645,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 370306002532,Page Street Elementary,Montgomery County Schools,Troy,248,245,Yes participating without using any Provision or the CEO,false,3rd Grade,5th Grade
-370150000630,Paisley Magnet School,Winston Salem / Forsyth County Schools,Winston Salem,553,550,Yes participating without using any Provision or the CEO,false,6th Grade,10th Grade
+370150000630,Paisley Magnet School,Winston Salem / Forsyth County Schools,Winston Salem,553,550,Yes participating without using any Provision or the CEO,true,6th Grade,10th Grade
 370297003622,Palisades High School,Charlotte-Mecklenburg Schools,Charlotte,2332,1242,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 370297003310,Palisades Park Elementary,Charlotte-Mecklenburg Schools,Charlotte,940,385,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 370351001450,Pamlico County High,Pamlico County Schools,Bayboro,423,420,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
@@ -1731,7 +1731,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370354002537,Pasquotank County High,Elizabeth City-Pasquotank Public Schools,Elizabeth City,653,650,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370348002536,Pathways Elementary,Orange County Schools,Hillsborough,371,202,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370053003174,Patriots Elementary,Cabarrus County Schools,Concord,636,237,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
-370048002832,Patton High School,Burke County Schools,Morganton,756,748,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+370048002832,Patton High School,Burke County Schools,Morganton,756,748,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 370035103285,Paul R. Brown Leadership Academy,Paul R Brown Leadership Academy,Elizabethtown,199,196,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
 370297001257,Paw Creek Elementary,Charlotte-Mecklenburg Schools,Charlotte,784,781,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370001203359,PCS Early College High School,Pitt County Schools,Winterville,334,331,Yes participating without using any Provision or the CEO,true,9th Grade,13th Grade
@@ -1871,7 +1871,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370378001528,Randleman Middle School,Randolph County School System,Randleman,765,762,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
 370378002883,Randolph Early College High School,Randolph County School System,Asheboro,358,159,Yes participating without using any Provision or the CEO,false,9th Grade,13th Grade
 370297001266,Randolph Middle,Charlotte-Mecklenburg Schools,Charlotte,1215,585,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-370078000325,Ranger Elementary,Cherokee County Schools,Murphy,264,261,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
+370078000325,Ranger Elementary,Cherokee County Schools,Murphy,264,261,Yes participating without using any Provision or the CEO,true,Prekindergarten,5th Grade
 370192000843,Rankin Elementary,Guilford County Schools,Greensboro,673,670,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370297001267,Ranson Middle,Charlotte-Mecklenburg Schools,Charlotte,757,754,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 370072002679,Rashkis Elementary,Chapel Hill-Carrboro City Schools,Chapel Hill,455,217,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -2233,7 +2233,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 370037403333,Stewart Creek High,Stewart Creek High School,Charlotte,342,,No,true,9th Grade,12th Grade
 370132001767,Stocks Elementary,Edgecombe County Public Schools,Tarboro,389,374,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370001201505,Stokes,Pitt County Schools,Stokes,218,215,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
-370438002411,Stokes County Academy,Stokes County Schools,Lawsonville,59,56,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
+370438002411,Stokes County Academy,Stokes County Schools,Lawsonville,59,56,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
 370438003129,Stokes Early College High School,Stokes County Schools,Walnut Cove,159,62,Yes participating without using any Provision or the CEO,false,9th Grade,13th Grade
 370192000851,Stokesdale Elementary,Guilford County Schools,Stokesdale,473,136,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 370114000460,Stoner-Thomas School,Davidson County Schools,Lexington,91,88,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade

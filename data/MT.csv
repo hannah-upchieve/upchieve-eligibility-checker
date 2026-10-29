@@ -21,7 +21,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 300225000020,Arlee High School,Arlee H S,Arlee,135,135,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 302172000647,Arrow Creek Elem School,Pryor Elem,Pryor,55,55,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 300230000022,Arrowhead Elementary,Arrowhead Elem,Pray,46,27,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
-300230000199,Arrowhead Middle School,Arrowhead Elem,Pray,17,9,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
+300230000199,Arrowhead Middle School,Arrowhead Elem,Pray,17,9,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
 300387000059,Arrowhead School,Billings Elem,Billings,434,80,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 300000801051,Ashland 7-8,Ashland Elem,Ashland,13,13,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 300000800023,Ashland School,Ashland Elem,Ashland,71,71,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -607,7 +607,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 302145000641,Powell County High School,Powell County H S,Deer Lodge,181,89,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 302151000643,Power Elementary,Power Elem,Power,42,22,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 302154000644,Power High School,Power H S,Power,39,17,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-302151001068,Power Middle School,Power Elem,Power,20,8,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+302151001068,Power Middle School,Power Elem,Power,20,8,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 300065501122,Prickly Pear Elem,East Helena K-12,East Helena,269,118,Yes participating without using any Provision or the CEO,false,1st Grade,2nd Grade
 302172000930,Pryor 7-8,Pryor Elem,Pryor,21,21,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 300741000212,Quentin Brown Primary K-4,Corvallis K-12 Schools,Corvallis,464,231,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
@@ -684,7 +684,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 302373000689,Seeley Lake Elementary,Seeley Lake Elem,Seeley Lake,122,121,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 301854000563,Seeley-Swan High School,Missoula H S,Seeley Lake,85,48,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 301854000564,Sentinel High School,Missoula H S,Missoula,1365,452,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-302390000693,Shelby 6-8,Shelby Elem,Shelby,109,65,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+302390000693,Shelby 6-8,Shelby Elem,Shelby,109,65,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 302390000692,Shelby Elementary School,Shelby Elem,Shelby,262,148,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 302391000694,Shelby High School,Shelby H S,Shelby,143,82,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 302394000695,Shepherd Elementary,Shepherd Elem,Shepherd,342,92,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -756,7 +756,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 302652000211,Trout Creek 7-8,Trout Creek Elem,Trout Creek,4,,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 302652000747,Trout Creek School,Trout Creek Elem,Trout Creek,32,32,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 302658000749,Troy High School,Troy H S,Troy,132,132,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-302655000999,Troy Junior High,Troy Elem,Troy,77,77,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+302655000999,Troy Junior High,Troy Elem,Troy,77,77,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 302664000933,Turner 7-8,Turner Elem,Turner,11,5,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
 302667000751,Turner High School,Turner H S,Turner,22,5,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 302664000750,Turner School,Turner Elem,Turner,29,13,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
@@ -772,7 +772,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 302706000758,Valier School,Valier Elem,Valier,58,31,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 301304000377,Valley View School,Great Falls Elem,Great Falls,312,180,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 302715000760,Valley View School,Valley View Elem,Polson,35,3,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
-300585000944,Vaughn 6-8,Vaughn Elem,Vaughn,32,32,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+300585000944,Vaughn 6-8,Vaughn Elem,Vaughn,32,32,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 300585000168,Vaughn Elementary,Vaughn Elem,Vaughn,93,93,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 302727000763,Victor High School,Victor K-12 Schools,Victor,74,74,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 302727001037,Victor Middle School,Victor K-12 Schools,Victor,48,48,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade

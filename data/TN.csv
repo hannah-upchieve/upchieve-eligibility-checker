@@ -120,12 +120,12 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 470369001502,Blackman Elementary School,Rutherford County,Murfreesboro,954,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 470369001354,Blackman High School,Rutherford County,Murfreesboro,2301,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 470369001904,Blackman Middle School,Rutherford County,Murfreesboro,1727,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-470249002660,Blanche School,Lincoln County,Taft,366,,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
+470249002660,Blanche School,Lincoln County,Taft,366,,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 470027000055,Bledsoe County High School,Bledsoe County,Pikeville,457,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 470027001035,Bledsoe County Middle School,Bledsoe County,Pikeville,342,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 470222000720,Blue Grass Elementary,Knox County,Knoxville,623,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 470399001619,Bluff City Elementary,Sullivan County,Bluff City,504,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-470015702688,Bluff City High School,Tennessee Public Charter School Commission,Memphis,514,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+470015702688,Bluff City High School,Tennessee Public Charter School Commission,Memphis,514,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 470069000270,Blythe-Bower Elementary,Cleveland,Cleveland,710,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 470435000422,Bobby Ray Memorial,Warren County,McMinnville,520,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 470165000539,Bolivar Elementary,Hardeman County Schools,Bolivar,670,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -284,7 +284,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 470147002062,Chuckey Doak Middle School,Greene County,Afton,360,,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 470147000444,Chuckey Elementary,Greene County,Chuckey,367,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 470174000574,Church Hill Elementary,Hawkins County,Church Hill,309,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
-470174000575,Church Hill Middle,Hawkins County,Church Hill,741,,Yes under Community Eligibility Option (CEO),false,5th Grade,8th Grade
+470174000575,Church Hill Middle,Hawkins County,Church Hill,741,,Yes under Community Eligibility Option (CEO),true,5th Grade,8th Grade
 470014802044,Circles of Success Learning Academy,Memphis-Shelby County Schools,Memphis,195,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 470014802352,City University School Girls Preparatory,Memphis-Shelby County Schools,Memphis,94,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 470014802400,City University School of Independence,Memphis-Shelby County Schools,Memphis,13,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -528,7 +528,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 470318002449,Explore Community School,Davidson County,Nashville,591,,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 470222000407,Fair Garden Family/Community Center,Knox County,Knoxville,147,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
 470255000908,Fairlane Elementary,Macon County,Lafayette,478,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,1st Grade
-470014810512,Fairley High School,Memphis-Shelby County Schools,Memphis,463,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+470014810512,Fairley High School,Memphis-Shelby County Schools,Memphis,463,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 470213000672,Fairmont Elementary,Johnson City,Johnson City,530,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 470036000111,Fairmount Elementary,Bristol,Bristol,351,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 470453001803,Fairview Elementary,Williamson County,Fairview,469,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -862,7 +862,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 470014810514,Journey Coleman K-8,Memphis-Shelby County Schools,Memphis,629,,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 470014802465,Journey East Academy,Memphis-Shelby County Schools,Memphis,376,,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 470318001331,Julia Green Elementary,Davidson County,Nashville,501,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-470318010428,Ka @ the Crossings,Davidson County,Antioch,400,,Yes under Community Eligibility Option (CEO),true,5th Grade,12th Grade
+470318010428,Ka @ the Crossings,Davidson County,Antioch,400,,Yes under Community Eligibility Option (CEO),false,5th Grade,12th Grade
 470222000747,Karns Elementary,Knox County,Knoxville,931,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 470222000748,Karns High School,Knox County,Knoxville,1365,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 470222000749,Karns Middle School,Knox County,Knoxville,900,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -945,7 +945,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 470240000868,Lenoir City High School,Lenoir City,Lenoir City,1259,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 470240000869,Lenoir City Intermediate/Middle School,Lenoir City,Lenoir City,722,,Yes under Community Eligibility Option (CEO),true,4th Grade,8th Grade
 470234001940,Leoma Elementary,Lawrence County,Leoma,538,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
-470015702370,Lester Prep,Tennessee Public Charter School Commission,Memphis,204,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
+470015702370,Lester Prep,Tennessee Public Charter School Commission,Memphis,204,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 470014801105,Levi Elementary,Memphis-Shelby County Schools,Memphis,454,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 470243000874,Lewis Co High School,Lewis County,Hohenwald,481,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 470243000873,Lewis County Elementary,Lewis County,Hohenwald,525,,Yes participating without using any Provision or the CEO,false,Prekindergarten,2nd Grade
@@ -1622,7 +1622,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 470150002651,Tennessee Online Public School at Greeneville,Greeneville,Greeneville,98,,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
 470192000632,Tennessee Ridge Elementary,Houston County,Tenn Ridge,217,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 470014602124,Tennessee School for Deaf Elementary School,Tennessee Schools for the Deaf,Knoxville,41,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-470014602140,Tennessee School for the Deaf High School,Tennessee Schools for the Deaf,Knoxville,45,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+470014602140,Tennessee School for the Deaf High School,Tennessee Schools for the Deaf,Knoxville,45,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 470014610516,Tennessee School for the Deaf Middle School,Tennessee Schools for the Deaf,Knoxville,20,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 470014602564,Tennessee School for the Deaf Nashville,Tennessee Schools for the Deaf,Nashville,25,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 470429002280,Tennessee Virtual Academy,Union County,Knoxville,1867,,Yes under Community Eligibility Option (CEO),true,Kindergarten,6th Grade

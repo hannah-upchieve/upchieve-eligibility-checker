@@ -415,7 +415,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 530180000289,Coupeville Elementary School,Coupeville School District,Coupeville,492,216,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 530180000290,Coupeville High School,Coupeville School District,Coupeville,256,87,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 530180002049,Coupeville Middle School,Coupeville School District,Coupeville,158,59,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-530180003514,Coupeville Open Academy,Coupeville School District,Coupeville,46,19,No,false,9th Grade,12th Grade
+530180003514,Coupeville Open Academy,Coupeville School District,Coupeville,46,19,No,true,9th Grade,12th Grade
 530396000613,Covington Elementary School,Kent School District,Covington,456,237,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 530270000415,Covington Middle School,Evergreen School District (Clark),Vancouver,830,482,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 530000300591,Coweeman Middle School,Kelso School District,Kelso,501,312,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -761,7 +761,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 531011001693,Gilbert Elementary School,Yakima School District,Yakima,415,323,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 530030000040,Gildo Rey Elementary School,Auburn School District,Auburn,416,302,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 530978003005,Glacier Middle School,White River School District,Buckley,999,369,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
-530354003674,Glacier Middle School,Highline School District,SeaTac,803,606,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
+530354003674,Glacier Middle School,Highline School District,SeaTac,803,606,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 530876001463,Glacier Park Elementary,Tahoma School District,Maple Valley,803,157,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 530802003217,Glacier Peak High School,Snohomish School District,Snohomish,1642,297,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 530696003260,Glacier View Junior High,Puyallup School District,Puyallup,843,381,Yes participating without using any Provision or the CEO,true,7th Grade,9th Grade
@@ -1597,7 +1597,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 530648003724,Open Door Re-Engagement,Othello School District,Othello,20,17,No,false,9th Grade,12th Grade
 530723003450,Open Door Youth Reengagement,Renton School District,Renton,50,32,No,false,11th Grade,12th Grade
 530015003704,Open Doors,Anacortes School District,Anacortes,7,,No,false,9th Grade,12th Grade
-530078003639,Open Doors,Burlington-Edison School District,Mt. Vernon,12,9,No,true,10th Grade,12th Grade
+530078003639,Open Doors,Burlington-Edison School District,Mt. Vernon,12,9,No,false,10th Grade,12th Grade
 530825003491,Open Doors,Spokane School District,Spokane,145,116,No,true,9th Grade,12th Grade
 530927003477,Open Doors,Vancouver School District,Vancouver,284,193,No,true,11th Grade,12th Grade
 530000803609,Open Doors - Youth Reengagement Program,Northwest Educational Service District 189,Anacortes,63,,No,false,9th Grade,12th Grade
@@ -1763,7 +1763,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 530486003480,Quil Ceda Tulalip Elementary,Marysville School District,Tulalip,498,355,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 530699001045,Quilcene High and Elementary,Quilcene School District,Quilcene,207,128,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
 530708001055,Quincy High School,Quincy School District,Quincy,860,675,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-530708003737,Quincy Innovation Academy,Quincy School District,Quincy,153,130,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
+530708003737,Quincy Innovation Academy,Quincy School District,Quincy,153,130,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
 530708003738,Quincy Innovation Academy Big Picture,Quincy School District,Quincy,24,12,No,false,6th Grade,12th Grade
 530708001056,Quincy Middle School,Quincy School District,Quincy,717,573,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 530447000709,R a Long High School,Longview School District,Longview,926,591,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -1804,7 +1804,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 530723001082,Renton Senior High School,Renton School District,Renton,1208,793,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 530032503695,Renton Technical High School,Renton Technical College,Renton,66,,No,false,11th Grade,12th Grade
 530726001088,Republic Elementary School,Republic School District,Republic,152,103,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-530726002949,Republic Middle School,Republic School District,Republic,86,59,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+530726002949,Republic Middle School,Republic School District,Republic,86,59,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 530726002888,Republic Parent Partner,Republic School District,Republic,199,38,No,false,Kindergarten,12th Grade
 530726001089,Republic Senior High School,Republic School District,Republic,103,67,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 530576001627,Richard Gordon Elementary,North Kitsap School District,Kingston,361,129,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -2039,7 +2039,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 530066003269,Special Services,Bremerton School District,Bremerton,15,11,No,false,Prekindergarten,Prekindergarten
 530132002613,Special Services,Clarkston School District,Clarkston,54,39,No,false,Prekindergarten,12th Grade
 530267002818,Special Services,Everett School District,Everett,95,32,No,true,Prekindergarten,12th Grade
-530543002820,Special Services,Mukilteo School District,Everett,45,22,No,true,Prekindergarten,12th Grade
+530543002820,Special Services,Mukilteo School District,Everett,45,22,No,false,Prekindergarten,12th Grade
 530870003275,Special Services,Tacoma School District,Tacoma,9,3,No,true,Prekindergarten,12th Grade
 530166003177,Special Services School,Concrete School District,Concrete,1,,No,false,Prekindergarten,Prekindergarten
 530696001040,Spinning Elementary,Puyallup School District,Puyallup,299,164,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -2048,7 +2048,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 530033703539,Spokane International Academy,Spokane International Academy,Spokane,824,456,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 530001002930,Spokane Juvenile Detention School,Educational Service District 101,Spokane,19,8,No,true,6th Grade,12th Grade
 530825003502,Spokane Public Montessori,Spokane School District,Spokane,413,121,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
-530969003769,Spokane Valley High School,West Valley School District (Spokane),Spokane,229,144,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+530969003769,Spokane Valley High School,West Valley School District (Spokane),Spokane,229,144,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 530111003387,Spokane Valley Tech Skills Center,Central Valley School District,Spokane Valley,28,3,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 530825003815,Spokane Virtual Academy,Spokane School District,Spokane,247,158,No,false,Prekindergarten,12th Grade
 530828001418,Sprague Elementary,Sprague School District,Sprague,33,20,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
@@ -2343,7 +2343,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 530963003572,Wellpinit Open Doors High School,Wellpinit School District #49,Wellpinit W,88,30,No,false,9th Grade,12th Grade
 530966001639,Wenatchee High School,Wenatchee School District,Wenatchee,2066,1262,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 530966002783,Wenatchee Valley Technical Skills Center,Wenatchee School District,Wenatchee,8,,No,false,9th Grade,12th Grade
-530030003902,West Auburn Senior High School,Auburn School District,Auburn,506,353,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
+530030003902,West Auburn Senior High School,Auburn School District,Auburn,506,353,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
 530066000144,West Hills S.t.e.m. Academy,Bremerton School District,Bremerton,283,200,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 530498000765,West Mercer Elementary,Mercer Island School District,Mercer Island,431,34,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 530771001182,West Seattle Elementary School,Seattle School District No. 1,Seattle,376,303,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade

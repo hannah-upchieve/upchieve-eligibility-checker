@@ -269,7 +269,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 510207000878,Central High,King and Queen County Public Schools,King And Queen C H,265,283,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 510408001789,Central High,Wise County Public Schools,Norton,676,613,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 510231000944,Central High,Lunenburg County Public Schools,Victoria,464,433,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-510351001543,Central High,Shenandoah County Public Schools,Woodstock,728,608,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+510351001543,Central High,Shenandoah County Public Schools,Woodstock,728,608,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 510075000264,Central Middle,Charlotte County Public Schools,Charlotte Court House,381,340,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 510126002183,Centre Ridge Elementary,Fairfax County Public Schools,Centreville,635,464,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 510126000775,Centreville Elementary,Fairfax County Public Schools,Centreville,741,274,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
@@ -1393,7 +1393,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 510381001660,Richlands Elementary,Tazewell County Public Schools,Richlands,576,521,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 510381001661,Richlands High,Tazewell County Public Schools,Richlands,557,493,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 510381001662,Richlands Middle,Tazewell County Public Schools,Richlands,447,394,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
-510324002307,Richmond Alternative School,Richmond City Public Schools,Richmond,277,,No,false,6th Grade,12th Grade
+510324002307,Richmond Alternative School,Richmond City Public Schools,Richmond,277,,No,true,6th Grade,12th Grade
 510324002966,Richmond Career Education and Employment Charter School,Richmond City Public Schools,Richmond,32,,No,true,9th Grade,12th Grade
 510324002075,Richmond Community High,Richmond City Public Schools,Richmond,211,210,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 510327001974,Richmond County Elementary,Richmond County Public Schools,Warsaw,854,732,Yes under Community Eligibility Option (CEO),false,Prekindergarten,7th Grade
@@ -1657,7 +1657,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 510369001608,Thomas C. McSwain Elementary,Staunton City Public Schools,Staunton,449,381,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 510084000350,Thomas Dale High,Chesterfield County Public Schools,Chester,2582,1916,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 510180000760,Thomas Eaton Middle,Hampton City Public Schools,Hampton,581,548,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
-510324001374,Thomas H. Henderson Middle,Richmond City Public Schools,Richmond,430,424,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+510324001374,Thomas H. Henderson Middle,Richmond City Public Schools,Richmond,430,424,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 510186002150,Thomas Harrison Middle,Harrisonburg City Public Schools,Harrisonburg,771,669,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 510243000994,Thomas Hunter Middle,Mathews County Public Schools,Mathews,176,127,Yes under Community Eligibility Option (CEO),false,5th Grade,7th Grade
 510036002525,Thomas Jefferson Elementary,Bedford County Public Schools,Forest,567,139,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade

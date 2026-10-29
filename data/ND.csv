@@ -140,8 +140,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 380785000237,Glenburn Elementary School,Glenburn 26,Glenburn,144,51,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 380785000238,Glenburn High School,Glenburn 26,Glenburn,105,38,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 381161000379,Golva Elementary School,Lone Tree 6,Golva,36,11,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
-380040600924,Grafton High School,Grafton 18,Grafton,284,124,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-380040600925,Grafton Junior High School,Grafton 18,Grafton,137,68,Yes participating without using any Provision or the CEO,true,7th Grade,8th Grade
+380040600924,Grafton High School,Grafton 18,Grafton,284,124,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+380040600925,Grafton Junior High School,Grafton 18,Grafton,137,68,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
 380006100884,Grant Colony School,Enderlin Area 24,Enderlin,12,,No,false,Kindergarten,8th Grade
 380846000273,Grenora Elementary School,Grenora 99,Grenora,83,16,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 380846000274,Grenora High School,Grenora 99,Grenora,83,16,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade

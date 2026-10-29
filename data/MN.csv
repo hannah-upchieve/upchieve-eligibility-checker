@@ -31,7 +31,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 273009001552,A.i. Jedlicka Middle School,Proctor Public School District,Proctor,450,159,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 270226403259,A/O Program,Northeast Metro 916,Stillwater,5,,Yes participating without using any Provision or the CEO,false,Prekindergarten,1st Grade
 273239002514,Abe Diploma Program,Rosemount-Apple Valley-Eagan,Apple Valley,40,18,No,true,9th Grade,12th Grade
-270018503138,Academia Cesar Chavez Elementary,Academias La Paz,Saint Paul,336,298,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
+270018503138,Academia Cesar Chavez Elementary,Academias La Paz,Saint Paul,336,298,Yes participating without using any Provision or the CEO,true,Prekindergarten,5th Grade
 270018512955,Academia Cesar Chavez Middle School,Academias La Paz,Saint Paul,149,135,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 270036104105,Academic Arts High School,Academic Arts High School,West Saint Paul,78,22,No,true,9th Grade,12th Grade
 271104004777,Academic Excellence Online,Duluth Public School District,Duluth,54,18,No,true,6th Grade,12th Grade
@@ -246,7 +246,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 270038204740,Brandon-Evansville Middle School,Brandon-Evansville Public Schools,Brandon,124,38,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 270615004963,Breckenridge Area Learning Program,Breckenridge Public School District,Breckenridge,0,,No,true,7th Grade,12th Grade
 270615000266,Breckenridge Elementary,Breckenridge Public School District,Breckenridge,265,141,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
-270615000265,Breckenridge Middle/High School,Breckenridge Public School District,Breckenridge,311,120,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
+270615000265,Breckenridge Middle/High School,Breckenridge Public School District,Breckenridge,311,120,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 273819004781,Bridge Transition Program,Stillwater Area Public Schools,Stillwater,37,15,Yes participating without using any Provision or the CEO,false,12th Grade,12th Grade
 273384002189,Bridge View Special Education,Saint Paul Public Schools,Saint Paul,115,91,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 271878002977,Bridges Community Elementary,Mankato Public School District,North Mankato,251,48,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -304,7 +304,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 270741005502,Cambridge-Isanti Oll Elementary K-5,Cambridge-Isanti Public School Dist,Cambridge,18,8,No,false,Kindergarten,5th Grade
 270741005503,Cambridge-Isanti Oll Secondary 6-12,Cambridge-Isanti Public School Dist,Cambridge,88,30,No,false,6th Grade,12th Grade
 270741003651,Cambridge-Isanti STEAM School,Cambridge-Isanti Public School Dist,Isanti,139,33,No,false,Kindergarten,5th Grade
-272124000977,Camden High,Minneapolis Public School District,Minneapolis,783,567,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+272124000977,Camden High,Minneapolis Public School District,Minneapolis,783,567,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 270745000319,Campbell-Tintah Elementary,Campbell-Tintah Public Schools,Campbell,66,18,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 270745000320,Campbell-Tintah Secondary,Campbell-Tintah Public Schools,Campbell,49,7,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 270747000321,Canby Elementary,Canby Public School District,Canby,304,121,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
@@ -359,7 +359,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 273243001388,Central Park Elementary,Roseville Public School District,Roseville,411,285,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 272391001186,Central Senior High,Central Public School District,Norwood Young America,337,61,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 273384001564,Central Senior High,Saint Paul Public Schools,Saint Paul,1682,670,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-273180002660,Century High School,Rochester Public School District,Rochester,1608,470,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+273180002660,Century High School,Rochester Public School District,Rochester,1608,470,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 271778002984,Century Middle School,Lakeville Area Schools,Lakeville,950,129,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 272808004671,Century Middle School Within a Sch,Park Rapids Public School District,Park Rapids,26,16,No,true,5th Grade,8th Grade
 273885002451,Challenger Elementary,Thief River Falls School District,Thief River Falls,727,314,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -1002,16 +1002,16 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 272349001150,Jefferson Elementary,New Ulm Public School District,New Ulm,643,242,Yes participating without using any Provision or the CEO,false,1st Grade,4th Grade
 274407001822,Jefferson Elementary,Winona Area Public School District,Winona,322,160,Yes under Community Eligibility Option (CEO),false,Kindergarten,4th Grade
 273180001004,Jefferson Elementary School,Rochester Public School District,Rochester,464,151,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-270579000219,Jefferson High School,Bloomington Public Schools,Bloomington,1684,471,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+270579000219,Jefferson High School,Bloomington Public Schools,Bloomington,1684,471,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 274272001807,Jefferson Learning Center,Willmar Public School District,Willmar,89,67,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
-270015202947,Jennings Community School,Jennings Community School,Saint Paul,57,44,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
+270015202947,Jennings Community School,Jennings Community School,Saint Paul,57,44,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 270015212952,Jennings Online Program,Jennings Community School,Saint Paul,13,10,No,false,7th Grade,12th Grade
 272124001014,Jenny Lind Elementary,Minneapolis Public School District,Minneapolis,236,196,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 273384004683,Jie Ming Mandarin Immersion Academy,Saint Paul Public Schools,Saint Paul,431,143,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 273384001173,Jj Hill Montessori,Saint Paul Public Schools,Saint Paul,360,126,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-273180001018,John Adams Middle School,Rochester Public School District,Rochester,867,324,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+273180001018,John Adams Middle School,Rochester Public School District,Rochester,867,324,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 272385001170,John Glenn Middle,North St. Paul-Maplewood Oakdale,Maplewood,1073,750,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-273180001015,John Marshall High School,Rochester Public School District,Rochester,1549,631,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+273180001015,John Marshall High School,Rochester Public School District,Rochester,1549,631,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 273384001603,Johnson Senior High,Saint Paul Public Schools,Saint Paul,1076,832,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 270318000111,Johnsville Elementary,Anoka-Hennepin School District,Blaine,644,279,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 270819002294,Jonathan Elementary,Eastern Carver County Public School,Chaska,541,108,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -1048,7 +1048,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 271778000815,Kennedy Elementary,Lakeville Area Schools,Lakeville,638,156,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 271878000877,Kennedy Elementary,Mankato Public School District,Mankato,347,169,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 274272002445,Kennedy Elementary,Willmar Public School District,Willmar,672,460,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-270579000220,Kennedy High School,Bloomington Public Schools,Bloomington,1578,968,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+270579000220,Kennedy High School,Bloomington Public Schools,Bloomington,1578,968,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 271188000578,Kennedy High School,Fergus Falls Public School District,Fergus Falls,714,215,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 271188004944,Kennedy Middle School,Fergus Falls Public School District,Fergus Falls,558,192,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
 272124000989,Kenny Elementary,Minneapolis Public School District,Minneapolis,295,34,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -1099,7 +1099,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 271757000808,Lake of the Woods Elementary,Lake of the Woods School District,Baudette,234,83,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 271757000809,Lake of the Woods Secondary,Lake of the Woods School District,Baudette,228,76,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
 270016200142,Lake Park Audubon Elementary,Lake Park Audubon School District,Audubon,275,113,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-270016200812,Lake Park Audubon High School,Lake Park Audubon School District,Lake Park,388,126,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
+270016200812,Lake Park Audubon High School,Lake Park Audubon School District,Lake Park,388,126,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
 274272004674,Lake Park School,Willmar Public School District,Willmar,33,26,Yes participating without using any Provision or the CEO,true,4th Grade,12th Grade
 271821000837,Lake Ripley Elementary,Litchfield Public School District,Litchfield,568,287,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 274236001790,Lakeaires Elementary,White Bear Lake School District,White Bear Lake,396,182,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -1265,7 +1265,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 270043705088,Marine Area Community School,Marine Area Community School,Marine on St Croix,112,12,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 270048305569,Marine Village School,Marine Village School,Marine on St Croix,92,13,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 274236012861,Mariner Middle School,White Bear Lake School District,White Bear Lake,881,343,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-271894002816,Marshall Area Learning Center,Marshall Public School District,Marshall,76,48,Yes under Community Eligibility Option (CEO),false,5th Grade,12th Grade
+271894002816,Marshall Area Learning Center,Marshall Public School District,Marshall,76,48,Yes under Community Eligibility Option (CEO),true,5th Grade,12th Grade
 271894005392,Marshall Career and Technical Insti,Marshall Public School District,Marshall,2,,No,false,9th Grade,12th Grade
 272355001157,Marshall County Central High,Marshall County Central Schools,Newfolden,215,77,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 272355012904,Marshall County Central Middle Scho,Marshall County Central Schools,Newfolden,78,28,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
@@ -1277,7 +1277,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 270016703035,Math and Science Academy,Math and Science Academy,Woodbury,720,71,No,false,6th Grade,12th Grade
 274236002191,Matoska International,White Bear Lake School District,White Bear Lake,543,155,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 273384001609,Maxfield Elementary School,Saint Paul Public Schools,Saint Paul,331,293,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-273180001016,Mayo High School,Rochester Public School District,Rochester,1787,498,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+273180001016,Mayo High School,Rochester Public School District,Rochester,1787,498,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 270027203325,Mcf - Oak Park Heights,Minnesota Department of Corrections,Stillwater,1,,No,false,9th Grade,12th Grade
 270027203328,Mcf-Moose Lake/Willow River,Minnesota Department of Corrections,Moose Lake,3,,No,false,9th Grade,12th Grade
 270027203330,Mcf-Red Wing Maginnis High School,Minnesota Department of Corrections,Red Wing,53,50,Yes participating without using any Provision or the CEO,true,8th Grade,12th Grade
@@ -1346,8 +1346,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 270009202487,Minnesota New Country School,Minnesota New Country School,Henderson,136,45,No,false,7th Grade,12th Grade
 270026003318,Minnesota Online High School,Minnesota Online High School,Saint Paul,254,68,No,false,9th Grade,12th Grade
 270006304710,Minnesota River School,Minnesota Valley Education District,Saint Peter,14,7,No,false,Kindergarten,12th Grade
-270012903056,Minnesota State Academy for Blind,Minnesota State Academies,Faribault,46,35,Yes participating without using any Provision or the CEO,false,Prekindergarten,12th Grade
-270012902409,Minnesota State Academy for Deaf,Minnesota State Academies,Faribault,88,71,Yes participating without using any Provision or the CEO,false,Prekindergarten,12th Grade
+270012903056,Minnesota State Academy for Blind,Minnesota State Academies,Faribault,46,35,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
+270012902409,Minnesota State Academy for Deaf,Minnesota State Academies,Faribault,88,71,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
 270011702607,Minnesota Transitions Charter Elem,Minnesota Transitions Charter Sch,Minneapolis,85,81,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 270006302389,Minnesota Valley School,Minnesota Valley Education District,Saint Peter,27,18,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 271428005379,Minnesota Virtual Academy Elementar,Houston Public School District,Houston,392,252,No,false,Kindergarten,5th Grade
@@ -1376,7 +1376,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 270018903142,Mn International Middle Chr School,Twin Cities International Schools,Minneapolis,326,324,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 270005802245,Mn River Valley ALC-Seatbased,MN River Valley Education District,Montevideo,70,46,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
 270011712951,Mn Virtual Elementary School,Minnesota Transitions Charter Sch,Roseville,29,23,No,false,Kindergarten,5th Grade
-270011703264,Mn Virtual Secondary School,Minnesota Transitions Charter Sch,Roseville,561,347,No,false,6th Grade,12th Grade
+270011703264,Mn Virtual Secondary School,Minnesota Transitions Charter Sch,Roseville,561,347,No,true,6th Grade,12th Grade
 270034112831,Mnic Online Program,Minnesota Internship Center,Minneapolis,134,131,No,false,9th Grade,12th Grade
 273180005403,Mnsync Online Elementary,Rochester Public School District,Rochester,68,42,No,false,Kindergarten,6th Grade
 273180005405,Mnsync Online Secondary,Rochester Public School District,Rochester,292,144,No,false,7th Grade,12th Grade
@@ -1401,7 +1401,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 272145001094,Moose Lake Secondary,Moose Lake Public School District,Moose Lake,276,79,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 272148000946,Mora Alternative Learning Center,Mora Public Schools,Mora,39,22,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 272148001097,Mora Elementary School,Mora Public Schools,Mora,862,376,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
-272148000944,Mora High School,Mora Public Schools,Mora,743,271,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
+272148000944,Mora High School,Mora Public Schools,Mora,743,271,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 272148004472,Mora Middle Level ALC,Mora Public Schools,Mora,12,3,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 274227001776,Moreland Art/Health Science Magnet,West St. Paul-Mendota Heights-Eagan,West Saint Paul,369,238,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 270038304729,Morris Area Elementary,Morris Area Public Schools,Morris,557,163,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
@@ -1477,8 +1477,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 272358001161,Nicollet High School,Nicollet Public School District,Nicollet,151,22,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 270609000257,Nisswa Elementary,Brainerd Public School District,Nisswa,249,68,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 270044212737,Nla-Carlton,Northern Lights Academy Cooperative,Carlton,31,4,Yes participating without using any Provision or the CEO,false,3rd Grade,12th Grade
-270022403477,Nlc 6076 ALC Program,Northland Learning Center,Virginia,48,35,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
-270022403476,Nlc 6076 Special Education Program,Northland Learning Center,Virginia,64,47,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
+270022403477,Nlc 6076 ALC Program,Northland Learning Center,Virginia,48,35,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
+270022403476,Nlc 6076 Special Education Program,Northland Learning Center,Virginia,64,47,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 270022404892,Nlc 6076 Transition Program,Northland Learning Center,Virginia,25,15,Yes under Community Eligibility Option (CEO),false,12th Grade,12th Grade
 270029503727,Noble Academy Elementary,Noble Academy,Brooklyn Park,395,272,Yes under Community Eligibility Option (CEO),true,Kindergarten,6th Grade
 270029505384,Noble Academy Middle School,Noble Academy,Brooklyn Park,138,102,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
@@ -1693,7 +1693,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 270819003180,Pioneer Ridge Middle School,Eastern Carver County Public School,Chaska,418,59,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 270010801262,Pipestone Elementary,Pipestone Area School District,Pipestone,580,285,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 270010801264,Pipestone Middle,Pipestone Area School District,Pipestone,244,100,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-270010801263,Pipestone Senior High,Pipestone Area School District,Pipestone,302,116,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+270010801263,Pipestone Senior High,Pipestone Area School District,Pipestone,302,116,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 270028703667,Plainview-Elgin-Millville 4-6,Plainview-Elgin-Millville,Elgin,315,109,Yes participating without using any Provision or the CEO,false,4th Grade,6th Grade
 270028703631,Plainview-Elgin-Millville High,Plainview-Elgin-Millville,Plainview,414,107,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 270028703714,Plainview-Elgin-Millville Junior,Plainview-Elgin-Millville,Elgin,235,88,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
@@ -1721,7 +1721,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 272823002535,Prairie Wind Middle,Perham-Dent Public School District,Perham,526,180,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
 271878002045,Prairie Winds Middle School,Mankato Public School District,Mankato,887,380,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 272340001141,Prairie Woods Elementary,New London-Spicer School District,New London,578,162,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
-273180004784,Prairiecare,Rochester Public School District,Rochester,20,10,No,false,Kindergarten,12th Grade
+273180004784,Prairiecare,Rochester Public School District,Rochester,20,10,No,true,Kindergarten,12th Grade
 272385004943,Prairiecare Maplewood,North St. Paul-Maplewood Oakdale,Maplewood,18,3,No,true,Kindergarten,12th Grade
 272124003434,Pratt Elementary,Minneapolis Public School District,Minneapolis,196,150,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 270015000378,Pre-K - 5th Grade Building,Clinton-Graceville-Beardsley,Clinton,152,56,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -1840,7 +1840,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 273180005034,Rochester ALC Recovery Program,Rochester Public School District,Rochester,9,5,No,true,9th Grade,12th Grade
 273180003078,Rochester Alternative Learning Cntr,Rochester Public School District,Rochester,387,277,No,true,9th Grade,12th Grade
 270041204878,Rochester Beacon Academy,Rochester Beacon Academy,Rochester,115,50,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
-270024703308,Rochester Math & Science Elementary,Rochester Math and Science Academy,Rochester,322,300,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
+270024703308,Rochester Math & Science Elementary,Rochester Math and Science Academy,Rochester,322,300,Yes under Community Eligibility Option (CEO),true,Kindergarten,6th Grade
 270024712958,Rochester Math & Science Secondary,Rochester Math and Science Academy,Rochester,230,203,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
 273180000985,Rochester Phoenix Academy,Rochester Public School District,Rochester,66,48,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 273387004252,Rock Bend HS ALC,St. Peter Public School District,Saint Peter,14,11,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
@@ -1958,7 +1958,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 270028403614,Seven Hills - Burnsville Elementary,Seven Hills Preparatory Academy,Burnsville,480,172,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 270028405030,Seven Hills - Richfield Elementary,Seven Hills Preparatory Academy,Richfield,303,113,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 270028404804,Seven Hills - Richfield Middle,Seven Hills Preparatory Academy,Richfield,313,110,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-272124005515,Seward Elementary,Minneapolis Public School District,Minneapolis,576,275,Yes under Community Eligibility Option (CEO),true,Prekindergarten,6th Grade
+272124005515,Seward Elementary,Minneapolis Public School District,Minneapolis,576,275,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 273300003717,Shakopee East Middle School,Shakopee Public School District,Shakopee,828,355,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 273300001440,Shakopee High School,Shakopee Public School District,Shakopee,2823,989,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 273300001439,Shakopee West Middle School,Shakopee Public School District,Shakopee,899,316,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -2084,10 +2084,10 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 271353004830,Staars,Hastings Public School District,Hastings,8,,No,false,12th Grade,12th Grade
 272124001933,Stadium View,Minneapolis Public School District,Minneapolis,43,31,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
 273390001643,Staples-Motley Elementary,Staples-Motley School District,Staples,308,172,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
-273390002468,Staples-Motley Middle School,Staples-Motley School District,Staples,284,147,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
+273390002468,Staples-Motley Middle School,Staples-Motley School District,Staples,284,147,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
 273390001644,Staples-Motley Senior High,Staples-Motley School District,Staples,309,118,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 270039012963,Star of the North - Coon Rapids,Star of the North Academy Charter S,Coon Rapids,120,119,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
-270039004759,Star of the North - East Bethel,Star of the North Academy Charter S,East Bethel,224,220,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+270039004759,Star of the North - East Bethel,Star of the North Academy Charter S,East Bethel,224,220,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 270031912961,Stars Building20,Cologne Academy,Cologne,30,6,Yes participating without using any Provision or the CEO,false,Prekindergarten,Prekindergarten
 270045305171,STEAM Academy Charter School,STEAM Academy Charter School,Inver Grove Heights,77,68,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 271227003355,Step,Forest Lake Public School District,Forest Lake,47,14,Yes participating without using any Provision or the CEO,false,10th Grade,12th Grade
@@ -2162,7 +2162,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 270008604169,Swwc ALC - Windom,Region 6 and 8-SW/WC Service Coop,Windom,41,26,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 270008605559,Swwc Alternative Learning Center -,Region 6 and 8-SW/WC Service Coop,Glencoe,19,12,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 270008604215,Swwc Elc - Cosmos,Region 6 and 8-SW/WC Service Coop,Cosmos,39,28,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
-270008604438,Swwc Elc - Marshall,Region 6 and 8-SW/WC Service Coop,Marshall,11,8,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
+270008604438,Swwc Elc - Marshall,Region 6 and 8-SW/WC Service Coop,Marshall,11,8,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 270008605170,Swwc Elc - Montevideo,Region 6 and 8-SW/WC Service Coop,Montevideo,30,23,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
 270008604724,Swwc Elc - New London,Region 6 and 8-SW/WC Service Coop,New London,36,26,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 270008604353,Swwc Elc - Pipestone,Region 6 and 8-SW/WC Service Coop,Pipestone,26,16,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
@@ -2352,7 +2352,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 272385001178,Weaver Elementary,North St. Paul-Maplewood Oakdale,Maplewood,442,316,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 272520001211,Weaver Lake Science Math & Tech Sch,Osseo Public School District,Maple Grove,668,196,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 272124004885,Webster Elementary,Minneapolis Public School District,Minneapolis,276,232,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-272385003374,Webster K-12,North St. Paul-Maplewood Oakdale,North St Paul,52,46,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
+272385003374,Webster K-12,North St. Paul-Maplewood Oakdale,North St Paul,52,46,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 270609012884,Welc - Vpk,Brainerd Public School District,Baxter,215,98,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
 272124003107,Wellstone International High,Minneapolis Public School District,Minneapolis,166,85,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 272124004889,Wellstone International High - Sws,Minneapolis Public School District,Minneapolis,39,20,No,true,9th Grade,12th Grade
@@ -2419,7 +2419,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 273381001548,Woodbury Elementary,South Washington County Schools,Woodbury,483,183,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 273381001550,Woodbury High School,South Washington County Schools,Woodbury,1943,365,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 270040112966,Woodbury Leadership Academy Seconda,Woodbury Leadership Academy,Woodbury,220,53,No,false,6th Grade,9th Grade
-270040104812,Woodbury Leadership Elementary,Woodbury Leadership Academy,Woodbury,658,153,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
+270040104812,Woodbury Leadership Elementary,Woodbury Leadership Academy,Woodbury,658,153,Yes participating without using any Provision or the CEO,true,Kindergarten,5th Grade
 273381002219,Woodbury Middle School,South Washington County Schools,Woodbury,1160,281,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 273333001467,Woodcrest El. Spanish Immersion,Spring Lake Park Public Schools,Fridley,558,223,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 272520003186,Woodland Elementary,Osseo Public School District,Brooklyn Park,609,260,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade

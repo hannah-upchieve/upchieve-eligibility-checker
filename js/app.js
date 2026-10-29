@@ -23,10 +23,13 @@ const resultCard = document.getElementById("result-card");
 const statusMessage = document.getElementById("status-message");
 
 let currentSchools = [];
+// NCES IDs of schools already partnered with UPchieve (data/partners.csv).
+let partnerIds = new Set();
 let currentStateName = "";
 let currentStateCode = "";
 
 populateStates();
+loadPartners();
 
 function populateStates() {
   for (const state of STATES) {
@@ -206,6 +209,8 @@ function selectSchool(school) {
 }
 
 function renderEligibility(school) {
+  // Already-partnered schools aren't eligible, whatever their grades or data.
+  const partnered = partnerIds.has(school.nces_id);
   const lowGrade = gradeNumber(school.min_grade);
   const topGrade = gradeNumber(school.max_grade);
   const startsYoung = lowGrade !== null && lowGrade < LOWEST_SERVED_GRADE;
@@ -214,7 +219,7 @@ function renderEligibility(school) {
   // fully served and goes through the usual rules.
   const fewServed = startsYoung && topGrade === LOWEST_SERVED_GRADE;
   const meetsRules = isEligible(school);
-  const eligible = !tooYoung && !fewServed && meetsRules;
+  const eligible = !partnered && !tooYoung && !fewServed && meetsRules;
 
   resultCard.innerHTML = eligible ? ICON_ELIGIBLE : ICON_NOT_ELIGIBLE;
   resultCard.hidden = false;
@@ -241,7 +246,12 @@ function renderEligibility(school) {
     .join(" · ");
   body.appendChild(meta);
 
-  if (tooYoung) {
+  if (partnered) {
+    body.appendChild(explanationParagraph(
+      "This school is already partnered with UPchieve, so it isn't eligible " +
+        "for the Level Up program at this time."
+    ));
+  } else if (tooYoung) {
     body.appendChild(explanationParagraph(
       "UPchieve currently provides support for students in 6th through " +
         "12th grade."
@@ -370,6 +380,7 @@ async function loadStateSchools(code) {
 
   return parsed.data
     .map((row) => ({
+      nces_id: normalizeNcesId(row.nces_id),
       school_name: (row.school_name || "").trim(),
       district_name: (row.district_name || "").trim(),
       city_name: (row.city_name || "").trim(),
@@ -381,6 +392,30 @@ async function loadStateSchools(code) {
       max_grade: (row.max_grade || "").trim(),
     }))
     .filter((row) => row.school_name.length > 0);
+}
+
+// The partner list is kept in a spreadsheet, which can drop an ID's leading
+// zero; NCES school IDs are always 12 digits.
+function normalizeNcesId(value) {
+  const id = (value || "").toString().trim();
+  return /^\d+$/.test(id) ? id.padStart(12, "0") : id;
+}
+
+async function loadPartners() {
+  try {
+    const response = await fetch("data/partners.csv", { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const parsed = Papa.parse(await response.text(), {
+      header: true,
+      skipEmptyLines: true,
+      transformHeader: (h) => h.trim(),
+    });
+    partnerIds = new Set(
+      parsed.data.map((row) => normalizeNcesId(row.nces_id)).filter(Boolean)
+    );
+  } catch (err) {
+    console.error("Could not load the partner list:", err);
+  }
 }
 
 function resetResults() {

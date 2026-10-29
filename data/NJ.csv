@@ -281,7 +281,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 340274001708,Cape May County High School,Cape May County Special Services School District,Cape May Court House,84,23,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 340273001712,Cape May County Technical High School,Cape May County Technical High School District,Cape May Court House,587,243,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 340008500745,Cape May Regional School,Office of Education Department of Children and Families,Cape May Court House,0,,No,true,9th Grade,12th Grade
-341629000449,Capital City High School,Trenton Public School District,Trenton,756,424,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+341629000449,Capital City High School,Trenton Public School District,Trenton,756,424,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 340243000968,Captain James Lawrence Elementary School,Burlington City Public School District,Burlington,229,186,No,false,Kindergarten,2nd Grade
 340315005452,Carl H. Kumpf School,Clark Township Public School District,Clark,528,44,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 340927003500,Carl Sandburg Middle School,Old Bridge Township School District,Old Bridge,926,284,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -586,7 +586,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 340435001056,Eastampton Township Community School,Eastampton Township School District,Eastampton,600,151,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 340438001488,Eastern Camden County Regional High School,Eastern Camden County Regional School District,Voorhees,1847,301,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 341248004438,Eastlake Elementary School,Parsippany-Troy Hills Township School District,Parsippany,364,50,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-340264001348,Eastside High School,Camden City School District,Camden,512,191,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+340264001348,Eastside High School,Camden City School District,Camden,512,191,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 341269004866,Eastside High School,Paterson Public School District,Paterson,2073,1209,No,false,9th Grade,12th Grade
 340423002058,Ecole Toussaint Louverture,East Orange School District,East Orange,269,59,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 340999003396,Edgar Middle School,Metuchen Public School District,Metuchen,761,76,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
@@ -1669,7 +1669,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 341329004698,Ocean Road Elementary School,Point Pleasant Borough School District,Point Pleasant,483,75,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 341206004064,Ocean Township Elementary School,Township of Ocean School District,Oakhurst,410,205,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 341206004058,Ocean Township High School,Township of Ocean School District,Oakhurst,925,327,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-340264000793,Octavius V. Catto Community Family School,Camden City School District,Camden,593,335,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
+340264000793,Octavius V. Catto Community Family School,Camden City School District,Camden,593,335,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 341198006122,Ocvts Grunin Performing Arts Academy,Ocean County Vocational Technical School District,Toms River,259,42,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 341215005390,Ogdensburg Borough School,Ogdensburg Borough School District,Ogdensburg,280,71,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 340729005550,Ola Edwards Community School,Hillside Public School District,Hillside,391,324,Yes participating without using any Provision or the CEO,false,2nd Grade,6th Grade
@@ -2171,7 +2171,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 341467005680,Terrill Middle School,Scotch Plains-Fanwood School District,Scotch Plains,822,16,No,false,5th Grade,8th Grade
 341617000545,Tewksbury Elementary School,Tewksbury Township School District,Califon,253,11,No,false,Prekindergarten,4th Grade
 340096000018,Texas Avenue School,Atlantic City School District,Atlantic City,496,453,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
-340074003047,The Barack Obama Green Charter School,The Barack Obama Green Charter High School District,Plainfield,358,280,No,false,6th Grade,12th Grade
+340074003047,The Barack Obama Green Charter School,The Barack Obama Green Charter High School District,Plainfield,358,280,No,true,6th Grade,12th Grade
 348028003292,The Career Center of the Scesc,Somerset County Educational Services Commission School Distr,Bridgewater,7,,No,false,6th Grade,12th Grade
 340183000133,The Early Childhood Center @ Forest Glen,Bloomfield Township School District,Bloomfield,158,60,Yes participating without using any Provision or the CEO,false,Prekindergarten,Prekindergarten
 340072703029,The Ethical Community Charter School,The Ethical Community Charter School School Distirct,Jersey City,357,193,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade

@@ -18,7 +18,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 173451003558,Abraham Lincoln Middle School,Rockford SD 205,Rockford,736,590,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 170016206156,Academic Behavior&community Acad,Adam/Brwn/Cass/Morgn/Pik/Sctt ROE,Quincy,0,,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 170993006035,Academy for Global Citizenship,Chicago Public Schools Dist 299,Chicago,486,280,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
-174396506887,Academy for Learning,Exc Children Have Opportunities,Dolton,,,Yes under Community Eligibility Option (CEO),true,,
+174396506887,Academy for Learning,Exc Children Have Opportunities,Dolton,,,Yes under Community Eligibility Option (CEO),false,,
 170142606424,Ace Amandla Charter School,ACE Amandla Charter School,Chicago,137,130,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 170993006448,Acero Chtr - Bartolome De Las,Chicago Public Schools Dist 299,Chicago,225,199,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 170993006481,Acero Chtr - Carlos Fuentes Elem,Chicago Public Schools Dist 299,Chicago,370,322,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
@@ -576,7 +576,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 170993004286,Chicago Academy Elem School,Chicago Public Schools Dist 299,Chicago,548,346,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 170993005061,Chicago Academy High School,Chicago Public Schools Dist 299,Chicago,580,448,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 170993006285,Chicago Collegiate Charter School,Chicago Public Schools Dist 299,Chicago,255,226,Yes under Community Eligibility Option (CEO),true,5th Grade,12th Grade
-170993006936,Chicago Excel Academy HS,Chicago Public Schools Dist 299,Chicago,0,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+170993006936,Chicago Excel Academy HS,Chicago Public Schools Dist 299,Chicago,0,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 170996006777,Chicago Heights Middle School,Chicago Heights SD 170,Chicago Hts,872,803,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 170993005147,Chicago HS for Agricult Sciences,Chicago Public Schools Dist 299,Chicago,827,481,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 170993006058,Chicago HS for the Arts,Chicago Public Schools Dist 299,Chicago,578,337,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
@@ -667,7 +667,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 172862002997,Colene Hoose Elem School,McLean County USD 5,Normal,413,141,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 170993000666,Coles Elem Language Academy,Chicago Public Schools Dist 299,Chicago,286,174,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 173630005774,Colin Powell Middle Sch,ESD 159,Matteson,564,385,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
-170993005942,Collins Academy STEAM High School,Chicago Public Schools Dist 299,Chicago,228,222,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+170993005942,Collins Academy STEAM High School,Chicago Public Schools Dist 299,Chicago,228,222,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 171065001278,Collinsville High School,Collinsville CUSD 10,Collinsville,1956,1297,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 171065001279,Collinsville Middle School,Collinsville CUSD 10,Collinsville,894,609,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
 171069001293,Colona Grade School,Colona SD 190,Colona,371,195,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
@@ -3370,7 +3370,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 171692002003,Springman Middle School,Glenview CCSD 34,Glenview,811,217,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 170993005677,Spry Community Links High School,Chicago Public Schools Dist 299,Chicago,82,66,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 170993001106,Spry Elem Community School,Chicago Public Schools Dist 299,Chicago,317,250,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
-174396606922,St Anne Comm High School,St. Anne Unit District 24,Saint Anne,206,151,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+174396606922,St Anne Comm High School,St. Anne Unit District 24,Saint Anne,206,151,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 174396606921,St Anne Elem School,St. Anne Unit District 24,Saint Anne,266,,No,false,Prekindergarten,8th Grade
 173717003858,St Charles East High School,St Charles CUSD 303,Saint Charles,1930,,No,false,9th Grade,12th Grade
 173717004064,St Charles North High School,St Charles CUSD 303,Saint Charles,1903,,No,false,9th Grade,12th Grade
@@ -4002,5 +4002,5 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 174380004348,Zeigler-Royalton Jr High School,Zeigler-Royalton CUSD 188,Mulkeytown,100,63,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 171101001334,Zenon J Sykuta School,Country Club Hills SD 160,Country Club Hills,273,124,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 174386004351,Zion Central Middle School,Zion ESD 6,Zion,330,282,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
-174389005993,Zion-Benton East High School,Zion-Benton Twp HSD 126,Zion,419,254,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+174389005993,Zion-Benton East High School,Zion-Benton Twp HSD 126,Zion,419,254,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 174389004357,Zion-Benton Twnshp Hi Sch,Zion-Benton Twp HSD 126,Zion,2114,1311,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade

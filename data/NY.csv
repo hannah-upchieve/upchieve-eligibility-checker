@@ -128,7 +128,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360297000068,Amsterdam High School,Amsterdam City School District,Amsterdam,1192,864,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 360007805773,Anderson School (The),New York City Geographic District # 3,New York,521,48,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 360300000076,Andes Central School,Andes Central School District,Andes,73,34,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
-360303000077,Andover School,Andover Central School District,Andover,239,84,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
+360303000077,Andover School,Andover Central School District,Andover,239,84,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 362475006780,Andrew a Langston Middle School,Rochester City School District,Rochester,314,294,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
 362925003935,Andrew J Smith Elementary School,Union Springs Central School District,Union Springs,332,149,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 361941001774,Andrew Muller Primary School,Miller Place Union Free School District,Miller Place,427,85,Yes participating without using any Provision or the CEO,false,Kindergarten,2nd Grade
@@ -166,11 +166,11 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 362328003260,Arthur P Momot Elementary School,Plattsburgh City School District,Plattsburgh,388,247,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 360327000086,Arthur S May School,Arlington Central School District,Poughkeepsie,496,208,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 360009006218,Arturo a Schomburg Satellite Academy Bronx,New York City Geographic District #12,Bronx,259,243,,true,9th Grade,12th Grade
-360009505994,Aspirations Diploma Plus High School,New York City Geographic District #17,Brooklyn,131,112,,true,9th Grade,12th Grade
+360009505994,Aspirations Diploma Plus High School,New York City Geographic District #17,Brooklyn,131,112,,false,9th Grade,12th Grade
 360008805687,Astor Collegiate Academy,New York City Geographic District #11,Bronx,429,362,,true,9th Grade,12th Grade
 361263001032,Athena High School,Greece Central School District,Rochester,1070,462,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 361263001033,Athena Middle School,Greece Central School District,Rochester,810,372,,true,6th Grade,8th Grade
-360010201821,Atlas,New York City Geographic District #30,Long Island City,1162,1013,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+360010201821,Atlas,New York City Geographic District #30,Long Island City,1162,1013,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 360113806563,Atmosphere Academy Public Charter School,Atmosphere Academy Public Charter School,Bronx,1481,1310,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 360342000097,Attica Elementary School,Attica Central School District,Attica,452,180,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 360342000098,Attica Junior High School,Attica Central School District,Attica,346,152,,true,5th Grade,9th Grade
@@ -213,7 +213,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360012006796,Bard High School Early College Brooklyn,New York City Geographic District #19,Brooklyn,143,85,,false,9th Grade,11th Grade
 360009806004,Bard High School Early College Queens,New York City Geographic District #24,Long Island City,643,416,,false,9th Grade,12th Grade
 362034001860,Bardonia Elementary School,Clarkstown Central School District,Bardonia,351,106,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-360396000155,Barker Central School,Barker Central School District,Barker,653,268,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
+360396000155,Barker Central School,Barker Central School District,Barker,653,268,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 362316004490,Barker Road Middle School,Pittsford Central School District,Pittsford,717,16,,false,6th Grade,8th Grade
 360984000754,Barnum Woods School,East Meadow Union Free School District,East Meadow,797,141,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 360108701282,Barringer Road Elementary School,Central Valley CSD at Ilion-Mohawk,Ilion,434,,Yes under Community Eligibility Option (CEO),false,2nd Grade,4th Grade
@@ -276,7 +276,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 361662001471,Benjamin Franklin Elementary School,Lakeland Central School District,Yorktown Heights,466,101,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 360010106508,Benjamin Franklin HS-Fin Info Tech,New York City Geographic District #29,Cambria Heights,373,316,,true,9th Grade,12th Grade
 360009901919,Benjamin N Cardozo High School,New York City Geographic District #26,Bayside,2866,2065,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-362010004345,Benjamin Turner Academy,Mount Vernon School District,Mount Vernon,340,213,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+362010004345,Benjamin Turner Academy,Mount Vernon School District,Mount Vernon,340,213,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 360585000316,Bennett Park Montessori School,Buffalo City School District,Buffalo,612,462,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 361746001554,Benton Hall Academy,Little Falls City School District,Little Falls,441,216,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 361968001798,Berea Elementary School,Valley Central School District (Montgomery),Montgomery,497,210,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -334,7 +334,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360111506454,Boys Preparatory Charter School of New York,Boys Preparatory Charter School of New York,Bronx,546,489,Yes under Community Eligibility Option (CEO),false,Prekindergarten,11th Grade
 360522000246,Bradford Central School,Bradford Central School District,Bradford,249,128,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 360528004433,Brentwood High School,Brentwood Union Free School District,Brentwood,4816,3891,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-360528004829,Brentwood High School Freshman Campus,Brentwood Union Free School District,Brentwood,1287,1056,Yes under Community Eligibility Option (CEO),false,9th Grade,9th Grade
+360528004829,Brentwood High School Freshman Campus,Brentwood Union Free School District,Brentwood,1287,1056,Yes under Community Eligibility Option (CEO),true,9th Grade,9th Grade
 360013106498,Brentwood Residential Center,New York State Office of Children and Family Services (Ocfs),Dix Hills,20,,No,true,7th Grade,11th Grade
 361398001133,Bretton Woods Elementary School,Hauppauge Union Free School District,Hauppauge,509,122,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 360690000479,Brewerton Elementary School,Central Square Central School District,Brewerton,384,145,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -645,7 +645,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 361623001405,Charles a Lindbergh Elementary School,Kenmore-Tonawanda Union Free School District,Buffalo,496,176,Yes under Community Eligibility Option (CEO),false,Kindergarten,4th Grade
 360687000474,Charles a Mulligan Elementary School,Central Islip Union Free School District,Central Islip,997,712,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 361767001580,Charles a Upson Elementary School,Lockport City School District,Lockport,448,256,Yes under Community Eligibility Option (CEO),false,Kindergarten,4th Grade
-362376003302,Charles B Warring Elementary School,Poughkeepsie City School District,Poughkeepsie,286,254,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
+362376003302,Charles B Warring Elementary School,Poughkeepsie City School District,Poughkeepsie,286,254,Yes under Community Eligibility Option (CEO),true,1st Grade,5th Grade
 360474000219,Charles Campagne School,Bethpage Union Free School District,Bethpage,354,96,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 360252000033,Charles D'Amico High School,Albion Central School District,Albion,499,297,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 362205003124,Charles E Riley Elementary School,Oswego City School District,Oswego,390,197,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -1066,7 +1066,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 361026000797,Edmeston Central School,Edmeston Central School District,Edmeston,389,162,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
 360118606645,Edmund W Gordon Brooklyn Laboratory Charter School,Edmund W Gordon Brooklyn Laboratory Charter School,Brooklyn,196,159,,true,6th Grade,8th Grade
 360294000062,Edmund W Miles Middle School,Amityville Union Free School District,Amityville,592,433,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-360007900619,Edward a Reynolds West Side High School,New York City Geographic District # 4,New York,348,329,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+360007900619,Edward a Reynolds West Side High School,New York City Geographic District # 4,New York,348,329,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 360849000655,Edward J Arthur Elementary School,Coxsackie-Athens Central School District,Athens,177,48,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 360816000599,Edward J Bosti Elementary School,Connetquot Central School District,Bohemia,269,46,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 361992001818,Edward R Andrews Elementary School,Morrisville-Eaton Central School District,Morrisville,285,146,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -1402,7 +1402,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360013106475,Goshen Secure Center,New York State Office of Children and Family Services (Ocfs),Goshen,51,,No,true,9th Grade,12th Grade
 361062000835,Gotham Avenue School,Elmont Union Free School District,Elmont,515,285,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 360008505186,Gotham Collaborative High School,New York City Geographic District # 8,Bronx,295,269,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-360009105927,Gotham Professional Arts Academy,New York City Geographic District #13,Brooklyn,219,185,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+360009105927,Gotham Professional Arts Academy,New York City Geographic District #13,Brooklyn,219,185,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 360010206756,Gotham Tech High School,New York City Geographic District #30,Long Island City,266,216,,false,9th Grade,11th Grade
 361236001000,Gouverneur Elementary School,Gouverneur Central School District,Gouverneur,511,279,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 361236001002,Gouverneur High School,Gouverneur Central School District,Gouverneur,450,254,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -1430,7 +1430,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360831000612,Great Neck Road Elementary School,Copiague Union Free School District,Copiague,428,284,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 361251001018,Great Neck South High School,Great Neck Union Free School District,Great Neck,1362,363,,false,9th Grade,12th Grade
 361251001017,Great Neck South Middle School,Great Neck Union Free School District,Great Neck,832,187,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-360108506376,Great Oaks Kathleen Sherry Charter School,Great Oaks Kathleen Sherry Charter School,New York,324,273,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
+360108506376,Great Oaks Kathleen Sherry Charter School,Great Oaks Kathleen Sherry Charter School,New York,324,273,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 360012706473,Greater Binghamton Health Center,New York State Office Mental Health (Omh),Binghamton,9,,No,false,3rd Grade,11th Grade
 362178003093,Greater Plains Elementary School,Oneonta City School District,Oneonta,283,89,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 361263004770,Greece Community Early Learning Center,Greece Central School District,Rochester,269,51,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
@@ -1516,8 +1516,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360006804870,Harlem Prep Charter School,Harlem Prep Charter School,New York,647,578,Yes under Community Eligibility Option (CEO),true,3rd Grade,12th Grade
 360008105758,Harlem Renaissance High School,New York City Geographic District # 5,New York,165,147,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 360014105778,Harlem Village Academy East Charter School,Harlem Village Academy East Charter School,New York,349,315,,true,Prekindergarten,8th Grade
-360008005528,Harlem Village Academy North Charter School,Harlem Village Academy North Charter School,New York,394,345,,false,5th Grade,12th Grade
-360119106671,Harlem Village Academy West Charter School,Harlem Village Academy West Charter School,New York,446,397,,true,Kindergarten,4th Grade
+360008005528,Harlem Village Academy North Charter School,Harlem Village Academy North Charter School,New York,394,345,,true,5th Grade,12th Grade
+360119106671,Harlem Village Academy West Charter School,Harlem Village Academy West Charter School,New York,446,397,,false,Kindergarten,4th Grade
 361068000842,Harley Avenue Elementary School,Elwood Union Free School District,Elwood,410,82,Yes participating without using any Provision or the CEO,false,Kindergarten,2nd Grade
 360798004584,Harmony Hill School,Cohoes City School District,Cohoes,384,230,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 362112002989,Harold D Fayette School,North Merrick Union Free School District,North Merrick,286,25,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
@@ -1571,7 +1571,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360009806179,Helen M Marshall School,New York City Geographic District #24,Corona,462,442,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 360969004717,Helendale Road Primary School,East Irondequoit Central School District,Rochester,311,189,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 360121406686,Hellenic Classical Charter School - Staten Island,Hellenic Classical Charter School - Staten Island,Staten Island,474,206,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
-360014605815,Hellenic Classical Charter School Park Slope,Hellenic Classical Charter School Park Slope,Brooklyn,493,247,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
+360014605815,Hellenic Classical Charter School Park Slope,Hellenic Classical Charter School Park Slope,Brooklyn,493,247,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 360528000250,Hemlock Elementary School,Brentwood Union Free School District,Bay Shore,609,516,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 361176001637,Hemlock School,Garden City Union Free School District,Garden City,184,3,,false,Kindergarten,1st Grade
 362781003772,Hempstead Elementary School,East Ramapo Central School District (Spring Valley),Spring Valley,459,373,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -2710,7 +2710,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360095906073,Nyc Charter HS - Aeci,Nyc Charter HS - Aeci,Bronx,450,448,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 360007706065,Nyc Ischool,New York City Geographic District # 2,New York,447,266,,false,9th Grade,12th Grade
 360007702857,Nyc Lab High School for Collaborative Studies,New York City Geographic District # 2,New York,413,241,,true,9th Grade,12th Grade
-360007705539,Nyc Lab MS for Collaborative Studies,New York City Geographic District # 2,New York,538,220,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+360007705539,Nyc Lab MS for Collaborative Studies,New York City Geographic District # 2,New York,538,220,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 360007702871,Nyc Museum School,New York City Geographic District # 2,New York,481,269,,true,9th Grade,12th Grade
 360012606464,Nys Dept of Corrections Placement,New York State Department of Corrections,Albany,374,,No,false,Ungraded,Ungraded
 362988004021,Oak Grove Elementary School,Wappingers Central School District,Poughkeepsie,455,149,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
@@ -3830,8 +3830,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360095005995,Rochester Academy Charter School,Rochester Academy Charter School,Rochester,829,828,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 368096506748,Rochester Academy of Science Charter School,Rochester Academy of Science Charter School,Rochester,395,388,Yes under Community Eligibility Option (CEO),false,Kindergarten,10th Grade
 362475006177,Rochester Early College International High School,Rochester City School District,Rochester,458,401,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-360017305854,Rochester Prep Charter School 1,Rochester Prep Charter School 1,Rochester,1405,1219,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
-360104006243,Rochester Prep Charter School 2,Rochester Prep Charter School 2,Rochester,827,697,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+360017305854,Rochester Prep Charter School 1,Rochester Prep Charter School 1,Rochester,1405,1219,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
+360104006243,Rochester Prep Charter School 2,Rochester Prep Charter School 2,Rochester,827,697,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 360115306592,Rochester Prep Charter School 3,Rochester Prep Charter School 3,Rochester,826,747,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 360012306277,Rockaway Collegiate High School,New York City Geographic District #27,Rockaway Park,287,246,,true,9th Grade,12th Grade
 360012306194,Rockaway Park High School for Environmental Sustainability,New York City Geographic District #27,Rockaway Park,232,210,,true,9th Grade,12th Grade
@@ -4400,16 +4400,16 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360001901976,Unadilla Valley Secondary School,Unadilla Valley Central School District,New Berlin,341,204,Yes under Community Eligibility Option (CEO),true,5th Grade,12th Grade
 362924003934,Unatego Junior-Senior High School,Otego-Unadilla Central School District,Otego,221,90,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 362924006140,Unatego Middle School,Otego-Unadilla Central School District,Otego,151,66,,true,6th Grade,8th Grade
-360096506044,Uncommon Bed-Stuy East Charter School Nyc,Uncommon Bed-Stuy East Charter School Nyc,Brooklyn,317,270,,false,5th Grade,9th Grade
-360017205868,Uncommon Bed-Stuy West Charter School Nyc,Uncommon Bed-Stuy West Charter School Nyc,Brooklyn,1165,1003,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
-360099306157,Uncommon Brownsville North Charter School Nyc,Uncommon Brownsville North Charter School Nyc,Brooklyn,1313,1128,,false,Kindergarten,12th Grade
-360101606201,Uncommon Brownsville South Charter School Nyc,Uncommon Brownsville South Charter School Nyc,Brooklyn,748,698,,false,Kindergarten,8th Grade
-360110606410,Uncommon Canarsie Charter School Nyc,Uncommon Canarsie Charter School Nyc,Brooklyn,808,665,,false,Kindergarten,8th Grade
-360103206229,Uncommon Crown Heights Charter School Nyc,Uncommon Crown Heights Charter School Nyc,Brooklyn,513,437,,false,Kindergarten,9th Grade
-360011405700,Uncommon Excellence Boys Charter School Nyc,Uncommon Excellence Boys Charter School Nyc,Brooklyn,415,358,Yes under Community Eligibility Option (CEO),false,Kindergarten,9th Grade
-360100006112,Uncommon Excellence Girls Charter School Nyc,Uncommon Excellence Girls Charter School Nyc,Brooklyn,871,724,,false,Kindergarten,12th Grade
-360094405974,Uncommon Kings Charter School Nyc,Uncommon Kings Charter School Nyc,Brooklyn,1262,1091,,false,Kindergarten,12th Grade
-360014505814,Uncommon Williamsburg Charter School Nyc,Uncommon Williamsburg Charter School Nyc,Brooklyn,250,210,,false,5th Grade,8th Grade
+360096506044,Uncommon Bed-Stuy East Charter School Nyc,Uncommon Bed-Stuy East Charter School Nyc,Brooklyn,317,270,,true,5th Grade,9th Grade
+360017205868,Uncommon Bed-Stuy West Charter School Nyc,Uncommon Bed-Stuy West Charter School Nyc,Brooklyn,1165,1003,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
+360099306157,Uncommon Brownsville North Charter School Nyc,Uncommon Brownsville North Charter School Nyc,Brooklyn,1313,1128,,true,Kindergarten,12th Grade
+360101606201,Uncommon Brownsville South Charter School Nyc,Uncommon Brownsville South Charter School Nyc,Brooklyn,748,698,,true,Kindergarten,8th Grade
+360110606410,Uncommon Canarsie Charter School Nyc,Uncommon Canarsie Charter School Nyc,Brooklyn,808,665,,true,Kindergarten,8th Grade
+360103206229,Uncommon Crown Heights Charter School Nyc,Uncommon Crown Heights Charter School Nyc,Brooklyn,513,437,,true,Kindergarten,9th Grade
+360011405700,Uncommon Excellence Boys Charter School Nyc,Uncommon Excellence Boys Charter School Nyc,Brooklyn,415,358,Yes under Community Eligibility Option (CEO),true,Kindergarten,9th Grade
+360100006112,Uncommon Excellence Girls Charter School Nyc,Uncommon Excellence Girls Charter School Nyc,Brooklyn,871,724,,true,Kindergarten,12th Grade
+360094405974,Uncommon Kings Charter School Nyc,Uncommon Kings Charter School Nyc,Brooklyn,1262,1091,,true,Kindergarten,12th Grade
+360014505814,Uncommon Williamsburg Charter School Nyc,Uncommon Williamsburg Charter School Nyc,Brooklyn,250,210,,true,5th Grade,8th Grade
 360723000511,Union East Elementary School,Cheektowaga Central School District,Cheektowaga,963,641,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 361335001100,Union Pleasant Avenue Elementary School,Hamburg Central School District,Hamburg,663,157,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 362925003937,Union Springs High School,Union Springs Central School District,Union Springs,212,73,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
@@ -4418,13 +4418,13 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360327005597,Union Vale Middle School,Arlington Central School District,Lagrangeville,990,278,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 361071000854,Union-Endicott High School,Union-Endicott Central School District,Endicott,1078,530,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 362928003944,Uniondale High School,Uniondale Union Free School District,Uniondale,2106,1293,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-360104706254,United Charter High School for Advanced Math and Science,United Charter High School for Advanced Math and Science,Bronx,416,368,,false,9th Grade,12th Grade
-360107206365,United Charter High School for Advanced Math and Science II,United Charter High School for Advanced Math and Science II,Bronx,492,438,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
-360108806425,United Charter High School for Advanced Math and Science III,United Charter High School for Advanced Math and Science III,Brooklyn,283,239,,false,9th Grade,12th Grade
-360113606549,United Charter High School for Advanced Math and Science IV,United Charter High School for Advanced Math and Science IV,Jamaica,363,270,,false,9th Grade,12th Grade
-360104106263,United Charter High School for the Humanities,United Charter High School for the Humanities,Bronx,325,297,,false,9th Grade,12th Grade
-360107306320,United Charter High School for the Humanities II,United Charter High School for the Humanities II,Bronx,250,228,,false,9th Grade,12th Grade
-360116206621,United Charter High School for the Humanities IV,United Charter High School for the Humanities IV,Rockaway Park,189,173,,false,9th Grade,12th Grade
+360104706254,United Charter High School for Advanced Math and Science,United Charter High School for Advanced Math and Science,Bronx,416,368,,true,9th Grade,12th Grade
+360107206365,United Charter High School for Advanced Math and Science II,United Charter High School for Advanced Math and Science II,Bronx,492,438,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+360108806425,United Charter High School for Advanced Math and Science III,United Charter High School for Advanced Math and Science III,Brooklyn,283,239,,true,9th Grade,12th Grade
+360113606549,United Charter High School for Advanced Math and Science IV,United Charter High School for Advanced Math and Science IV,Jamaica,363,270,,true,9th Grade,12th Grade
+360104106263,United Charter High School for the Humanities,United Charter High School for the Humanities,Bronx,325,297,,true,9th Grade,12th Grade
+360107306320,United Charter High School for the Humanities II,United Charter High School for the Humanities II,Bronx,250,228,,true,9th Grade,12th Grade
+360116206621,United Charter High School for the Humanities IV,United Charter High School for the Humanities IV,Rockaway Park,189,173,,true,9th Grade,12th Grade
 360007700595,Unity Center for Urban Technologies,New York City Geographic District # 2,New York,259,225,,true,9th Grade,12th Grade
 361920004343,Unity Drive Kindergarten-Pre K Center,Middle Country Central School District,Centereach,478,188,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Kindergarten
 360109406404,Unity Preparatory Charter School of Brooklyn,Unity Preparatory Charter School of Brooklyn,Brooklyn,513,423,,true,6th Grade,12th Grade
@@ -4458,11 +4458,11 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360007705764,Urban Assembly School of Business for Young Women,New York City Geographic District # 2,New York,127,119,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 360007705626,Urban Assembly School of Design and Construction,New York City Geographic District # 2,New York,200,171,,true,9th Grade,12th Grade
 360009106366,Urban Assembly Unison School (The),New York City Geographic District #13,Brooklyn,172,147,,true,6th Grade,8th Grade
-360007706372,Urban Assembly-Early Coll HS Emer Md,New York City Geographic District # 2,New York,364,327,,false,9th Grade,12th Grade
+360007706372,Urban Assembly-Early Coll HS Emer Md,New York City Geographic District # 2,New York,364,327,,true,9th Grade,12th Grade
 360106506342,Urban Dove Team Charter School,Urban Dove Team Charter School,Brooklyn,289,261,Yes under Community Eligibility Option (CEO),true,10th Grade,12th Grade
 360118706628,Urban Dove Team Charter School II,Urban Dove Team Charter School II,Bronx,285,270,Yes under Community Eligibility Option (CEO),true,10th Grade,12th Grade
-360106706319,Urban Dove Team Charter School III,Urban Dove Team Charter School III,Astoria,55,48,Yes under Community Eligibility Option (CEO),false,10th Grade,12th Grade
-360105706324,Urban Dove Team Charter School IV,Urban Dove Team Charter School IV,New York,182,173,,false,10th Grade,12th Grade
+360106706319,Urban Dove Team Charter School III,Urban Dove Team Charter School III,Astoria,55,48,Yes under Community Eligibility Option (CEO),true,10th Grade,12th Grade
+360105706324,Urban Dove Team Charter School IV,Urban Dove Team Charter School IV,New York,182,173,,true,10th Grade,12th Grade
 360008505982,Urban Institute of Mathematics,New York City Geographic District # 8,Bronx,361,284,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 360009006133,Urban Scholars Community School,New York City Geographic District #12,Bronx,294,288,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 362265003183,Uriah Hill School,Peekskill City School District,Peekskill,186,88,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
@@ -4798,7 +4798,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 360008806400,Young Voices Academy of the Bronx,New York City Geographic District #11,Bronx,363,320,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 360108006316,Young Women's College Prep CS,Young Women's College Prep CS,Rochester,356,300,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 360010306758,Young Women's Leadership of Staten Island,New York City Geographic District #31,Staten Island,180,167,,false,6th Grade,8th Grade
-360007802919,Young Women's Leadership School,New York City Geographic District # 3,New York,360,298,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
+360007802919,Young Women's Leadership School,New York City Geographic District # 3,New York,360,298,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
 360011906033,Young Women's Leadership School of Brooklyn,New York City Geographic District #14,Brooklyn,255,234,,true,6th Grade,12th Grade
 360008606345,Young Women's Leadership School of the Bronx,New York City Geographic District # 9,Bronx,502,467,,true,6th Grade,12th Grade
 360010005832,Young Women's Leadership School-Queens,New York City Geographic District #28,Jamaica,544,443,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade

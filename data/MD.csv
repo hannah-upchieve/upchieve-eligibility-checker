@@ -1105,7 +1105,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 240012000473,Seventh District Elementary,Baltimore County Public Schools,Parkton,346,50,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 240006000123,Severn Elementary,Anne Arundel County Public Schools,Severn,458,187,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 240006000124,Severn River Middle,Anne Arundel County Public Schools,Arnold,675,137,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-240006090498,Severn Run High School,Anne Arundel County Public Schools,Severn,1608,531,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+240006090498,Severn Run High School,Anne Arundel County Public Schools,Severn,1608,531,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 240006000125,Severna Park Elementary,Anne Arundel County Public Schools,Severna Park,372,31,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 240006000127,Severna Park High,Anne Arundel County Public Schools,Severna Park,1842,178,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 240006000126,Severna Park Middle,Anne Arundel County Public Schools,Severna Park,1386,108,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade

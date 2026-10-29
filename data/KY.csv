@@ -885,7 +885,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 210075000151,Mt. Washington Elementary,Bullitt County,Mount Washington,577,146,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 210075000150,Mt. Washington Middle School,Bullitt County,Mount Washington,474,196,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 210008102258,Muhlenberg County High School,Muhlenberg County,Greenville,1123,595,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-210008101081,Muhlenberg County Middle School,Muhlenberg County,Greenville,871,525,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+210008101081,Muhlenberg County Middle School,Muhlenberg County,Greenville,871,525,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 210008101967,Muhlenberg South Elementary,Muhlenberg County,Beechmont,527,363,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 210480001202,Mullins Elementary School,Pike County,Pikeville,779,505,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 210264000567,Munfordville Elementary School,Hart County,Munfordville,489,282,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
@@ -1090,7 +1090,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 210303000092,Rosenwald Dunbar Elementary School,Jessamine County,Nicholasville,542,259,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
 210254000545,Rosspoint Elementary School,Harlan County,Baxter,369,285,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 210507001253,Roundstone Elementary School,Rockcastle County,Mount Vernon,267,185,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-210510002342,Rowan Academy - Bluegrass Discovery,Rowan County,Morehead,31,25,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
+210510002342,Rowan Academy - Bluegrass Discovery,Rowan County,Morehead,31,25,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 210510002591,Rowan Academy - Virtual Education,Rowan County,Morehead,127,72,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
 210510001478,Rowan County Middle School,Rowan County,Morehead,695,430,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 210510002033,Rowan County Preschool Center,Rowan County,Morehead,172,107,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
@@ -1213,7 +1213,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 210186000378,Stonewall Elementary School,Fayette County,Lexington,674,207,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 210299002197,Stopher Elementary,Jefferson County,Louisville,781,109,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 210120002395,Strode Station Elementary School,Clark County,Winchester,542,322,Yes under Community Eligibility Option (CEO),false,Kindergarten,4th Grade
-210299001427,Stuart Middle School,Jefferson County,Louisville,1166,847,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+210299001427,Stuart Middle School,Jefferson County,Louisville,1166,847,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 210405001029,Stuart Pepper Middle School,Meade County,Brandenburg,702,281,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 210564001336,Sturgis Elementary School,Union County,Sturgis,343,235,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 210321000869,Sublimity Elementary School,Laurel County,London,323,214,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade

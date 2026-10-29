@@ -105,7 +105,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 130171000612,Bainbridge High School,Decatur County,Bainbridge,1192,1177,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 130171000614,Bainbridge Middle School,Decatur County,Bainbridge,793,793,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 130018004698,Baker County Elementary,Baker County,Newton,138,138,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-130018001867,Baker County High School,Baker County,Newton,77,77,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+130018001867,Baker County High School,Baker County,Newton,77,77,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 130018004266,Baker County Learning Academy,Baker County,Newton,6,,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
 130018004691,Baker County Middle School,Baker County,Newton,66,66,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 130129002021,Baker Elementary School,Cobb County,Acworth,738,364,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -146,7 +146,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 130252001101,Beaverbrook Elementary School,Griffin-Spalding County,Griffin,318,292,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 130570003684,Beaverdale Elementary School,Whitfield County,Dalton,488,488,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 130012000118,Beecher Hills Elementary School,Atlanta Public Schools,Atlanta,237,237,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-130438004312,Belair Elementary School,Richmond County,Augusta,675,556,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+130438004312,Belair Elementary School,Richmond County,Augusta,675,556,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 130438004687,Belair Middle School,Richmond County,Augusta,776,640,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 130129000556,Bells Ferry Elementary School,Cobb County,Marietta,704,433,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 130129000538,Belmont Hills Elementary School,Cobb County,Smyrna,267,267,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -184,7 +184,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 130282004712,Birch Creek Elementary School,Henry County,McDonough,745,554,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 130228003874,Birmingham Falls Elementary School,Fulton County,Milton,696,30,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 130129000514,Birney Elementary School,Cobb County,Marietta,725,725,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-130489002342,Bishop Hall,Thomas County,Thomasville,143,143,Yes under Community Eligibility Option (CEO),false,8th Grade,12th Grade
+130489002342,Bishop Hall,Thomas County,Thomasville,143,143,Yes under Community Eligibility Option (CEO),true,8th Grade,12th Grade
 130165002254,Black's Mill Elementary School,Dawson County,Dawsonville,570,255,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 130342002581,Blackburn Elementary School,Lumpkin County,Dawsonville,779,429,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 130387001376,Blackmon Road Middle School,Muscogee County,Columbus,478,376,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
@@ -531,7 +531,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 130288002921,David A. Perdue Primary,Houston County,Warner Robins,716,529,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 130078000791,David L Rainer Elementary School,Camden County,Kingsland,496,274,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 130012000027,David T Howard Middle School,Atlanta Public Schools,Atlanta,1073,252,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-130438001567,Davidson Fine Arts Magnet,Richmond County,Augusta,747,314,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
+130438001567,Davidson Fine Arts Magnet,Richmond County,Augusta,747,314,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 130387001452,Davis Elementary School,Muscogee County,Columbus,387,387,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 130129001995,Davis Elementary School,Cobb County,Marietta,635,81,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 130159000778,Davis Elementary School,Dade County,Trenton,259,178,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -545,7 +545,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 130438003662,Deer Chase Elementary School,Richmond County,Hephzibah,555,555,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 130012003470,Deerwood Academy,Atlanta Public Schools,Atlanta,469,469,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 130174003955,Dekalb Agriculture Technology and Environment School,DeKalb County,Stone Mountain,760,759,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
-130174000656,Dekalb Arts Academy,DeKalb County,Avondale Estates,768,584,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+130174000656,Dekalb Arts Academy,DeKalb County,Avondale Estates,768,584,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 130585104459,Dekalb Brilliance Academy,State Specialty Schools II- DeKalb Brilliance Academy,Decatur,357,357,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 130174003708,Dekalb Early College Academy,DeKalb County,Stone Mountain,314,265,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 130174003339,Dekalb Path Academy Charter School,DeKalb County,Brookhaven,369,369,Yes under Community Eligibility Option (CEO),true,5th Grade,8th Grade
@@ -758,7 +758,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 130111000438,Free Home Elementary School,Cherokee County,Canton,280,92,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 130111003310,Freedom Middle School,Cherokee County,Canton,929,276,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 130174002370,Freedom Middle School,DeKalb County,Stone Mountain,1272,1272,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-130438002596,Freedom Park K-8 School,Richmond County,Fort Gordon,608,127,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
+130438002596,Freedom Park K-8 School,Richmond County,Fort Gordon,608,127,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 130546001783,Freeman Elementary School,Warren County,Warrenton,315,315,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 130255002323,Freeman's Mill Elementary School,Gwinnett County,Lawrenceville,1011,575,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 130129001490,Frey Elementary School,Cobb County,Acworth,691,206,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -766,7 +766,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 130228004259,Fulton Academy of Science and Technology,Fulton County,Roswell,552,30,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 130228004409,Fulton Academy of Virtual Excellence,Fulton County,Atlanta,393,110,Yes participating without using any Provision or the CEO,false,2nd Grade,12th Grade
 130138000590,Funston Elementary School,Colquitt County,Funston,376,376,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-130025804373,Furlow Charter School,State Specialty Schools II- Furlow Charter School,Americus,585,294,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
+130025804373,Furlow Charter School,State Specialty Schools II- Furlow Charter School,Americus,585,294,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
 130252002281,Futral Road Elementary School,Griffin-Spalding County,Griffin,600,557,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 130498001681,G. O. Bailey Elementary School,Tift County,Tifton,531,531,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 130102000365,Gadsden Elementary School,Savannah-Chatham County,Savannah,493,488,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -815,7 +815,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 130174004142,Globe Academy Charter School I,DeKalb County,Atlanta,1093,324,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 130240001056,Glyndale Elementary School,Glynn County,Brunswick,585,585,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 130240001065,Glynn Academy,Glynn County,Brunswick,1911,1192,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
-130240001064,Glynn Middle School,Glynn County,Brunswick,735,548,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+130240001064,Glynn Middle School,Glynn County,Brunswick,735,548,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 130102003972,Godley Station School,Savannah-Chatham County,Savannah,1585,964,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 130240002080,Golden Isles Elementary School,Glynn County,Brunswick,619,619,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 130363003633,Good Sheperd Therapeutic Center,Meriwether County,Warm Springs,4,,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
@@ -1070,7 +1070,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 130312002400,Johnson County Middle School,Johnson County,Wrightsville,220,220,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 130219000939,Johnson Elementary,Floyd County,Rome,518,225,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 130387001448,Johnson Elementary School,Muscogee County,Columbus,336,336,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-130438001534,Johnson Health Science and Engineering Magnet School,Richmond County,Augusta,640,447,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
+130438001534,Johnson Health Science and Engineering Magnet School,Richmond County,Augusta,640,447,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 130261001168,Johnson High School,Hall County,Gainesville,1318,932,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 130102000382,Johnson High School,Savannah-Chatham County,Savannah,762,634,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 130111001878,Johnston Elementary School,Cherokee County,Woodstock,543,239,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -1109,7 +1109,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 130129000552,Kennesaw Elementary School,Cobb County,Kennesaw,560,287,Yes participating without using any Provision or the CEO,false,Prekindergarten,2nd Grade
 130129002365,Kennesaw Mountain High School,Cobb County,Kennesaw,1695,688,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 130387001402,Key Elementary School,Muscogee County,Columbus,263,263,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-130084003483,Kidspeace,Carroll County,Bowdon,50,47,Yes participating without using any Provision or the CEO,false,4th Grade,12th Grade
+130084003483,Kidspeace,Carroll County,Bowdon,50,47,Yes participating without using any Provision or the CEO,true,4th Grade,12th Grade
 130165002536,Kilough Elementary School,Dawson County,Dawsonville,461,235,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 130123000464,Kilpatrick Elementary School,Clayton County,Jonesboro,637,633,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 130129000509,Kincaid Elementary School,Cobb County,Marietta,603,173,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade

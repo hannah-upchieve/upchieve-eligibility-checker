@@ -1025,7 +1025,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 200459000972,Royster Middle School,Chanute Public Schools,Chanute,389,229,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 200462001251,Rural Center Elem,Chapman,Abilene,62,20,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 201164001555,Rushton Elem,Shawnee Mission Pub Sch,Mission,336,178,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
-201131000945,Russell Junior-Senior High,Russell County,Russell,328,165,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
+201131000945,Russell Junior-Senior High,Russell County,Russell,328,165,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 200705001725,Ruth Clark Elementary K-5,Haysville,Wichita,316,199,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 200035001978,Sabetha Elementary School,Prairie Hills,Sabetha,401,160,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 200035001996,Sabetha High School,Prairie Hills,Sabetha,217,66,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade

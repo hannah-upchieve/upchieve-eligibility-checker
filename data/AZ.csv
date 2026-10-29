@@ -77,9 +77,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040011203779,American Leadership Academy Virtual,American Leadership Academy Inc. (4348),Mesa,660,,No,false,Kindergarten,12th Grade
 040011203702,American Leadership Academy West Foothills K-12,American Leadership Academy Inc. (4348),Surprise,2276,,No,false,Kindergarten,12th Grade
 040013101781,Amerischools Academy - Camelback,The Charter Foundation Inc. (6355),Phoenix,94,,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
-040013102070,Amerischools Academy - Tucson,The Charter Foundation Inc. (6355),Tucson,167,,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
+040013102070,Amerischools Academy - Tucson,The Charter Foundation Inc. (6355),Tucson,167,,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 040013101960,Amerischools Academy - Yuma,The Charter Foundation Inc. (6355),Yuma,102,,No,true,Kindergarten,8th Grade
-040013103274,Amerischools Academy - Yuma North,The Charter Foundation Inc. (6355),Yuma,193,,No,false,Kindergarten,8th Grade
+040013103274,Amerischools Academy - Yuma North,The Charter Foundation Inc. (6355),Yuma,193,,No,true,Kindergarten,8th Grade
 040068003330,Amphi Academy Online,Amphitheater Unified District (4406),Tucson,128,,No,false,Kindergarten,12th Grade
 040068000032,Amphitheater High School,Amphitheater Unified District (4406),Tucson,996,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 040068000020,Amphitheater Middle School,Amphitheater Unified District (4406),Tucson,432,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -228,7 +228,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040118000063,Bisbee High School,Bisbee Unified District (4169),Bisbee,306,,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 040041902897,Biyaagozhoo Center,Gila County Regional School District (87600),San Carlos,10,,No,false,3rd Grade,12th Grade
 040029501544,Black Mountain Elementary School,Kingman Unified School District (79598),Golden Valley,474,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
-040000100120,Black Mountain Elementary School,Cave Creek Unified District (4244),Scottsdale,496,,Yes participating without using any Provision or the CEO,true,Prekindergarten,6th Grade
+040000100120,Black Mountain Elementary School,Cave Creek Unified District (4244),Scottsdale,496,,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 040598000493,Blake Primary School,Parker Unified School District (4510),Parker,379,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 040880001260,Blenman Elementary School,Tucson Unified District (4403),Tucson,317,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 040880001442,Bloom Elementary,Tucson Unified District (4403),Tucson,336,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -458,7 +458,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040885002551,Corona Foothills Middle School,Vail Unified District (4413),Corona de Tucson,619,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 040378001987,Coronado Elementary School,Higley Unified School District (4248),Gilbert,536,,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 040588001498,Coronado Elementary School,Palominas Elementary School District 49 (4180),Sierra Vista,404,,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
-040808000702,Coronado Elementary School,St Johns Unified District (4153),St Johns,247,,Yes participating without using any Provision or the CEO,true,Prekindergarten,3rd Grade
+040808000702,Coronado Elementary School,St Johns Unified District (4153),St Johns,247,,Yes participating without using any Provision or the CEO,false,Prekindergarten,3rd Grade
 040757000644,Coronado High School,Scottsdale Unified District (4240),Scottsdale,747,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 040068000021,Coronado K-8 School,Amphitheater Unified District (4406),Tucson,561,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 040438002342,Corte Sierra Elementary School,Litchfield Elementary District (4281),Avondale,564,,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
@@ -469,7 +469,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040237000166,Cottonwood Education Services,Cottonwood-Oak Creek Elementary District (4487),Cottonwood,86,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
 040002103446,Cottonwood Elementary,Colorado City Unified District (4370),Colorado City,338,,Yes under Provision 2,false,Prekindergarten,5th Grade
 040171000107,Cottonwood Elementary School,Casa Grande Elementary District (4446),Casa Grande,515,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
-040885002193,Cottonwood Elementary School,Vail Unified District (4413),Tucson,570,,Yes participating without using any Provision or the CEO,true,Kindergarten,6th Grade
+040885002193,Cottonwood Elementary School,Vail Unified District (4413),Tucson,570,,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 040042901994,Country Gardens Charter School,Country Gardens Charter Schools (79074),Laveen,268,,No,true,Kindergarten,12th Grade
 040625001982,Country Meadows Elementary School,Peoria Unified School District (4237),Peoria,972,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 040444002497,Country Place Elementary,Littleton Elementary District (4278),Tolleson,900,,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
@@ -665,7 +665,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040429003697,Estrella Foothills Global Academy,Laveen Elementary District (4276),Laveen,984,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 040141002137,Estrella Foothills High School,Buckeye Union High School District (4284),Goodyear,1592,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 040035201898,Estrella High School,American Charter Schools Foundation d.b.a. Estrell (79873),Avondale,138,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-040168000093,Estrella Middle School College and Career Prep,Cartwright Elementary District (4282),Phoenix,650,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+040168000093,Estrella Middle School College and Career Prep,Cartwright Elementary District (4282),Phoenix,650,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 040432001467,Estrella Mountain Elementary School,Liberty Elementary District (4266),Goodyear,525,,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 040444002771,Estrella Vista Elementary School,Littleton Elementary District (4278),Avondale,893,,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
 040094203497,Ethos Academy- a Challenge Foundation Academy,Ethos Academy - A Challenge Foundation Academy (92379),Glendale,325,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
@@ -1465,7 +1465,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040625003145,Parkridge Elementary,Peoria Unified School District (4237),Peoria,895,,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 040036403791,Pas Charter Online,PAS Charter Inc. dba Intelli-School (79953),Phoenix,9,,No,false,9th Grade,12th Grade
 040775001679,Paseo Hills School,Deer Valley Unified District (4246),Phoenix,689,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
-040429003530,Paseo Pointe Dual Language Academy,Laveen Elementary District (4276),Laveen,988,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
+040429003530,Paseo Pointe Dual Language Academy,Laveen Elementary District (4276),Laveen,988,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 040625000584,Paseo Verde Elementary School,Peoria Unified School District (4237),Peoria,689,,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 040105000054,Pat Tillman Middle School,Balsz Elementary District (4268),Phoenix,598,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 040600000497,Patagonia Elementary School,Patagonia Elementary District (4460),Patagonia,124,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
@@ -1660,7 +1660,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040880000880,Robison Elementary School,Tucson Unified District (4403),Tucson,247,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 040477002400,Robles Elementary School,Altar Valley Elementary District (4418),Tucson,320,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 040497001166,Robson Elementary School,Mesa Unified District (4235),Mesa,397,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
-040429003336,Rogers Ranch STEM Academy,Laveen Elementary District (4276),Laveen,997,,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+040429003336,Rogers Ranch STEM Academy,Laveen Elementary District (4276),Laveen,997,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 040960002427,Ron Watson Middle School,Yuma Elementary District (4499),Yuma,548,,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 040240000036,Ronald Reagan Fundamental School,Crane Elementary District (4501),Yuma,467,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 040497000413,Roosevelt Elementary School,Mesa Unified District (4235),Mesa,509,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -1779,7 +1779,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040770000674,Show Low Junior High School,Show Low Unified District (4393),Show Low,527,,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 040770003615,Show Low Preschool,Show Low Unified District (4393),Show Low,14,,No,false,Prekindergarten,Prekindergarten
 040187001359,Shumway Leadership Academy,Chandler Unified District #80 (4242),Chandler,474,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
-040817001149,Sierra K-8 School,Sunnyside Unified District (4407),Tucson,801,,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+040817001149,Sierra K-8 School,Sunnyside Unified District (4407),Tucson,801,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 040852002912,Sierra Linda High School,Tolleson Union High School District (4288),Tolleson,1911,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 040775002127,Sierra Verde STEAM Academy,Deer Valley Unified District (4246),Glendale,932,,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 040681003658,Silver Valley Elementary,Queen Creek Unified District (4245),Mesa,1384,,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
@@ -1817,7 +1817,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040022302199,Sonoran Science Academy - Tucson,Daisy Education Corporation dba Sonoran Science Ac (79049),Tucson,689,,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 040077402934,Sonoran Science Academy East,Daisy Education Corporation dba Sonoran Science Ac (89915),Tucson,467,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 040621002136,Sonoran Sky Elementary School,Pendergast Elementary District (4283),Glendale,537,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
-040593000606,Sonoran Sky Elementary School,Paradise Valley Unified District (4241),Scottsdale,567,,Yes participating without using any Provision or the CEO,true,Prekindergarten,6th Grade
+040593000606,Sonoran Sky Elementary School,Paradise Valley Unified District (4241),Scottsdale,567,,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 040000101871,Sonoran Trails Middle School,Cave Creek Unified District (4244),Phoenix,615,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 040022303734,Sonoran Virtual Academy,Daisy Education Corporation dba Sonoran Science Ac (79049),Tucson,69,,No,false,Kindergarten,12th Grade
 040730000628,Sopori Elementary School,Sahuarita Unified District (4411),Amado,105,,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
@@ -1875,7 +1875,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040100303675,Sun Valley Academy-Avondale,Sun Valley Academy - Avondale Inc. (1001157),Avondale,479,,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 040974003838,Sun Valley Academy-Glendale,Sun Valley Academy - Glendale Inc. (1002008),Glendale,192,,No,false,Kindergarten,8th Grade
 040625001425,Sun Valley Elementary School,Peoria Unified School District (4237),Peoria,720,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
-040789003814,Sun Valley Elementary School,Somerton Elementary District (4500),San Luis,260,,Yes under Community Eligibility Option (CEO),true,Kindergarten,6th Grade
+040789003814,Sun Valley Elementary School,Somerton Elementary District (4500),San Luis,260,,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 040035401733,Sun Valley High School,American Charter Schools Foundation d.b.a. Sun Val (79877),Mesa,345,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 040906000942,Sunburst School,Washington Elementary School District (4260),Glendale,556,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 040138002490,Sundance Elementary,Buckeye Elementary District (4269),Buckeye,656,,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
@@ -2059,7 +2059,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 040553000456,Wade Carpenter Middle School,Nogales Unified District (4457),Nogales,547,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 040880000901,Wakefield Middle School,Tucson Unified District (4403),Tucson,295,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 040730003183,Walden Grove High School,Sahuarita Unified District (4411),Sahuarita,1151,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-040292002210,Walker Butte Middle School,Florence Unified School District (4437),San Tan Valley,718,,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
+040292002210,Walker Butte Middle School,Florence Unified School District (4437),San Tan Valley,718,,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 040598000495,Wallace Elementary School,Parker Unified School District (4510),Parker,323,,Yes under Community Eligibility Option (CEO),false,3rd Grade,5th Grade
 040598001977,Wallace Jr High School,Parker Unified School District (4510),Parker,299,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 040860000810,Walter J Meyer School,Tombstone Unified District (4168),Tombstone,151,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade

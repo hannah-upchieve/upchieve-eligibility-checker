@@ -124,7 +124,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 220009002487,Bluff Ridge Primary,Ascension Parish,Prairieville,677,265,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 220024000103,Bogalusa High School,City of Bogalusa School District,Bogalusa,656,617,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 220120000998,Boley Elementary School,Ouachita Parish,West Monroe,279,220,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-220129001042,Bolton Academy,Rapides Parish,Alexandria,372,203,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
+220129001042,Bolton Academy,Rapides Parish,Alexandria,372,203,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 220084000585,Bonnabel Magnet Academy High School,Jefferson Parish,Kenner,2376,1390,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 220165001267,Bonne Ecole Elementary School,St. Tammany Parish,Slidell,651,353,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 220030000208,Booker T. Washington High,Caddo Parish,Shreveport,722,622,Yes participating without using any Provision or the CEO,true,9th Grade,13th Grade
@@ -593,7 +593,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 220168002274,Jewel M. Sumner Middle School,Tangipahoa Parish,Kentwood,306,243,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 220084000590,John Clancy/Joseph Maggiore Elementary School,Jefferson Parish,Kenner,545,317,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 220084000598,John Ehret High School,Jefferson Parish,Marrero,1850,1379,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-220031902499,John F. Kennedy High School,John F. Kennedy High School,New Orleans,665,588,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+220031902499,John F. Kennedy High School,John F. Kennedy High School,New Orleans,665,588,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 220033000250,John J. Johnson II Elementary School,Calcasieu Parish,Lake Charles,131,127,Yes participating without using any Provision or the CEO,false,Prekindergarten,2nd Grade
 220084001512,John James Audubon School,Jefferson Parish,Kenner,572,425,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 220153000427,John L. Ory Communications Magnet Elementary,St. John the Baptist Parish,LaPlace,428,272,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
@@ -722,8 +722,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 228010210419,Louisiana Key Academy Northshore,Louisiana Key Academy- Northshore,Covington,256,99,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 228011410447,Louisiana Rebirth Blended Learning Academy,Community School for Apprenticeship Learning,Baton Rouge,444,336,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 220001701975,Louisiana School for Math Science & the Arts,Louisiana School for Math Science & the Arts,Natchitoches,272,54,Yes participating without using any Provision or the CEO,false,10th Grade,12th Grade
-228010001789,Louisiana School for the Deaf,Special School District,Baton Rouge,78,73,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
-228010000193,Louisiana School for the Visually Impaired,Special School District,Baton Rouge,56,49,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
+228010001789,Louisiana School for the Deaf,Special School District,Baton Rouge,78,73,Yes participating without using any Provision or the CEO,false,Prekindergarten,12th Grade
+228010000193,Louisiana School for the Visually Impaired,Special School District,Baton Rouge,56,49,Yes participating without using any Provision or the CEO,false,Prekindergarten,12th Grade
 220023302320,Louisiana Virtual Charter Academy,Louisiana Virtual Charter Academy,Baton Rouge,2239,2055,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 220009000047,Lowery Elementary School,Ascension Parish,Donaldsonville,307,282,Yes under Community Eligibility Option (CEO),false,3rd Grade,5th Grade
 220009000042,Lowery Middle School,Ascension Parish,Donaldsonville,277,253,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -796,7 +796,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 220003000016,Midland High School,Acadia Parish,Midland,317,172,Yes under Community Eligibility Option (CEO),true,8th Grade,12th Grade
 220168001313,Midway Elementary School,Tangipahoa Parish,Tickfaw,440,380,Yes under Community Eligibility Option (CEO),false,Prekindergarten,3rd Grade
 220030001510,Midway Professional Development Center,Caddo Parish,Shreveport,234,214,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-228010610430,Mildred Osborne Charter School,Mildred Osborne Charter School,New Orleans,850,715,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
+228010610430,Mildred Osborne Charter School,Mildred Osborne Charter School,New Orleans,850,715,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 220087000682,Milton Elementary School,Lafayette Parish,Lafayette,1261,411,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 220144001146,Mimosa Park Elementary School,St. Charles Parish,Luling,440,168,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 220189001444,Minden High School,Webster Parish,Minden,689,472,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -1019,13 +1019,13 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 220084000642,Riverdale High School,Jefferson Parish,Jefferson,1259,739,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 220054000420,Riveroaks Elementary School,East Baton Rouge Parish,Baton Rouge,492,328,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 220004701780,Riverside Alternative High School,Office of Juvenile Justice,Bridge City,27,24,Yes participating without using any Provision or the CEO,true,1st Grade,12th Grade
-228010001614,Riverside Alternative High School,Special School District,Bridge City,,,,true,,
+228010001614,Riverside Alternative High School,Special School District,Bridge City,,,,false,,
 220165001897,Riverside Elementary School,St. Tammany Parish,Pearl River,420,207,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
 220030000190,Riverside Elementary School,Caddo Parish,Shreveport,404,275,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 220015000077,Riverside Elementary School,Avoyelles Parish,Simmesport,197,182,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 220120001010,Robinson Elementary School,Ouachita Parish,Monroe,374,353,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 220003902347,Rollins Place Elementary,Zachary Community School District,Zachary,774,525,Yes participating without using any Provision or the CEO,false,1st Grade,2nd Grade
-220033102529,Rooted School,Rooted School,New Orleans,152,96,Yes under Community Eligibility Option (CEO),true,9th Grade,13th Grade
+220033102529,Rooted School,Rooted School,New Orleans,152,96,Yes under Community Eligibility Option (CEO),false,9th Grade,13th Grade
 220168001321,Roseland Montessori,Tangipahoa Parish,Roseland,412,307,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 220129001076,Rosenthal Montessori Elementary School,Rapides Parish,Alexandria,366,325,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 220126002000,Rosenwald Elementary School,Pointe Coupee Parish,New Roads,303,277,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -1103,7 +1103,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 220002301921,Southern University Lab School,Southern University Lab School,Baton Rouge,478,302,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
 220002302402,Southern University Laboratory Virtual School,Southern University Lab School,Baton Rouge,299,215,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 220004701781,Southside Alternative High School,Office of Juvenile Justice,Monroe,165,146,Yes participating without using any Provision or the CEO,true,1st Grade,12th Grade
-228010001619,Southside Alternative High School,Special School District,Monroe,,,,true,,
+228010001619,Southside Alternative High School,Special School District,Monroe,,,,false,,
 220102000771,Southside Elementary School,Livingston Parish,Denham Springs,534,475,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 220057000457,Southside Elementary School,East Carroll Parish,Lake Providence,359,348,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 220087002442,Southside High School,Lafayette Parish,Youngsville,1833,633,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade

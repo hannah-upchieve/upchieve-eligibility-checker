@@ -288,7 +288,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 410000901808,Eagle Charter School,Oregon Department of Education,Salem,150,97,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 410450000417,Eagle Point High School,Eagle Point SD 9,Eagle Point,1000,952,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 410450000416,Eagle Point Middle School,Eagle Point SD 9,Eagle Point,484,460,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
-410708001687,Eagle Ridge New Tech High School,Klamath Falls City Schools,Klamath Falls,74,73,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+410708001687,Eagle Ridge New Tech High School,Klamath Falls City Schools,Klamath Falls,74,73,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 410450001586,Eagle Rock Elementary School,Eagle Point SD 9,Eagle Point,288,273,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 410394004180,Earl Boyles Elementary,David Douglas SD 40,Portland,365,424,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 411082001717,Early College High School,Salem-Keizer SD 24J,Salem,193,,No,true,9th Grade,12th Grade
@@ -668,7 +668,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 411004000918,Maplewood Elementary School,Portland SD 1J,Portland,296,123,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 410774000638,Marcola Elementary School,Marcola SD 79J,Marcola,139,86,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 411052001001,Margaret Scott Elementary School,Reynolds SD 7,Portland,361,363,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-410002000693,Mari-Linn School,North Santiam SD 29J,Lyons,158,103,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+410002000693,Mari-Linn School,North Santiam SD 29J,Lyons,158,103,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 411145000762,Mark Twain Elementary,Silver Falls SD 4J,Silverton,314,162,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 411004000919,Markham Elementary School,Portland SD 1J,Portland,341,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 410366001882,Marshfield Junior High,Coos Bay SD 9,Coos Bay,418,163,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade

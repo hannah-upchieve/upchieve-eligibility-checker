@@ -644,7 +644,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 540123000991,Woodrow Wilson High School,Raleigh County Schools,Beckley,1284,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 540105000876,Woodsdale Elementary School,Ohio County Schools,Wheeling,405,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 540057000351,Wright Denny Intermediate School,Jefferson County Schools,Charles Town,376,,Yes under Community Eligibility Option (CEO),false,3rd Grade,5th Grade
-540162101200,Wv Schools for the Deaf & the Blind,WV School For The Deaf & Blind,Romney,51,,No,false,Prekindergarten,12th Grade
+540162101200,Wv Schools for the Deaf & the Blind,WV School For The Deaf & Blind,Romney,51,,No,true,Prekindergarten,12th Grade
 540165001429,Wyoming County Career & Technical Center,Wyoming County Schools,Pineville,2,,No,false,9th Grade,12th Grade
 540165001028,Wyoming County East High School,Wyoming County Schools,New Richmond,449,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 540102000852,Zela Elementary School,Nicholas County Schools,Summersville,67,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade

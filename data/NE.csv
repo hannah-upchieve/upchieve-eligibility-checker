@@ -802,7 +802,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 317374001257,Sandoz Elementary School,Millard Public Schools,Omaha,336,166,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 317047002464,Sandy Creek Elementary,Sandy Creek Schools,Fairfield,280,99,No,false,Prekindergarten,5th Grade
 317047002463,Sandy Creek High School,Sandy Creek Schools,Fairfield,124,50,No,false,9th Grade,12th Grade
-317047002465,Sandy Creek Middle School,Sandy Creek Schools,Fairfield,80,34,No,true,6th Grade,8th Grade
+317047002465,Sandy Creek Middle School,Sandy Creek Schools,Fairfield,80,34,No,false,6th Grade,8th Grade
 317284001178,Saratoga Elementary School,Lincoln Public Schools,Lincoln,216,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 317641001573,Sargent Elementary School,Sargent Public Schools,Sargent,80,50,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 317641001574,Sargent High School,Sargent Public Schools,Sargent,66,29,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade

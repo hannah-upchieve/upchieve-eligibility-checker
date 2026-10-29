@@ -7,7 +7,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 090070001513,Academy of Aerospace and Engineering,Capitol Region Education Council,Windsor,767,467,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 090070001629,Academy of Aerospace and Engineering Elementary,Capitol Region Education Council,Rocky Hill,604,316,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 090070001532,Academy of Computer Science and Engineering,Capitol Region Education Council,Enfield,550,407,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-090070001364,Academy of Computer Science and Engineering Middle School,Capitol Region Education Council,East Hartford,669,481,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+090070001364,Academy of Computer Science and Engineering Middle School,Capitol Region Education Council,East Hartford,669,481,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 090070000880,Academy of International Studies 6-12,Capitol Region Education Council,Bloomfield,697,446,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 090070001511,Academy of International Studies Elementary School,Capitol Region Education Council,South Windsor,497,301,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 090070001592,Academy of Science and Innovation,Capitol Region Education Council,New Britain,767,487,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
@@ -336,7 +336,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 090486001593,Great Neck Elementary School,Waterford School District,Waterford,309,90,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 090324000691,Great Oak Elementary School,Oxford School District,Oxford,369,67,Yes participating without using any Provision or the CEO,false,3rd Grade,5th Grade
 090021901782,Great Oaks Charter School,Great Oaks Charter School District,Bridgeport,662,544,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
-090192001403,Great Path Academy at Ct State Manchester,Hartford School District,Manchester,336,243,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+090192001403,Great Path Academy at Ct State Manchester,Hartford School District,Manchester,336,243,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 090102000151,Great Plain School,Danbury School District,Danbury,271,116,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 090070001497,Greater Hartford Academy of the Arts High School - Full Day,Capitol Region Education Council,Hartford,403,258,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 090303000628,Green Acres Elementary School,North Haven School District,North Haven,404,97,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -621,7 +621,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 090279000547,New Haven Academy,New Haven School District,New Haven,321,203,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 090171000303,New Lebanon School,Greenwich School District,Greenwich,375,231,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 090282000595,New London High School,New London School District,New London,605,552,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-090282001919,New London Visual and Performing Arts Magnet Pathway,New London School District,New London,268,218,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
+090282001919,New London Visual and Performing Arts Magnet Pathway,New London School District,New London,268,218,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 090285000602,New Milford High School,New Milford School District,New Milford,1150,322,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 090432000860,Newfield School,Stamford School District,Stamford,575,295,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 090288000610,Newington High School,Newington School District,Newington,1255,465,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -928,7 +928,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 090483001638,Waterbury Career Academy,Waterbury School District,Waterbury,709,553,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 090486001001,Waterford High School,Waterford School District,Waterford,713,218,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 090489001008,Watertown High School,Watertown School District,Watertown,693,280,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-090192001939,Weaver High School,Hartford School District,Hartford,721,607,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+090192001939,Weaver High School,Hartford School District,Hartford,721,607,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 090492001024,Webster Hill School,West Hartford School District,West Hartford,332,117,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 090192000383,Webster Micro Society Magnet School,Hartford School District,Hartford,626,415,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 090168000293,Wells Road Intermediate School,Granby School District,Granby,384,67,Yes participating without using any Provision or the CEO,false,3rd Grade,5th Grade

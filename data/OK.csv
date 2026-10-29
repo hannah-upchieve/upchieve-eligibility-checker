@@ -287,7 +287,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 402938001541,Cherokee ES,Tahlequah,Tahlequah,441,324,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 400741000297,Cherokee HS,Cherokee,Cherokee,118,59,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 400075529867,Cherokee Immersion ES-Greasy,Cherokee Immersion Charter ES,Bunch,4,,Yes participating without using any Provision or the CEO,false,Prekindergarten,Kindergarten
-400075502720,Cherokee Immersion ES-Tahlequah,Cherokee Immersion Charter ES,Tahlequah,112,74,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
+400075502720,Cherokee Immersion ES-Tahlequah,Cherokee Immersion Charter ES,Tahlequah,112,74,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 400741002745,Cherokee MS,Cherokee,Cherokee,94,41,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 400750000299,Cheyenne ES,Cheyenne,Cheyenne,192,104,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 400750000300,Cheyenne HS,Cheyenne,Cheyenne,82,25,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -442,22 +442,22 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 400991002667,Dickson MS,Dickson,Ardmore,282,165,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 400991000432,Dickson Upper ES,Dickson,Ardmore,277,164,Yes participating without using any Provision or the CEO,false,3rd Grade,5th Grade
 400552029704,Dierks ES,Broken Bow,Broken Bow,387,311,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
-402172002710,Dimensions Academy (High School),Norman,Norman,561,410,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+402172002710,Dimensions Academy (High School),Norman,Norman,561,410,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 402172002714,Dimensions Academy (Elementary School),Norman,Norman,738,400,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 403024029799,Disney ES,Tulsa,Tulsa,724,693,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 403024029771,Dolores Huerta ES,Tulsa,Tulsa,324,292,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 400885000374,Donald P Sloat JHS,Coweta,Coweta,541,252,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
 402277001130,Douglass HS,Oklahoma City,Oklahoma City,773,725,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-400075302694,Dove School of Discovery ES Tulsa,Dove Schools of Tulsa (Charter),Tulsa,556,495,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
+400075302694,Dove School of Discovery ES Tulsa,Dove Schools of Tulsa (Charter),Tulsa,556,495,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 400079902857,Dove Science Academy ES,Dove Schools of Okc (Charter),Warr Acres,519,361,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-400075302890,Dove Science Academy ES Tulsa,Dove Schools of Tulsa (Charter),Tulsa,569,482,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
-400079902903,Dove Science Academy ES-South Okc,Dove Schools of Okc (Charter),Oklahoma City,521,452,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
+400075302890,Dove Science Academy ES Tulsa,Dove Schools of Tulsa (Charter),Tulsa,569,482,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
+400079902903,Dove Science Academy ES-South Okc,Dove Schools of Okc (Charter),Oklahoma City,521,452,Yes participating without using any Provision or the CEO,true,Prekindergarten,5th Grade
 400079902858,Dove Science Academy HS,Dove Schools of Okc (Charter),Oklahoma City,389,324,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-400075302851,Dove Science Academy HS Tulsa,Dove Schools of Tulsa (Charter),Tulsa,343,302,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+400075302851,Dove Science Academy HS Tulsa,Dove Schools of Tulsa (Charter),Tulsa,343,302,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 400079902856,Dove Science Academy MS,Dove Schools of Okc (Charter),Warr Acress,313,250,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
-400079902936,Dove Science Academy MS-South Okc,Dove Schools of Okc (Charter),OKlahoma City,310,272,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+400079902936,Dove Science Academy MS-South Okc,Dove Schools of Okc (Charter),OKlahoma City,310,272,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 400080629889,Dove Virtual ES,Dove Virtual Academy (CHARTER),Edmond,113,79,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
-400080602937,Dove Virtual HS,Dove Virtual Academy (CHARTER),Edmond,124,71,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+400080602937,Dove Virtual HS,Dove Virtual Academy (CHARTER),Edmond,124,71,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 401005000436,Dover ES,Dover,Dover,143,88,Yes under Provision 2,true,Prekindergarten,8th Grade
 401005000437,Dover HS,Dover,Dover,63,39,Yes under Provision 2,true,9th Grade,12th Grade
 401017000438,Drummond ES,Drummond,Drummond,236,128,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
@@ -525,7 +525,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 401089002718,Empire MS,Empire,Duncan,112,69,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 401092000513,Enid HS,Enid,Enid,2157,1599,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 400077702741,Epic Charter Virtual ES,Epic Charter Virtual School,Oklahoma City,14019,10194,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
-400077702789,Epic Charter Virtual HS,Epic Charter Virtual School,Oklahoma City,14517,10465,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+400077702789,Epic Charter Virtual HS,Epic Charter Virtual School,Oklahoma City,14517,10465,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 401995000959,Epperly Heights ES,Midwest City-Del City,Del City,651,479,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 401104000525,Erick ES,Erick,Erick,127,101,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 401104029615,Erick HS,Erick,Erick,47,33,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
@@ -657,9 +657,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 401374000651,Hardesty ES,Hardesty,Hardesty,35,32,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 401374000652,Hardesty HS,Hardesty,Hardesty,8,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 400080929885,Harding Charter Preparatory ES at Kelley,Harding Independence (Charter),Oklahoma City,113,53,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
-400080902941,Harding Charter Preparatory HS,Harding Independence (Charter),Oklahoma City,538,325,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+400080902941,Harding Charter Preparatory HS,Harding Independence (Charter),Oklahoma City,538,325,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 400080902940,Harding Charter Preparatory MS at Independence,Harding Independence (Charter),Oklahoma City,404,298,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
-400077302385,Harding Fine Arts HS,Harding Fine Arts Charter Academy,Oklahoma City,400,250,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+400077302385,Harding Fine Arts HS,Harding Fine Arts Charter Academy,Oklahoma City,400,250,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 400077329886,Harding Fine Arts MS,Harding Fine Arts Charter Academy,Oklahoma City,92,62,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
 401383000653,Harmony Public School,Harmony,Atoka,246,199,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 401389000655,Harrah HS,Harrah,Harrah,641,272,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -767,8 +767,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 401548000733,Inola ES,Inola,Inola,538,295,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 401548029755,Inola HS,Inola,Inola,429,161,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 401548000734,Inola MS,Inola,Inola,391,170,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
-400078502792,Insight School of Okla HS,Insight School of Oklahoma (Charter),Midwest City,877,668,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-400078502799,Insight School of Okla MS,Insight School of Oklahoma (Charter),Midwest City,204,168,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+400078502792,Insight School of Okla HS,Insight School of Oklahoma (Charter),Midwest City,877,668,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+400078502799,Insight School of Okla MS,Insight School of Oklahoma (Charter),Midwest City,204,168,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 402097001038,Irving ES,Muskogee,Muskogee,421,389,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 402172001073,Irving MS,Norman,Norman,727,497,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 402256001102,J. F. Kennedy ES,Oilton,Oilton,168,103,Yes under Provision 2,true,Prekindergarten,8th Grade
@@ -845,8 +845,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 401665000777,Kiowa ES,Kiowa,Kiowa,197,115,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 401665029744,Kiowa HS,Kiowa,Kiowa,80,47,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 400076602900,Kipp Okc ES,Kipp Okc College Prep Charter,Oklahoma City,462,417,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
-400078002874,Kipp Tulsa HS University Prep,Kipp Tulsa Academy Charter,Tulsa,249,225,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-400078002744,Kipp Tulsa MS College Prep,Kipp Tulsa Academy Charter,Tulsa,274,252,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+400078002874,Kipp Tulsa HS University Prep,Kipp Tulsa Academy Charter,Tulsa,249,225,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+400078002744,Kipp Tulsa MS College Prep,Kipp Tulsa Academy Charter,Tulsa,274,252,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 402529001338,Kirkland Early Childhood Ctr,Putnam City,Oklahoma City,243,169,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 401671000779,Konawa ES,Konawa,Konawa,272,241,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 401671000780,Konawa HS,Konawa,Konawa,177,149,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
@@ -1143,7 +1143,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 400077802719,Okla Virtual Charter Acad ES,Oklahoma Virtual Charter Academy,Midwest City,1428,1140,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 400077802788,Okla Virtual Charter Acad HS,Oklahoma Virtual Charter Academy,Midwest City,1229,814,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 400077802784,Okla Virtual Charter Acad MS,Oklahoma Virtual Charter Academy,Midwest City,956,709,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
-400078902813,Okla Youth Academy HS-Tecumseh,Oklahoma Youth Academy (Charter),Tecumseh,49,49,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+400078902813,Okla Youth Academy HS-Tecumseh,Oklahoma Youth Academy (Charter),Tecumseh,49,49,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 400078602793,Oklahoma Connections Acad ES,Oklahoma Connections Academy (Charter),Bartlesville,480,352,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 400078602804,Oklahoma Connections Acad HS,Oklahoma Connections Academy (Charter),Bartlesville,560,279,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 400078602800,Oklahoma Connections Acad MS,Oklahoma Connections Academy (Charter),Bartlesville,360,205,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
@@ -1151,7 +1151,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 400007602350,Oklahoma Schl for the Blind HS,Oklahoma School for the Blind,Muskogee,48,40,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 400007602916,Oklahoma Schl for the Blind MS,Oklahoma School for the Blind,Muskogee,17,14,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 400007502347,Oklahoma School for the Deaf (Grades PK–8),Oklahoma School for the Deaf,Sulphur,54,46,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
-400007502348,Oklahoma School for the Deaf (Grades 9–12),Oklahoma School for the Deaf,Sulphur,39,30,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+400007502348,Oklahoma School for the Deaf (Grades 9–12),Oklahoma School for the Deaf,Sulphur,39,30,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 400002100848,Oklahoma Union ES,Oklahoma Union,South Coffeyville,265,178,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 400002129712,Oklahoma Union HS,Oklahoma Union,South Coffeyville,185,112,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 400002102290,Oklahoma Union MS,Oklahoma Union,South Coffeyville,143,87,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
@@ -1373,7 +1373,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 400079602832,Santa Fe South Hills ES,Santa Fe South Charter,Oklahoma City,529,501,Yes under Provision 2,false,Prekindergarten,5th Grade
 400079602838,Santa Fe South HS,Santa Fe South Charter,Oklahoma City,1081,1024,Yes under Provision 2,true,9th Grade,12th Grade
 400079602829,Santa Fe South MS,Santa Fe South Charter,Oklahoma City,738,706,Yes under Provision 2,true,6th Grade,8th Grade
-400079602831,Santa Fe South Pathways Mid-College,Santa Fe South Charter,Oklahoma City,394,346,Yes under Provision 2,false,9th Grade,12th Grade
+400079602831,Santa Fe South Pathways Mid-College,Santa Fe South Charter,Oklahoma City,394,346,Yes under Provision 2,true,9th Grade,12th Grade
 400079602837,Santa Fe South Penn ES,Santa Fe South Charter,Oklahoma City,385,371,Yes under Provision 2,false,2nd Grade,5th Grade
 400079629870,Santa Fe South Shidler ES,Santa Fe South Charter,Oklahoma City,308,301,Yes under Provision 2,false,Prekindergarten,5th Grade
 400079602842,Santa Fe South Spero ES,Santa Fe South Charter,Oklahoma City,486,455,Yes under Provision 2,false,Prekindergarten,5th Grade
@@ -1557,14 +1557,14 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 402529001345,Tulakes ES,Putnam City,Oklahoma City,520,489,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 403360629879,Tulsa Classical Academy ES,Tulsa Classical Academy (Charter),Tulsa,757,206,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 403360629892,Tulsa Classical Academy HS,Tulsa Classical Academy (Charter),Tulsa,49,13,Yes participating without using any Provision or the CEO,false,9th Grade,9th Grade
-400079202822,Tulsa Honor ES,Tulsa Honor Charter Academy,Tulsa,366,337,Yes under Provision 2,false,5th Grade,8th Grade
+400079202822,Tulsa Honor ES,Tulsa Honor Charter Academy,Tulsa,366,337,Yes under Provision 2,true,5th Grade,8th Grade
 400079229862,Tulsa Honor Flores MS,Tulsa Honor Charter Academy,Tulsa,349,326,Yes under Provision 2,false,6th Grade,8th Grade
 400079202887,Tulsa Honor HS,Tulsa Honor Charter Academy,Tulsa,547,507,Yes under Provision 2,false,9th Grade,12th Grade
-400076902742,Tulsa Legacy ES,Tulsa Legacy Charter School,Tulsa,498,439,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
+400076902742,Tulsa Legacy ES,Tulsa Legacy Charter School,Tulsa,498,439,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 403024002664,Tulsa Met HS,Tulsa,Tulsa,105,87,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 403024029865,Tulsa Met Middle School,Tulsa,Tulsa,47,42,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
-400077402862,Tulsa Schl of Arts and Science HS,Tulsa School of Arts and Sciences Charter,Tulsa,294,159,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-400077402860,Tulsa Schl of Arts and Science MS,Tulsa School of Arts and Sciences Charter,Tulsa,232,142,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+400077402862,Tulsa Schl of Arts and Science HS,Tulsa School of Arts and Sciences Charter,Tulsa,294,159,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+400077402860,Tulsa Schl of Arts and Science MS,Tulsa School of Arts and Sciences Charter,Tulsa,232,142,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 403027001683,Tupelo ES,Tupelo,Tupelo,165,152,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 403027001684,Tupelo HS,Tupelo,Tupelo,70,52,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 403029001685,Turkey Ford Public School,Turkey Ford,Wyandotte,104,97,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -1722,7 +1722,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 400318029635,Will Rogers ES,Ardmore,Ardmore,324,288,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Kindergarten
 400001401566,Will Rogers ES,Burns Flat-Dill City,Burns Flat,355,241,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 401059000483,Will Rogers ES,Edmond,Edmond,687,360,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-401944000927,Will Rogers ES,McAlester,McAlester,535,422,Yes under Community Eligibility Option (CEO),true,Kindergarten,2nd Grade
+401944000927,Will Rogers ES,McAlester,McAlester,535,422,Yes under Community Eligibility Option (CEO),false,Kindergarten,2nd Grade
 402529001951,Will Rogers ES,Putnam City,Oklahoma City,362,260,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 402757001466,Will Rogers ES,Shawnee,Shawnee,367,291,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
 402868029738,Will Rogers ES,Stillwater,Stillwater,511,403,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade

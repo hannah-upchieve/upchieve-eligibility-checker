@@ -151,7 +151,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 260369004062,Auburn Elementary School,Avondale School District,Auburn Hills,333,206,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 260366004061,Autrainonota Public School,AuTrain-Onota Public Schools,Deerton,20,6,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 263222000205,Avalon Elementary School,South Lake Schools,Saint Clair Shores,345,200,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
-261776008223,Avatar Academy of Excellence,Harper Woods The School District of the City of,Harper Woods,78,65,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
+261776008223,Avatar Academy of Excellence,Harper Woods The School District of the City of,Harper Woods,78,65,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 263660007272,Avoca Elementary School,Yale Public Schools,Kenockee,243,81,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 260369008910,Avondale Gifted and Talented Education,Avondale School District,Rochester Hls,381,12,Yes under Community Eligibility Option (CEO),false,2nd Grade,8th Grade
 260369004067,Avondale High School,Avondale School District,Auburn Hills,911,363,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
@@ -214,7 +214,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 260852008092,Beach Elementary School,Cedar Springs Public Schools,Cedar Springs,445,191,Yes under Community Eligibility Option (CEO),false,2nd Grade,3rd Grade
 261539007455,Beach Elementary School,Fruitport Community Schools,Muskegon,295,144,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 260894004438,Beach Middle School,Chelsea School District,Chelsea,525,55,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-262160001188,Beacon Day Treatment Center,Lincoln Park School District of the City of,Southgate,106,77,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
+262160001188,Beacon Day Treatment Center,Lincoln Park School District of the City of,Southgate,106,77,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
 261776005440,Beacon Elementary School,Harper Woods The School District of the City of,Harper Woods,368,325,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 263447001840,Beacon Tree Elementary School,Utica Community Schools,Shelby Township,787,132,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 261773005435,Beadle Lake Elementary School,Harper Creek Community Schools,Battle Creek,333,156,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
@@ -236,7 +236,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 260450004133,Beecher High School,Beecher Community School District,Mount Morris,185,178,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 262937006515,Beechnau Elementary School,Ravenna Public Schools,Ravenna,393,189,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 261407005033,Beechview Elementary School,Farmington Public School District,Farmington Hills,366,108,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-268052000043,Beekman Center,Ingham ISD,Lansing,113,78,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
+268052000043,Beekman Center,Ingham ISD,Lansing,113,78,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
 263519007107,Beer Middle School,Warren Consolidated Schools,Warren,665,471,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 260453004142,Belding High School,Belding Area School District,Belding,511,304,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 260453004146,Belding Middle School,Belding Area School District,Belding,363,222,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -421,7 +421,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 260759004340,Cadillac Senior High School,Cadillac Area Public Schools,Cadillac,903,359,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 260762004347,Caledonia Elementary School,Caledonia Community Schools,Caledonia,378,77,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 260762004346,Caledonia High School,Caledonia Community Schools,Caledonia,1438,215,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-268020007803,Calhoun County Youth Center,Calhoun Intermediate School District,Marshall,9,6,Yes participating without using any Provision or the CEO,false,4th Grade,12th Grade
+268020007803,Calhoun County Youth Center,Calhoun Intermediate School District,Marshall,9,6,Yes participating without using any Provision or the CEO,true,4th Grade,12th Grade
 260769004352,Calumet High School,Public Schools of Calumet Laurium & Keweenaw,Calumet,525,198,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 261554002045,Cambridge Alternative High School,Garden City Public Schools,Garden City,258,186,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 260771004355,Camdenfrontier K12 School,Camden-Frontier School,Camden,432,249,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
@@ -525,9 +525,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 260867004418,Centreville Elementary School,Centreville Public Schools,Centreville,482,273,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 260867004417,Centreville Jr Sr High School,Centreville Public Schools,Centreville,407,198,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
 260013900789,Cesar Chavez Academy Elementary,Cesar Chavez Academy,Detroit,465,444,Yes under Community Eligibility Option (CEO),false,Kindergarten,2nd Grade
-260013901488,Cesar Chavez Academy High School,Cesar Chavez Academy,Detroit,730,709,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+260013901488,Cesar Chavez Academy High School,Cesar Chavez Academy,Detroit,730,709,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 260013908078,Cesar Chavez Academy Intermediate,Cesar Chavez Academy,Detroit,484,484,Yes under Community Eligibility Option (CEO),false,3rd Grade,5th Grade
-260013901033,Cesar Chavez Academy Middle School,Cesar Chavez Academy,Detroit,615,581,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+260013901033,Cesar Chavez Academy Middle School,Cesar Chavez Academy,Detroit,615,581,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 261644005319,Cesar E Chavez Elementary,Grand Rapids Public Schools,Grand Rapids,437,372,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 262034007682,Challenger Elementary,Kentwood Public Schools,Grand Rapids,413,331,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 261872000042,Challenger Elementary School,Howell Public Schools,Howell,465,135,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -540,7 +540,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 268024000811,Charem Special Education Schools,Charlevoix-Emmet ISD,Charlevoix,99,41,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 261160004586,Charles a Lindbergh Elementary School,Dearborn City School District,Dearborn,316,146,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 261008004493,Charles C McGlinnen School,Clintondale Community Schools,Clinton Township,409,331,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-262484008353,Charles Hackley Middle School,Muskegon Public Schools of the City of,Muskegon,774,674,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+262484008353,Charles Hackley Middle School,Muskegon Public Schools of the City of,Muskegon,774,674,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 260110308275,Charles R Drew Transition Center,Detroit Public Schools Community District,Detroit,221,145,Yes under Community Eligibility Option (CEO),false,Ungraded,Ungraded
 260110301609,Charles Wright Academy of Arts and Science,Detroit Public Schools Community District,Detroit,692,640,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 260873004421,Charlevoix Elementary School,Charlevoix Public Schools,Charlevoix,398,196,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -583,7 +583,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 263030002040,Churchill Community Ed Center,Royal Oak Schools,Royal Oak,77,44,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 262412006082,Churchill Elementary School,Mona Shores Public School District,Muskegon,414,137,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 262184005903,Churchill High School,Livonia Public Schools School District,Livonia,1227,328,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
-261644005355,City High Middle School,Grand Rapids Public Schools,Grand Rapids,955,284,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
+261644005355,City High Middle School,Grand Rapids Public Schools,Grand Rapids,955,284,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 263666000702,Cityside Middle School,Zeeland Public Schools,Zeeland,771,136,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 262118005841,Ck Schickler Elementary School,Lapeer Community Schools,Lapeer,457,246,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 260282004035,Clague Middle School,Ann Arbor Public Schools,Ann Arbor,696,101,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
@@ -725,7 +725,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 268094009104,Creekside Learning Center,St. Clair County RESA,Port Huron,2,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 263666007295,Creekside Middle School,Zeeland Public Schools,Zeeland,577,124,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
 260029508444,Crescent Academy Elementary,Crescent Academy,Southfield,265,261,Yes under Community Eligibility Option (CEO),false,3rd Grade,6th Grade
-260029501726,Crescent Academy Middlehigh School,Crescent Academy,Southfield,145,143,Yes under Community Eligibility Option (CEO),false,7th Grade,10th Grade
+260029501726,Crescent Academy Middlehigh School,Crescent Academy,Southfield,145,143,Yes under Community Eligibility Option (CEO),true,7th Grade,10th Grade
 260029508588,Crescent Academy Pk2,Crescent Academy,Southfield,249,240,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 261245008244,Crescentwood Elementary School,Eastpointe Community Schools,Eastpointe,195,183,Yes under Community Eligibility Option (CEO),false,Kindergarten,2nd Grade
 263003006585,Crestwood Elementary School,Rockford Public Schools,Rockford,469,58,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -744,7 +744,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 260858004405,Crothers Elementary School,Center Line Public Schools,Warren,322,244,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 262115005791,Cumberland School,Lansing Public School District,Lansing,308,275,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 262415006090,Custer Elementary School,Monroe Public Schools,Monroe,769,571,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
-260008800559,Da Vinci Schools,Da Vinci Schools,Jackson,322,254,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
+260008800559,Da Vinci Schools,Da Vinci Schools,Jackson,322,254,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 260008801118,Da Vinci Schools K5,Da Vinci Schools,Jackson,117,93,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 260450004136,Dailey Elementary School,Beecher Community School District,Mount Morris,328,323,Yes under Community Eligibility Option (CEO),false,Prekindergarten,7th Grade
 261515005193,Daisy Brook Elementary School,Fremont Public School District,Fremont,446,283,Yes under Community Eligibility Option (CEO),false,3rd Grade,5th Grade
@@ -1040,7 +1040,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 261423007666,Fennville Elementary School,Fennville Public Schools,Fennville,503,424,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 261423007529,Fennville Middle School,Fennville Public Schools,Fennville,293,228,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 261423005062,Fennville Public High School,Fennville Public Schools,Fennville,383,288,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-261425008756,Fenton Horizon Academy,Fenton Area Public Schools,Fenton,48,30,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+261425008756,Fenton Horizon Academy,Fenton Area Public Schools,Fenton,48,30,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 261425005068,Fenton Senior High School,Fenton Area Public Schools,Fenton,982,286,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 262637007433,Fern Persons Elementary School,Olivet Community Schools,Olivet,374,131,Yes under Community Eligibility Option (CEO),false,Prekindergarten,3rd Grade
 261428005072,Ferndale High School,Ferndale Public Schools,Ferndale,739,349,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
@@ -1444,7 +1444,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 261845005523,Holly Elementary School,Holly Area School District,Holly,307,157,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 261845005522,Holly High School,Holly Area School District,Holly,1001,426,Yes under Community Eligibility Option (CEO),false,8th Grade,12th Grade
 261845005525,Holly Middle School,Holly Area School District,Holly,743,385,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-260095908074,Holly Park Academy,Holly Park Academy,Lansing,478,436,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+260095908074,Holly Park Academy,Holly Park Academy,Lansing,478,436,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 262082005744,Hollywood Elementary School,Lakeshore School District (Berrien),Stevensville,377,141,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 263663007233,Holmes Elementary,Ypsilanti Community Schools,Ypsilanti,191,169,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 263255006804,Holmes Elementary School,Spring Lake Public Schools,Spring Lake,409,94,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
@@ -1521,7 +1521,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 263495007062,Indian Lake Elementary School,Vicksburg Community Schools,Vicksburg,265,88,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 261995005659,Indian Prairie Elementary School,Kalamazoo Public Schools,Kalamazoo,169,79,Yes under Community Eligibility Option (CEO),false,Prekindergarten,3rd Grade
 262883006481,Indian Woods Elementary School,Port Huron Area School District,Kimball,357,201,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-268052007963,Ingham Academyfamily Center,Ingham ISD,Lansing,41,34,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
+268052007963,Ingham Academyfamily Center,Ingham ISD,Lansing,41,34,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 262115008185,Ingham County Youth Center,Lansing Public School District,Lansing,12,10,Yes under Community Eligibility Option (CEO),true,3rd Grade,12th Grade
 268052008551,Ingham ISD Asd Programs,Ingham ISD,East Lansing,11,6,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 268052009100,Ingham ISD Ei Programs,Ingham ISD,Dansville,4,,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -2302,8 +2302,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 263582007784,Oakland Early College,West Bloomfield School District,Farmington Hills,179,45,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 263030006644,Oakland Elementary School,Royal Oak Schools,Royal Oak,242,73,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 260104308495,Oakland Flextech High School,Oakland FlexTech High School,Farmington Hills,162,84,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-260021707766,Oakland International Academy 28,Oakland International Academy,Detroit,1034,642,Yes under Community Eligibility Option (CEO),false,2nd Grade,8th Grade
-260021708533,Oakland International Academy 912,Oakland International Academy,Hamtramck,614,543,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+260021707766,Oakland International Academy 28,Oakland International Academy,Detroit,1034,642,Yes under Community Eligibility Option (CEO),true,2nd Grade,8th Grade
+260021708533,Oakland International Academy 912,Oakland International Academy,Hamtramck,614,543,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 260021701660,Oakland International Academy Prek1,Oakland International Academy,Detroit,344,210,Yes under Community Eligibility Option (CEO),false,Prekindergarten,1st Grade
 263516007078,Oakley Park Elementary School,Walled Lake Consolidated Schools,Commerce Township,392,78,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 261161004616,Oakley W Best Middle School,Dearborn Heights School District #7,Dearborn Heights,557,428,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -2714,7 +2714,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 268093001410,Saginaw ISD Transitions Center,Saginaw ISD,Saginaw,87,44,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
 263039009093,Saginaw Middle School,Saginaw School District of the City of,Saginaw,134,127,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 260016100986,Saginaw Preparatory Academy,Saginaw Preparatory Academy,Saginaw,376,365,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
-263039006656,Saginaw United High School,Saginaw School District of the City of,Saginaw,981,822,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+263039006656,Saginaw United High School,Saginaw School District of the City of,Saginaw,981,822,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 260000107846,Sai Camp Cassidy Lake,Michigan Department of Corrections,Jackson,1,,Yes participating without using any Provision or the CEO,false,12th Grade,12th Grade
 268052009099,Sail Lansing,Ingham ISD,Lansing,12,4,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 268052008748,Sail Skills for Adult Independent Living,Ingham ISD,Mason,13,5,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -2767,7 +2767,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 262469001673,Seminole Academy,Mount Clemens Community School District,Mount Clemens,407,376,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 260957000199,Seneca Middle School,Chippewa Valley Schools,Macomb,1078,274,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 260957007482,Sequoyah Elementary School,Chippewa Valley Schools,Macomb,490,97,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-268099808901,Ser Metro Youthbuild Learning Academy,SER YouthBuild Learning Academy,Dearborn,109,76,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+268099808901,Ser Metro Youthbuild Learning Academy,SER YouthBuild Learning Academy,Dearborn,109,76,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 261455005147,Seymour Elementary School,Flushing Community Schools,Flushing,498,193,Yes under Community Eligibility Option (CEO),false,1st Grade,6th Grade
 263225001687,Sharon J Hardy Elementary School,South Lyon Community Schools,South Lyon,570,47,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 261962005632,Sharp Park Academy,Jackson Public Schools,Jackson,337,203,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -3041,7 +3041,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 262205005928,Unity Alternative School,Lowell Area Schools,Lowell,19,8,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 260023701207,Universal Academy,Universal Academy,Detroit,695,690,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 260030007820,Universal Learning Academy,Universal Learning Academy,Westland,761,692,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
-263231006778,University Elementary School Academy,Southfield Public School District,Lathrup Village,312,133,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+263231006778,University Elementary School Academy,Southfield Public School District,Lathrup Village,312,133,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 261428001901,University High School,Ferndale Public Schools,Ferndale,469,344,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 263231007791,University High School Academy,Southfield Public School District,Lathrup Village,274,99,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 262994006578,University Hills Elem School,Rochester Community School District,Rochester Hills,379,32,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -3089,7 +3089,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 263495008342,Vicksburg Pathways High School,Vicksburg Community Schools,Vicksburg,126,59,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 261803008776,Viking Virtual Academy,Hazel Park School District of the City of,Hazel Park,39,33,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 262613006265,Village Oaks Elementary School,Novi Community School District,Novi,499,68,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
-261293008849,Vincent G Parks Alternative Education Center,Ecorse Public Schools,Ecorse,47,38,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+261293008849,Vincent G Parks Alternative Education Center,Ecorse Public Schools,Ecorse,47,38,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 263267006818,Violet Elementary School,Lake Shore Public Schools (Macomb),Saint Clair Shores,471,203,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 268088008361,Virtual Learning Academy Consortium,Oakland Schools,Waterford,298,118,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 260096808090,Virtual Learning Academyof St Clair County,Virtual Learning Academy of St. Clair County,Port Huron,187,134,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
@@ -3157,7 +3157,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 263531007143,Waterford Kettering High School,Waterford School District,Waterford,909,397,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
 263531008254,Waterford Lifetracks Program Crary Campus,Waterford School District,Waterford,27,14,Yes participating without using any Provision or the CEO,false,Ungraded,Ungraded
 260105308898,Waterford Montessori Academy (Grades K–8),Waterford Montessori Academy,Waterford,188,73,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
-260105308562,Waterford Montessori Academy (Grades PK–5),Waterford Montessori Academy,Waterford,213,82,Yes participating without using any Provision or the CEO,true,Prekindergarten,5th Grade
+260105308562,Waterford Montessori Academy (Grades PK–5),Waterford Montessori Academy,Waterford,213,82,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 263531007150,Waterford Mott High School,Waterford School District,Waterford,963,516,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 263534007153,Watersmeet Township School,Watersmeet Township School District,Watersmeet,130,98,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 263546001051,Watervliet Middle School,Watervliet School District,Watervliet,309,200,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -3354,5 +3354,5 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 263666008295,Zeeland Quest,Zeeland Public Schools,Zeeland,144,35,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 263666001316,Zeeland West High School,Zeeland Public Schools,Zeeland,975,157,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 262118008121,Zemmer Campus 89,Lapeer Community Schools,Lapeer,628,260,Yes under Community Eligibility Option (CEO),false,8th Grade,9th Grade
-263039006683,Zilwaukee School,Saginaw School District of the City of,Saginaw,194,158,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
+263039006683,Zilwaukee School,Saginaw School District of the City of,Saginaw,194,158,Yes under Community Eligibility Option (CEO),true,Prekindergarten,6th Grade
 262028005705,Zinser Elementary School,Kenowa Hills Public Schools,Grand Rapids,443,152,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade

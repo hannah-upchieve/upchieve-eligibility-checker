@@ -365,7 +365,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 191104000683,Essex Junior-Senior High School,Essex Comm School District,Essex,87,27,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
 191107000685,Estherville Lincoln Central High School,Estherville Lincoln Central Comm School District,Estherville,359,169,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 191107000686,Estherville Lincoln Central Middle School,Estherville Lincoln Central Comm School District,Estherville,308,172,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
-192211001316,Evans Junior High School,Ottumwa Comm School District,Ottumwa,684,303,Yes under Community Eligibility Option (CEO),false,8th Grade,9th Grade
+192211001316,Evans Junior High School,Ottumwa Comm School District,Ottumwa,684,303,Yes under Community Eligibility Option (CEO),true,8th Grade,9th Grade
 191722001005,Excelsior Middle School,Linn-Mar Comm School District,Marion,594,169,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
 191125002143,Exira-Elk Horn-Kimballton Elementary,Exira-Elk Horn-Kimballton Comm School District,Exira,206,90,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 191125000674,Exiraelk Horn-Kimballton High School,Exira-Elk Horn-Kimballton Comm School District,Elk Horn,184,73,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
@@ -394,7 +394,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 191185000733,Fort Madison Junior/Senior High School,Fort Madison Comm School District,Fort Madison,852,441,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 192682001569,Four Mile Elementary,Southeast Polk Comm School District,Pleasant Hill,495,187,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 191869000437,Francis Marion Intermediate School,Marion Independent School District,Marion,320,160,Yes participating without using any Provision or the CEO,false,3rd Grade,4th Grade
-190858000464,Frank L Smart Middle School,Davenport Comm School District,Davenport,430,296,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+190858000464,Frank L Smart Middle School,Davenport Comm School District,Davenport,430,296,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 190513000159,Franklin Elementary School,Boone Comm School District,Boone,329,151,Yes participating without using any Provision or the CEO,false,2nd Grade,4th Grade
 190822000418,Franklin Elementary School,Council Bluffs Comm School District,Council Bluffs,421,191,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 191653000985,Franklin Elementary School,Le Mars Comm School District,Le Mars,261,96,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -791,7 +791,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 192046001210,New London Jr-Sr High School,New London Comm School District,New London,284,117,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
 192058001217,Newell-Fonda Elementary,Newell-Fonda Comm School District,Newell,280,131,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 192058001218,Newell-Fonda High School,Newell-Fonda Comm School District,Newell,138,48,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-192058000713,Newell-Fonda Middle School,Newell-Fonda Comm School District,Newell,124,52,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+192058000713,Newell-Fonda Middle School,Newell-Fonda Comm School District,Newell,124,52,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 192061001226,Newton Senior High School,Newton Comm School District,Newton,806,343,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 190654000255,Nixon Elementary School,Cedar Rapids Comm School District,Hiawatha,289,195,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 191311000786,Nodaway Valley Elementary School,Nodaway Valley Comm School District,Greenfield,312,129,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -822,7 +822,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 192085001246,North Mahaska Elementary School,North Mahaska Comm School District,New Sharon,301,76,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 192085001245,North Mahaska Jr-Sr High School,North Mahaska Comm School District,New Sharon,275,68,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 192640001287,North Middle School,Sioux City Comm School District,Sioux City,1136,1104,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-193051002344,North Middle School,Waukee Comm School District,Waukee,,,,true,,
+193051002344,North Middle School,Waukee Comm School District,Waukee,,,,false,,
 192091001923,North Polk Central Elementary School,North Polk Comm School District,Alleman,408,39,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 192091001248,North Polk High School,North Polk Comm School District,Alleman,644,66,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 192091002095,North Polk Middle School,North Polk Comm School District,Alleman,504,43,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -848,7 +848,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 190369000380,Northview Middle School,Ankeny Comm School District,Ankeny,1021,175,Yes participating without using any Provision or the CEO,false,8th Grade,9th Grade
 190369000074,Northwest Elementary School,Ankeny Comm School District,Ankeny,346,129,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 193051002303,Northwest High School,Waukee Comm School District,Waukee,1574,183,Yes participating without using any Provision or the CEO,false,10th Grade,12th Grade
-191470000897,Northwest Middle School,Iowa City Comm School District,Coralville,1113,503,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+191470000897,Northwest Middle School,Iowa City Comm School District,Coralville,1113,503,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 190354001906,Northwood Pre-School,Ames Comm School District,Ames,244,100,Yes participating without using any Provision or the CEO,false,Prekindergarten,Prekindergarten
 192121001270,Northwood-Kensett Elementary,Northwood-Kensett Comm School District,Northwood,287,86,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 192121001271,Northwood-Kensett Middle/High School,Northwood-Kensett Comm School District,Northwood,265,80,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
@@ -937,7 +937,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 199901702062,Prairie City Elementary School,PCM Comm School District,Prairie City,240,66,Yes participating without using any Provision or the CEO,false,3rd Grade,5th Grade
 190786002113,Prairie Creek,College Comm School District,Cedar Rapids,846,289,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
 190786000389,Prairie Crest Elementary,College Comm School District,Cedar Rapids,434,189,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
-190786000104,Prairie Crossing,College Comm School District,Cedar Rapids,67,47,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
+190786000104,Prairie Crossing,College Comm School District,Cedar Rapids,67,47,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 190786002263,Prairie Early Childhood Center,College Comm School District,Cedar Rapids,74,29,Yes participating without using any Provision or the CEO,false,Prekindergarten,Prekindergarten
 191533002016,Prairie Grove Elementary School,Jesup Comm School District,Hazelton,23,3,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 190786000387,Prairie Heights Elementary School,College Comm School District,Cedar Rapids,403,162,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
@@ -1102,7 +1102,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 190357000064,Strawberry Hill,Anamosa Comm School District,Anamosa,400,165,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 192750001605,Stuart Elementary School,West Central Valley Comm School District,Stuart,211,79,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 190897000578,Studebaker Elementary School,Des Moines Independent Comm School District,Des Moines,561,484,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-190858000482,Sudlow Middle School,Davenport Comm School District,Davenport,734,358,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+190858000482,Sudlow Middle School,Davenport Comm School District,Davenport,734,358,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 193051002308,Sugar Creek Elementary School,Waukee Comm School District,Waukee,630,117,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 191545000749,Summit Middle School,Johnston Comm School District,Johnston,1118,291,Yes participating without using any Provision or the CEO,false,6th Grade,7th Grade
 192760001610,Sumner-Fredericksburg High School,Sumner-Fredericksburg Comm School District,Sumner,243,72,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -1183,7 +1183,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 192949001683,Waco Elementary School,WACO Comm School District,Crawfordsville,317,136,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 192949001684,Waco High School,WACO Comm School District,Wayland,241,98,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 190858000484,Walcott Elementary School,Davenport Comm School District,Walcott,150,78,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
-190858000485,Walcott Middle School,Davenport Comm School District,Walcott,322,121,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+190858000485,Walcott Middle School,Davenport Comm School District,Walcott,322,121,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 193093000393,Walnut Creek Campus,West Des Moines Comm School District,West Des Moines,152,116,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 193051000958,Walnut Hills Elementary School,Waukee Comm School District,Urbandale,708,50,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 190897001143,Walnut Street School,Des Moines Independent Comm School District,Des Moines,257,160,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -1279,7 +1279,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 191464002100,Wilder Elementary School,Indianola Comm School District,Indianola,456,165,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 191722001007,Wilkins Elementary School,Linn-Mar Comm School District,Marion,348,143,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 190897000585,Willard Elementary School,Des Moines Independent Comm School District,Des Moines,247,219,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-190858000488,Williams Middle School,Davenport Comm School District,Davenport,577,328,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+190858000488,Williams Middle School,Davenport Comm School District,Davenport,577,328,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 193168001845,Williamsburg Jr-Sr High School,Williamsburg Comm School District,Williamsburg,604,130,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 193168002305,Williamsburg Virtual Academy,Williamsburg Comm School District,Williamsburg,5,,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 192682002068,Willowbrook Elementary,Southeast Polk Comm School District,Altoona,523,277,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -1297,7 +1297,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 193186001857,Winterset Middle School,Winterset Comm School District,Winterset,351,107,Yes participating without using any Provision or the CEO,false,4th Grade,6th Grade
 193186001858,Winterset Senior High School,Winterset Comm School District,Winterset,530,147,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 191989001015,Wisdomquest Education Center,Mount Pleasant Comm School District,Mount Pleasant,26,16,Yes participating without using any Provision or the CEO,true,10th Grade,12th Grade
-190858000490,Wood Middle School,Davenport Comm School District,Davenport,629,332,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+190858000490,Wood Middle School,Davenport Comm School District,Davenport,629,332,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 193192001861,Woodbine Elementary School,Woodbine Comm School District,Woodbine,261,98,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 193192001862,Woodbine High School,Woodbine Comm School District,Woodbine,303,98,Yes participating without using any Provision or the CEO,false,5th Grade,12th Grade
 193195001865,Woodbury Central High School,Woodbury Central Comm School District,Moville,190,47,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade

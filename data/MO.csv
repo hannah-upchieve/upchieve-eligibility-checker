@@ -984,7 +984,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 291620000759,Jefferson Elem.,Jefferson C-123,Conception Jct,83,27,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 291191000438,Jefferson Elem.,Farmington R-VII,Farmington,343,176,Yes participating without using any Provision or the CEO,false,1st Grade,4th Grade
 291635000779,Jefferson Elem.,Joplin Schools,Joplin,218,175,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
-292928001950,Jefferson Elem.,St. Louis City,St Louis,125,125,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
+292928001950,Jefferson Elem.,St. Louis City,St Louis,125,125,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 292265001243,Jefferson Elem.,Normandy Schools Collaborative,St Louis,214,214,Yes under Community Eligibility Option (CEO),true,1st Grade,8th Grade
 291620000762,Jefferson High,Jefferson C-123,Conception Jct,56,32,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 291623003144,Jefferson High School,Jefferson Co. R-VII,Festus,300,57,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade

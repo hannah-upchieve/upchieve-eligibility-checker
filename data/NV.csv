@@ -76,7 +76,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 320048000432,Bud Beasley Elementary,Washoe County,Sparks,571,178,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 320006000469,Bunker Berkeley L ES,Clark County,Las Vegas,586,586,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 320006000313,Burk Horizon-Southwest Sunset HS,Clark County,Las Vegas,24,,No,true,9th Grade,12th Grade
-320006000738,Burkholder Lyal Academy of Environmental Science,Clark County,Henderson,495,495,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+320006000738,Burkholder Lyal Academy of Environmental Science,Clark County,Henderson,495,495,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 320027000169,C O Bastian High School,Lincoln,Caliente,64,64,No,true,7th Grade,12th Grade
 320009000293,C. C. Meneley Elementary School,Douglas,Gardnerville,363,146,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 320006000590,Cadwallader Ralph MS,Clark County,Las Vegas,1519,1519,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -153,7 +153,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 320006000022,Decker C H ES,Clark County,Las Vegas,554,554,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 320006000571,Del Sol Academy of Performing Arts HS,Clark County,Las Vegas,2527,2527,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 320000100883,Democracy Prep at Agassi Elementary,State Sponsored Charter Schools,Las Vegas,529,529,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-320000100882,Democracy Prep at Agassi High,State Sponsored Charter Schools,Las Vegas,314,314,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+320000100882,Democracy Prep at Agassi High,State Sponsored Charter Schools,Las Vegas,314,314,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 320000100884,Democracy Prep at Agassi Middle,State Sponsored Charter Schools,Las Vegas,362,362,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 320021000150,Denio,Humboldt,Denio,6,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 320006000380,Derfelt Herbert a ES,Clark County,Las Vegas,553,553,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -249,7 +249,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 320021000416,French Ford Middle School,Humboldt,Winnemucca,438,,Yes under Community Eligibility Option (CEO),false,5th Grade,6th Grade
 320006000586,Frias Charles & Phyllis ES,Clark County,Las Vegas,650,650,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 320006000670,Futuredge Academy Elementary School,Clark County,N Las Vegas,183,183,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-320006000756,Futuredge Academy Middle School,Clark County,N Las Vegas,76,76,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+320006000756,Futuredge Academy Middle School,Clark County,N Las Vegas,76,76,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 320000100881,Futuro Academy Elementary,State Sponsored Charter Schools,Las Vegas,473,473,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 320009000347,G. L. Scarselli Elementary School,Douglas,Gardnerville,305,120,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 320036000189,Gabbs Elementary School,Nye,Gabbs,7,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -346,7 +346,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 320048000226,Jessie Beck Elementary,Washoe County,Reno,462,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 320048000942,John Bohach Elementary School,Washoe County,Sparks,686,181,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 320006000403,Johnson Walter JHS Academy of Int'l Studies,Clark County,Las Vegas,1329,1329,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-320006000672,Johnston Carroll M STEM Academy of Env Studies,Clark County,N Las Vegas,967,967,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+320006000672,Johnston Carroll M STEM Academy of Env Studies,Clark County,N Las Vegas,967,967,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 320006000874,Jones Blackhurst Jan L ES,Clark County,Las Vegas,853,853,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 320006000020,Juvenile Detention 6-12 J-SHS,Clark County,Las Vegas,105,3,No,false,6th Grade,12th Grade
 320048000978,Jwood Raw Elementary School,Washoe County,Reno,602,103,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade

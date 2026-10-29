@@ -216,7 +216,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120009007771,Bay Virtual Instruction Program,Bay,Panama City,2,,No,false,Kindergarten,12th Grade
 120009008742,Bay Virtual Instruction Program (District Provided),Bay,Panama City,14,6,No,false,6th Grade,12th Grade
 120156001600,Bay Vista Fundamental Elementary School,Pinellas,St Petersburg,574,207,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-120153008949,Baycare Behavioral Health,Pasco,New Port Richey,0,,Yes under Community Eligibility Option (CEO),true,1st Grade,12th Grade
+120153008949,Baycare Behavioral Health,Pasco,New Port Richey,0,,Yes under Community Eligibility Option (CEO),false,1st Grade,12th Grade
 120153001580,Bayonet Point Middle School,Pasco,New Port Richey,668,419,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 120123001219,Bayshore Elementary School,Manatee,Bradenton,711,514,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120177002638,Bayshore Elementary School,St. Lucie,Port St Lucie,879,595,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -319,7 +319,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120150001535,Boca Raton Community High School,Palm Beach,Boca Raton,2819,763,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 120150001558,Boca Raton Community Middle School,Palm Beach,Boca Raton,1058,397,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 120150001534,Boca Raton Elementary School,Palm Beach,Boca Raton,335,187,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-120150003471,Bodwell Academy,Palm Beach,Riviera Beach,49,26,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
+120150003471,Bodwell Academy,Palm Beach,Riviera Beach,49,26,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 120147002357,Boggy Creek Elementary School,Osceola,Kissimmee,549,361,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120159006968,Bok Academy,Polk,Lake Wales,640,411,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 120060002822,Bold Step Infant Care,Gadsden,Quincy,10,7,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
@@ -1153,7 +1153,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120159001743,Fort Meade Middle/Senior High School,Polk,Fort Meade,731,560,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 120108001131,Fort Myers Beach Elementary School,Lee,Fort Myers Beach,62,33,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120108001133,Fort Myers High School,Lee,Fort Myers,1835,561,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
-120108001132,Fort Myers Middle School,Lee,Fort Myers,687,432,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+120108001132,Fort Myers Middle School,Lee,Fort Myers,687,432,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 120177001933,Fort Pierce Central High School,St. Lucie,Fort Pierce,3178,1690,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 120177002104,Fort Pierce Westwood Academy the W.e.s.t. Prep Magnet,St. Lucie,Fort Pierce,1956,1143,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 120138001351,Fort Walton Beach High School,Okaloosa,Fort Walton Beach,1550,717,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -1276,7 +1276,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120093002563,Glendale Elementary School,Indian River,Vero Beach,390,258,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 120144001395,Glenridge Middle,Orange,Orlando,1111,427,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 120048010754,Global Leadership Academy Arts,Duval,Jacksonville,411,207,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
-120048007658,Global Leadership Academy Discovery,Duval,Jacksonville,1068,692,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+120048007658,Global Leadership Academy Discovery,Duval,Jacksonville,1068,692,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 120048008773,Global Leadership Academy High School,Duval,Jacksonville,626,306,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 120048010636,Global Leadership Academy Intercoastal,Duval,Jacksonville,433,197,Yes under Community Eligibility Option (CEO),false,Kindergarten,7th Grade
 120051007989,Global Learning Academy,Escambia,Pensacola,489,391,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -1469,7 +1469,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120165001834,Holley-Navarre Intermediate,Santa Rosa,Navarre,698,327,Yes participating without using any Provision or the CEO,false,3rd Grade,5th Grade
 120165002670,Holley-Navarre Middle School,Santa Rosa,Navarre,823,341,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 120165005375,Holley-Navarre Primary,Santa Rosa,Navarre,661,319,Yes participating without using any Provision or the CEO,false,Prekindergarten,2nd Grade
-120192002268,Holly Hill Elementary,Volusia,Holly Hill,601,495,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+120192002268,Holly Hill Elementary,Volusia,Holly Hill,601,495,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 120018004215,Hollywood Academy of Arts & Science,Broward,Hollywood,1140,93,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 120018005456,Hollywood Academy of Arts and Science Middle School,Broward,Hollywood,461,7,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 120018000149,Hollywood Central Elementary School,Broward,Hollywood,309,136,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -1507,7 +1507,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120144002645,Hospital Homebound,Orange,Winter Garden,105,32,No,false,Prekindergarten,12th Grade
 120171002535,Hospital Homebound Program,Seminole,Sanford,28,5,No,false,Prekindergarten,12th Grade
 120018008492,Hospital Homebound Services,Broward,Ft. Lauderdale,13,3,No,false,Prekindergarten,12th Grade
-120156002890,Hospital/Homebound,Pinellas,Pinellas Park,61,3,No,true,Prekindergarten,12th Grade
+120156002890,Hospital/Homebound,Pinellas,Pinellas Park,61,3,No,false,Prekindergarten,12th Grade
 120147003754,Hospital/Homebound Program,Osceola,Kissimmee,2,,No,false,Kindergarten,12th Grade
 120087004154,Hospital/Homebound/Homebased Programs,Hillsborough,Tampa,168,17,No,false,Prekindergarten,12th Grade
 120039000565,Howard D. McMillan Middle School,Miami-Dade,Miami,957,418,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -1583,7 +1583,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120144008443,Innovation Middle,Orange,Orlando,1239,207,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 120144007955,Innovation Montessori Ocoee,Orange,Ocoee,919,187,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 120153008896,Innovation Preparatory Academy,Pasco,Wesley Chapel,1274,500,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
-120108005603,Innovation Preparatory Academy of South Ft. Myers,Lee,Fort Myers,770,423,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
+120108005603,Innovation Preparatory Academy of South Ft. Myers,Lee,Fort Myers,770,423,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 120144007785,Innovations Middle Charter,Orange,Orlando,132,89,Yes under Community Eligibility Option (CEO),true,6th Grade,9th Grade
 120039002137,Instructional Center System Wide,Miami-Dade,Miami,80,10,No,false,Prekindergarten,12th Grade
 120039007748,Integrated Science and Asian Culture (Isaac) Academy,Miami-Dade,Miami Springs,268,78,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
@@ -1654,7 +1654,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120153004423,James W. Mitchell High School,Pasco,Trinity,2201,465,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 120159002404,James W. Sikes Elementary School,Polk,Lakeland,502,309,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120048000705,James Weldon Johnson College Preparatory Middle School,Duval,Jacksonville,980,231,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
-120039000616,Jan Mann Educational Center,Miami-Dade,Opa Locka,83,60,Yes under Community Eligibility Option (CEO),false,1st Grade,12th Grade
+120039000616,Jan Mann Educational Center,Miami-Dade,Opa Locka,83,60,Yes under Community Eligibility Option (CEO),true,1st Grade,12th Grade
 120039002711,Jane S. Roberts K-8 Center,Miami-Dade,Miami,630,239,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 120159001778,Janie Howard Wilson School,Polk,Lake Wales,462,361,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120165001824,Jay Elementary School,Santa Rosa,Jay,472,294,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
@@ -2312,7 +2312,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120123001226,Myakka City Elementary School,Manatee,Myakka City,319,198,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120024002724,Myakka River Elementary School,Charlotte,Port Charlotte,624,300,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120003000023,Myra Terwilliger Elementary School,Alachua,Gainesville,672,448,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-120039000470,Myrtle Grove Elementary,Miami-Dade,Miami Gardens,154,122,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+120039000470,Myrtle Grove Elementary,Miami-Dade,Miami Gardens,154,122,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 120051000802,Myrtle Grove Elementary School,Escambia,Pensacola,435,354,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120051003581,N. B. Cook Elementary School,Escambia,Pensacola,530,226,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 120033003039,Naples Area Teenage Parenting,Collier,Naples,29,21,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
@@ -2997,7 +2997,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120123001233,Robert H. Prine Elementary School,Manatee,Bradenton,721,538,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120015004310,Robert L. Stevenson Elementary School,Brevard,Merritt Island,481,77,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 120030000203,Robert M. Paterson Elementary,Clay,Orange Park,665,218,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
-120039004078,Robert Morgan Senior High School,Miami-Dade,Miami,1780,893,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+120039004078,Robert Morgan Senior High School,Miami-Dade,Miami,1780,893,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 120039002813,Robert Renick Educational Center,Miami-Dade,Miami Gardens,47,31,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 120039000469,Robert Russa Moton Elementary School,Miami-Dade,Perrine,168,145,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 120123005609,Robert Willis Elementary School,Manatee,Lakewood Ranch,785,203,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -3095,7 +3095,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 120159004436,Sandhill Elementary School,Polk,Haines City,1111,761,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120018002594,Sandpiper Elementary School,Broward,Sunrise,574,242,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120150002694,Sandpiper Shores Elementary School,Palm Beach,Boca Raton,891,237,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-120018007917,Sandra Marie Curtis High School,Broward,Ft Lauderdale,384,23,No,false,9th Grade,12th Grade
+120018007917,Sandra Marie Curtis High School,Broward,Ft Lauderdale,384,23,No,true,9th Grade,12th Grade
 120156001678,Sandy Lane Elementary School,Pinellas,Clearwater,288,224,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 120171001871,Sanford Middle School,Seminole,Sanford,1385,593,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 120039000509,Santa Clara Elementary School,Miami-Dade,Miami,532,272,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade

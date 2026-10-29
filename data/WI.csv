@@ -210,7 +210,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 550960001132,Browning Elementary,Milwaukee School District,Milwaukee,279,253,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 550183000234,Bruce Elementary,Bruce School District,Bruce,199,195,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 550960001133,Bruce Elementary,Milwaukee School District,Milwaukee,270,256,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-550007700772,Bruce Guadalupe,United Community Center Inc,Milwaukee,1364,995,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
+550007700772,Bruce Guadalupe,United Community Center Inc,Milwaukee,1364,995,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 550183000235,Bruce High,Bruce School District,Bruce,116,110,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 550183001222,Bruce Middle,Bruce School District,Bruce,73,73,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 550960001134,Bryant Elementary,Milwaukee School District,Milwaukee,212,193,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -1791,7 +1791,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 551443001867,Stanley-Boyd High,Stanley-Boyd Area School District,Stanley,341,128,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 551443001866,Stanley-Boyd Middle,Stanley-Boyd Area School District,Stanley,223,93,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 550762000883,Star Center Elementary,Lake Geneva J1 School District,Lake Geneva,339,153,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-551236001639,Starbuck International School,Racine Unified School District,Racine,1133,707,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+551236001639,Starbuck International School,Racine Unified School District,Racine,1133,707,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 550960002442,Starms Discovery,Milwaukee School District,Milwaukee,268,262,Yes under Community Eligibility Option (CEO),true,1st Grade,8th Grade
 550960001156,Starms Early Childhood,Milwaukee School District,Milwaukee,205,187,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Kindergarten
 550753000869,State Road Elementary,La Crosse School District,La Crosse,284,108,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -2142,7 +2142,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 550747002824,Woodland Intermediate,Kimberly Area School District,Appleton,316,16,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
 550747002641,Woodland School,Kimberly Area School District,Appleton,478,27,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 550011303353,Woodlands School,Woodlands School Inc,Milwaukee,313,58,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
-550011302942,Woodlands School - State Street Campus,Woodlands School Inc,Milwaukee,175,16,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
+550011302942,Woodlands School - State Street Campus,Woodlands School Inc,Milwaukee,175,16,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 551206002711,Woodridge Elementary,Portage Community School District,Portage,201,94,Yes under Community Eligibility Option (CEO),false,Kindergarten,1st Grade
 550510000546,Woods Elementary,Geneva J4 School District,Lake Geneva,148,47,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 550603001676,Woodside Elementary,Hamilton School District,Sussex,456,48,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade

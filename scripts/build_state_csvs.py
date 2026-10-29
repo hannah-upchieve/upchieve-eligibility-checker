@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
 """Turn an NCES ELSI public-school export into one CSV per state for the checker.
 
-Usage:  python3 scripts/build_state_csvs.py <ELSI_export.csv> [admin_approved.csv]
+Usage:  python3 scripts/build_state_csvs.py <ELSI_export.csv>
 
-The optional second file adds the `admin_approved` column. It needs the columns
-school_name, city, state, admin_approved; rows are matched to the ELSI data on
-state + school name + city, falling back to state + school name. Where the same
-school appears more than once with conflicting values, an approval wins.
+Then run, in order:
+  python3 scripts/add_nces_ids.py <ELSI_export_with_IDs.csv>
+  python3 scripts/add_grades.py <grades.csv>
+  python3 scripts/apply_admin_approvals.py
+The last one sets `admin_approved` from scripts/admin_approved.csv, a list of
+NCES IDs, which this script can't match until the IDs are added.
+
+(An optional second argument still accepts an older name-based approval list
+with the columns school_name, city, state, admin_approved.)
 
 Expects these ELSI columns (the year suffix may differ between exports):
   School Name / State Name / Location City / Agency Name /
@@ -15,9 +20,6 @@ Expects these ELSI columns (the year suffix may differ between exports):
 Writes data/<STATE_CODE>.csv with the columns the checker reads. Rows with no
 enrollment (missing or 0 students) are dropped: those are closed schools and
 administrative records, not places a student would search for.
-
-This rewrites data/ without the nces_id column; run scripts/add_nces_ids.py
-afterwards to add it back, then scripts/add_grades.py for the grade columns.
 """
 
 import csv

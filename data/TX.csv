@@ -38,7 +38,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 480747000040,Academy H S,Academy ISD,Little River,546,186,Yes under Provision 2,true,9th Grade,12th Grade
 483510012675,Academy H S,Plano ISD,Plano,275,41,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 480747000039,Academy Int,Academy ISD,Little River,444,169,Yes under Provision 2,false,3rd Grade,5th Grade
-480747006348,Academy Middle,Academy ISD,Little River,417,143,Yes under Provision 2,false,6th Grade,8th Grade
+480747006348,Academy Middle,Academy ISD,Little River,417,143,Yes under Provision 2,true,6th Grade,8th Grade
 480003208585,Academy of Accelerated Learning,Academy of Accelerated Learning Inc,Houston,738,652,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 484110012995,Academy of Choice,Spring Branch ISD,Houston,0,,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
 483294021107,Academy of Creative Ed,North East ISD,San Antonio,121,73,Yes under Community Eligibility Option (CEO),false,11th Grade,12th Grade
@@ -84,7 +84,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482028012288,Aim College & Career Prep,Galveston ISD,Galveston,101,92,Yes under Community Eligibility Option (CEO),true,8th Grade,12th Grade
 484496006626,Airport El,Weslaco ISD,Weslaco,786,678,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 482205002218,Akin El,Hale Center ISD,Hale Center,226,191,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
-480894008937,Akins Early College H S,Austin ISD,Austin,2421,1544,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+480894008937,Akins Early College H S,Austin ISD,Austin,2421,1544,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 482115002105,Alamo El,Goose Creek Cisd,Baytown,746,563,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 480759000045,Alamo Heights H S,Alamo Heights ISD,San Antonio,1569,244,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 480759000046,Alamo Heights J H,Alamo Heights ISD,San Antonio,1123,256,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -395,7 +395,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482391013302,Autumn Ridge Middle,Humble ISD,Humble,1233,853,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 480903000374,Avalon School,Avalon ISD,Avalon,347,233,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
 480771013696,Avalos P-Tech School,Aldine ISD,Houston,400,309,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
-480906000376,Avery School,Avery ISD,Avery,304,156,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
+480906000376,Avery School,Avery ISD,Avery,304,156,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 480909000378,Avinger School,Avinger ISD,Avinger,112,84,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 480813000144,Avondale El,Amarillo ISD,Amarillo,475,386,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480915000379,Axtell El,Axtell ISD,Axtell,358,195,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -525,7 +525,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482619002954,Bayshore El,La Porte ISD,La Porte,420,234,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 481428012409,Bayside Int,Clear Creek ISD,League City,978,271,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 482115002107,Baytown J H,Goose Creek Cisd,Baytown,711,576,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
-483873004325,Beacon Hill Pri,San Antonio ISD,San Antonio,267,236,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
+483873004325,Beacon Hill Pri,San Antonio ISD,San Antonio,267,236,Yes under Community Eligibility Option (CEO),true,Prekindergarten,2nd Grade
 482850010907,Bean El (Grades 4–5),Lubbock ISD,Lubbock,218,204,Yes under Community Eligibility Option (CEO),false,3rd Grade,5th Grade
 482850022880,Bean El (Grades PK–3),Lubbock ISD,Lubbock,235,231,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 482391002642,Bear Branch El,Humble ISD,Kingwood,623,120,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -632,7 +632,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481323010559,Bessie Coleman Middle,Cedar Hill ISD,Cedar Hill,488,362,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 480783021293,Best El,Alief ISD,Houston,655,609,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 481168003325,Besteiro Middle,Brownsville ISD,Brownsville,558,527,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-480144614073,Beta Academy (Grades PK–5),Beta Academy,Houston,1032,764,Yes participating without using any Provision or the CEO,true,Prekindergarten,5th Grade
+480144614073,Beta Academy (Grades PK–5),Beta Academy,Houston,1032,764,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480144613188,Beta Academy (Grades 6–12),Beta Academy,Houston,537,346,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
 483510003542,Bethany El,Plano ISD,Plano,266,53,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 482517013138,Bethke El,Katy ISD,Katy,964,517,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -645,13 +645,13 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 480789012461,Beverly Cheatham El,Allen ISD,Allen,669,92,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 483510007835,Beverly El,Plano ISD,Allen,361,73,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 483432003819,Beverly Hills Int,Pasadena ISD,Houston,802,639,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
-482499007188,Bexar Co J J a E P,Judson ISD,San Antonio,3,,No,true,10th Grade,12th Grade
-481815009124,Bexar Co J J a E P,Edgewood ISD,San Antonio,,,,true,,
-484095007519,Bexar Co J J a E P,Southwest ISD,San Antonio,,,,true,,
-480759007509,Bexar Co J J a E P,Alamo Heights ISD,San Antonio,,,,true,,
-484068007178,Bexar Co J J a E P,South San Antonio ISD,San Antonio,1,,Yes under Community Eligibility Option (CEO),true,9th Grade,9th Grade
-481785007183,Bexar Co J J a E P,East Central ISD,San Antonio,2,,No,true,8th Grade,12th Grade
-484092007813,Bexar Co J J a E P,Southside ISD,San Antonio,3,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+482499007188,Bexar Co J J a E P,Judson ISD,San Antonio,3,,No,false,10th Grade,12th Grade
+481815009124,Bexar Co J J a E P,Edgewood ISD,San Antonio,,,,false,,
+484095007519,Bexar Co J J a E P,Southwest ISD,San Antonio,,,,false,,
+480759007509,Bexar Co J J a E P,Alamo Heights ISD,San Antonio,,,,false,,
+484068007178,Bexar Co J J a E P,South San Antonio ISD,San Antonio,1,,Yes under Community Eligibility Option (CEO),false,9th Grade,9th Grade
+481785007183,Bexar Co J J a E P,East Central ISD,San Antonio,2,,No,false,8th Grade,12th Grade
+484092007813,Bexar Co J J a E P,Southside ISD,San Antonio,3,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 482247007175,Bexar Co J J a E P,Harlandale ISD,San Antonio,5,,No,true,8th Grade,10th Grade
 480007708105,Bexar County Academy,Bexar County Academy,San Antonio,153,91,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 481785007517,Bexar County Lrn Ctr,East Central ISD,San Antonio,41,38,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
@@ -763,7 +763,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482001009636,Boals El,Frisco ISD,Frisco,635,107,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 480809013606,Bob and Betty Nelson El,Alvin ISD,Alvin,655,393,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 484389013507,Bob and Lola Sanford El,Van Alstyne ISD,Van Alstyne,562,149,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
-481023013066,Bob E Griggs H S,Birdville ISD,Haltom City,140,96,Yes under Provision 2,false,9th Grade,12th Grade
+481023013066,Bob E Griggs H S,Birdville ISD,Haltom City,140,96,Yes under Provision 2,true,9th Grade,12th Grade
 484095004657,Bob Hope El,Southwest ISD,San Antonio,488,433,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 480141023026,Bob Hope El School-Baytown,Bob Hope School,Baytown,370,306,Yes under Community Eligibility Option (CEO),false,Prekindergarten,3rd Grade
 480141014096,Bob Hope H S,Bob Hope School,Port Arthur,555,511,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
@@ -1147,7 +1147,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483525010479,Cameron Co J J a E P,Point Isabel ISD,Port Isabel,3,,No,false,10th Grade,12th Grade
 483717008466,Cameron Co J J a E P,Rio Hondo ISD,Rio Hondo,1,,No,false,10th Grade,10th Grade
 482829009454,Cameron Co J J a E P,Los Fresnos Cisd,San Benito,6,,Yes under Provision 2,true,8th Grade,12th Grade
-483879008467,Cameron Co J J a E P,San Benito Cisd,San Benito,9,6,Yes under Community Eligibility Option (CEO),true,8th Grade,12th Grade
+483879008467,Cameron Co J J a E P,San Benito Cisd,San Benito,9,6,Yes under Community Eligibility Option (CEO),false,8th Grade,12th Grade
 481168007541,Cameron Co J J a E P,Brownsville ISD,San Benito,8,,Yes under Community Eligibility Option (CEO),true,8th Grade,12th Grade
 482604008718,Cameron County Jjaep,La Feria ISD,La Feria,1,,Yes under Community Eligibility Option (CEO),false,8th Grade,9th Grade
 481800001573,Cameron Dual Language Magnet,Ector County ISD,Odessa,644,487,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -1217,7 +1217,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483510006030,Carlisle El,Plano ISD,Plano,436,126,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 481287000783,Carlisle School,Carlisle ISD,Henderson,646,318,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
 483312003690,Carlos Coon El,Northside ISD,San Antonio,547,455,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-481806005980,Carlos F Truan J H,Edcouch-Elsa ISD,Elsa,584,530,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
+481806005980,Carlos F Truan J H,Edcouch-Elsa ISD,Elsa,584,530,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 483486011406,Carmen Anaya El,Pharr-San Juan-Alamo ISD,Pharr,429,417,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 481818009538,Carmen V Avila El,Edinburg Cisd,Edinburg,636,572,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 480771000061,Carmichael El,Aldine ISD,Houston,711,645,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
@@ -1367,21 +1367,21 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482613006737,Cesar Chavez Middle,La Joya ISD,Mission,625,545,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 484428009345,Cesar Chavez Middle,Waco ISD,Waco,786,735,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 481970009378,Cesar Chavez Pri,Fort Worth ISD,Ft Worth,447,421,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-481173008873,Challenge Academy,Bruceville-Eddy ISD,Eddy,0,,Yes participating without using any Provision or the CEO,true,9th Grade,9th Grade
-481497007692,Challenge Academy,Connally ISD,Waco,1,,No,true,8th Grade,10th Grade
-483741008985,Challenge Academy,Robinson ISD,Waco,2,,Yes participating without using any Provision or the CEO,true,8th Grade,9th Grade
+481173008873,Challenge Academy,Bruceville-Eddy ISD,Eddy,0,,Yes participating without using any Provision or the CEO,false,9th Grade,9th Grade
+481497007692,Challenge Academy,Connally ISD,Waco,1,,No,false,8th Grade,10th Grade
+483741008985,Challenge Academy,Robinson ISD,Waco,2,,Yes participating without using any Provision or the CEO,false,8th Grade,9th Grade
 484428007397,Challenge Academy,Waco ISD,Waco,52,48,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
-483064007394,Challenge Academy,Midway ISD,Waco,1,,Yes participating without using any Provision or the CEO,true,12th Grade,12th Grade
-484504009346,Challenge Academy,West ISD,Waco,1,,No,true,9th Grade,9th Grade
-482919008978,Challenge Academy,Mart ISD,Waco,,,,true,,
-482982008979,Challenge Academy,McGregor ISD,Waco,,,,true,,
-480915008981,Challenge Academy,Axtell ISD,Waco,,,,true,,
-482628007395,Challenge Academy,La Vega ISD,Waco,2,,Yes under Community Eligibility Option (CEO),true,11th Grade,11th Grade
-481091010956,Challenge Academy,Bosqueville ISD,Waco,,,,true,,
-481396009348,Challenge Academy,China Spring ISD,Waco,,,,true,,
-481560009340,Challenge Academy,Crawford ISD,Waco,,,,true,,
-482820009581,Challenge Academy,Lorena ISD,Waco,,,,true,,
-483711010952,Challenge Academy,Riesel ISD,Waco,,,,true,,
+483064007394,Challenge Academy,Midway ISD,Waco,1,,Yes participating without using any Provision or the CEO,false,12th Grade,12th Grade
+484504009346,Challenge Academy,West ISD,Waco,1,,No,false,9th Grade,9th Grade
+482919008978,Challenge Academy,Mart ISD,Waco,,,,false,,
+482982008979,Challenge Academy,McGregor ISD,Waco,,,,false,,
+480915008981,Challenge Academy,Axtell ISD,Waco,,,,false,,
+482628007395,Challenge Academy,La Vega ISD,Waco,2,,Yes under Community Eligibility Option (CEO),false,11th Grade,11th Grade
+481091010956,Challenge Academy,Bosqueville ISD,Waco,,,,false,,
+481396009348,Challenge Academy,China Spring ISD,Waco,,,,false,,
+481560009340,Challenge Academy,Crawford ISD,Waco,,,,false,,
+482820009581,Challenge Academy,Lorena ISD,Waco,,,,false,,
+483711010952,Challenge Academy,Riesel ISD,Waco,,,,false,,
 482364009609,Challenge Early College H S,Houston ISD,Houston,485,395,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 483444003114,Challenger El,Pearland ISD,Pearland,614,239,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 484152004745,Chamberlin El,Stephenville ISD,Stephenville,503,283,Yes under Community Eligibility Option (CEO),false,1st Grade,2nd Grade
@@ -1575,7 +1575,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481449000939,Coahoma J H,Coahoma ISD,Coahoma,243,66,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 482253002280,Coakley Middle,Harlingen Cisd,Harlingen,687,569,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 483927012582,Coastal Alternative Program,Santa Fe ISD,Santa Fe,4,,Yes participating without using any Provision or the CEO,false,9th Grade,10th Grade
-481707012502,Coastal Alternative Program (Cap),Dickinson ISD,Santa Fe,7,,Yes participating without using any Provision or the CEO,true,8th Grade,11th Grade
+481707012502,Coastal Alternative Program (Cap),Dickinson ISD,Santa Fe,7,,Yes participating without using any Provision or the CEO,false,8th Grade,11th Grade
 484251012819,Coastal Alternative Program (Cap),Texas City ISD,Santa Fe,4,,Yes participating without using any Provision or the CEO,true,8th Grade,11th Grade
 480015912097,Coastal Horizons Academy,Erath Excels Academy Inc,Taft,72,,No,true,7th Grade,12th Grade
 482025008814,Cobb 6th Grade Campus,Galena Park ISD,Houston,991,902,Yes under Community Eligibility Option (CEO),false,6th Grade,6th Grade
@@ -1787,7 +1787,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482499002788,Crestview El,Judson ISD,San Antonio,578,376,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 484428005033,Crestview El,Waco ISD,Waco,464,442,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 481956006253,Criswell El,Forney ISD,Forney,549,352,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
-480894000310,Crockett Early College H S,Austin ISD,Austin,1529,1001,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+480894000310,Crockett Early College H S,Austin ISD,Austin,1529,1001,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 480744009396,Crockett Early Headstart,Abilene ISD,Abilene,131,3,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
 482115005731,Crockett El,Goose Creek Cisd,Baytown,545,420,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 481089000556,Crockett El,Borger ISD,Borger,357,230,Yes participating without using any Provision or the CEO,false,3rd Grade,4th Grade
@@ -2096,9 +2096,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481716001487,Dimmitt H S,Dimmitt ISD,Dimmitt,324,250,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 481716001488,Dimmitt Middle,Dimmitt ISD,Dimmitt,246,201,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 481437007381,Disciplinary Alternative Education Program,Cleveland ISD,Cleveland,126,117,Yes under Community Eligibility Option (CEO),true,3rd Grade,12th Grade
-483948013820,Disciplinary Alternative Education Program,Schertz-Cibolo-U City ISD,Schertz,,,,true,,
+483948013820,Disciplinary Alternative Education Program,Schertz-Cibolo-U City ISD,Schertz,,,,false,,
 481179007816,Disciplinary Alternative Educational Progam (Daep),Bryan ISD,Bryan,81,71,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
-483702005582,Disciplinary Alternative Placement Center,Richardson ISD,Dallas,124,84,Yes under Community Eligibility Option (CEO),false,3rd Grade,12th Grade
+483702005582,Disciplinary Alternative Placement Center,Richardson ISD,Dallas,124,84,Yes under Community Eligibility Option (CEO),true,3rd Grade,12th Grade
 483969004070,Discipline Alternative School at Saegert,Seguin ISD,Seguin,44,40,Yes under Community Eligibility Option (CEO),true,3rd Grade,12th Grade
 480967007977,Dishman El,Beaumont ISD,Beaumont,500,450,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 482253002282,Dishman El,Harlingen Cisd,Combes,313,295,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -2477,7 +2477,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481770005450,Elmer C Watson H S,Eagle Mt-Saginaw ISD,Fort Worth,90,48,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 482364012912,Elmore El,Houston ISD,Houston,443,435,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 482613004779,Elodia R Chapa El,La Joya ISD,Mission,445,425,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-483873004346,Eloise Japhet El,San Antonio ISD,San Antonio,634,579,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+483873004346,Eloise Japhet El,San Antonio ISD,San Antonio,634,579,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 482499005819,Elolf STEAM Academy,Judson ISD,Converse,558,398,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 481739010817,Eloy Garza Salazar El,Donna ISD,Donna,446,424,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 482364002450,Elrod El,Houston ISD,Houston,742,727,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -2589,14 +2589,14 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481764001525,Fairmeadows El,Duncanville ISD,Duncanville,435,381,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 481653006845,Fairmont El,Deer Park ISD,Pasadena,776,268,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 481653016972,Fairmont J H,Deer Park ISD,Pasadena,676,255,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
-484441017083,Fairview Accelerated,Wall ISD,San Angelo,6,,Yes participating without using any Provision or the CEO,true,10th Grade,12th Grade
-480930011322,Fairview Accelerated,Ballinger ISD,San Angelo,2,,Yes participating without using any Provision or the CEO,true,9th Grade,11th Grade
-484404011050,Fairview Accelerated,Veribest ISD,San Angelo,2,,Yes participating without using any Provision or the CEO,true,9th Grade,10th Grade
-484155009027,Fairview Accelerated,Sterling City ISD,San Angelo,2,,Yes participating without using any Provision or the CEO,true,12th Grade,12th Grade
+484441017083,Fairview Accelerated,Wall ISD,San Angelo,6,,Yes participating without using any Provision or the CEO,false,10th Grade,12th Grade
+480930011322,Fairview Accelerated,Ballinger ISD,San Angelo,2,,Yes participating without using any Provision or the CEO,false,9th Grade,11th Grade
+484404011050,Fairview Accelerated,Veribest ISD,San Angelo,2,,Yes participating without using any Provision or the CEO,false,9th Grade,10th Grade
+484155009027,Fairview Accelerated,Sterling City ISD,San Angelo,2,,Yes participating without using any Provision or the CEO,false,12th Grade,12th Grade
 482160007459,Fairview Accelerated,Grape Creek ISD,San Angelo,3,,Yes participating without using any Provision or the CEO,true,10th Grade,11th Grade
-481401008049,Fairview Accelerated,Christoval ISD,San Angelo,1,,Yes participating without using any Provision or the CEO,true,11th Grade,12th Grade
-483738016035,Fairview Accelerated,Robert Lee ISD,San Angelo,1,,Yes participating without using any Provision or the CEO,true,10th Grade,10th Grade
-483075017097,Fairview Accelerated,Miles ISD,San Angleo,2,,Yes participating without using any Provision or the CEO,true,12th Grade,12th Grade
+481401008049,Fairview Accelerated,Christoval ISD,San Angelo,1,,Yes participating without using any Provision or the CEO,false,11th Grade,12th Grade
+483738016035,Fairview Accelerated,Robert Lee ISD,San Angelo,1,,Yes participating without using any Provision or the CEO,false,10th Grade,10th Grade
+483075017097,Fairview Accelerated,Miles ISD,San Angleo,2,,Yes participating without using any Provision or the CEO,false,12th Grade,12th Grade
 480930012897,Fairview Accelerated (Daep),Ballinger ISD,San Angelo,1,,Yes participating without using any Provision or the CEO,false,9th Grade,9th Grade
 484441009066,Fairview Accelerated Daep,Wall ISD,San Angelo,2,,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 483951023226,Fairview Alternative,Schleicher ISD,Eldorado,1,,Yes participating without using any Provision or the CEO,false,9th Grade,9th Grade
@@ -2715,7 +2715,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483808007495,Forest Creek El,Round Rock ISD,Round Rock,652,91,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 480813000156,Forest Hill El,Amarillo ISD,Amarillo,484,458,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 483702008193,Forest Lane Academy,Richardson ISD,Dallas,625,593,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-483702004132,Forest Meadow Middle,Richardson ISD,Dallas,1211,848,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+483702004132,Forest Meadow Middle,Richardson ISD,Dallas,1211,848,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 483808004250,Forest North El,Round Rock ISD,Austin,319,155,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 481970001861,Forest Oak Middle,Fort Worth ISD,Fort Worth,1044,1006,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 482811003139,Forest Park Magnet School,Longview ISD,Longview,474,434,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -2855,7 +2855,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482060006263,Frost El,Georgetown ISD,Georgetown,289,178,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 482364002461,Frost El,Houston ISD,Houston,402,394,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 482658008783,Frost El,Lamar Cisd,Richmond,792,216,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-482004001959,Frost Secondary,Frost ISD,Frost,215,105,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
+482004001959,Frost Secondary,Frost ISD,Frost,215,105,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 484110004673,Frostwood El,Spring Branch ISD,Houston,838,64,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 482007005476,Fruitvale H S,Fruitvale ISD,Fruitvale,99,48,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 482007008071,Fruitvale Middle,Fruitvale ISD,Fruitvale,77,38,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -3053,7 +3053,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 484122012370,Gloria Marshall El,Spring ISD,Spring,876,658,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 483057003440,Goddard J H,Midland ISD,Midland,1210,744,Yes participating without using any Provision or the CEO,true,7th Grade,8th Grade
 482096002090,Godley H S,Godley ISD,Godley,868,359,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-482096022868,Godley Middle,Godley ISD,Godley,729,342,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
+482096022868,Godley Middle,Godley ISD,Godley,729,342,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 483585010512,Godwin El,Princeton ISD,Princeton,469,321,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 482097002091,Gold Burg School,Gold Burg ISD,Bowie,148,85,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 483432003828,Golden Acres El,Pasadena ISD,Pasadena,390,341,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
@@ -3167,7 +3167,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483808007756,Great Oaks El,Round Rock ISD,Round Rock,868,99,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 483057005121,Greathouse El,Midland ISD,Midland,872,308,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 483585022951,Green El,Princeton ISD,Princeton,489,261,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-483873004389,Green El at Riverside Park,San Antonio ISD,San Antonio,368,347,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+483873004389,Green El at Riverside Park,San Antonio ISD,San Antonio,368,347,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 482025001985,Green Valley El,Galena Park ISD,Houston,565,531,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 481023002102,Green Valley El,Birdville ISD,North Richland Hills,406,109,Yes under Provision 2,false,Prekindergarten,5th Grade
 483948009604,Green Valley El,Schertz-Cibolo-U City ISD,Schertz,503,164,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
@@ -3425,9 +3425,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482568002885,Harrel El,Kingsville ISD,Kingsville,311,280,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 481623001221,Harrell Budd El,Dallas ISD,Dallas,457,438,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 483510003963,Harrington El,Plano ISD,Plano,321,93,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
-484110008830,Harris Co J J a E P,Spring Branch ISD,Houston,1,,No,true,10th Grade,10th Grade
+484110008830,Harris Co J J a E P,Spring Branch ISD,Houston,1,,No,false,10th Grade,10th Grade
 482364007934,Harris Co J J a E P,Houston ISD,Houston,25,19,Yes under Community Eligibility Option (CEO),true,5th Grade,12th Grade
-481428008791,Harris Co Jjaep,Clear Creek ISD,Houston,1,,No,true,9th Grade,11th Grade
+481428008791,Harris Co Jjaep,Clear Creek ISD,Houston,1,,No,false,9th Grade,11th Grade
 482574007642,Harris Co Jjaep,Klein ISD,Klein,24,21,Yes participating without using any Provision or the CEO,true,6th Grade,11th Grade
 482517008823,Harris Co Sch for Accelerated Lrn,Katy ISD,Katy,1,,No,false,8th Grade,8th Grade
 480004907909,Harris County Juvenile Detention Center,Excel Academy,Houston,165,162,Yes participating without using any Provision or the CEO,true,4th Grade,12th Grade
@@ -3677,7 +3677,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482364010751,Hines-Caldwell,Houston ISD,Houston,638,597,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 480771007621,Hinojosa Ec/PK/K,Aldine ISD,Houston,578,536,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Kindergarten
 483873004362,Hirsch El,San Antonio ISD,San Antonio,578,560,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-484578005215,Hirschi Middle,Wichita Falls ISD,Wichita Falls,464,430,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+484578005215,Hirschi Middle,Wichita Falls ISD,Wichita Falls,464,430,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 482331002367,Hitchcock H S,Hitchcock ISD,Hitchcock,585,421,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 482331008572,Hitchcock Headstart,Hitchcock ISD,Hitchcock,181,174,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
 482331012367,Hitchcock Pri,Hitchcock ISD,Hitchcock,485,387,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
@@ -3996,10 +3996,10 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 480016312923,Ignite Community School - Humble,Texas College Preparatory Academies,Humble,219,174,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 480016308127,Ignite Community School - Huntsville,Texas College Preparatory Academies,Huntsville,380,242,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 480016313322,Ignite Community School - Mainland,Texas College Preparatory Academies,La Marque,327,283,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
-480016313327,Ignite Community School - Mesquite,Texas College Preparatory Academies,Mesquite,480,392,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
+480016313327,Ignite Community School - Mesquite,Texas College Preparatory Academies,Mesquite,480,392,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 480016313028,Ignite Community School - Pasadena,Texas College Preparatory Academies,Pasadena,194,141,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 480016314318,Ignite Community School-Fort Worth,Texas College Preparatory Academies,Fort Worth,438,409,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
-481623013825,Ignite Middle at Jw Ray Learning Center,Dallas ISD,Dallas,292,275,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+481623013825,Ignite Middle at Jw Ray Learning Center,Dallas ISD,Dallas,292,275,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 482460013973,Igo El,Jarrell ISD,Jarrell,647,411,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 484480009365,Ikard El,Weatherford ISD,Weatherford,572,402,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 481623022814,Ilearn Virtual Academy at Dallas ISD,Dallas ISD,Dallas,32,26,Yes under Community Eligibility Option (CEO),false,4th Grade,8th Grade
@@ -4736,7 +4736,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482619002955,La Porte J H,La Porte ISD,La Porte,563,277,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 480771014249,La Promesa,Aldine ISD,Houston,448,348,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 482625002960,La Pryor El,La Pryor ISD,La Pryor,195,161,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-482625002961,La Pryor Secondary,La Pryor ISD,La Pryor,244,210,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
+482625002961,La Pryor Secondary,La Pryor ISD,La Pryor,244,210,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 483714004174,La Union El,Rio Grande City Grulla ISD,Garciasville,341,328,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 482628007035,La Vega El,La Vega ISD,Waco,630,553,Yes under Community Eligibility Option (CEO),false,1st Grade,3rd Grade
 482628002965,La Vega H S,La Vega ISD,Waco,881,778,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -4772,7 +4772,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 480146413723,Lake Granbury Academy,Lake Granbury Academy Charter School,Granbury,47,33,Yes under Provision 2,false,7th Grade,12th Grade
 483702004137,Lake Highlands El,Richardson ISD,Dallas,704,176,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 483702004138,Lake Highlands H S,Richardson ISD,Dallas,2972,1511,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-483702004139,Lake Highlands Middle,Richardson ISD,Dallas,1114,447,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+483702004139,Lake Highlands Middle,Richardson ISD,Dallas,1114,447,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 481119000589,Lake Jackson Int,Brazosport ISD,Lake Jackson,698,308,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 481965007284,Lake Olympia Middle,Fort Bend ISD,Missouri City,1078,724,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 482647009414,Lake Pointe El,Lake Travis ISD,Austin,721,25,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -4891,7 +4891,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483039003408,Lawrence El,Mesquite ISD,Mesquite,284,254,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 482364002442,Lawson Middle,Houston ISD,Houston,1069,991,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 482697003038,Lazbuddie School,Lazbuddie ISD,Lazbuddie,127,94,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
-480894011844,LBJ Early College H S,Austin ISD,Austin,734,650,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+480894011844,LBJ Early College H S,Austin ISD,Austin,734,650,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 481739009295,Le Noir El,Donna ISD,Donna,457,375,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 482811012512,Lead Academy H S,Longview ISD,Longview,201,172,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 480894007137,Leadership Academy,Austin ISD,Austin,23,19,Yes participating without using any Provision or the CEO,true,8th Grade,12th Grade
@@ -4983,7 +4983,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481965006955,Lexington Creek El,Fort Bend ISD,Missouri City,506,219,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 482733003075,Lexington El,Lexington ISD,Lexington,488,200,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 482733003076,Lexington H S,Lexington ISD,Lexington,336,121,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-481527023044,Lexington Middle,Corpus Christi ISD,Corpus Christi,,,,true,,
+481527023044,Lexington Middle,Corpus Christi ISD,Corpus Christi,,,,false,,
 482733006292,Lexington Middle,Lexington ISD,Lexington,228,87,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 482679003021,Leyendecker El,Laredo ISD,Laredo,406,406,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 481311000813,Libby El,Carthage ISD,Carthage,375,207,Yes participating without using any Provision or the CEO,false,2nd Grade,3rd Grade
@@ -5113,11 +5113,11 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482526008919,Lone Star El,Keller ISD,Keller,569,172,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 483126011310,Lone Star El,Montgomery ISD,Montgomery,695,99,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 482001012473,Lone Star H S,Frisco ISD,Frisco,2004,313,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-480143209576,Lone Star H S Central (Tjjd),Lone Star School District,Mart,225,,No,false,8th Grade,12th Grade
-480143208500,Lone Star H S North (Tjjd),Lone Star School District,Austin,162,,No,false,9th Grade,12th Grade
-480143208662,Lone Star H S South (Tjjd),Lone Star School District,Edinburg,159,,No,false,9th Grade,12th Grade
-480143208968,Lone Star H S Southeast (Tjjd),Lone Star School District,Giddings,128,,No,false,5th Grade,12th Grade
-480143208458,Lone Star H S West (Tjjd),Lone Star School District,Brownwood,82,,No,false,7th Grade,10th Grade
+480143209576,Lone Star H S Central (Tjjd),Lone Star School District,Mart,225,,No,true,8th Grade,12th Grade
+480143208500,Lone Star H S North (Tjjd),Lone Star School District,Austin,162,,No,true,9th Grade,12th Grade
+480143208662,Lone Star H S South (Tjjd),Lone Star School District,Edinburg,159,,No,true,9th Grade,12th Grade
+480143208968,Lone Star H S Southeast (Tjjd),Lone Star School District,Giddings,128,,No,true,5th Grade,12th Grade
+480143208458,Lone Star H S West (Tjjd),Lone Star School District,Brownwood,82,,No,true,7th Grade,10th Grade
 483870004313,Lone Star Middle,San Angelo ISD,San Angelo,790,482,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 483786014301,Lone Star Online Academy,Roscoe Collegiate ISD,Roscoe,11686,,No,false,Kindergarten,8th Grade
 482019023057,Lone Star Virtual Academy,Fort Stockton ISD,Fort Stockton,3628,2345,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
@@ -5181,10 +5181,10 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481611005686,Lowery El,Cypress-Fairbanks ISD,Houston,660,392,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480789008146,Lowery Freshman Center,Allen ISD,Allen,1674,,No,false,9th Grade,9th Grade
 481970008913,Lowery Road,Fort Worth ISD,Fort Worth,414,336,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-481983009331,Lubbock Co J J a E P,Frenship ISD,Lubbock,,,,true,,
-483243010943,Lubbock Co J J a E P,New Deal ISD,Lubbock,,,,true,,
-482412010948,Lubbock Co J J a E P,Idalou ISD,Lubbock,,,,true,,
-484044008866,Lubbock Co J J a E P,Slaton ISD,Lubbock,,,,true,,
+481983009331,Lubbock Co J J a E P,Frenship ISD,Lubbock,,,,false,,
+483243010943,Lubbock Co J J a E P,New Deal ISD,Lubbock,,,,false,,
+482412010948,Lubbock Co J J a E P,Idalou ISD,Lubbock,,,,false,,
+484044008866,Lubbock Co J J a E P,Slaton ISD,Lubbock,,,,false,,
 482850007677,Lubbock Co J J a E P,Lubbock ISD,Lubbock,8,,No,true,6th Grade,11th Grade
 482850008328,Lubbock Co Juvenile Justice Ctr,Lubbock ISD,Lubbock,57,,No,false,5th Grade,11th Grade
 482850010891,Lubbock H S,Lubbock ISD,Lubbock,1927,1037,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -5291,7 +5291,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482878003257,Malakoff El,Malakoff ISD,Malakoff,429,298,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 482878003258,Malakoff H S,Malakoff ISD,Malakoff,426,257,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 482878023024,Malakoff Int,Malakoff ISD,Malakoff,222,156,Yes under Community Eligibility Option (CEO),false,5th Grade,6th Grade
-482878021339,Malakoff J H,Malakoff ISD,Malakoff,237,174,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
+482878021339,Malakoff J H,Malakoff ISD,Malakoff,237,174,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 481965013453,Malala Yousafzai,Fort Bend ISD,Richmond,1118,295,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 482880003260,Malone El,Malone ISD,Malone,63,59,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 482883003261,Malta El,Malta ISD,New Boston,223,103,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
@@ -5423,7 +5423,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482928011301,Mason J H,Mason ISD,Mason,210,96,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
 483444011153,Massey Ranch El,Pearland ISD,Pearland,541,234,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 480783008267,Mata Int,Alief ISD,Houston,753,679,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
-482937003310,Matagorda ISD,Matagorda ISD,Matagorda,109,62,Yes under Community Eligibility Option (CEO),false,Prekindergarten,11th Grade
+482937003310,Matagorda ISD,Matagorda ISD,Matagorda,109,62,Yes under Community Eligibility Option (CEO),true,Prekindergarten,11th Grade
 483702006975,Math/Science/Tech Magnet,Richardson ISD,Richardson,667,300,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 480894000332,Mathews El,Austin ISD,Austin,366,127,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 483510006465,Mathews El,Plano ISD,Plano,460,56,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -5678,7 +5678,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483093003481,Mineola Middle,Mineola ISD,Mineola,388,200,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 483093003478,Mineola Pri,Mineola ISD,Mineola,621,380,Yes under Community Eligibility Option (CEO),false,Prekindergarten,3rd Grade
 483095008348,Mineral Wells Academy,Mineral Wells ISD,Mineral Wells,28,21,Yes under Community Eligibility Option (CEO),true,10th Grade,12th Grade
-483095003487,Mineral Wells Schools,Mineral Wells ISD,Mineral Wells,3275,2392,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
+483095003487,Mineral Wells Schools,Mineral Wells ISD,Mineral Wells,3275,2392,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 482001022801,Minett El,Frisco ISD,Frisco,539,33,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 481527008888,Mireles El,Corpus Christi ISD,Corpus Christi,621,268,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 483312012627,Mireles El,Northside ISD,San Antonio,789,228,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -5898,10 +5898,10 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482172006859,New Horizons Learning Center,Greenville ISD,Greenville,77,66,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 483192023033,New Horizons Ranch School,Mullin ISD,Goldthwaite,40,,No,false,Kindergarten,12th Grade
 484480023224,New Jjaep,Weatherford ISD,Willow Park,6,,Yes participating without using any Provision or the CEO,false,8th Grade,12th Grade
-481551023213,New Middle,Crandall ISD,Crandall,,,,true,,
-483765014312,New Middle,Rockwall ISD,Fate,,,,true,,
+481551023213,New Middle,Crandall ISD,Crandall,,,,false,,
+483765014312,New Middle,Rockwall ISD,Fate,,,,false,,
 483039006449,New Middle,Mesquite ISD,Mesquite,670,585,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-481800023171,New Middle,Ector County ISD,Odessa,,,,true,,
+481800023171,New Middle,Ector County ISD,Odessa,,,,false,,
 480024012687,New Neighbor Campus,Bakerripley Community Schools,Houston,33,31,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
 483261003608,New Summerfield School,New Summerfield ISD,New Summerfield,526,428,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 481623001204,New Tech H S at B F Darrell H S,Dallas ISD,Dallas,407,368,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -6134,7 +6134,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 480771000064,Odom El,Aldine ISD,Houston,322,297,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
 480967005954,Odom Middle,Beaumont ISD,Beaumont,837,576,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 480010808213,Odyssey Academy - Galveston,Odyssey Academy Inc,Galveston,795,627,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
-480010813274,Odyssey Academy - Texas City,Odyssey Academy Inc,Texas City,558,425,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
+480010813274,Odyssey Academy - Texas City,Odyssey Academy Inc,Texas City,558,425,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 480010823003,Odyssey Academy - Webster,Odyssey Academy Inc,Webster,328,229,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 482703012568,Officer Leonard a Reed El,Leander ISD,Cedar Park,638,247,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480771013692,Ogden El,Aldine ISD,Houston,584,494,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
@@ -6209,10 +6209,10 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481569011990,Ozona El,Crockett County Consolidated CSD,Ozona,264,184,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 481569001132,Ozona H S,Crockett County Consolidated CSD,Ozona,214,125,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 481569001134,Ozona Middle,Crockett County Consolidated CSD,Ozona,143,90,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-482325010596,P a S S Learning Ctr,Highland Park ISD,Dallas,,,,true,,
-483702007580,P a S S Learning Ctr,Richardson ISD,Dallas,10,,No,true,8th Grade,11th Grade
+482325010596,P a S S Learning Ctr,Highland Park ISD,Dallas,,,,false,,
+483702007580,P a S S Learning Ctr,Richardson ISD,Dallas,10,,No,false,8th Grade,11th Grade
 482034007574,P a S S Learning Ctr,Garland ISD,Dallas,11,,No,true,8th Grade,12th Grade
-481764007255,P a S S Learning Ctr,Duncanville ISD,Dallas,,,,true,,
+481764007255,P a S S Learning Ctr,Duncanville ISD,Dallas,,,,false,,
 482142007575,P a S S Learning Ctr,Grand Prairie ISD,Dallas,1,,No,true,8th Grade,11th Grade
 483176007736,P E Wallace Middle,Mount Pleasant ISD,Mount Pleasant,698,574,Yes under Community Eligibility Option (CEO),false,5th Grade,6th Grade
 481428000909,P H Greene El,Clear Creek ISD,Webster,545,315,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -6550,7 +6550,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481500007046,Powell El,Conroe ISD,The Woodlands,830,173,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 484365007096,Prada El,United ISD,Laredo,788,738,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 483702004149,Prairie Creek El,Richardson ISD,Richardson,304,22,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
-483570004042,Prairie Lea El,Prairie Lea ISD,Prairie Lea,267,166,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
+483570004042,Prairie Lea El,Prairie Lea ISD,Prairie Lea,267,166,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 482730006982,Prairie Trail El,Lewisville ISD,Flower Mound,672,172,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 483573004044,Prairie Valley School,Prairie Valley ISD,Nocona,135,69,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
 483318007877,Prairie View El,Northwest ISD,Rhome,720,442,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -6628,7 +6628,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482916003294,Price T Young El,Marshall ISD,Marshall,550,512,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 483582004057,Priddy School,Priddy ISD,Priddy,119,43,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
 482400001969,Pride Alter Sch,Huntington ISD,Huntington,12,4,Yes participating without using any Provision or the CEO,true,10th Grade,12th Grade
-483585004059,Princeton Sr H S,Princeton ISD,Princeton,1262,783,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+483585004059,Princeton Sr H S,Princeton ISD,Princeton,1262,783,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 483589004061,Pringle-Morse Schools,Pringle-Morse Cisd,Morse,128,75,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
 480007622929,Priority Charter Schools - Killeen,Priority Charter Schools,Killeen,76,39,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 480007613035,Priority Charter Schools Copperas Cove,Priority Charter Schools,Copperas Cove,210,138,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
@@ -6640,7 +6640,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483591012422,Progreso El,Progreso ISD,Progreso,262,262,Yes under Community Eligibility Option (CEO),false,3rd Grade,5th Grade
 483591006032,Progreso H S,Progreso ISD,Progreso,431,431,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 482364017019,Project Chrysalis Middle,Houston ISD,Houston,241,204,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-482874009354,Project Restore,Magnolia ISD,Conroe,1,,No,true,9th Grade,9th Grade
+482874009354,Project Restore,Magnolia ISD,Conroe,1,,No,false,9th Grade,9th Grade
 483240009358,Project Restore,New Caney ISD,New Caney,,,,true,,
 482517008629,Project Tyke,Katy ISD,Katy,13,,No,false,Prekindergarten,Prekindergarten
 480146713752,Promesa Academy Charter School,Promesa Academy Charter School,San Antonio,248,148,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -6913,7 +6913,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483702006899,Risd Acad,Richardson ISD,Dallas,731,703,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 480809010458,Rise,Alvin ISD,Alvin,116,82,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 480014108325,Rise Academy,Rise Academy,Lubbock,307,,No,true,Prekindergarten,8th Grade
-484480023223,Rise Academy,Weatherford ISD,Weatherford,75,32,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+484480023223,Rise Academy,Weatherford ISD,Weatherford,75,32,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 480005314159,Rise Inspire Academy,Inspire Academies,San Antonio,24,14,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 483723004188,Rising Star El,Rising Star ISD,Rising Star,88,60,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 483723004189,Rising Star H S,Rising Star ISD,Rising Star,93,52,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
@@ -7107,7 +7107,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483819004265,Royal J H,Royal ISD,Brookshire,639,478,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 483294009130,Royal Ridge El,North East ISD,San Antonio,441,297,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 483999004537,Royalwood El,Sheldon ISD,Houston,607,547,Yes participating without using any Provision or the CEO,false,1st Grade,5th Grade
-481623012455,Royce West Leadership School,Dallas ISD,Dallas,578,550,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+481623012455,Royce West Leadership School,Dallas ISD,Dallas,578,550,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 483822004268,Royse City H S,Royse City ISD,Royse City,2834,1111,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 483808013545,Rrisd Early College H S,Round Rock ISD,Round Rock,364,89,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 483808012352,Rrisdpk3p,Round Rock ISD,Round Rock,40,9,Yes participating without using any Provision or the CEO,false,Prekindergarten,Prekindergarten
@@ -7116,7 +7116,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483890006172,Ruben Chavira El,San Felipe-Del Rio Cisd,Del Rio,563,488,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 483025009298,Ruben Hinojosa El,Mercedes ISD,Mercedes,468,388,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 483993009591,Ruben Hinojosa El,Sharyland ISD,Mission,472,260,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
-481686001461,Ruby Young Talented and Gifted Academy,Desoto ISD,Desoto,263,154,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+481686001461,Ruby Young Talented and Gifted Academy,Desoto ISD,Desoto,263,154,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 482364002573,Rucker El,Houston ISD,Houston,434,408,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 483312005786,Rudder Middle,Northside ISD,San Antonio,961,741,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 481970001849,Rufino Mendoza Sr El,Fort Worth ISD,Fort Worth,342,316,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -7165,9 +7165,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482060001018,S T E P - Detention,Georgetown ISD,Georgetown,4,,No,false,8th Grade,11th Grade
 483808009429,S T E P - Detention,Round Rock ISD,Georgetown,9,6,Yes participating without using any Provision or the CEO,false,7th Grade,11th Grade
 482460011096,S T E P - Detention,Jarrell ISD,Georgetown,2,,Yes participating without using any Provision or the CEO,false,10th Grade,10th Grade
-482460009477,S T E P - J J a E P,Jarrell ISD,Georgetown,2,,Yes participating without using any Provision or the CEO,true,9th Grade,10th Grade
+482460009477,S T E P - J J a E P,Jarrell ISD,Georgetown,2,,Yes participating without using any Provision or the CEO,false,9th Grade,10th Grade
 482060007491,S T E P - J J a E P,Georgetown ISD,Georgetown,2,,No,true,7th Grade,9th Grade
-483808008086,S T E P - J J a E P,Round Rock ISD,Georgetown,,,,true,,
+483808008086,S T E P - J J a E P,Round Rock ISD,Georgetown,,,,false,,
 484228009432,S T E P Detention,Taylor ISD,Georgetown,2,,Yes participating without using any Provision or the CEO,false,7th Grade,9th Grade
 484074009129,S/Sgt Michael P Barrera Veterans El,Somerset ISD,Von Ormy,639,523,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 483843006780,Sabinal El,Sabinal ISD,Sabinal,238,215,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -7422,7 +7422,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483987004523,Shallowater H S,Shallowater ISD,Shallowater,518,156,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 483987006788,Shallowater Int,Shallowater ISD,Shallowater,382,135,Yes participating without using any Provision or the CEO,false,3rd Grade,5th Grade
 483987004524,Shallowater Middle,Shallowater ISD,Shallowater,397,116,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
-483990004526,Shamrock ISD,Shamrock ISD,Shamrock,343,235,Yes participating without using any Provision or the CEO,false,Prekindergarten,12th Grade
+483990004526,Shamrock ISD,Shamrock ISD,Shamrock,343,235,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
 483039003418,Shands El,Mesquite ISD,Mesquite,567,488,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 484356004954,Sharon a Richardson El,Union Hill ISD,Gilmer,141,104,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 484095006042,Sharon Christa McAuliffe Middle,Southwest ISD,San Antonio,767,716,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -7638,9 +7638,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 480006313011,Southwest Prep Northwest El,Southwest Preparatory School,San Antonio,101,82,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480006309118,Southwest Preparatory School-Northwest,Southwest Preparatory School,San Antonio,141,98,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
 480006308433,Southwest Preparatory Southeast Campus,Southwest Preparatory School,San Antonio,172,160,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
-480012508249,Southwest Public Schools College &Career Prep Acad,Southwest Public Schools,Houston,462,429,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+480012508249,Southwest Public Schools College &Career Prep Acad,Southwest Public Schools,Houston,462,429,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 480012511235,Southwest Public Schools Int'l Leadership Academy,Southwest Public Schools,Houston,526,512,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-480012511234,Southwest Public Schools Lead &Global Studies Acad,Southwest Public Schools,Houston,284,261,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+480012511234,Southwest Public Schools Lead &Global Studies Acad,Southwest Public Schools,Houston,284,261,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 480012512514,Southwest Public Schools Visual & Perf Arts Acad,Southwest Public Schools,Houston,487,470,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 480735005839,Southwood Valley El,College Station ISD,College Station,656,406,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 481428001083,Space Center Int,Clear Creek ISD,Houston,785,419,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -7665,7 +7665,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 484110013209,Spring Branch Academic Institute,Spring Branch ISD,Houston,174,,No,false,1st Grade,12th Grade
 484110004690,Spring Branch El,Spring Branch ISD,Houston,570,547,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 484110004692,Spring Branch Middle,Spring Branch ISD,Houston,1137,412,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
-481473007559,Spring Branch Middle,Comal ISD,Spring Branch,604,141,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
+481473007559,Spring Branch Middle,Comal ISD,Spring Branch,604,141,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 481281014129,Spring Canyon El,Canyon ISD,Canyon,405,137,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 480735013081,Spring Creek El,College Station ISD,College Station,696,191,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 483702004159,Spring Creek El,Richardson ISD,Dallas,422,80,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
@@ -7689,7 +7689,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481970001914,Springdale El,Fort Worth ISD,Fort Worth,393,370,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 483483007468,Springhill El,Pflugerville ISD,Pflugerville,541,415,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 484125010877,Springlake-Earth Daep,Springlake-Earth ISD,Earth,1,,Yes under Community Eligibility Option (CEO),false,10th Grade,10th Grade
-484125004724,Springlake-Earth ISD,Springlake-Earth ISD,Earth,230,174,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
+484125004724,Springlake-Earth ISD,Springlake-Earth ISD,Earth,230,174,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 484128006333,Springtown El,Springtown ISD,Springtown,680,375,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 484128004729,Springtown H S,Springtown ISD,Springtown,1189,454,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 484128008893,Springtown Int,Springtown ISD,Springtown,612,319,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
@@ -7714,12 +7714,12 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 480140022936,Sst Sugar Land College Prep H S,School of Science and Technology Discovery,Richmond,125,82,Yes participating without using any Provision or the CEO,false,8th Grade,10th Grade
 480140013693,Sst Sugarland,School of Science and Technology Discovery,Richmond,739,531,Yes participating without using any Provision or the CEO,true,Prekindergarten,7th Grade
 480025813512,Sst the Woodlands,School of Science and Technology,Tomball,559,245,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
-480025813571,Sst Willowcreek,School of Science and Technology,Spring,186,112,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
+480025813571,Sst Willowcreek,School of Science and Technology,Spring,186,112,Yes participating without using any Provision or the CEO,true,Prekindergarten,6th Grade
 480024809521,St Anthony Academy,St Anthony School,Dallas,202,185,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 480024811778,St Anthony School,St Anthony School,Dallas,116,102,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 480894000357,St Elmo El,Austin ISD,Austin,305,246,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 480017708427,St Mary's Academy Charter School,St Mary's Academy Charter School,Beeville,282,236,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-483873013084,St Philip's College Early College H S,San Antonio ISD,San Antonio,305,238,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+483873013084,St Philip's College Early College H S,San Antonio ISD,San Antonio,305,238,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 482703013816,Stacy Kaye Danielson Middle,Leander ISD,Leander,1182,253,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 483540012209,Staff Sergeant Lucian Adams El,Port Arthur ISD,Port Arthur,644,546,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 481815012395,Stafford Center,Edgewood ISD,San Antonio,255,245,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
@@ -7762,7 +7762,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482730006746,STEM Academy at Donald El,Lewisville ISD,Flower Mound,526,56,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 481650014339,STEM Academy at Enis El,Decatur ISD,Decatur,380,76,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 482730003746,STEM Academy at Forestwood Middle,Lewisville ISD,Flower Mound,894,136,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-482730005768,STEM Academy at Griffin Middle,Lewisville ISD,The Colony,697,369,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+482730005768,STEM Academy at Griffin Middle,Lewisville ISD,The Colony,697,369,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 482730003070,STEM Academy at Hedrick Middle,Lewisville ISD,Lewisville,872,656,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 482730014022,STEM Academy at Memorial El,Lewisville ISD,Carrollton,742,156,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 482730006981,STEM Academy at Polser El,Lewisville ISD,Carrollton,506,173,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -7770,14 +7770,14 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 484415014329,STEM Middle,Victoria ISD,Victoria,641,499,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 482703014047,Step - Core,Leander ISD,Georgetown,4,,Yes participating without using any Provision or the CEO,false,8th Grade,11th Grade
 482410014141,Step - Core,Hutto ISD,Georgetown,1,,Yes participating without using any Provision or the CEO,false,11th Grade,12th Grade
-481932009566,Step - Detention,Florence ISD,Georgetown,,,,true,,
-482742009475,Step - Detention,Liberty Hill ISD,Georgetown,,,,true,,
+481932009566,Step - Detention,Florence ISD,Georgetown,,,,false,,
+482742009475,Step - Detention,Liberty Hill ISD,Georgetown,,,,false,,
 482703009438,Step - Detention,Leander ISD,Georgetown,3,,Yes participating without using any Provision or the CEO,true,8th Grade,11th Grade
-482410011095,Step --Detention,Hutto ISD,Georgetown,2,,Yes participating without using any Provision or the CEO,true,9th Grade,11th Grade
+482410011095,Step --Detention,Hutto ISD,Georgetown,2,,Yes participating without using any Provision or the CEO,false,9th Grade,11th Grade
 480027511245,Step Charter El,Step Charter School,Houston,293,226,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 480027513436,Step Charter II,Step Charter School,Houston,324,285,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 480027523192,Step Charter III,Step Charter School,Houston,76,59,Yes participating without using any Provision or the CEO,false,Kindergarten,3rd Grade
-484266009434,Step- Detention,Thrall ISD,Georgetown,,,,true,,
+484266009434,Step- Detention,Thrall ISD,Georgetown,,,,false,,
 484228014335,Step-Core,Taylor ISD,Georgetown,1,,Yes participating without using any Provision or the CEO,false,9th Grade,9th Grade
 483999009288,Stephanie Cravens Early Childhood,Sheldon ISD,Houston,556,481,Yes participating without using any Provision or the CEO,false,Prekindergarten,Kindergarten
 481623001258,Stephen C Foster El,Dallas ISD,Dallas,604,586,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -7789,7 +7789,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481965007000,Stephen F Austin H S,Fort Bend ISD,Sugar Land,2655,973,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 484044004578,Stephen F Austin Pri,Slaton ISD,Slaton,218,174,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Kindergarten
 480139512006,Stephen F Austin State University Charter School,Stephen F Austin State University Charter School,Nacogdoches,253,,No,false,Kindergarten,5th Grade
-482874008996,Stephens Academy,Magnolia ISD,Magnolia,65,39,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+482874008996,Stephens Academy,Magnolia ISD,Magnolia,65,39,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 480771000085,Stephens El,Aldine ISD,Houston,517,470,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
 481674012067,Stephens El,Denton ISD,Shady Shores,422,267,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 484152004746,Stephenville H S,Stephenville ISD,Stephenville,1079,457,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
@@ -7840,10 +7840,10 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 482253002288,Stuart Place El,Harlingen Cisd,Harlingen,578,317,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 484590008994,Stubblefield Academy,Willis ISD,Willis,25,19,Yes participating without using any Provision or the CEO,true,5th Grade,12th Grade
 482855007163,Stubblefield Lrn Ctr,Lufkin ISD,Lufkin,56,40,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-484674009579,Stubblefield Lrn Ctr,Zavalla ISD,Lufkin,,,,true,,
-481704007503,Stubblefield Lrn Ctr,Diboll ISD,Lufkin,9,,No,true,11th Grade,12th Grade
-481350007164,Stubblefield Lrn Ctr,Central ISD,Lufkin,5,,Yes under Community Eligibility Option (CEO),true,10th Grade,12th Grade
-482379007162,Stubblefield Lrn Ctr,Hudson ISD,Lufkin,9,6,Yes participating without using any Provision or the CEO,true,10th Grade,12th Grade
+484674009579,Stubblefield Lrn Ctr,Zavalla ISD,Lufkin,,,,false,,
+481704007503,Stubblefield Lrn Ctr,Diboll ISD,Lufkin,9,,No,false,11th Grade,12th Grade
+481350007164,Stubblefield Lrn Ctr,Central ISD,Lufkin,5,,Yes under Community Eligibility Option (CEO),false,10th Grade,12th Grade
+482379007162,Stubblefield Lrn Ctr,Hudson ISD,Lufkin,9,6,Yes participating without using any Provision or the CEO,false,10th Grade,12th Grade
 483432003853,Stuchbery El,Pasadena ISD,Houston,604,510,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 480831006642,Student Alternative Ctr,Angleton ISD,Angleton,41,33,Yes under Community Eligibility Option (CEO),true,5th Grade,12th Grade
 481527005681,Student Support Center,Corpus Christi ISD,Corpus Christi,111,101,Yes under Community Eligibility Option (CEO),true,4th Grade,12th Grade
@@ -7948,8 +7948,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481970013383,Tarrant Co College South/Fort Worth Collegiate H S,Fort Worth ISD,Fort Worth,347,279,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 481591011029,Tarrant Co J J a E P,Crowley ISD,Crowley,2,,Yes participating without using any Provision or the CEO,false,9th Grade,10th Grade
 481770007731,Tarrant Co J J a E P,Eagle Mt-Saginaw ISD,Fort Worth,1,,Yes participating without using any Provision or the CEO,false,8th Grade,8th Grade
-480870008024,Tarrant Co J J a E P,Arlington ISD,Fort Worth,5,,Yes participating without using any Provision or the CEO,false,5th Grade,10th Grade
-482406008043,Tarrant Co J J a E P,Hurst-Euless-Bedford ISD,Ft Worth,2,,Yes participating without using any Provision or the CEO,true,8th Grade,10th Grade
+480870008024,Tarrant Co J J a E P,Arlington ISD,Fort Worth,5,,Yes participating without using any Provision or the CEO,true,5th Grade,10th Grade
+482406008043,Tarrant Co J J a E P,Hurst-Euless-Bedford ISD,Ft Worth,2,,Yes participating without using any Provision or the CEO,false,8th Grade,10th Grade
 482526008035,Tarrant Co J J a E P,Keller ISD,Keller,3,,No,false,7th Grade,11th Grade
 484554008046,Tarrant Co J J a E P,White Settlement ISD,White Settlement,2,,No,false,8th Grade,10th Grade
 483318012273,Tarrant County Jjaep,Northwest ISD,Fort Worth,2,,No,false,9th Grade,11th Grade
@@ -7967,9 +7967,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 484224006046,Tatum Middle,Tatum ISD,Tatum,321,200,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 484224006047,Tatum Pri,Tatum ISD,Tatum,328,234,Yes participating without using any Provision or the CEO,false,Prekindergarten,2nd Grade
 483240012930,Tavola El,New Caney ISD,New Caney,859,503,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-483034011038,Taylor County Learning Center,Merkel ISD,Abilene,,,,true,,
+483034011038,Taylor County Learning Center,Merkel ISD,Abilene,,,,false,,
 480744009062,Taylor County Learning Center,Abilene ISD,Abilene,26,15,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
-484650009398,Taylor County Learning Center,Wylie ISD,Abilene,,,,true,,
+484650009398,Taylor County Learning Center,Wylie ISD,Abilene,,,,false,,
 482664012241,Taylor Creek El,Lampasas ISD,Copperas Cove,555,302,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480744000035,Taylor El,Abilene ISD,Abilene,662,422,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 482166006266,Taylor El,Grapevine-Colleyville ISD,Colleyville,511,35,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -7990,10 +7990,10 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 480771000087,Teague Middle,Aldine ISD,Humble,550,460,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 481431001614,Team Sch,Cleburne ISD,Cleburne,65,53,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 483447003871,Ted Flores El,Pearsall ISD,Pearsall,503,420,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
-483432017033,Tegeler Community School,Pasadena ISD,Pasadena,150,130,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+483432017033,Tegeler Community School,Pasadena ISD,Pasadena,150,130,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 483294008447,Tejeda Middle,North East ISD,San Antonio,1014,256,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 480013912285,Tekoa Academy of Accelerated Studies (Middle School),Tekoa Academy of Accelerated Studies STEM School,Port Arthur,46,37,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-480013908309,Tekoa Academy of Accelerated Studies (Elementary School),Tekoa Academy of Accelerated Studies STEM School,Port Arthur,236,224,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
+480013908309,Tekoa Academy of Accelerated Studies (Elementary School),Tekoa Academy of Accelerated Studies STEM School,Port Arthur,236,224,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 480013912365,Tekoa Academy of Accelerated Studies (High School),Tekoa Academy of Accelerated Studies STEM School,Port Arthur,52,36,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 480013912116,Tekoa Academy of Accelerated Studies - Orange,Tekoa Academy of Accelerated Studies STEM School,Orange,85,85,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 481830006945,Telles Academy,El Paso ISD,El Paso,26,23,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
@@ -8149,7 +8149,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 484347013379,Three Lakes Middle,Tyler ISD,Tyler,948,555,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 484269004873,Three Rivers El,Three Rivers ISD,Three Rivers,312,235,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 484269004874,Three Rivers Jr/Sr H S,Three Rivers ISD,Three Rivers,254,163,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
-484272004876,Three Way Jh/HS,Three Way ISD,Stephenville,76,51,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
+484272004876,Three Way Jh/HS,Three Way ISD,Stephenville,76,51,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 484272022991,Three Way PK-6,Three Way ISD,Stephenville,136,97,Yes under Provision 2,false,Prekindergarten,6th Grade
 484668022828,Thrive Academy,Ysleta ISD,El Paso,113,104,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 480148114299,Thrive Center for Success,Thrive Center for Success,The Woodlands,150,,No,false,Kindergarten,7th Grade
@@ -8274,8 +8274,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481623011197,Trinidad Garza Early College at Mt View,Dallas ISD,Dallas,474,449,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 484317004904,Trinidad School,Trinidad ISD,Trinidad,173,140,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 480009222807,Trinity Basin Preparatory - Arlington,Trinity Basin Preparatory,Arlington,362,278,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
-480009208163,Trinity Basin Preparatory - Dallas,Trinity Basin Preparatory,Dallas,1873,1580,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
-480009213836,Trinity Basin Preparatory - Fort Worth,Trinity Basin Preparatory,Fort Worth,2020,1686,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
+480009208163,Trinity Basin Preparatory - Dallas,Trinity Basin Preparatory,Dallas,1873,1580,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
+480009213836,Trinity Basin Preparatory - Fort Worth,Trinity Basin Preparatory,Fort Worth,2020,1686,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 480009222808,Trinity Basin Preparatory - Grand Prairie,Trinity Basin Preparatory,Grand Prairie,433,341,Yes under Community Eligibility Option (CEO),false,Prekindergarten,7th Grade
 480009214059,Trinity Basin Preparatory - Mesquite,Trinity Basin Preparatory,Mesquite,800,605,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 480009222967,Trinity Basin Preparatory - South,Trinity Basin Preparatory,Fort Worth,534,391,Yes under Community Eligibility Option (CEO),false,Prekindergarten,7th Grade
@@ -8345,7 +8345,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 480006909665,Two Dimensions at Corsicana,Two Dimensions Preparatory Academy,Corsicana,58,55,Yes participating without using any Provision or the CEO,false,Prekindergarten,Kindergarten
 480006907916,Two Dimensions Preparatory Academy,Two Dimensions Preparatory Academy,Houston,144,139,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480006909652,Two Dimensions/Vickery,Two Dimensions Preparatory Academy,Houston,203,200,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-483237007840,Two Rivers H S,New Braunfels ISD,New Braunfels,82,43,Yes participating without using any Provision or the CEO,false,10th Grade,12th Grade
+483237007840,Two Rivers H S,New Braunfels ISD,New Braunfels,82,43,Yes participating without using any Provision or the CEO,true,10th Grade,12th Grade
 484347004939,Tyler H S,Tyler ISD,Tyler,2148,1862,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 484347013613,Tyler ISD Early College H S,Tyler ISD,Tyler,447,329,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 484347004941,Tyler Legacy H S,Tyler ISD,Tyler,2770,1452,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
@@ -8384,44 +8384,44 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 480003022963,Uplift Ascend Prep H S,Uplift Education,Fort Worth,318,201,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 480003014125,Uplift Ascend Prep Middle,Uplift Education,Fort Worth,401,349,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 480003013809,Uplift Ascend Prep Ps,Uplift Education,Fort Worth,864,742,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-480003012139,Uplift Atlas Prep H S,Uplift Education,Dallas,503,427,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-480003011187,Uplift Atlas Prep Middle,Uplift Education,Dallas,422,369,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+480003012139,Uplift Atlas Prep H S,Uplift Education,Dallas,503,427,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+480003011187,Uplift Atlas Prep Middle,Uplift Education,Dallas,422,369,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 480003011186,Uplift Atlas Prep Ps,Uplift Education,Dallas,643,578,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 480003014111,Uplift Crescendo Prep Ps,Uplift Education,Fort Worth,532,431,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480003022964,Uplift Elevate Prep H S,Uplift Education,Fort Worth,209,146,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 480003014079,Uplift Elevate Prep Middle,Uplift Education,Fort Worth,267,203,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 480003013926,Uplift Elevate Prep Ps,Uplift Education,Fort Worth,650,509,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480003013275,Uplift Gradus Prep Ps,Uplift Education,Desoto,597,499,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-480003013588,Uplift Grand Prep H S,Uplift Education,Grand Prairie,385,309,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-480003013476,Uplift Grand Prep Middle,Uplift Education,Grand Prairie,446,368,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+480003013588,Uplift Grand Prep H S,Uplift Education,Grand Prairie,385,309,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+480003013476,Uplift Grand Prep Middle,Uplift Education,Grand Prairie,446,368,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 480003013157,Uplift Grand Prep Ps,Uplift Education,Grand Prairie,727,631,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-480003012200,Uplift Hampton Prep H S,Uplift Education,Dallas,414,340,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-480003012188,Uplift Hampton Prep Middle,Uplift Education,Dallas,510,426,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+480003012200,Uplift Hampton Prep H S,Uplift Education,Dallas,414,340,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+480003012188,Uplift Hampton Prep Middle,Uplift Education,Dallas,510,426,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 480003012185,Uplift Hampton Prep Ps,Uplift Education,Dallas,712,634,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-480003013058,Uplift Heights Healthcare Institute,Uplift Education,Dallas,497,424,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-480003012270,Uplift Heights Prep Middle,Uplift Education,Dallas,448,406,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+480003013058,Uplift Heights Healthcare Institute,Uplift Education,Dallas,497,424,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+480003012270,Uplift Heights Prep Middle,Uplift Education,Dallas,448,406,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 480003012647,Uplift Heights Prep Ps,Uplift Education,Dallas,944,862,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-480003013481,Uplift Infinity Prep H S,Uplift Education,Irving,357,266,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-480003012689,Uplift Infinity Prep Middle,Uplift Education,Irving,357,267,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+480003013481,Uplift Infinity Prep H S,Uplift Education,Irving,357,266,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+480003012689,Uplift Infinity Prep Middle,Uplift Education,Irving,357,267,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 480003012686,Uplift Infinity Prep Ps,Uplift Education,Irving,489,399,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
-480003013197,Uplift Luna Prep H S,Uplift Education,Dallas,472,389,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-480003013484,Uplift Luna Prep Middle,Uplift Education,Dallas,591,498,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+480003013197,Uplift Luna Prep H S,Uplift Education,Dallas,472,389,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+480003013484,Uplift Luna Prep Middle,Uplift Education,Dallas,591,498,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 480003012457,Uplift Luna Prep Ps,Uplift Education,Dallas,719,641,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480003012646,Uplift Meridian Prep Ps,Uplift Education,Fort Worth,461,431,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-480003013482,Uplift Mighty Prep H S,Uplift Education,Fort Worth,402,355,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-480003013478,Uplift Mighty Prep Middle,Uplift Education,Fort Worth,516,459,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+480003013482,Uplift Mighty Prep H S,Uplift Education,Fort Worth,402,355,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+480003013478,Uplift Mighty Prep Middle,Uplift Education,Fort Worth,516,459,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 480003012645,Uplift Mighty Prep Ps,Uplift Education,Fort Worth,554,513,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480003012221,Uplift North Hills Prep H S,Uplift Education,Irving,522,105,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 480003007562,Uplift North Hills Prep Middle,Uplift Education,Irving,502,75,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 480003011476,Uplift North Hills Prep Ps,Uplift Education,Irving,644,86,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 480003012700,Uplift Pinnacle Prep Ps,Uplift Education,Dallas,486,432,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-480003012175,Uplift Summit Prep H S,Uplift Education,Arlington,436,332,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-480003012239,Uplift Summit Prep Middle,Uplift Education,Arlington,509,429,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+480003012175,Uplift Summit Prep H S,Uplift Education,Arlington,436,332,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+480003012239,Uplift Summit Prep Middle,Uplift Education,Arlington,509,429,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 480003012231,Uplift Summit Prep Ps,Uplift Education,Arlington,688,599,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480003012998,Uplift Triumph Prep Ps,Uplift Education,Dallas,480,456,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480003013483,Uplift White Rock Hills Prep Ps,Uplift Education,Dallas,640,550,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-480003012012,Uplift Williams Prep H S,Uplift Education,Dallas,517,441,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-480003012035,Uplift Williams Prep Middle,Uplift Education,Dallas,532,476,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+480003012012,Uplift Williams Prep H S,Uplift Education,Dallas,517,441,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+480003012035,Uplift Williams Prep Middle,Uplift Education,Dallas,532,476,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 480003012026,Uplift Williams Prep Ps,Uplift Education,Dallas,584,532,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 480003014097,Uplift Wisdom Prep H S,Uplift Education,Dallas,351,301,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 480003014134,Uplift Wisdom Prep Ps,Uplift Education,Dallas,593,536,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -8619,9 +8619,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 483357011543,Wall Special Programs,Olfen ISD,Rowena,3,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 484155009373,Wall Special Programs,Sterling City ISD,Wall,12,3,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 484471008928,Wall Special Programs,Water Valley ISD,Water Valley,4,,Yes participating without using any Provision or the CEO,false,1st Grade,6th Grade
-480000512671,Wallace Accelerated H S,Blackwell Cisd,Colorado City,,,,true,,
+480000512671,Wallace Accelerated H S,Blackwell Cisd,Colorado City,,,,false,,
 481464010962,Wallace Accelerated H S,Colorado ISD,Colorado City,18,15,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-482304013722,Wallace Accelerated H S,Hermleigh ISD,Colorado City,,,,true,,
+482304013722,Wallace Accelerated H S,Hermleigh ISD,Colorado City,,,,false,,
 483702004164,Wallace El,Richardson ISD,Dallas,654,364,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 484443005073,Waller H S,Waller ISD,Waller,2995,1755,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 484443005074,Waller J H,Waller ISD,Waller,951,614,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
@@ -8884,7 +8884,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481764001530,William H Byrd Middle,Duncanville ISD,Duncanville,517,429,Yes participating without using any Provision or the CEO,true,7th Grade,8th Grade
 482613010831,William J Clinton El,La Joya ISD,Penitas,463,446,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 482703011371,William J Winkley El,Leander ISD,Leander,763,92,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-481970001870,William James Middle,Fort Worth ISD,Fort Worth,710,674,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+481970001870,William James Middle,Fort Worth ISD,Fort Worth,710,674,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 481764001526,William Lee Hastings El,Duncanville ISD,Duncanville,529,442,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 481623001305,William Lipscomb El,Dallas ISD,Dallas,387,297,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 481623001384,William M Anderson El,Dallas ISD,Dallas,573,568,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -8972,7 +8972,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 484626013993,Winters/Fairview Aep,Winters ISD,San Angelo,2,,Yes under Community Eligibility Option (CEO),false,10th Grade,11th Grade
 484626013966,Winters/Fairview Daep,Winters ISD,San Angelo,2,,Yes under Community Eligibility Option (CEO),false,8th Grade,11th Grade
 482364002518,Wisdom H S,Houston ISD,Houston,1965,1888,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-480003013474,Wisdom Prep Middle,Uplift Education,Dallas,493,432,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+480003013474,Wisdom Prep Middle,Uplift Education,Dallas,493,432,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 481365000858,Wise El,Chapel Hill ISD,Tyler,593,486,Yes under Community Eligibility Option (CEO),false,Prekindergarten,3rd Grade
 482916003299,Wm B Travis El,Marshall ISD,Marshall,473,415,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 481443000933,Wm David Surratt El,Clint ISD,Clint,939,803,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -9103,7 +9103,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 481970012392,Young Women's Leadership Academy,Fort Worth ISD,Fort Worth,403,251,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 483057013970,Young Women's Leadership Academy,Midland ISD,Midland,424,165,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
 483873011806,Young Women's Leadership Academy,San Antonio ISD,San Antonio,534,237,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
-482142012690,Young Women's Leadership Academy H S,Grand Prairie ISD,Grand Prairie,25,13,Yes participating without using any Provision or the CEO,false,11th Grade,12th Grade
+482142012690,Young Women's Leadership Academy H S,Grand Prairie ISD,Grand Prairie,25,13,Yes participating without using any Provision or the CEO,true,11th Grade,12th Grade
 483873013930,Young Women's Leadership Academy Pri,San Antonio ISD,San Antonio,580,297,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 481623012835,Young Women's STEAM Academy at Balch Springs Middl,Dallas ISD,Balch Springs,751,720,Yes under Community Eligibility Option (CEO),true,6th Grade,9th Grade
 481830013596,Young Women's STEAM Research & Preparatory Academy,El Paso ISD,El Paso,443,267,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade

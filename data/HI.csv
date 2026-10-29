@@ -242,7 +242,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 150003000213,President Thomas Jefferson Elementary School,Hawaii Department of Education,Honolulu,346,195,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 150003000193,President William McKinley High School,Hawaii Department of Education,Honolulu,1245,664,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 150003000205,Prince David Kawananakoa Middle School,Hawaii Department of Education,Honolulu,602,344,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
-150003000036,Prince Jonah Kalanianaole Elementary School,Hawaii Department of Education,Papaikou,183,129,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
+150003000036,Prince Jonah Kalanianaole Elementary School,Hawaii Department of Education,Papaikou,183,129,Yes under Community Eligibility Option (CEO),true,Prekindergarten,6th Grade
 150003000203,Prince Jonah Kuhio Elementary School,Hawaii Department of Education,Honolulu,177,112,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 150003000200,Princess Miriam K Likelike Elementary School,Hawaii Department of Education,Honolulu,227,168,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 150003000237,Princess Nahienaena Elementary School,Hawaii Department of Education,Lahaina,433,223,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade

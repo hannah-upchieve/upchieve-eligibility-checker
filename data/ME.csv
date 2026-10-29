@@ -401,7 +401,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 231477200263,Phippsburg Elementary School,Rsu 01 - Lkrsu,Phippsburg,98,40,Yes under Provision 2,false,Prekindergarten,5th Grade
 231086000370,Pine Street Elementary School,Rsu 79/Msad 01,Presque Isle,325,226,Yes under Provision 2,false,Prekindergarten,2nd Grade
 231173023159,Piscataquis Community Elementary,Rsu 80/Msad 04,Guilford,264,190,Yes under Provision 2,false,Prekindergarten,6th Grade
-231173023187,Piscataquis Community Secondary School,Rsu 80/Msad 04,Guilford,210,127,Yes under Provision 2,true,7th Grade,12th Grade
+231173023187,Piscataquis Community Secondary School,Rsu 80/Msad 04,Guilford,210,127,Yes under Provision 2,false,7th Grade,12th Grade
 231059000332,Pittston-Randolph Consolidated School,Rsu 11/Msad 11,Pittston,200,89,Yes under Provision 2,false,Kindergarten,5th Grade
 231053000324,Pleasant Hill School,Scarborough Public Schools,Scarborough,180,20,Yes under Provision 2,false,Kindergarten,2nd Grade
 231477500265,Poland Community School,Rsu 16,Poland,423,157,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade

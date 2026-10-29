@@ -11,7 +11,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 080306006456,Academy for Advanced and Creative Learning,Colorado Springs School District No. 11 in the county of E,Colorado Springs,298,98,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 080555001872,Academy High School,Mapleton School District No. 1 in the county of Adams & St,Thornton,399,297,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 080192001644,Academy International Elementary School,Academy School District No. 20 in the county of El Paso an,Colorado Springs,368,57,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-080002006736,Academy of Advanced Learning,State Charter School Institute,Aurora,847,392,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
+080002006736,Academy of Advanced Learning,State Charter School Institute,Aurora,847,392,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 080002001998,Academy of Arts and Knowledge Elementary,State Charter School Institute,Ft Collins,240,114,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 080002000727,Academy of Charter Schools,State Charter School Institute,Westminster,1887,640,Yes under Community Eligibility Option (CEO),false,Prekindergarten,12th Grade
 080525006678,Academy of Las Animas Online School,Las Animas School District No. Re-1,Pueblo,474,,No,true,6th Grade,12th Grade
@@ -389,7 +389,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 080480001649,Compass Montessori - Wheat Ridge Charter School,Jefferson County School District No. R-1,Wheat Ridge,288,,No,false,Prekindergarten,6th Grade
 080336006583,Compassion Road Academy,School District No. 1 in the county of Denver and State of C,Denver,96,77,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 080480001542,Conifer Senior High School,Jefferson County School District No. R-1,Conifer,819,139,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-080480006306,Connections Learning Center on the Earle Johnson Campus,Jefferson County School District No. R-1,Golden,22,14,Yes under Community Eligibility Option (CEO),false,6th Grade,9th Grade
+080480006306,Connections Learning Center on the Earle Johnson Campus,Jefferson County School District No. R-1,Golden,22,14,Yes under Community Eligibility Option (CEO),true,6th Grade,9th Grade
 080408006805,Conrad Early Learning Center,Fountain School District No. 8 in the county of El Paso an,Fountain,228,87,Yes participating without using any Provision or the CEO,false,Prekindergarten,Prekindergarten
 080336000380,Contemporary Learning Academy,School District No. 1 in the county of Denver and State of C,Denver,126,103,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 080002006784,Coperni 3,State Charter School Institute,Colorado Springs,367,257,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
@@ -684,7 +684,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 080435000610,Fruitvale Elementary School,Mesa County Valley School District No. 51,Grand Junction,358,251,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 080234000062,Fulton Academy of Excellence,Aurora Joint District No. 28 of the counties of Adams and A,Aurora,410,383,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 080360000477,Galeton Elementary School,Weld County School District No. Re-2,Galeton,107,59,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-080306006379,Galileo Middle School,Colorado Springs School District No. 11 in the county of E,Colorado Springs,277,228,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+080306006379,Galileo Middle School,Colorado Springs School District No. 11 in the county of E,Colorado Springs,277,228,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 080336000351,Garden Place Academy,School District No. 1 in the county of Denver and State of C,Denver,385,331,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 080708001211,Gardner Valley School,Huerfano School District Re-1,Gardner,82,60,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 080540000932,Garfield Elementary School,Thompson School District R-2J,Loveland,213,96,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -820,7 +820,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 080471000684,Holyoke Senior High School,Holyoke School District No. Re-1J,Holyoke,212,125,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 080354001478,Homestake Peak School,Eagle County School District No. Re 50,Avon,421,243,Yes participating without using any Provision or the CEO,true,Prekindergarten,8th Grade
 080291000195,Homestead Elementary School,Cherry Creek School District No. 5 in the county of Arapah,Centennial,334,43,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-080345006391,Hope Online Learning Academy Co-Op,Douglas County School District No. Re 1,Englewood,1307,906,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
+080345006391,Hope Online Learning Academy Co-Op,Douglas County School District No. Re 1,Englewood,1307,906,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 080531000883,Hopkins Elementary School,Littleton School District No. 6 in the county of Arapahoe,Centennial,372,74,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 080690001491,Horizon High School,Adams 12 Five Star Schools,Brighton,1966,651,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 080291001328,Horizon Middle School,Cherry Creek School District No. 5 in the county of Arapah,Aurora,714,424,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -856,7 +856,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 080612001050,Irving Elementary School,Pueblo School District No. 60 in the county of Pueblo and,Pueblo,326,277,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 080336006570,Isabella Bird Community School,School District No. 1 in the county of Denver and State of C,Denver,487,125,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 080540000933,Ivy Stockwell Elementary School,Thompson School District R-2J,Berthoud,426,70,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-080306006421,Jack Swigert Middle School,Colorado Springs School District No. 11 in the county of E,Colorado Springs,404,309,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+080306006421,Jack Swigert Middle School,Colorado Springs School District No. 11 in the county of E,Colorado Springs,404,309,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 080306000245,Jackson Elementary School,Colorado Springs School District No. 11 in the county of E,Colorado Springs,312,242,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 080441001291,Jackson Elementary School,GreeleySchool District No. 6 in the county of Weld and Sta,Greeley,508,423,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 080234006411,Jamaica Child Development Center,Aurora Joint District No. 28 of the counties of Adams and A,Aurora,106,87,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
@@ -1047,7 +1047,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 080306000242,Mann Middle School,Colorado Springs School District No. 11 in the county of E,Colorado Springs,300,219,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 080480001746,Manning Options School,Jefferson County School District No. R-1,Lakewood,685,84,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 080336006328,Manual High School,School District No. 1 in the county of Denver and State of C,Denver,348,272,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-080336006687,Manual Middle School,School District No. 1 in the county of Denver and State of C,Denver,257,183,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+080336006687,Manual Middle School,School District No. 1 in the county of Denver and State of C,Denver,257,183,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 080552000949,Manzanola Elementary School,Manzanola Joint District No. 3J of the counties of Otero a,Manzanola,71,61,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 080552001375,Manzanola Junior-Senior High School,Manzanola Joint District No. 3J of the counties of Otero a,Manzanola,103,81,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 080480000754,Maple Grove Elementary School,Jefferson County School District No. R-1,Golden,390,53,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -1208,7 +1208,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 080336006569,North High School Engagement Center,School District No. 1 in the county of Denver and State of C,Denver,103,89,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 080615001076,North Mesa Elementary School,Pueblo County School District 70,Pueblo,400,206,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 080306000256,North Middle School,Colorado Springs School District No. 11 in the county of E,Colorado Springs,636,399,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-080234000074,North Middle School Health Sciences and Technology Campus,Aurora Joint District No. 28 of the counties of Adams and A,Aurora,565,515,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+080234000074,North Middle School Health Sciences and Technology Campus,Aurora Joint District No. 28 of the counties of Adams and A,Aurora,565,515,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 080690001184,North Mor Elementary School,Adams 12 Five Star Schools,Northglenn,304,241,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 080705001209,North Park School,North Park School District R-1,Walden,144,44,Yes under Provision 2,true,Prekindergarten,12th Grade
 080666001749,North Routt Community Charter School,Steamboat Springs School District No. Re 2,Clark,82,,No,false,Prekindergarten,8th Grade
@@ -1379,7 +1379,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 080612001106,Pueblo Charter School for the Arts & Sciences,Pueblo School District No. 60 in the county of Pueblo and,Pueblo,444,374,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 080028206841,Pueblo Classical Academy,Education Reenvisioned BOCES,Pueblo West,173,86,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 080615001079,Pueblo County High School,Pueblo County School District 70,Pueblo,1148,595,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
-080612006711,Pueblo School for Arts & Sciences at Fulton Heights,Pueblo School District No. 60 in the county of Pueblo and,Pueblo,221,164,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+080612006711,Pueblo School for Arts & Sciences at Fulton Heights,Pueblo School District No. 60 in the county of Pueblo and,Pueblo,221,164,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 080615001613,Pueblo West High School,Pueblo County School District 70,Pueblo West,1540,669,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 080612006350,Pueblo Youth Service Center,Pueblo School District No. 60 in the county of Pueblo and,Pueblo,15,10,Yes participating without using any Provision or the CEO,true,4th Grade,12th Grade
 080399000542,Putnam Elementary School,Poudre School District R-1,Fort Collins,258,199,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -1637,7 +1637,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 080678001163,Stratton Senior High School,School District No. R-4 in the county of Kit Carson and Stat,Stratton,64,16,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 080666001360,Strawberry Park Elementary School,Steamboat Springs School District No. Re 2,Steamboat Springs,368,73,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 080690001190,Stukey Elementary School,Adams 12 Five Star Schools,Northglenn,348,305,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-080480006893,Summit Academy,Jefferson County School District No. R-1,Broomfield,66,,No,true,9th Grade,12th Grade
+080480006893,Summit Academy,Jefferson County School District No. R-1,Broomfield,66,,No,false,9th Grade,12th Grade
 080336006491,Summit Academy,School District No. 1 in the county of Denver and State of C,Denver,236,217,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 080681001563,Summit Cove Elementary School,Summit School District No. Re 1,Dillon,222,71,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 080291001468,Summit Elementary School,Cherry Creek School District No. 5 in the county of Arapah,Aurora,337,167,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -1764,8 +1764,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 080234006732,Vega Collegiate Academy,Aurora Joint District No. 28 of the counties of Adams and A,Aurora,583,570,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 080648001124,Venetucci Elementary School,School District No. 3 in the county of El Paso and State of,Colorado Springs,272,184,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 080345006873,Venture Academy of Leadership and Entrepreneurship,Douglas County School District No. Re 1,Parker,88,9,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-080002006585,Victory Preparatory Academy High State Charter School,State Charter School Institute,Commerce City,118,98,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
-080002006579,Victory Preparatory Academy Middle State Charter School,State Charter School Institute,Commerce City,166,142,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+080002006585,Victory Preparatory Academy High State Charter School,State Charter School Institute,Commerce City,118,98,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+080002006579,Victory Preparatory Academy Middle State Charter School,State Charter School Institute,Commerce City,166,142,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 080258000152,Vikan Middle School,School District 27J,Brighton,528,375,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 080699001206,Vilas Elementary School,Vilas School District Re-5,Vilas,15,13,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 080699001207,Vilas Undivided High School,Vilas School District Re-5,Vilas,38,24,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade

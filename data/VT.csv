@@ -101,7 +101,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 500042700348,Green Mountain Union High School,Green Mountain Unified School District #77,Chester,300,179,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
 500043100061,Green Street School,Windham Southeast Unified Union School District #96,Brattleboro,237,148,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 500043100144,Guilford Central School,Windham Southeast Unified Union School District #96,Guilford,143,76,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
-500450000145,Halifax West School,Halifax School District,West Halifax,66,36,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
+500450000145,Halifax West School,Halifax School District,West Halifax,66,36,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 500043800147,Hardwick Elementary School,Mountain View Union Elementary School District #94,Hardwick,223,140,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 500459000151,Hartford High School,Hartford School District,White River Junction,502,241,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 500459000150,Hartford Memorial Middle School,Hartford School District,White River Junction,280,135,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
@@ -198,7 +198,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 500040000443,Randolph Elementary School,Orange Southwest Unified Union School District #59,Randolph,289,143,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 500040000042,Randolph Union High School,Orange Southwest Unified Union School District #59,Randolph,344,147,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 500045000253,Reading Elementary School,Mountain Views Unified Union School District #76,Reading,34,11,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
-500678000254,Readsboro Elementary School,Readsboro School District,Readsboro,38,14,Yes under Community Eligibility Option (CEO),true,Prekindergarten,6th Grade
+500678000254,Readsboro Elementary School,Readsboro School District,Readsboro,38,14,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 500044400255,Richford Elementary School,Enosburgh-Richford Unified Union School District #88,Richford,187,147,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 500044400256,Richford Junior/Senior High School,Enosburgh-Richford Unified Union School District #88,Richford,217,146,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
 500044300258,Richmond Elementary School,Mount Mansfield Unified Union School District #401,Richmond,356,60,Yes under Provision 2,false,Prekindergarten,4th Grade

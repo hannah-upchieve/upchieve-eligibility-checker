@@ -221,7 +221,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 160017901107,Gem Prep: Meridian,Gem Prep: Meridian Llc,Meridian,506,194,,true,Kindergarten,12th Grade
 160019601133,Gem Prep: Meridian North,Gem Prep: Meridian North Llc,Meridian,474,,,false,Kindergarten,11th Grade
 160020101152,Gem Prep: Meridian South,Gem Prep: Meridian South Llc,Meridian,458,,,false,Kindergarten,10th Grade
-160020501080,Gem Prep: Nampa,Gem Prep: Nampa Llc,Nampa,529,332,,true,Kindergarten,12th Grade
+160020501080,Gem Prep: Nampa,Gem Prep: Nampa Llc,Nampa,529,332,,false,Kindergarten,12th Grade
 160017200846,Gem Prep: Online School,Gem Prep: Online Llc,Meridian,378,,,true,Prekindergarten,12th Grade
 160017701073,Gem Prep: Pocatello School,Gem Prep: Pocatello Llc,Chubback,476,,,true,Kindergarten,12th Grade
 160351201179,Gem Prep: Twin Falls,Gem Prep: Twin Falls Llc,Twin Falls,316,,,false,Kindergarten,8th Grade
@@ -292,14 +292,14 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 160177000596,Hubbard Elementary School,Kuna Joint District,Kuna,202,89,,false,Prekindergarten,3rd Grade
 160210000824,Hunter Elementary School,Joint School District No. 2,Meridian,460,112,,false,Prekindergarten,5th Grade
 160324000660,I B Perrine Elementary School,Twin Falls District,Twin Falls,359,238,,false,Prekindergarten,5th Grade
-160020400834,Idaho Arts Charter School,Idaho Arts Charter School Inc.,Nampa,1395,668,,true,Prekindergarten,12th Grade
+160020400834,Idaho Arts Charter School,Idaho Arts Charter School Inc.,Nampa,1395,668,,false,Prekindergarten,12th Grade
 160018000350,Idaho City High School,Basin School District,Idaho City,126,52,,false,7th Grade,12th Grade
 160014801023,Idaho Connects Online Alternative School,Idaho Virtual Education Partners Inc.,Boise,155,,,false,6th Grade,12th Grade
 160014800993,Idaho Connects Online School,Idaho Virtual Education Partners Inc.,Nampa,165,,,false,6th Grade,12th Grade
 160153000262,Idaho Falls Senior High School,Idaho Falls District,Idaho Falls,1298,400,,false,9th Grade,12th Grade
 160210001071,Idaho Fine Arts Academy,Joint School District No. 2,Meridian,260,48,,false,6th Grade,12th Grade
 160000100613,Idaho Hill Elementary School,West Bonner County District,Oldtown,126,55,,false,Prekindergarten,6th Grade
-160249001094,Idaho Home Learning Academy Charter,Oneida County District,Malad City,7764,,,false,Kindergarten,12th Grade
+160249001094,Idaho Home Learning Academy Charter,Oneida County District,Malad City,7764,,,true,Kindergarten,12th Grade
 160351701188,Idaho Novus Classical Academy,Idaho Novus Classical Academy Llc,Boise,338,63,,false,Kindergarten,6th Grade
 160351100685,Idaho School for the Deaf and the Blind,Idaho Bureau of Educational Services for the Deaf and the Bl,Gooding,111,40,,true,Prekindergarten,12th Grade
 160014500996,Idaho Science and Technology Charter School,Idaho Science and Technology Charter School Inc.,Blackfoot,301,,,true,Kindergarten,9th Grade
@@ -697,7 +697,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 160318000544,Teton Middle School,Teton County District,Driggs,455,147,,true,6th Grade,8th Grade
 160318000545,Tetonia Elementary School,Teton County District,Tetonia,72,21,,false,Kindergarten,3rd Grade
 160153000270,Theresa Bunker Elementary School,Idaho Falls District,Idaho Falls,297,217,,false,Prekindergarten,6th Grade
-160019400839,Thomas Jefferson Charter,Thomas Jefferson Charter School Inc.,Caldwell,364,133,,true,Kindergarten,12th Grade
+160019400839,Thomas Jefferson Charter,Thomas Jefferson Charter School Inc.,Caldwell,364,133,,false,Kindergarten,12th Grade
 160321000546,Three Creek Elem/Jr High School,Three Creek Joint Elementary District,Rogerson,5,,,false,Prekindergarten,8th Grade
 160093001097,Thunder Ridge High School,Bonneville Joint District,Idaho Falls,1693,464,,false,9th Grade,12th Grade
 160093000670,Tiebreaker Elementary School,Bonneville Joint District,Idaho Falls,379,236,,false,Prekindergarten,6th Grade

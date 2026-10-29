@@ -41,7 +41,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060837011853,Academy for Change,Chico Unified,Chico,31,29,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 062271013006,Academy for Enriched Sciences,Los Angeles Unified,Encino,291,90,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 061686012368,Academy of Careers and Exploration,Helendale Elementary,Helendale,285,129,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
-060985014184,Academy of Innovation,Corona-Norco Unified,Corona,556,381,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
+060985014184,Academy of Innovation,Corona-Norco Unified,Corona,556,381,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 061692009555,Academy of Innovation,Hemet Unified,Hemet,545,467,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 062271013104,Academy of Medical Arts at Carson High,Los Angeles Unified,Carson,438,354,,true,9th Grade,12th Grade
 064098006765,Academy of Technology & Leadership at Saticoy,Ventura Unified,Ventura,461,265,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
@@ -205,7 +205,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060169411634,Alliance Jack H. Skirball Middle,Alliance Jack H. Skirball Middle District,Los Angeles,390,378,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 060193410867,Alliance Judy Ivie Burton Technology Academy High,Alliance Judy Ivie Burton Technology Academy High District,Los Angeles,616,592,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 060154213487,Alliance Kory Hunter Middle,Alliance Kory Hunter Middle District,Los Angeles,470,456,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-060169012342,Alliance Leichtman-Levine Family Foundation Env Sci High,Alliance Leichtman-Levine FAM Foundation Env Sci High DIST,Los Angeles,296,258,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+060169012342,Alliance Leichtman-Levine Family Foundation Env Sci High,Alliance Leichtman-Levine FAM Foundation Env Sci High DIST,Los Angeles,296,258,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 060244611642,Alliance Marc & Eva Stern Math and Science,Alliance Marc & Eva Stern Math and Science District,Los Angeles,558,501,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 060170712924,Alliance Margaret M. Bloomfield Technology Academy High,Alliance Margaret M. Bloomfield Tech Acad High DIST,Huntington Park,565,541,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 060183513857,Alliance Marine - Innovation and Technology 6-12 Complex,Alliance Marine - Innovation and Tech 6-12 Complex DIST,Sun Valley,1100,1005,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
@@ -277,8 +277,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060152210634,Altus Schools Audeo,Altus Schools Audeo District,San Diego,450,288,,true,Kindergarten,12th Grade
 060187603939,Altus Schools Charter School of San Diego,Altus Schools Charter School of San Diego District,San Diego,1375,1002,,true,6th Grade,12th Grade
 060194014169,Altus Schools East County,Altus Schools East County District,El Cajon,287,210,,true,7th Grade,12th Grade
-060184711899,Altus Schools Mirus Charter,Altus Schools Mirus Charter District,Hesperia,292,215,,false,7th Grade,12th Grade
-060224814228,Altus Schools North County,Altus Schools North County District,Escondido,149,114,,false,6th Grade,12th Grade
+060184711899,Altus Schools Mirus Charter,Altus Schools Mirus Charter District,Hesperia,292,215,,true,7th Grade,12th Grade
+060224814228,Altus Schools North County,Altus Schools North County District,Escondido,149,114,,true,6th Grade,12th Grade
 060150914089,Altus Schools South Bay,Altus Schools South Bay District,Chula Vista,372,283,,true,7th Grade,12th Grade
 063441005583,Alvarado Elementary,San Francisco Unified,San Francisco,538,159,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 062250009902,Alvarado Elementary,Long Beach Unified,Signal Hill,390,306,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -429,7 +429,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062019007589,Arbolita Elementary,La Habra City Elementary,La Habra,379,315,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 063036002931,Arbuckle Alternative High (Continuation),Pierce Joint Unified,Arbuckle,10,7,,true,9th Grade,12th Grade
 063036004734,Arbuckle Elementary,Pierce Joint Unified,Arbuckle,604,438,Yes under Provision 2,false,Kindergarten,5th Grade
-063462005752,Arcade Middle,San Juan Unified,Sacramento,595,496,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+063462005752,Arcade Middle,San Juan Unified,Sacramento,595,496,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 060297000223,Arcadia High,Arcadia Unified,Arcadia,2939,749,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 069100914752,Arcata Educational Resource Center,Humboldt County Office of Education,Arcata,27,22,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 060300000237,Arcata Elementary,Arcata Elementary,Arcata,240,189,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -642,7 +642,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060384008555,Banning Independent Study,Banning Unified,Banning,84,76,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 060003601114,Bannon Creek,Natomas Unified,Sacramento,491,413,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 060255114514,Banta Charter,Banta Charter District,Tracy,73,59,,false,Kindergarten,8th Grade
-060257100354,Banta Elementary,Banta Unified,Tracy,202,127,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
+060257100354,Banta Elementary,Banta Unified,Tracy,202,127,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 060216007259,Banyan Elementary,Alta Loma Elementary,Alta Loma,572,271,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 060964001006,Banyan Elementary,Conejo Valley Unified,Newbury Park,416,121,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 060201812404,Barack Obama Charter,Barack Obama Charter District,Los Angeles,360,349,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -805,7 +805,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063432008963,Bethune K-8,San Diego Unified,San Diego,520,375,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 062271002939,Betty Plasencia Elementary,Los Angeles Unified,Los Angeles,411,391,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063255005017,Betty Reid Soskin Middle,West Contra Costa Unified,El Sobrante,372,206,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-061839002263,Beulah Payne STEAM Academy,Inglewood Unified,Inglewood,554,518,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+061839002263,Beulah Payne STEAM Academy,Inglewood Unified,Inglewood,554,518,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 060483000471,Beverly Hills High,Beverly Hills Unified,Beverly Hills,1173,359,Yes under Provision 2,false,9th Grade,12th Grade
 060483000472,Beverly Vista Middle,Beverly Hills Unified,Beverly Hills,687,209,Yes under Provision 2,false,6th Grade,8th Grade
 060285011573,Bidwell Continuation High,Antioch Unified,Antioch,147,129,Yes under Community Eligibility Option (CEO),false,10th Grade,12th Grade
@@ -928,7 +928,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060168000037,Bowman Charter,Ackerman Charter,Auburn,606,152,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 062580009586,Box Springs Elementary,Moreno Valley Unified,Moreno Valley,428,391,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 062271007763,Boyle Heights Continuation,Los Angeles Unified,Los Angeles,34,33,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-062271013775,Boyle Heights Hilda Solis High,Los Angeles Unified,Los Angeles,256,245,,false,9th Grade,12th Grade
+062271013775,Boyle Heights Hilda Solis High,Los Angeles Unified,Los Angeles,256,245,,true,9th Grade,12th Grade
 060723000658,Boynton High,Campbell Union High,San Jose,163,110,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 062271014106,Boys Academic Leadership Academy,Los Angeles Unified,Los Angeles,69,63,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 060846000832,Boys Republic High,Chino Valley Unified,Chino Hills,47,43,,true,9th Grade,12th Grade
@@ -1188,11 +1188,11 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060165311733,California Montessori Project-San Juan Campuses,California Montessori Project-San Juan Campuses District,Carmichael,1545,496,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 060197611580,California Montessori Project-Shingle Springs Campus,CA Montessori Project-Shingle Springs Campus DIST,Shingle Springs,543,91,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 060248814411,California Online Public Schools Central Coast,California Online Public Schools Central Coast District,San Juan Capistrano,105,51,,false,Kindergarten,12th Grade
-060241111819,California Online Public Schools Central Valley,California Online Public Schools Central Valley District,Alpaugh,729,501,,false,Kindergarten,12th Grade
+060241111819,California Online Public Schools Central Valley,California Online Public Schools Central Valley District,Alpaugh,729,501,,true,Kindergarten,12th Grade
 060251714429,California Online Public Schools Monterey Bay,California Online Public Schools Monterey Bay District,Scotts Valley,440,182,,false,Kindergarten,12th Grade
-060212713769,California Online Public Schools North Bay,California Online Public Schools North Bay District,Middletown,144,80,,false,Kindergarten,12th Grade
-060238813152,California Online Public Schools Northern California,California Online Public Schools Northern California DIST,Ripon,1507,769,,false,Kindergarten,12th Grade
-060185110983,California Online Public Schools Southern California,California Online Public Schools Southern California DIST,San Juan Capistrano,3933,2131,,false,Kindergarten,12th Grade
+060212713769,California Online Public Schools North Bay,California Online Public Schools North Bay District,Middletown,144,80,,true,Kindergarten,12th Grade
+060238813152,California Online Public Schools Northern California,California Online Public Schools Northern California DIST,Ripon,1507,769,,true,Kindergarten,12th Grade
+060185110983,California Online Public Schools Southern California,California Online Public Schools Southern California DIST,San Juan Capistrano,3933,2131,,true,Kindergarten,12th Grade
 060232813918,California Pacific Charter - San Diego,California Pacific Charter - San Diego District,Costa Mesa,310,211,,false,Kindergarten,12th Grade
 060251014414,California Pacific Charter - Sonoma,California Pacific Charter - Sonoma District,Guerneville,213,121,,false,Kindergarten,12th Grade
 060235413904,California Pacific Charter- Los Angeles,California Pacific Charter- Los Angeles District,Costa Mesa,423,295,,false,Kindergarten,12th Grade
@@ -1239,7 +1239,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060402000357,Cameron Elementary,Barstow Unified,Barstow,436,391,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 064200006875,Cameron Elementary,West Covina Unified,West Covina,363,314,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063462005758,Cameron Ranch Elementary,San Juan Unified,Carmichael,406,325,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-069102207574,Camille Creek Community,Napa County Office of Education,Napa,60,47,,false,6th Grade,12th Grade
+069102207574,Camille Creek Community,Napa County Office of Education,Napa,60,47,,true,6th Grade,12th Grade
 060717000656,Camino Elementary,Camino Union Elementary,Camino,375,210,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 060297000226,Camino Grove Elementary,Arcadia Unified,Arcadia,695,203,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 060223708508,Camino Nuevo Charter Academy,Camino Nuevo Charter Academy District,Los Angeles,603,600,Yes under Provision 2,true,Kindergarten,8th Grade
@@ -1898,7 +1898,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060186000061,Cornell Elementary,Albany City Unified,Albany,560,143,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 062970003247,Cornerstone at Pedregal Elementary,Palos Verdes Peninsula Unified,Rancho Palos Verdes,411,35,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 060981014286,Corning Independent Study,Corning Union High,Corning,29,20,,true,9th Grade,12th Grade
-060981001044,Corning Union High,Corning Union High,Corning,974,803,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+060981001044,Corning Union High,Corning Union High,Corning,974,803,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 062271002938,Corona Avenue Elementary,Los Angeles Unified,Bell,542,520,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
 064179007457,Corona Creek Elementary,Waugh Elementary,Petaluma,403,58,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 062724004109,Corona Del Mar High,Newport-Mesa Unified,Newport Beach,2106,482,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
@@ -2009,7 +2009,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062805004253,Crocker Highlands Elementary,Oakland Unified,Oakland,415,93,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 061719002172,Crocker Middle,Hillsborough City Elementary,Hillsborough,446,15,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 063384005278,Crocker/Riverside Elementary,Sacramento City Unified,Sacramento,631,93,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-069102209235,Crossroads Academy,Napa County Office of Education,Napa,13,10,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
+069102209235,Crossroads Academy,Napa County Office of Education,Napa,13,10,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 062274012358,Crossroads Alternative Education Center,Los Banos Unified,Los Banos,183,159,,true,Kindergarten,12th Grade
 060318011283,Crossroads Charter Academy,Armona Union Elementary,Hanford,141,117,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 063867011851,Crossroads Elementary,Sylvan Union Elementary,Riverbank,752,460,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -2020,7 +2020,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063432005440,Crown Point Elementary,San Diego Unified,San Diego,313,155,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 060184912811,Crown Preparatory Academy,Crown Preparatory Academy District,Los Angeles,446,421,Yes under Community Eligibility Option (CEO),true,5th Grade,8th Grade
 060002811041,Crowne Hill Elementary,Temecula Valley Unified,Temecula,519,170,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-061839002249,Crozier (George W.) Junior High,Inglewood Unified,Inglewood,126,106,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
+061839002249,Crozier (George W.) Junior High,Inglewood Unified,Inglewood,126,106,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 061336007282,Crystal Middle,Fairfield-Suisun Unified,Suisun City,774,604,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 063432005441,Cubberley Elementary,San Diego Unified,San Diego,199,111,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 062250002709,Cubberley K-8,Long Beach Unified,Long Beach,951,256,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
@@ -2706,7 +2706,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062271012217,Enadia Way Technology Charter,Los Angeles Unified,West Hills,213,149,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063432005452,Encanto Elementary,San Diego Unified,San Diego,386,361,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063018010584,Enchanted Hills Elementary,Perris Elementary,Perris,447,383,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-063462005778,Encina High,San Juan Unified,Sacramento,766,672,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+063462005778,Encina High,San Juan Unified,Sacramento,766,672,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 062457003682,Encinal Elementary,Menlo Park City Elementary,Atherton,604,94,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 062205002613,Encinal Elementary,Live Oak Unified,Live Oak,111,58,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 060177000045,Encinal Junior/Senior High,Alameda Unified,Alameda,1280,605,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
@@ -2736,7 +2736,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060154013591,Environmental Charter Middle - Inglewood,Environmental Charter Middle - Inglewood District,Inglewood,358,317,Yes under Provision 2,true,6th Grade,8th Grade
 060161410947,Envision Academy for Arts & Technology,Envision Academy for Arts & Technology District,Oakland,207,153,Yes under Provision 2,true,6th Grade,12th Grade
 060257314621,Epic Academy,EPIC Academy District,Lathrop,1025,247,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
-060151914018,Epic California Academy,Epic California Academy District,Anaheim,1022,464,,false,Kindergarten,12th Grade
+060151914018,Epic California Academy,Epic California Academy District,Anaheim,1022,464,,true,Kindergarten,12th Grade
 060176213819,Epic De Cesar Chavez,EPIC de Cesar Chavez District,Tehachapi,614,205,,true,9th Grade,12th Grade
 060248413145,Equitas Academy #2,Equitas Academy #2 District,Los Angeles,437,409,Yes under Community Eligibility Option (CEO),true,5th Grade,8th Grade
 060194413802,Equitas Academy #3 Charter,Equitas Academy #3 Charter District,Los Angeles,435,396,Yes under Community Eligibility Option (CEO),false,Kindergarten,4th Grade
@@ -2779,7 +2779,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062271000451,Esperanza Elementary,Los Angeles Unified,Los Angeles,577,565,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 062805004317,Esperanza Elementary,Oakland Unified,Oakland,418,415,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 064212011319,Esperanza Elementary,Westside Union Elementary,Palmdale,962,595,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
-063066004758,Esperanza High,Placentia-Yorba Linda Unified,Anaheim,1393,626,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+063066004758,Esperanza High,Placentia-Yorba Linda Unified,Anaheim,1393,626,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 061035009776,Esperanza High,Cutler-Orosi Joint Unified,Cutler,19,16,,true,Kindergarten,12th Grade
 060005102015,Esperanza High (Continuation),Gridley Unified,Gridley,23,19,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 062865004427,Esplanade Elementary,Orange Unified,Orange,288,273,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -2851,7 +2851,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060180412982,Extera Public,Extera Public District,Los Angeles,236,231,Yes under Provision 2,true,Kindergarten,8th Grade
 060179513316,Extera Public School No. 2,Extera Public School No. 2 District,Los Angeles,121,118,Yes under Provision 2,false,Kindergarten,5th Grade
 061455010209,Ezekiel Balderas Elementary,Fresno Unified,Fresno,615,553,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-060133205096,F. C. Joyce TK-8,Twin Rivers Unified,North Highlands,537,504,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+060133205096,F. C. Joyce TK-8,Twin Rivers Unified,North Highlands,537,504,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 062121002541,F. D. Roosevelt Elementary,Lawndale Elementary,Lawndale,396,359,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 060861014615,Fahari L. Jeffers Elementary,Chula Vista Elementary,Chula Vista,467,101,Yes under Provision 2,false,Kindergarten,6th Grade
 062271002996,Fair Avenue Elementary,Los Angeles Unified,North Hollywood,516,496,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -2903,8 +2903,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060903009530,Fancher Creek Elementary,Clovis Unified,Fresno,649,469,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 060678000598,Farallone View Elementary,Cabrillo Unified,Montara,177,11,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 063432005456,Farb Middle,San Diego Unified,San Diego,443,300,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-061455001986,Farber School of Credit Attainment,Fresno Unified,Fresno,439,418,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
-061455005749,Farber School of Independent Studies and Online,Fresno Unified,Fresno,976,900,,false,Kindergarten,12th Grade
+061455001986,Farber School of Credit Attainment,Fresno Unified,Fresno,439,418,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+061455005749,Farber School of Independent Studies and Online,Fresno Unified,Fresno,976,900,,true,Kindergarten,12th Grade
 062271002999,Farmdale Elementary,Los Angeles Unified,Los Angeles,324,283,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 064188012082,Farmdale Elementary,Weaver Union,Merced,919,854,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 060003507903,Farmersville High,Farmersville Unified,Farmersville,711,616,Yes under Provision 2,true,9th Grade,12th Grade
@@ -3010,7 +3010,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060002009279,Foothill High,Pleasanton Unified,Pleasanton,2169,192,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 060133201985,Foothill High,Twin Rivers Unified,Sacramento,1417,1307,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 061182001300,Foothill High,East Side Union High,San Jose,268,205,Yes under Community Eligibility Option (CEO),false,11th Grade,12th Grade
-064015006638,Foothill High,Tustin Unified,Santa Ana,2126,1016,Yes under Provision 2,true,9th Grade,12th Grade
+064015006638,Foothill High,Tustin Unified,Santa Ana,2126,1016,Yes under Provision 2,false,9th Grade,12th Grade
 062409003627,Foothill Intermediate,Marysville Joint Unified,Marysville,237,154,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 060001609090,Foothill Knolls Academy of Innovation,Upland Unified,Upland,514,380,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 062637003947,Foothill Middle,Mt. Diablo Unified,Walnut Creek,1005,84,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
@@ -3074,7 +3074,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062271003340,Francisco Sepulveda Middle,Los Angeles Unified,North Hills,1052,988,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 060183913942,Francophone Charter School of Oakland,Francophone Charter School of Oakland District,Oakland,324,123,Yes under Provision 2,false,Kindergarten,8th Grade
 063315012406,Frank Augustus Miller Middle,Riverside Unified,Riverside,844,480,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
-061839002262,Frank D. Parent,Inglewood Unified,Inglewood,235,205,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+061839002262,Frank D. Parent,Inglewood Unified,Inglewood,235,205,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 062271011645,Frank Del Olmo Elementary,Los Angeles Unified,Los Angeles,456,446,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 060444008118,Frank E. Woodruff Elementary,Bellflower Unified,Bellflower,444,397,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 062985007134,Frank J. Zamboni,Paramount Unified,Paramount,650,624,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -3817,7 +3817,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063581006122,Hidden Valley Elementary,Santa Rosa Elementary,Santa Rosa,468,170,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 061288001457,Hidden Valley Middle,Escondido Union,Escondido,733,691,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 060000109444,High Desert,Acton-Agua Dulce Unified,Acton,307,219,Yes under Community Eligibility Option (CEO),true,5th Grade,8th Grade
-063680014754,High Desert,Sierra Sands Unified,Ridgecrest,,,,true,,
+063680014754,High Desert,Sierra Sands Unified,Ridgecrest,,,,false,,
 062519008526,High Desert Community Day,Modoc Joint Unified,Alturas,3,,,false,6th Grade,10th Grade
 060001708588,High Desert Premier Academy,Apple Valley Unified,Apple Valley,208,168,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 060242913878,High Tech Elementary,High Tech Elementary District,San Diego,444,216,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -4372,7 +4372,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063384005257,John F. Kennedy High,Sacramento City Unified,Sacramento,1652,982,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 061647003154,John F. Kennedy Junior High,Hanford Elementary,Hanford,531,440,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 061029001138,John F. Kennedy Middle,Cupertino Union,Cupertino,880,138,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-063525014750,John F. Kennedy Middle,Sanger Unified,Fresno,,,,true,,
+063525014750,John F. Kennedy Middle,Sanger Unified,Fresno,,,,false,,
 063213004970,John F. Kennedy Middle,Redwood City Elementary,Redwood City,808,545,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 064074006734,John Finney High (Continuation),Vallejo City Unified,Vallejo,141,122,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 062769004159,John Foster Dulles Elementary,Norwalk-La Mirada Unified,La Mirada,250,141,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -4407,7 +4407,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062271003171,John Marshall Senior High,Los Angeles Unified,Los Angeles,1842,1311,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 062169013919,John McCandless Charter,Lincoln Unified,Stockton,434,254,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 063384011917,John Morse Therapeutic Center,Sacramento City Unified,Sacramento,15,11,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
-063432005487,John Muir,San Diego Unified,San Diego,336,147,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+063432005487,John Muir,San Diego Unified,San Diego,336,147,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 060210908230,John Muir Charter,John Muir Charter District,Grass Valley,629,593,,true,6th Grade,12th Grade
 060474008119,John Muir Elementary,Berkeley Unified,Berkeley,293,90,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 061524001942,John Muir Elementary,Glendale Unified,Glendale,810,532,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -4467,7 +4467,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 061233001402,Joseph Kerr Middle,Elk Grove Unified,Elk Grove,877,410,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
 062271003129,Joseph Le Conte Middle,Los Angeles Unified,Hollywood,627,594,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 061647010816,Joseph M. Simas,Hanford Elementary,Hanford,514,315,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-062271003110,Joseph Pomeroy Widney Career Prep and Transition Center,Los Angeles Unified,Los Angeles,264,235,Yes under Community Eligibility Option (CEO),false,11th Grade,12th Grade
+062271003110,Joseph Pomeroy Widney Career Prep and Transition Center,Los Angeles Unified,Los Angeles,264,235,Yes under Community Eligibility Option (CEO),true,11th Grade,12th Grade
 061233008276,Joseph Sims Elementary,Elk Grove Unified,Elk Grove,691,338,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 062450003676,Joseph Weller Elementary,Milpitas Unified,Milpitas,412,180,Yes under Provision 2,false,Kindergarten,6th Grade
 062361010390,Joseph Widmer Jr. Elementary,Manteca Unified,Lathrop,923,594,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
@@ -4697,7 +4697,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060197713351,Knowledge Enlightens You (Key) Academy,Knowledge Enlightens You (KEY) Academy District,Hayward,645,527,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 063432012892,Knox Middle,San Diego Unified,San Diego,488,467,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 063801006417,Kohl Open Elementary,Stockton Unified,Stockton,221,97,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
-060133205100,Kohler TK-8,Twin Rivers Unified,North Highlands,400,349,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+060133205100,Kohler TK-8,Twin Rivers Unified,North Highlands,400,349,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 061668008503,Kornblum,Hawthorne,Hawthorne,566,529,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063066004765,Kraemer Middle,Placentia-Yorba Linda Unified,Placentia,889,470,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
 061455001746,Kratt Elementary,Fresno Unified,Fresno,620,491,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -4769,7 +4769,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 069104508660,La Sierra High,Tulare County Office of Education,Visalia,191,120,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 061476007723,La Sierra High (Alternative),Fullerton Joint Union High,Fullerton,236,166,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 062832004384,La Tercera Elementary,Old Adobe Union,Petaluma,295,110,Yes under Provision 2,false,Kindergarten,6th Grade
-061839002257,La Tijera Academy of Excellence Charter,Inglewood Unified,Inglewood,552,512,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+061839002257,La Tijera Academy of Excellence Charter,Inglewood Unified,Inglewood,552,512,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 060561000511,La Verne Heights Elementary,Bonita Unified,La Verne,477,140,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063132004864,La Verne Science and Technology Charter,Pomona Unified,Pomona,270,228,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 062865004436,La Veta Elementary,Orange Unified,Orange,408,280,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -5019,7 +5019,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063237004986,Levi Bemis Elementary,Rialto Unified,Rialto,566,481,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 060846007677,Levi H. Dickey Elementary,Chino Valley Unified,Ontario,413,346,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 061146010237,Lewis (Ed C.) Elementary,Downey Unified,Downey,810,620,Yes under Provision 2,false,Kindergarten,5th Grade
-060004807409,Lewis Flamson Junior High,Paso Robles Joint Unified,Paso Robles,884,619,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
+060004807409,Lewis Flamson Junior High,Paso Robles Joint Unified,Paso Robles,884,619,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 062583003871,Lewis H. Britton Middle,Morgan Hill Unified,Morgan Hill,637,287,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 063432005499,Lewis Middle,San Diego Unified,San Diego,1013,491,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 062148002569,Lewiston Elementary,Lewiston Elementary,Lewiston,68,47,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
@@ -5036,7 +5036,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060861011125,Liberty Elementary,Chula Vista Elementary,Chula Vista,542,115,Yes under Provision 2,false,Kindergarten,6th Grade
 060903010203,Liberty Elementary,Clovis Unified,Fresno,618,276,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 061949010495,Liberty Elementary,Kerman Unified,Kerman,563,463,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-060846011326,Liberty Elementary,Chino Valley Unified,Ontario,578,420,Yes under Community Eligibility Option (CEO),true,Kindergarten,6th Grade
+060846011326,Liberty Elementary,Chino Valley Unified,Ontario,578,420,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 062154002570,Liberty Elementary,Liberty Elementary,Petaluma,162,31,Yes participating without using any Provision or the CEO,false,1st Grade,6th Grade
 063315005147,Liberty Elementary,Riverside Unified,Riverside,651,591,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 060558011437,Liberty Elementary,Santa Maria-Bonita,Santa Maria,865,802,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -5057,7 +5057,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063237007829,Lida M. Henry Elementary,Rialto Unified,Rialto,391,349,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 064032006674,Lietz Elementary,Union Elementary,San Jose,501,116,Yes under Provision 2,false,Kindergarten,5th Grade
 062805008676,Life Academy,Oakland Unified,Oakland,436,428,,true,6th Grade,12th Grade
-060255407721,Life Learning Academy Charter,Life Learning Academy Charter District,San Francisco,47,35,,true,9th Grade,12th Grade
+060255407721,Life Learning Academy Charter,Life Learning Academy Charter District,San Francisco,47,35,,false,9th Grade,12th Grade
 060168312119,Lifeline Education Charter,Lifeline Education Charter District,Compton,698,663,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 062271003136,Liggett Street Elementary,Los Angeles Unified,Panorama City,550,502,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 060193710408,Lighthouse Community Charter,Lighthouse Community Charter District,Oakland,549,506,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
@@ -5352,7 +5352,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062313003530,Luther Burbank Elementary,Luther Burbank,San Jose,426,297,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
 063581006118,Luther Burbank Elementary,Santa Rosa Elementary,Santa Rosa,334,268,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 063384005264,Luther Burbank High,Sacramento City Unified,Sacramento,1535,1138,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-062271002873,Luther Burbank Mid Sch Sci Tech Engr Arts and Math Magnet,Los Angeles Unified,Los Angeles,824,730,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+062271002873,Luther Burbank Mid Sch Sci Tech Engr Arts and Math Magnet,Los Angeles Unified,Los Angeles,824,730,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 060645000571,Luther Burbank Middle,Burbank Unified,Burbank,1030,308,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 062205002616,Luther Elementary,Live Oak Unified,Live Oak,867,704,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 064245006940,Lydia Jackson College Preparatory Academy,Whittier City,Whittier,338,302,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -5612,7 +5612,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063753009197,Martin Elementary,South San Francisco Unified,South San Francisco,370,258,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 062553003829,Martin Luther King,Monterey Peninsula Unified,Seaside,548,489,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 060962000986,Martin Luther King Elementary,Compton Unified,Compton,336,306,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-061062001179,Martin Luther King High,Davis Joint Unified,Davis,51,32,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+061062001179,Martin Luther King High,Davis Joint Unified,Davis,51,32,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 063384009430,Martin Luther King Jr.,Sacramento City Unified,Sacramento,357,221,Yes under Community Eligibility Option (CEO),true,Kindergarten,6th Grade
 061203009797,Martin Luther King Jr. Elementary,El Centro Elementary,El Centro,445,401,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 061647005804,Martin Luther King Jr. Elementary,Hanford Elementary,Hanford,624,491,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -5713,7 +5713,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062649008917,McGowan (Robert) High (Continuation),Muroc Joint Unified,Boron,23,16,,false,7th Grade,12th Grade
 061605011210,McKee Middle,Greenfield Union,Bakersfield,869,810,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 060142106110,McKevett Elementary,Santa Paula Unified,Santa Paula,300,261,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-062994010533,McKinley,Pasadena Unified,Pasadena,538,422,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+062994010533,McKinley,Pasadena Unified,Pasadena,538,422,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 062271003177,McKinley Avenue Elementary,Los Angeles Unified,Los Angeles,474,470,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 060363000308,McKinley Elementary,Bakersfield City,Bakersfield,628,613,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 060648000584,McKinley Elementary,Burlingame Elementary,Burlingame,541,139,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -5831,7 +5831,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060215014259,Method Schools La,Method Schools LA District,Temecula,227,115,,false,Kindergarten,12th Grade
 060168213762,Methodschools,MethodSchools District,Murrieta,428,176,,false,Kindergarten,12th Grade
 062271003181,Metropolitan Continuation,Los Angeles Unified,Los Angeles,62,62,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-062805014736,Metwest High,Oakland Unified,Oakland,199,189,,true,9th Grade,12th Grade
+062805014736,Metwest High,Oakland Unified,Oakland,199,189,,false,9th Grade,12th Grade
 062064011581,Meyers Elementary,Lake Tahoe Unified,South Lake Tahoe,334,91,Yes under Provision 2,false,Kindergarten,5th Grade
 062271003182,Meyler Street Elementary,Los Angeles Unified,Torrance,603,576,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 060939006353,Michael D'Arcy Elementary,Colton Joint Unified,Fontana,336,263,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -5980,7 +5980,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060199708636,Monarch Learning Center,Monarch Learning Center District,Redding,85,68,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
 060250814423,Monarch River Academy,Monarch River Academy District,Porterville,1338,659,,false,Kindergarten,12th Grade
 062271003190,Moneta Continuation,Los Angeles Unified,Gardena,46,46,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-060006703774,Monroe Elementary,Caruthers Unified,Fresno,150,137,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
+060006703774,Monroe Elementary,Caruthers Unified,Fresno,150,137,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 061647002081,Monroe Elementary,Hanford Elementary,Hanford,611,493,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 062532003779,Monroe Elementary,Monrovia Unified,Monrovia,452,284,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063315005152,Monroe Elementary,Riverside Unified,Riverside,596,530,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -6151,7 +6151,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060907008563,Mountain Vista Elementary,Coachella Valley Unified,Indio,599,460,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 062334012807,Mountain Vista High,Madera Unified,Madera,162,156,Yes under Community Eligibility Option (CEO),false,10th Grade,12th Grade
 061932009382,Mountain Vista Middle,Kelseyville Unified,Kelseyville,405,285,Yes under Provision 2,true,6th Grade,8th Grade
-069100601981,Mountainside Middle College High,El Dorado County Office of Education,Placerville,290,120,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
+069100601981,Mountainside Middle College High,El Dorado County Office of Education,Placerville,290,120,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 063597003259,Mountainview Elementary,Saugus Union,Saugus,917,188,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 061347001537,Mt. Burney Special Education Center,Fall River Joint Unified,Burney,2,,,false,Kindergarten,12th Grade
 063153004890,Mt. Carmel High,Poway Unified,San Diego,1800,313,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -6326,7 +6326,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 061473001798,Nicolas Junior High,Fullerton Elementary,Fullerton,539,445,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 060002809684,Nicolas Valley Elementary,Temecula Valley Unified,Temecula,691,314,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 060384003574,Nicolet Middle,Banning Unified,Banning,966,880,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-069107812665,Nidorf Sytf Barry J.,Los Angeles County Office of Education,Sylmar,35,32,,false,6th Grade,12th Grade
+069107812665,Nidorf Sytf Barry J.,Los Angeles County Office of Education,Sylmar,35,32,,true,6th Grade,12th Grade
 060162000023,Niemes (John H.) Elementary,ABC Unified,Artesia,631,481,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 063801006427,Nightingale Charter,Stockton Unified,Stockton,425,360,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 060744000696,Niguel Hills Middle,Capistrano Unified,Laguna Niguel,693,309,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -6513,7 +6513,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062910004491,Oakdale Heights Elementary,Oroville City Elementary,Oroville,252,199,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 060006204231,Oakdale High,Oakdale Joint Unified,Oakdale,1563,543,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 060006204236,Oakdale Junior High,Oakdale Joint Unified,Oakdale,780,299,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
-060133205103,Oakdale TK-8,Twin Rivers Unified,North Highlands,559,518,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+060133205103,Oakdale TK-8,Twin Rivers Unified,North Highlands,559,518,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 069100311572,Oakendell Community,Calaveras County Office of Education,San Andreas,8,,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
 061308009810,Oakhills Elementary,Eureka Union,Granite Bay,554,55,Yes participating without using any Provision or the CEO,false,Kindergarten,3rd Grade
 060408009306,Oakhurst Elementary,Bass Lake Joint Union Elementary,Oakhurst,333,272,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -6611,7 +6611,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063386005310,Olivewood Elementary,Saddleback Valley Unified,Lake Forest,396,340,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 062250002734,Olivia Nieto Herrera Elementary,Long Beach Unified,Long Beach,615,536,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063864011768,Olympian High,Sweetwater Union High,Chula Vista,2289,632,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-062637003963,Olympic High,Mt. Diablo Unified,Concord,233,209,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+062637003963,Olympic High,Mt. Diablo Unified,Concord,233,209,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 063570006098,Olympic High (Continuation),Santa Monica-Malibu Unified,Santa Monica,30,25,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 062271010872,Olympic Primary Center,Los Angeles Unified,Los Angeles,96,93,Yes under Community Eligibility Option (CEO),false,Kindergarten,Kindergarten
 060861005253,Olympic View Elementary,Chula Vista Elementary,Chula Vista,544,214,Yes under Provision 2,false,Kindergarten,6th Grade
@@ -6792,7 +6792,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062949004547,Pajaro Middle,Pajaro Valley Unified,Watsonville,398,384,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 062949011462,Pajaro Valley High,Pajaro Valley Unified,Watsonville,1293,1090,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 062954007490,Palermo Community Day,Palermo Union Elementary,Palermo,5,,,false,Kindergarten,8th Grade
-062954004558,Palermo Middle,Palermo Union Elementary,Palermo,458,348,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+062954004558,Palermo Middle,Palermo Union Elementary,Palermo,458,348,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 060140909310,Palisade Glacier High (Continuation),Bishop Unified,Big Pine,25,17,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 062271003260,Palisades Charter Elementary,Los Angeles Unified,Pacific Palisades,408,69,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 060148804593,Palisades Charter High,Palisades Charter High District,Pacific Palisades,2920,628,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -7073,7 +7073,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060006404873,Pioneer Middle,Porterville Unified,Porterville,754,708,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 064015008250,Pioneer Middle,Tustin Unified,Tustin,971,383,Yes under Provision 2,false,6th Grade,8th Grade
 069101710539,Pioneer Technical Center,Madera County Superintendent of Schools,Madera,207,192,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
-060133205105,Pioneer TK-8,Twin Rivers Unified,Sacramento,648,561,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+060133205105,Pioneer TK-8,Twin Rivers Unified,Sacramento,648,561,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 063567011438,Pioneer Valley High,Santa Maria Joint Union High,Santa Maria,3080,2214,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 061380001556,Piru Elementary,Fillmore Unified,Piru,272,209,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063801011780,Pittman Charter,Stockton Unified,Stockton,619,531,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
@@ -7086,7 +7086,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060221414240,Pivot Charter School Riverside,Pivot Charter School Riverside District,Corona,170,107,,false,Kindergarten,12th Grade
 063063004754,Pixley Elementary,Pixley Union Elementary,Pixley,530,511,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063063012170,Pixley Middle,Pixley Union Elementary,Pixley,297,286,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-069102509237,Placer County Court,Placer County Office of Education,Auburn,14,11,,false,Kindergarten,12th Grade
+069102509237,Placer County Court,Placer County Office of Education,Auburn,14,11,,true,Kindergarten,12th Grade
 069102513072,Placer County Pathways Charter,Placer County Office of Education,Auburn,293,148,,false,Kindergarten,12th Grade
 069102509030,Placer County Special Education,Placer County Office of Education,Auburn,85,50,,false,Kindergarten,12th Grade
 062256002773,Placer Elementary,Loomis Union Elementary,Loomis,505,35,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
@@ -7481,7 +7481,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060193108706,Ridgecrest Elem Acad for Language Music and Sci,Ridgecrest Elem Acad for Language Music and Sci District,Ridgecrest,239,125,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 062970008514,Ridgecrest Intermediate,Palos Verdes Peninsula Unified,Rancho Palos Verdes,881,91,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 062454007212,Ridgemoor Elementary,Menifee Union,Sun City,772,534,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-060133208952,Ridgepoint TK-8,Twin Rivers Unified,Sacramento,650,565,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+060133208952,Ridgepoint TK-8,Twin Rivers Unified,Sacramento,650,565,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 061308003506,Ridgeview Elementary,Eureka Union,Granite Bay,619,64,Yes participating without using any Provision or the CEO,false,4th Grade,6th Grade
 064356010156,Ridgeview Elementary,Yucaipa-Calimesa Joint Unified,Yucaipa,567,407,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 061954003116,Ridgeview High,Kern High,Bakersfield,2575,1849,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -7493,7 +7493,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062250002754,Riley Elementary,Long Beach Unified,Lakewood,490,286,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063417005381,Riley Elementary,San Bernardino City Unified,San Bernardino,462,443,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063432005539,Riley/New Dawn,San Diego Unified,San Diego,142,119,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
-063261005074,Rim of the World High,Rim of the World Unified,Lake Arrowhead,860,525,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+063261005074,Rim of the World High,Rim of the World Unified,Lake Arrowhead,860,525,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 063261013953,Rim Virtual Academy,Rim of the World Unified,Lake Arrowhead,80,51,,false,Kindergarten,12th Grade
 061288008833,Rincon Middle,Escondido Union,Escondido,772,641,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 063583006131,Rincon Valley Middle,Santa Rosa High,Santa Rosa,725,247,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
@@ -7502,7 +7502,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063271008496,Rio Bravo Elementary,Rio Bravo-Greeley Union Elementary,Bakersfield,589,284,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 063271005085,Rio Bravo-Greeley Elementary,Rio Bravo-Greeley Union Elementary,Bakersfield,466,237,Yes participating without using any Provision or the CEO,false,3rd Grade,8th Grade
 063801007754,Rio Calaveras Elementary,Stockton Unified,Stockton,796,579,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
-061233007702,Rio Cazadero High,Elk Grove Unified,Sacramento,120,96,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+061233007702,Rio Cazadero High,Elk Grove Unified,Sacramento,120,96,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 063276011833,Rio Del Mar,Rio Elementary,Oxnard,499,378,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 062949004549,Rio Del Mar Elementary,Pajaro Valley Unified,Aptos,393,87,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 063276010453,Rio Del Norte,Rio Elementary,Oxnard,495,362,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -7583,7 +7583,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062271003311,Riverside Drive Charter,Los Angeles Unified,Sherman Oaks,392,181,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063255005056,Riverside Elementary,West Contra Costa Unified,Richmond,343,229,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 063118011836,Riverside Meadows Intermediate,Plumas Lake Elementary,Plumas Lake,528,232,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-060256611863,Riverside Preparatory,Riverside Preparatory District,Oro Grande,2453,1902,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
+060256611863,Riverside Preparatory,Riverside Preparatory District,Oro Grande,2453,1902,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
 063315013103,Riverside STEM Academy,Riverside Unified,Riverside,665,356,Yes under Community Eligibility Option (CEO),false,5th Grade,12th Grade
 063315012176,Riverside Virtual,Riverside Unified,Riverside,524,449,,false,Kindergarten,12th Grade
 060903010483,Riverview Elementary,Clovis Unified,Fresno,700,243,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -7597,7 +7597,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 064116006791,Riverway Elementary,Visalia Unified,Visalia,857,536,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 061932004574,Riviera Elementary,Kelseyville Unified,Kelseyville,287,189,Yes under Provision 2,false,Kindergarten,5th Grade
 063942006570,Riviera Elementary,Torrance Unified,Torrance,611,101,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
-069107812802,Road to Success Academy at Campus Kilpatrick Sdf,Los Angeles County Office of Education,Malibu,4,,,false,7th Grade,12th Grade
+069107812802,Road to Success Academy at Campus Kilpatrick Sdf,Los Angeles County Office of Education,Malibu,4,,,true,7th Grade,12th Grade
 064290011818,Robbins Elementary,Winship-Robbins,Robbins,112,87,Yes under Provision 2,true,Kindergarten,8th Grade
 063360008551,Robert C. Cooley Middle,Roseville City Elementary,Roseville,1149,411,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 061473010985,Robert C. Fisler Elementary,Fullerton Elementary,Fullerton,892,253,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
@@ -7826,7 +7826,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 069111109473,S.f. County Special Education,San Francisco County Office of Education,San Francisco,120,36,,false,Kindergarten,12th Grade
 063441012494,S.f. International High,San Francisco Unified,San Francisco,382,279,Yes under Community Eligibility Option (CEO),true,8th Grade,12th Grade
 060230311190,Sacramento Charter High,Sacramento Charter High District,Sacramento,413,312,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-063384011196,Sacramento New Technology Early College High,Sacramento City Unified,Sacramento,155,137,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+063384011196,Sacramento New Technology Early College High,Sacramento City Unified,Sacramento,155,137,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 060206512962,Sacramento Valley Charter,Sacramento Valley Charter District,West Sacramento,415,157,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
 063531006004,Saddleback High,Santa Ana Unified,Santa Ana,1451,1364,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 061074008591,Sage Canyon,Del Mar Union Elementary,San Diego,457,19,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
@@ -7987,7 +7987,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063441005664,Sanchez Elementary,San Francisco Unified,San Francisco,272,221,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063432005545,Sandburg Elementary,San Diego Unified,San Diego,570,248,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 061527001956,Sandburg Middle,Glendora Unified,Glendora,695,214,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-060001709272,Sandia Academy,Apple Valley Unified,Apple Valley,848,748,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+060001709272,Sandia Academy,Apple Valley Unified,Apple Valley,848,748,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 060453007417,Sandpiper Elementary,Belmont-Redwood Shores Elementary,Redwood City,534,55,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 061389011205,Sandra J. Gallardo Elementary,Folsom-Cordova Unified,Folsom,490,66,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 060015811816,Sandra Tovar Medeiros Elementary,Turlock Unified,Turlock,753,446,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -8191,7 +8191,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 069103707220,Shasta County Special Education,Shasta County Office of Education,Redding,28,16,,true,Kindergarten,12th Grade
 060837000829,Shasta Elementary,Chico Unified,Chico,621,284,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 062361003588,Shasta Elementary,Manteca Unified,Manteca,726,573,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
-063657006208,Shasta Elementary,Shasta Union Elementary,Shasta,100,62,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
+063657006208,Shasta Elementary,Shasta Union Elementary,Shasta,100,62,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 063660006213,Shasta High,Shasta Union High,Redding,1268,610,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 061495011804,Shasta Lake,Gateway Unified,Shasta Lake,602,464,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 061281001444,Shasta Meadows Elementary,Enterprise Elementary,Redding,320,257,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -8394,7 +8394,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060003414731,Sonoma County Virtual Academy,Windsor Unified,Windsor,63,36,,false,6th Grade,12th Grade
 062513003751,Sonoma Elementary,Modesto City Elementary,Modesto,536,310,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 062832007455,Sonoma Mountain Elementary,Old Adobe Union,Petaluma,422,65,Yes under Provision 2,false,Kindergarten,6th Grade
-063025001788,Sonoma Mountain High (Necessary Small School),Petaluma Joint Union High,Petaluma,21,15,,false,9th Grade,12th Grade
+063025001788,Sonoma Mountain High (Necessary Small School),Petaluma Joint Union High,Petaluma,21,15,,true,9th Grade,12th Grade
 063720006304,Sonoma Valley High,Sonoma Valley Unified,Sonoma,1071,351,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 062724004130,Sonora Elementary,Newport-Mesa Unified,Costa Mesa,367,274,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 063723006305,Sonora Elementary,Sonora Elementary,Sonora,643,310,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
@@ -8639,7 +8639,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060002109291,Sunol Glen Elementary,Sunol Glen Unified,Sunol,240,23,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 064023010687,Sunridge Charter,Twin Hills Union Elementary,Sebastopol,256,83,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 062637003966,Sunrise (Special Education),Mt. Diablo Unified,Concord,18,14,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
-063227007337,Sunrise Continuation High,Reef-Sunset Unified,Avenal,14,14,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+063227007337,Sunrise Continuation High,Reef-Sunset Unified,Avenal,14,14,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 062271008158,Sunrise Elementary,Los Angeles Unified,Los Angeles,385,375,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 061233012101,Sunrise Elementary,Elk Grove Unified,Rancho Cordova,1235,404,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 062610002661,Sunrise High (Continuation),Mountain Empire Unified,Pine Valley,13,11,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -8781,7 +8781,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063888006529,Tehachapi High,Tehachapi Unified,Tehachapi,1260,504,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 063888014651,Tehachapi Independent Learning Academy,Tehachapi Unified,Tehachapi,108,41,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 069104307232,Tehama County Special Education,Tehama County Department of Education,Red Bluff,51,30,,false,Kindergarten,12th Grade
-060254410699,Tehama Elearning Academy,Tehama eLearning Academy District,Red Bluff,128,105,,true,7th Grade,12th Grade
+060254410699,Tehama Elearning Academy,Tehama eLearning Academy District,Red Bluff,128,105,,false,7th Grade,12th Grade
 069104309256,Tehama Oaks High,Tehama County Department of Education,Red Bluff,23,20,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 061455001770,Tehipite Middle,Fresno Unified,Fresno,481,459,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 063375013012,Telesis Academy of Science & Math,Rowland Unified,West Covina,621,507,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
@@ -9307,7 +9307,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 063264005083,Village Elementary Charter,Rincon Valley Union Elementary,Santa Rosa,384,195,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 060002009280,Village High,Pleasanton Unified,Pleasanton,85,36,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 062169002582,Village Oaks High,Lincoln Unified,Stockton,156,130,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-060133205108,Village TK-8,Twin Rivers Unified,North Highlands,463,412,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+060133205108,Village TK-8,Twin Rivers Unified,North Highlands,463,412,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 062814004349,Village View Elementary,Ocean View,Huntington Beach,236,93,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 062847004414,Vina Danks Middle,Ontario-Montclair,Ontario,544,491,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 062286003498,Vina Elementary,Los Molinos Unified,Vina,80,42,Yes under Community Eligibility Option (CEO),true,1st Grade,8th Grade
@@ -9624,7 +9624,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 064245006949,West Whittier Elementary,Whittier City,Whittier,346,263,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 062088009884,West Wind Elementary,Lancaster Elementary,Lancaster,757,575,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 063753006356,Westborough Middle,South San Francisco Unified,South San Francisco,498,136,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-060161214144,Westbrook Academy,Westbrook Academy District,South Gate,409,341,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
+060161214144,Westbrook Academy,Westbrook Academy District,South Gate,409,341,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 063360014678,Westbrook Elementary,Roseville City Elementary,Roseville,701,238,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 062271003456,Western Avenue Technology Magnet,Los Angeles Unified,Los Angeles,563,554,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 061692012464,Western Center Academy,Hemet Unified,Hemet,762,440,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
@@ -9739,7 +9739,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 062450003663,William Burnett Elementary,Milpitas Unified,Milpitas,456,210,Yes under Provision 2,false,Kindergarten,6th Grade
 061182001306,William C. Overfelt High,East Side Union High,San Jose,1363,854,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 060002707605,William Collier Elementary,Lake Elsinore Unified,Wildomar,707,566,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-061233001395,William Daylor High,Elk Grove Unified,Sacramento,139,134,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+061233001395,William Daylor High,Elk Grove Unified,Sacramento,139,134,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 061029001133,William Faria Elementary,Cupertino Union,Cupertino,614,77,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 069100808479,William Finch,Glenn County Office of Education,Orland,154,97,,true,Kindergarten,12th Grade
 063237007621,William G. Jehue Middle,Rialto Unified,Colton,1444,1258,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -9915,7 +9915,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 060978011523,Woodson Elementary,Corning Union Elementary,Corning,486,435,Yes under Community Eligibility Option (CEO),true,Kindergarten,6th Grade
 064317007014,Woodville Elementary,Woodville Union Elementary,Porterville,371,352,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 060233313063,Woodward Leadership Academy,Woodward Leadership Academy District,San Bernardino,69,68,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-061839002264,Woodworth-Monroe Academy,Inglewood Unified,Inglewood,826,774,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+061839002264,Woodworth-Monroe Academy,Inglewood Unified,Inglewood,826,774,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 061005007690,Workman Avenue Elementary,Covina-Valley Unified,West Covina,455,393,Yes under Provision 2,false,Kindergarten,5th Grade
 061632502075,Workman Elementary,Hacienda la Puente Unified,La Puente,347,285,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 062637003984,Wren Avenue Elementary,Mt. Diablo Unified,Concord,349,266,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade

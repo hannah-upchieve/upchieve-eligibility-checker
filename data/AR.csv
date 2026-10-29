@@ -20,7 +20,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050296000062,Angie Grant Elementary School,Benton School District,Benton,340,225,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 050936001554,Anna Strong Learning Academy,Lee County School District,Marianna,417,416,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 050558000267,Anne Watson Elementary School,East End School District,Bigelow,357,258,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
-050828000547,Annie Camp Junior High School,Jonesboro School District,Jonesboro,701,701,Yes under Community Eligibility Option (CEO),false,7th Grade,9th Grade
+050828000547,Annie Camp Junior High School,Jonesboro School District,Jonesboro,701,701,Yes under Community Eligibility Option (CEO),true,7th Grade,9th Grade
 050306001424,Apple Glen Elementary School,Bentonville School District,Bentonville,497,97,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 050306000160,Ardis Ann Middle School,Bentonville School District,Bentonville,576,100,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
 050243000018,Arkadelphia High School,Arkadelphia School District,Arkadelphia,534,253,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
@@ -37,7 +37,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 051311001734,Arkansas Middle School,Texarkana School District,Texarkana,842,842,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 051449105158,Arkansas Military and First Responders Academy (Amfra),Arkansas Military and First Responders Academy (Amfra),Little Rock,176,106,Yes participating without using any Provision or the CEO,false,9th Grade,11th Grade
 050003501419,Arkansas School for the Blind Elem,Arkansas School for the Blind,Little Rock,30,21,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
-050003501420,Arkansas School for the Blind High School,Arkansas School for the Blind,Little Rock,32,13,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
+050003501420,Arkansas School for the Blind High School,Arkansas School for the Blind,Little Rock,32,13,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 050039401461,Arkansas Virtual Academy Elementary,Arkansas Virtual Academy,Little Rock,1387,896,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 050039401604,Arkansas Virtual Academy High School,Arkansas Virtual Academy,Little Rock,2567,1360,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 050039401447,Arkansas Virtual Academy Middle School,Arkansas Virtual Academy,Little Rock,1315,740,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -137,7 +137,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050371001269,Buffalo Island Central Elementary School,Buffalo Island Central School District,Leachville,404,271,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 050371001271,Buffalo Island Central High School,Buffalo Island Central School District,Monette,316,171,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 050612000318,Butterfield Elementary School,Fayetteville School District,Fayetteville,567,268,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
-051341001102,Butterfield Trail Middle School,Van Buren School District,Van Buren,557,449,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+051341001102,Butterfield Trail Middle School,Van Buren School District,Van Buren,557,449,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 050363000114,C.b. Partee Elementary School,Brinkley School District,Brinkley,262,262,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 050711000432,Cabe Elementary,Gurdon School District,Gurdon,365,288,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 050375001553,Cabot Freshman Academy,Cabot School District,Cabot,827,386,Yes participating without using any Provision or the CEO,false,9th Grade,11th Grade
@@ -226,7 +226,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050306001648,Creekside Middle School,Bentonville School District,Bentonville,635,176,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
 051068000784,Crestwood Elementary School,North Little Rock School District,North Little Rock,466,466,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 050774001509,Cross County Elementary Tech Academy,Cross County School District,Cherry Valley,415,415,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
-050774001537,Cross County High School a New Tech School,Cross County School District,Cherry Valley,315,315,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
+050774001537,Cross County High School a New Tech School,Cross County School District,Cherry Valley,315,315,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 050480000201,Crossett Elementary School,Crossett School District,Crossett,699,478,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 050480000202,Crossett High School,Crossett School District,Crossett,476,250,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 050480001356,Crossett Middle School,Crossett School District,Crossett,445,285,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
@@ -284,7 +284,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050001500275,East End Intermediate School,Sheridan School District,Little Rock,416,192,Yes participating without using any Provision or the CEO,false,3rd Grade,5th Grade
 050001501677,East End Middle School,Sheridan School District,Hensley,439,195,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 050699000463,East Hills Middle School,Greenwood School District,Greenwood,632,198,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
-050004801348,East Poinsett County High School,East Poinsett County School District,Lepanto,266,179,Yes under Provision 2,false,7th Grade,12th Grade
+050004801348,East Poinsett County High School,East Poinsett County School District,Lepanto,266,179,Yes under Provision 2,true,7th Grade,12th Grade
 050699001523,East Pointe Elementary School,Greenwood School District,Greenwood,693,223,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 050004400654,East Side Elementary School,Magnolia School District,Magnolia,570,554,Yes under Provision 2,false,Kindergarten,2nd Grade
 050375000124,Eastside Elementary School,Cabot School District,Cabot,550,243,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -339,7 +339,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050900001601,Forest Heights STEM Academy,Little Rock School District,Little Rock,777,429,Yes participating without using any Provision or the CEO,true,Kindergarten,8th Grade
 050900000611,Forest Park Elementary School,Little Rock School District,Little Rock,379,126,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 050627000344,Forrest City High School,Forrest City School District,Forrest City,563,563,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-050627000345,Forrest City Junior High School,Forrest City School District,Forrest City,270,270,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
+050627000345,Forrest City Junior High School,Forrest City School District,Forrest City,270,270,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 050002601530,Forrest Park Greenville Preschool,Pine Bluff School District,Pine Bluff,204,201,No,false,Prekindergarten,Prekindergarten
 050633005147,Fort Smith Virtual Academy,Fort Smith School District,Fort Smith,106,67,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
 050636000379,Fouke Elementary School,Fouke School District,Fouke,514,350,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -351,7 +351,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050040901685,Founders Classical Academies of Arkansas West Little Rock,Founders Classical Academies of Arkansas,Rogers,56,20,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 050642000384,Fountain Lake Charter High School,Fountain Lake School District,Hot Springs,368,172,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 050642000383,Fountain Lake Elementary,Fountain Lake School District,Hot Springs,491,308,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
-050642001605,Fountain Lake Middle School,Fountain Lake School District,Hot Springs,389,213,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
+050642001605,Fountain Lake Middle School,Fountain Lake School District,Hot Springs,389,213,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
 051044000761,Fox Meadow Elementary,Nettleton School District,Jonesboro,394,323,Yes under Provision 2,false,Prekindergarten,2nd Grade
 051044000889,Fox Meadow School of Creative Media,Nettleton School District,Jonesboro,440,381,Yes under Provision 2,false,3rd Grade,6th Grade
 051353001617,Frank Mitchell Intermediate School,Vilonia School District,Vilonia,617,291,Yes participating without using any Provision or the CEO,false,4th Grade,6th Grade
@@ -420,7 +420,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050007801078,Haas Hall Academy,Haas Hall Academy,Fayetteville,499,5,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 050007805166,Haas Hall Academy Fort Smith,Haas Hall Academy,Fort Smith,101,3,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 050007801640,Haas Hall Academy Jones Center,Haas Hall Academy,Springdale,164,3,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
-050007801639,Haas Hall Academy Rogers,Haas Hall Academy,Rogers,230,4,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
+050007801639,Haas Hall Academy Rogers,Haas Hall Academy,Rogers,230,4,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 050007801718,Haas Hall Bentonville,Haas Hall Academy,Bentonville,433,5,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 050717000436,Hackett Elementary School,Hackett School District,Hackett,474,474,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 050717000435,Hackett High School,Hackett School District,Hackett,350,350,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
@@ -492,9 +492,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050040905133,Ischool Virtual Academy of Arkansas,Founders Classical Academies of Arkansas,Rogers,16,3,Yes participating without using any Provision or the CEO,false,7th Grade,10th Grade
 050606001433,Ivory Intermediate School,Camden Fairview School District,Camden,286,283,Yes under Provision 2,false,4th Grade,5th Grade
 050042101656,Ivy Hill Preparatory Academy,Scholarmade Achievement Place of Arkansas,Little Rock,306,306,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
-050002101233,Izard County Cons Middle School,Izard County Consolidated School District,Brockwell,193,190,Yes under Provision 2,false,5th Grade,8th Grade
+050002101233,Izard County Cons Middle School,Izard County Consolidated School District,Brockwell,193,190,Yes under Provision 2,true,5th Grade,8th Grade
 050002101299,Izard County Consolidated Elementary School,Izard County Consolidated School District,Violet Hill,286,283,Yes under Provision 2,false,Prekindergarten,4th Grade
-050002101300,Izard County Consolidated High School,Izard County Consolidated School District,Brockwell,218,215,Yes under Provision 2,false,9th Grade,12th Grade
+050002101300,Izard County Consolidated High School,Izard County Consolidated School District,Brockwell,218,215,Yes under Provision 2,true,9th Grade,12th Grade
 051266000233,J. O. Kelly Middle School,Springdale School District,Springdale,663,624,Yes participating without using any Provision or the CEO,false,6th Grade,7th Grade
 050306001571,J. William Fulbright Junior High School,Bentonville School District,Bentonville,718,80,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
 050900001724,J.a. Fair K8 Preparatory School,Little Rock School District,Little Rock,779,776,Yes under Provision 2,false,Kindergarten,8th Grade
@@ -550,7 +550,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050861000573,Lake Hamilton Elementary School,Lake Hamilton School District,Pearcy,555,411,Yes participating without using any Provision or the CEO,false,2nd Grade,3rd Grade
 050861000575,Lake Hamilton High School,Lake Hamilton School District,Pearcy,936,567,Yes participating without using any Provision or the CEO,false,10th Grade,12th Grade
 050861001234,Lake Hamilton Intermediate School,Lake Hamilton School District,Pearcy,566,399,Yes participating without using any Provision or the CEO,false,4th Grade,5th Grade
-050861000574,Lake Hamilton Junior High School,Lake Hamilton School District,Pearcy,636,409,Yes participating without using any Provision or the CEO,false,8th Grade,9th Grade
+050861000574,Lake Hamilton Junior High School,Lake Hamilton School District,Pearcy,636,409,Yes participating without using any Provision or the CEO,true,8th Grade,9th Grade
 050861000138,Lake Hamilton Middle School,Lake Hamilton School District,Pearcy,633,421,Yes participating without using any Provision or the CEO,false,6th Grade,7th Grade
 050861000572,Lake Hamilton Primary School,Lake Hamilton School District,Pearcy,619,433,Yes participating without using any Provision or the CEO,false,Prekindergarten,1st Grade
 050864000576,Lakeside Elementary School,LAKESIDE SCHOOL DISTRICT (Chicot),Lake Village,292,292,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -686,7 +686,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 051252001243,Morrilton Intermediate School,South Conway County School District,Morrilton,539,,Yes under Provision 2,false,4th Grade,6th Grade
 051252000041,Morrilton Junior High School,South Conway County School District,Morrilton,362,234,Yes under Provision 2,true,7th Grade,8th Grade
 051252001245,Morrilton Primary School,South Conway County School District,Morrilton,432,354,Yes under Provision 2,false,Prekindergarten,1st Grade
-051252001242,Morrilton Senior High School,South Conway County School District,Morrilton,688,,Yes under Provision 2,false,9th Grade,12th Grade
+051252001242,Morrilton Senior High School,South Conway County School District,Morrilton,688,,Yes under Provision 2,true,9th Grade,12th Grade
 050999000733,Mount Ida High School,Mount Ida School District,Mount Ida,202,129,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 050004300676,Mountain Home Career Academies,Mountain Home School District,Mountain Home,1523,505,Yes participating without using any Provision or the CEO,true,8th Grade,12th Grade
 050004301236,Mountain Home Kindergarten,Mountain Home School District,Mountain Home,300,154,Yes participating without using any Provision or the CEO,false,Prekindergarten,Kindergarten
@@ -877,7 +877,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 051020000965,Rural Special High School,Mountain View School District,Fox,91,88,Yes under Provision 2,true,7th Grade,12th Grade
 051206000971,Russellville High School,Russellville School District,Russellville,1281,729,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 051206000175,Russellville Intermediate School,Russellville School District,Russellville,436,274,Yes participating without using any Provision or the CEO,false,5th Grade,5th Grade
-051206000968,Russellville Junior High School,Russellville School District,Russellville,808,510,Yes participating without using any Provision or the CEO,false,8th Grade,9th Grade
+051206000968,Russellville Junior High School,Russellville School District,Russellville,808,510,Yes participating without using any Provision or the CEO,true,8th Grade,9th Grade
 051206000972,Russellville Middle School,Russellville School District,Russellville,795,527,Yes participating without using any Provision or the CEO,false,6th Grade,7th Grade
 050306001139,Ruth Barker Middle School,Bentonville School District,Bentonville,530,158,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
 050459000937,Ruth Doyle Middle School,Conway School District,Conway,547,250,Yes participating without using any Provision or the CEO,false,5th Grade,7th Grade
@@ -919,7 +919,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 051245001005,Southside Elementary School,Siloam Springs School District,Siloam Springs,699,430,Yes participating without using any Provision or the CEO,false,3rd Grade,4th Grade
 051254001011,Southside Elementary School,SOUTHSIDE SCHOOL DISTRICT (Independence),Southside,852,444,Yes participating without using any Provision or the CEO,false,Prekindergarten,3rd Grade
 050633000373,Southside High School,Fort Smith School District,Fort Smith,2053,991,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-051254001702,Southside Junior High School,SOUTHSIDE SCHOOL DISTRICT (Independence),Southside,427,235,Yes participating without using any Provision or the CEO,true,7th Grade,9th Grade
+051254001702,Southside Junior High School,SOUTHSIDE SCHOOL DISTRICT (Independence),Southside,427,235,Yes participating without using any Provision or the CEO,false,7th Grade,9th Grade
 051254000100,Southside Middle School,SOUTHSIDE SCHOOL DISTRICT (Independence),Southside,450,250,Yes participating without using any Provision or the CEO,false,4th Grade,6th Grade
 051266001024,Southwest Junior High School,Springdale School District,Springdale,694,578,Yes participating without using any Provision or the CEO,true,8th Grade,9th Grade
 051221001533,Southwest Middle School,Searcy School District,Searcy,913,479,Yes participating without using any Provision or the CEO,false,4th Grade,6th Grade
@@ -1016,7 +1016,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050306000074,Washington Junior High School,Bentonville School District,Bentonville,709,150,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
 050568000281,Washington Middle School,El Dorado School District,El Dorado,581,390,Yes under Provision 2,false,5th Grade,6th Grade
 051393001140,Watson Chapel High School,Watson Chapel School District,Pine Bluff,593,347,Yes under Provision 2,false,9th Grade,12th Grade
-051393001212,Watson Chapel Junior High School,Watson Chapel School District,Pine Bluff,334,224,Yes under Provision 2,false,6th Grade,8th Grade
+051393001212,Watson Chapel Junior High School,Watson Chapel School District,Pine Bluff,334,224,Yes under Provision 2,true,6th Grade,8th Grade
 050900001474,Watson Elementary School,Little Rock School District,Little Rock,383,380,Yes under Provision 2,false,Kindergarten,5th Grade
 050813000537,Watson Primary School,Huntsville School District,Huntsville,516,400,Yes participating without using any Provision or the CEO,false,Prekindergarten,2nd Grade
 050804000527,Weaver Elementary School,West Memphis School District,West Memphis,228,228,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
@@ -1032,7 +1032,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050007605160,Western Grove Elementary,Ozark Mountain School District,Western Grove,153,150,Yes under Provision 2,false,Kindergarten,6th Grade
 050900000635,Western Hills Elementary School,Little Rock School District,Little Rock,202,199,Yes under Provision 2,false,Kindergarten,5th Grade
 050004101312,Western Yell County Elementary School,Western Yell County School District,Belleville,157,154,Yes under Provision 2,false,Prekindergarten,6th Grade
-050004101315,Western Yell County High School,Western Yell County School District,Belleville,141,138,Yes under Provision 2,false,7th Grade,12th Grade
+050004101315,Western Yell County High School,Western Yell County School District,Belleville,141,138,Yes under Provision 2,true,7th Grade,12th Grade
 050375001181,Westside Elementary School,Cabot School District,Cabot,424,281,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 051402001266,Westside Elementary School,WESTSIDE SCHOOL DISTRICT (Johnson),Hartman,279,276,Yes under Provision 2,false,Prekindergarten,5th Grade
 050402001353,Westside Elementary School,WESTSIDE CONSOLIDATED SCHOOL DISTRICT (Craighead),Jonesboro,756,416,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
@@ -1045,7 +1045,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 050699000179,Westwood Elementary School,Greenwood School District,Greenwood,839,310,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 051266001029,Westwood Elementary School,Springdale School District,Springdale,498,429,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 050417000155,White County Central Elementary School,White County Central School District,Judsonia,560,394,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
-050417000156,White County Central High School,White County Central School District,Judsonia,370,239,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
+050417000156,White County Central High School,White County Central School District,Judsonia,370,239,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 051414001156,White Hall High School,White Hall School District,White Hall,954,549,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 051414001247,White Hall Middle School,White Hall School District,White Hall,721,433,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 051185000122,William Jefferson Clinton Elementary School,Pulaski County Special School District,Sherwood,586,427,Yes under Provision 2,false,Prekindergarten,5th Grade

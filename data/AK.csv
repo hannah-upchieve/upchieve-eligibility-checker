@@ -179,7 +179,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 020018000555,Highland Academy Charter,Anchorage School District,Anchorage,200,,No,true,6th Grade,12th Grade
 020002000014,Hogarth Kingeekuk Sr. Memorial School,Bering Strait School District,Savoonga,236,240,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
 020070000484,Hollis School,Southeast Island School District,Hollis,12,11,Yes under Community Eligibility Option (CEO),true,Prekindergarten,12th Grade
-020021000125,Homebridge,Juneau Borough School District,Juneau,224,,No,false,Prekindergarten,12th Grade
+020021000125,Homebridge,Juneau Borough School District,Juneau,224,,No,true,Prekindergarten,12th Grade
 020039000081,Homer Flex School,Kenai Peninsula Borough School District,Homer,36,22,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 020039000158,Homer High School,Kenai Peninsula Borough School District,Homer,357,124,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 020039000543,Homer Middle School,Kenai Peninsula Borough School District,Homer,205,80,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade

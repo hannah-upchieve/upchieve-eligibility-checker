@@ -44,7 +44,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180363000514,Arlington Elementary School,Fort Wayne Community Schools,Fort Wayne,418,230,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 180375002222,Arlington Elementary School,Franklin Township Com Sch Corp,Indianapolis,454,338,Yes participating without using any Provision or the CEO,false,Kindergarten,3rd Grade
 180063000117,Arlington Heights Elementary Sch,Monroe County Community Sch Corp,Bloomington,301,212,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
-180477002597,Arlington Middle School - a STEM School,Indianapolis Public Schools,Indianapolis,365,247,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+180477002597,Arlington Middle School - a STEM School,Indianapolis Public Schools,Indianapolis,365,247,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 180477000801,Arsenal Technical High School,Indianapolis Public Schools,Indianapolis,2360,1452,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 181092001780,Arthur C Newby Elementary School 2,School Town of Speedway,Speedway,223,152,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 180825002711,Aspen Meadow Elementary School,Northwest Allen County Schools,Fort Wayne,600,141,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -240,7 +240,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 181281002030,Chapel Glen Elementary School,MSD Wayne Township,Indianapolis,843,512,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 181281002032,Chapel Hill 7th & 8th Grade Center,MSD Wayne Township,Indianapolis,1143,760,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 181281002031,Chapelwood Elementary School,MSD Wayne Township,Indianapolis,776,539,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
-180477002510,Charity Dye School 27 Center for Inquiry,Indianapolis Public Schools,Indianapolis,348,154,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+180477002510,Charity Dye School 27 Center for Inquiry,Indianapolis Public Schools,Indianapolis,348,154,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 180004502137,Charles a Tindley Accelerated Sch,Charles A Tindley Accelerated Sch,Indianapolis,309,225,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 180951001553,Charles Elementary School,Richmond Community Schools,Richmond,359,178,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 180651001131,Charles L Smith Fine Arts Academy,MSD Martinsville Schools,Martinsville,375,218,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
@@ -357,7 +357,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180984001603,Daleville Jr-Sr High School,Daleville Community Schools,Daleville,435,179,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 180010802503,Damar Charter Academy,Damar Charter Academy,Indianapolis,180,98,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 180387002104,Daniel Hale Williams Elem Sch,Gary Community School Corp,Gary,450,314,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-180477000817,Daniel Webster School 46 - an Exploratory School,Indianapolis Public Schools,Indianapolis,416,284,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+180477000817,Daniel Webster School 46 - an Exploratory School,Indianapolis Public Schools,Indianapolis,416,284,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 180345002275,Daniel Wertz Elementary School,Evansville Vanderburgh School Corp,Evansville,282,153,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 180255000304,Danville Community High School,Danville Community School Corp,Danville,853,250,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 180255000305,Danville Middle School,Danville Community School Corp,Danville,870,335,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
@@ -389,7 +389,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180951001555,Dennis Middle School,Richmond Community Schools,Richmond,649,399,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 180612001085,Deputy Elementary School,Madison Consolidated Schools,Deputy,138,91,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 180345000463,Dexter Elementary School,Evansville Vanderburgh School Corp,Evansville,384,235,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-181029001661,Dickinson Academy,South Bend Community School Corp,South Bend,309,233,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+181029001661,Dickinson Academy,South Bend Community School Corp,South Bend,309,233,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 180024000053,Dillsboro Elementary School,South Dearborn Community Sch Corp,Dillsboro,267,134,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 180008802495,Discovery Charter School,Discovery Charter School,Porter,536,213,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 180876000794,Discovery Middle School,Penn-Harris-Madison School Corp,Granger,941,183,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -475,7 +475,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 181242002371,Eisenhower Elementary School,Warsaw Community Schools,Warsaw,474,180,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 181239001980,Elberfeld Elementary School,Warrick County School Corp,Elberfeld,184,53,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 180477000821,Eleanor Skillen School 34 - a Montessori School,Indianapolis Public Schools,Indianapolis,328,212,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-180477000822,Eliza Baker School 55 - a Butler Lab Reggio Emilia School,Indianapolis Public Schools,Indianapolis,301,95,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+180477000822,Eliza Baker School 55 - a Butler Lab Reggio Emilia School,Indianapolis Public Schools,Indianapolis,301,95,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 180327002693,Elkhart High School,Elkhart Community Schools,Elkhart,3073,1542,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 180876001442,Elm Road Elementary School,Penn-Harris-Madison School Corp,Mishawaka,503,212,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 180885001472,Elmwood Primary Learning Center,Peru Community Schools,Peru,442,207,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
@@ -583,7 +583,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180351000503,Frazee Elementary School,Fayette County School Corporation,Connersville,299,211,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 180363000527,Fred H Croninger Elementary School,Fort Wayne Community Schools,Fort Wayne,619,206,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 180684001178,Fred J Hums Elementary School,School City of Mishawaka,Mishawaka,327,82,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-180477002395,Fredrick Douglas School 19 - an Exploratory School,Indianapolis Public Schools,Indianapolis,259,186,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+180477002395,Fredrick Douglas School 19 - an Exploratory School,Indianapolis Public Schools,Indianapolis,259,186,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 180378000600,Fremont Elementary School,Fremont Community Schools,Fremont,391,173,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 180378000601,Fremont High School,Fremont Community Schools,Fremont,302,124,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 180378000177,Fremont Middle School,Fremont Community Schools,Fremont,286,116,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
@@ -602,8 +602,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180915001512,George L Myers Elementary School,Portage Township Schools,Portage,332,137,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 180963001575,George M Riddle Elementary School,Rochester Community School Corp,Rochester,348,224,Yes participating without using any Provision or the CEO,false,2nd Grade,4th Grade
 181212001928,George Rogers Clark School,Vincennes Community School Corp,Vincennes,626,301,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-180477000841,George W. Julian School 57 Center for Inquiry,Indianapolis Public Schools,Indianapolis,165,82,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-180477002555,George Washington Carver School 87 - a Montessori School,Indianapolis Public Schools,Indianapolis,246,111,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+180477000841,George W. Julian School 57 Center for Inquiry,Indianapolis Public Schools,Indianapolis,165,82,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
+180477002555,George Washington Carver School 87 - a Montessori School,Indianapolis Public Schools,Indianapolis,246,111,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 180288000368,George Washington Elementary Sch,School City of East Chicago,East Chicago,433,313,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 180477001446,George Washington High School,Indianapolis Public Schools,Indianapolis,729,431,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 180741001267,Georgetown Elementary School,New Albany-Floyd Co Con Sch,Georgetown,659,163,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
@@ -651,7 +651,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180891001486,Guion Creek Elementary School,MSD Pike Township,Indianapolis,550,283,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 180891001487,Guion Creek Middle School,MSD Pike Township,Indianapolis,833,461,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 180477000844,H. L. Harshman Middle School,Indianapolis Public Schools,Indianapolis,509,237,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-180477002630,H.w. Longfellow Middle School - an IB World School,Indianapolis Public Schools,Indianapolis,538,412,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+180477002630,H.w. Longfellow Middle School - an IB World School,Indianapolis Public Schools,Indianapolis,538,412,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 180738001260,Hagerstown Elementary School,Nettle Creek School Corporation,Hagerstown,621,321,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 180738001261,Hagerstown Jr-Sr High School,Nettle Creek School Corporation,Hagerstown,551,237,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 180558001010,Hailmann Elementary School,La Porte Community School Corp,LaPorte,318,160,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
@@ -786,7 +786,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180084000160,Jackson Township Elementary School,Clay Community Schools,Brazil,237,88,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 180018802618,James & Rosemary Phalen Leadership Academy Middle School,James & Rosemary Phalen Leadership Academy Middle School,Indianapolis,296,217,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 181092001783,James a Allison Elementary Sch 3,School Town of Speedway,Speedway,249,171,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
-180477000866,James A. Garfield School 31 - a STEM School,Indianapolis Public Schools,Indianapolis,173,113,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+180477000866,James A. Garfield School 31 - a STEM School,Indianapolis Public Schools,Indianapolis,173,113,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 180021502701,James and Rosemary Phalen Leadership Academy High School,James and Rosemary Phalen Leadership Academy High School,Indianapolis,587,404,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 180735001255,James B Eads Elementary School,School Town of Munster,Munster,554,168,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 181134002326,James Cole Elementary School,Tippecanoe School Corp,Lafayette,321,102,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -1021,7 +1021,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180327000435,Mary Feeser Elementary School,Elkhart Community Schools,Elkhart,470,246,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 180876001448,Mary Frank Harris Elementary Sch,Penn-Harris-Madison School Corp,Granger,471,88,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 180387000640,Mary M Bethune Early Child Dev Ctr,Gary Community School Corp,Gary,231,101,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Kindergarten
-180477002605,Mary Nicholson School 70 Center for Inquiry,Indianapolis Public Schools,Indianapolis,351,76,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
+180477002605,Mary Nicholson School 70 Center for Inquiry,Indianapolis Public Schools,Indianapolis,351,76,Yes under Community Eligibility Option (CEO),true,Kindergarten,5th Grade
 180228002108,Mary Raber Elementary School,Whitley County Con Schools,Columbia City,297,97,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 180019402642,Matchbook Learning,Matchbook Learning,Indianapolis,707,681,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 180405000699,Maxwell Intermediate School,Greenfield-Central Com Schools,Maxwell,454,188,Yes participating without using any Provision or the CEO,false,4th Grade,6th Grade
@@ -1048,7 +1048,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180477000873,Meredith Nicholson School 96 - an Exploratory School,Indianapolis Public Schools,Indianapolis,391,220,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 180084000161,Meridian Street Elementary School,Clay Community Schools,Brazil,321,180,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 180363000547,Merle J Abbett Elementary School,Fort Wayne Community Schools,Fort Wayne,467,339,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-180477002439,Merle Sidener Academy 59 - a High Ability School,Indianapolis Public Schools,Indianapolis,228,109,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
+180477002439,Merle Sidener Academy 59 - a High Ability School,Indianapolis Public Schools,Indianapolis,228,109,Yes under Community Eligibility Option (CEO),true,1st Grade,5th Grade
 180969001586,Merrillville High School,Merrillville Community School Corp,Merrillville,2115,1001,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 180969001581,Merrillville Intermediate School,Merrillville Community School Corp,Merrillville,788,429,Yes under Community Eligibility Option (CEO),false,5th Grade,6th Grade
 181218001944,Metro North Elementary School,MSD Wabash County Schools,Wabash,285,140,Yes participating without using any Provision or the CEO,false,Prekindergarten,2nd Grade
@@ -1219,7 +1219,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180084000154,Northview High School,Clay Community Schools,Brazil,863,315,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 181272002022,Northview Middle School,MSD Washington Township,Indianapolis,1019,499,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 180280002727,Northwest Indiana Online School,Duneland School Corporation,Chesterton,130,43,No,false,Kindergarten,12th Grade
-180477002528,Northwest Middle School - an IB World School,Indianapolis Public Schools,Indianapolis,623,397,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+180477002528,Northwest Middle School - an IB World School,Indianapolis Public Schools,Indianapolis,623,397,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 180204000254,Northwestern Elementary School,Northwestern School Corp,Kokomo,665,215,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 180204002334,Northwestern Middle School,Northwestern School Corp,Kokomo,324,107,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
 180204000255,Northwestern Senior High School,Northwestern School Corp,Kokomo,541,133,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -1416,7 +1416,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 181090002286,Rosedale Elementary School,Southwest Parke Com Sch Corp,Rosedale,318,154,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 180972001589,Rossville Elementary School,Rossville Con School District,Rossville,440,130,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 180972001590,Rossville Middle/Senior High Sch,Rossville Con School District,Rossville,493,131,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
-180477002277,Rousseau McClellan School 91 - a Montessori School,Indianapolis Public Schools,Indianapolis,506,181,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+180477002277,Rousseau McClellan School 91 - a Montessori School,Indianapolis Public Schools,Indianapolis,506,181,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 180915001515,Rowena Kyle Elementary School,Portage Township Schools,Portage,437,153,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 180266000324,Royerton Elementary School,Delaware Community School Corp,Muncie,596,246,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 180975001596,Rushville Consolidated High School,Rush County Schools,Rushville,619,348,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
@@ -1826,7 +1826,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 180735001259,Wilbur Wright Middle School,School Town of Munster,Munster,990,258,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 180177000241,Willard Elementary School,Randolph Central School Corp,Winchester,232,128,Yes under Community Eligibility Option (CEO),false,3rd Grade,5th Grade
 180363000572,Willard Shambaugh Elementary Sch,Fort Wayne Community Schools,Fort Wayne,266,138,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-180477000901,William Bell School 60 - a Butler Lab Reggio Emilia School,Indianapolis Public Schools,Indianapolis,381,215,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+180477000901,William Bell School 60 - a Butler Lab Reggio Emilia School,Indianapolis Public Schools,Indianapolis,381,215,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 181014001633,William F Loper Elementary School,Shelbyville Central Schools,Shelbyville,619,292,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 180915001519,William Fegely Middle School,Portage Township Schools,Portage,566,273,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 180882001469,William Henry Burkhart Elementary,Perry Township Schools,Indianapolis,449,345,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
@@ -1834,7 +1834,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 181134001835,William Henry Harrison High School,Tippecanoe School Corp,West Lafayette,2194,588,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 180288000375,William McKinley Elementary School,School City of East Chicago,East Chicago,509,358,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 180477000903,William McKinley School 39 - an Exploratory School,Indianapolis Public Schools,Indianapolis,386,271,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-180477000904,William Penn Middle School - a STEM School,Indianapolis Public Schools,Indianapolis,367,240,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+180477000904,William Penn Middle School - a STEM School,Indianapolis Public Schools,Indianapolis,367,240,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 181126001282,William Tell Elementary School,Tell City-Troy Twp School Corp,Tell City,734,423,Yes participating without using any Provision or the CEO,false,Prekindergarten,6th Grade
 180021201539,William W Borden Elementary School,Borden-Henryville School Corporation,Borden,333,147,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 180021201540,William W Borden High School,Borden-Henryville School Corporation,Borden,302,86,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade

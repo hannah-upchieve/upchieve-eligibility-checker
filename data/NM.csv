@@ -14,7 +14,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 350150000376,Alameda Elementary,Las Cruces,Las Cruces,331,331,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 350003000001,Alamogordo High,Alamogordo,Alamogordo,1440,1440,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 350006000022,Alamosa Elementary,Albuquerque,Albuquerque,382,381,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-350015101088,Albuquerque Aviation Academy,Albuquerque Aviation Academy,Albuquerque,312,56,No,false,6th Grade,12th Grade
+350015101088,Albuquerque Aviation Academy,Albuquerque Aviation Academy,Albuquerque,312,56,No,true,6th Grade,12th Grade
 350013400923,Albuquerque Bilingual Academy,Albuquerque Bilingual Academy,Albuquerque,328,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 350018101134,Albuquerque Collegiate Charter School,Albuquerque Collegiate Charter School,Albuquerque,221,158,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 350006000024,Albuquerque High,Albuquerque,Albuquerque,1568,1397,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -585,7 +585,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 350108001032,North Valley Elementary,Gadsden,San Miguel,338,338,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 350099000291,Northeast Elementary,Farmington,Farmington,502,502,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 350001201049,Northeastern Nm Correctional Facility,Nm Corrections,Clayton,5,,No,false,8th Grade,12th Grade
-350013700819,Northpoint Charter School,Northpoint Charter School,Albuquerque,144,51,No,false,9th Grade,12th Grade
+350013700819,Northpoint Charter School,Northpoint Charter School,Albuquerque,144,51,No,true,9th Grade,12th Grade
 350237030025,Nye Early Childhood,Santa Fe,Santa Fe,212,212,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
 350030001123,Ocotillo Elementary,Carlsbad,Carlsbad,621,125,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 350039000187,Ojo Amarillo Elementary,Central,Fruitland,280,280,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -645,7 +645,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 350014300845,Red River Valley Charter School,Red River Valley Charter School,Red River,84,84,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 350111000312,Red Rock Elementary,Gallup,Gallup,311,260,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 350006000094,Reginald Chavez Elementary,Albuquerque,Albuquerque,174,174,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-350013600927,Renaissance Academy Charter School,Renaissance Academy Charter School,Albuquerque,124,67,No,false,4th Grade,8th Grade
+350013600927,Renaissance Academy Charter School,Renaissance Academy Charter School,Albuquerque,124,67,No,true,4th Grade,8th Grade
 350222000503,Reserve Elementary,Reserve,Reserve,58,58,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 350222000504,Reserve High,Reserve,Reserve,39,39,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 350156000911,Rio Gallinas School,West Las Vegas,Las Vegas,80,80,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
@@ -678,7 +678,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 350237000550,Salazar Elementary,Santa Fe,Santa Fe,282,282,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 350246000569,San Antonio Elementary,Socorro,San Antonio,63,53,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 350006000104,San Antonito Elementary,Albuquerque,Sandia Park,299,299,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-350280400800,San Diego Riverside,San Diego Riverside,Jemez Pueblo,50,50,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
+350280400800,San Diego Riverside,San Diego Riverside,Jemez Pueblo,50,50,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
 350234000532,San Jon Elementary,San Jon,San Jon,64,64,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 350234000533,San Jon High,San Jon,San Jon,30,30,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 350234000835,San Jon Middle School,San Jon,San Jon,29,29,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -829,7 +829,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 350006000897,Ventana Ranch Elementary,Albuquerque,Albuquerque,573,573,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 350006000856,Vision Quest Alternative Middle,Albuquerque,Albuquerque,0,,No,true,6th Grade,8th Grade
 350001000864,Vista Grande Elementary,Rio Rancho,Rio Rancho,786,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-350280201021,Vista Grande High School,Vista Grande High School,Taos,69,69,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+350280201021,Vista Grande High School,Vista Grande High School,Taos,69,69,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 350150000377,Vista Middle,Las Cruces,Las Cruces,574,574,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 350015000801,Vista Nueva High,Aztec,Aztec,68,68,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 350006000966,Volcano Vista High,Albuquerque,Albuquerque,2089,2073,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade

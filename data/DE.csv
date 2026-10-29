@@ -4,7 +4,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 100018000038,Allen Frear Elementary School,Caesar Rodney School District,Camden,504,,Yes participating without using any Provision or the CEO,false,1st Grade,5th Grade
 100008000225,Appoquinimink High School,Appoquinimink School District,Middletown,1357,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 100008000103,Appoquinimink Preschool Center,Appoquinimink School District,Middletown,150,,Yes participating without using any Provision or the CEO,false,Prekindergarten,Prekindergarten
-100005000342,Aspira Delaware,Las Americas Aspira Academy,Newark,1471,,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
+100005000342,Aspira Delaware,Las Americas Aspira Academy,Newark,1471,,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 100130000264,Baltz (Austin D.) Elementary School,Red Clay Consolidated School District,Wilmington,549,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 100108000107,Banneker (Benjamin) Elementary School,Milford School District,Milford,540,,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
 100017000037,Beacon Middle School,Cape Henlopen School District,Lewes,427,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade

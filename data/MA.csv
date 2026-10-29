@@ -26,7 +26,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 250180001499,Agawam Early Childhood Center,Agawam,Agawam,135,,Yes participating without using any Provision or the CEO,false,Prekindergarten,Prekindergarten
 250180000024,Agawam High,Agawam,Agawam,1025,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 250180000025,Agawam Junior High,Agawam,Feeding Hills,527,,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
-250279000261,Albert D Holland School of Technology,Boston,Dorchester,399,,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
+250279000261,Albert D Holland School of Technology,Boston,Dorchester,399,,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 250174000015,Albert F Ford Middle School,Acushnet,Acushnet,403,,Yes under Community Eligibility Option (CEO),false,5th Grade,8th Grade
 251089001739,Albert F. Argenziano School at Lincoln Park,Somerville,Somerville,553,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 251098001827,Albert S. Woodward Memorial School,Southborough,Southborough,286,,Yes participating without using any Provision or the CEO,false,2nd Grade,3rd Grade
@@ -485,7 +485,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 250309000390,Edgar B Davis,Brockton,Brockton,1009,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 250354000855,Edgar F. Hooks Elementary,Chelsea,Chelsea,430,,Yes participating without using any Provision or the CEO,false,1st Grade,4th Grade
 250909001469,Edgartown Elementary,Edgartown,Edgartown,357,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
-250279002689,Edison Elementary School,Boston,Brighton,502,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
+250279002689,Edison Elementary School,Boston,Brighton,502,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,6th Grade
 250309002752,Edison Evening Academy,Brockton,Brockton,225,,Yes participating without using any Provision or the CEO,false,11th Grade,12th Grade
 250315000416,Edith C Baker,Brookline,Chestnut Hill,665,,Yes participating without using any Provision or the CEO,false,Kindergarten,8th Grade
 251152001905,Edmund Hatch Bennett,Taunton,Taunton,313,,Yes under Community Eligibility Option (CEO),false,Kindergarten,4th Grade
@@ -686,7 +686,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 250279000223,Haley Pilot School,Boston,Roslindale,360,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 250561000815,Halifax Elementary,Halifax,Halifax,531,,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 250567000820,Hamilton-Wenham Regional High,Hamilton-Wenham,South Hamilton,448,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-250052202680,Hampden Charter School of Science,Hampden Charter School of Science,Chicopee,938,,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
+250052202680,Hampden Charter School of Science,Hampden Charter School of Science,Chicopee,938,,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 250574000825,Hampshire Regional High,Hampshire,Westhampton,718,,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
 250309000396,Hancock,Brockton,Brockton,680,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 250576000826,Hancock Elementary,Hancock,Hancock,48,,No,false,Prekindergarten,6th Grade
@@ -1335,7 +1335,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 251071001709,Pine Hill,Sherborn,Sherborn,397,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 251281002951,Pine Hill Elementary School,Westwood,Westwood,473,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 250051802632,Pioneer Charter School of Science,Pioneer Charter School of Science,Everett,795,,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
-250054602780,Pioneer Charter School of Science II,Pioneer Charter School of Science II,Saugus,621,,Yes under Community Eligibility Option (CEO),false,Kindergarten,12th Grade
+250054602780,Pioneer Charter School of Science II,Pioneer Charter School of Science II,Saugus,621,,Yes under Community Eligibility Option (CEO),true,Kindergarten,12th Grade
 250051702619,Pioneer Valley Chinese Immersion Charter School,Pioneer Valley Chinese Immersion Charter,Hadley,584,,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 250004400816,Pioneer Valley Performing Arts Charter Public School,Pioneer Valley Performing Arts Charter Public,South Hadley,397,,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
 250960001515,Pioneer Valley Regional,Pioneer Valley,Northfield,239,,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
@@ -1438,7 +1438,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 250858001355,Rupert a Nock Middle,Newburyport,Newburyport,470,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 250279000337,Russell Elementary School,Boston,Dorchester,356,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 250696001013,Russell St Elementary,Littleton,Littleton,375,,Yes participating without using any Provision or the CEO,false,3rd Grade,5th Grade
-250279001692,Ruth Batson Academy,Boston,Dorchester,604,,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
+250279001692,Ruth Batson Academy,Boston,Dorchester,604,,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 250702000088,S Christa McAuliffe Elementary,Lowell,Lowell,501,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 250008401847,Salem Academy Charter School,Salem Academy Charter,Salem,480,,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 251038000127,Salem Early Childhood,Salem,Salem,106,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
@@ -1655,7 +1655,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 251180002296,Upper Cape Cod Vocational Technical,Upper Cape Cod Regional Vocational Technical,Bourne,838,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 251185001938,Uxbridge High,Uxbridge,Uxbridge,590,,Yes participating without using any Provision or the CEO,false,8th Grade,12th Grade
 251113002855,Van Sickle Academy,Springfield,Springfield,262,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-251113002859,Van Sickle Prep,Springfield,Springfield,206,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
+251113002859,Van Sickle Prep,Springfield,Springfield,206,,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 250879002281,Varnum Brook,North Middlesex,Pepperell,606,,Yes under Community Eligibility Option (CEO),false,Kindergarten,4th Grade
 250327002756,Vassal Lane Upper School,Cambridge,Cambridge,298,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 250053602714,Veritas Preparatory Charter School,Veritas Preparatory Charter School,Springfield,712,,Yes under Community Eligibility Option (CEO),true,5th Grade,11th Grade

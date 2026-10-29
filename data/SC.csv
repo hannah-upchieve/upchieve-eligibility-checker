@@ -51,8 +51,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450249000872,Aynor Middle,Horry 01,Galivants Ferry,742,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 450150000278,B. D. Lee Elementary,Cherokee 01,Gaffney,603,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450282000776,Ballentine Elementary,Lexington 05,Irmo,523,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-450391600119,Bamberg-Ehrhardt High,Bamberg 03,Bamberg,383,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-450391600120,Bamberg-Ehrhardt Middle,Bamberg 03,Bamberg,188,,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
+450391600119,Bamberg-Ehrhardt High,Bamberg 03,Bamberg,383,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+450391600120,Bamberg-Ehrhardt Middle,Bamberg 03,Bamberg,188,,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
 450390001564,Banks Trail Middle,York 04,Fort Mill,638,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 450144000250,Baptist Hill High,Charleston 01,Hollywood,507,,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
 450108001163,Barnwell Elementary,Barnwell,Barnwell,425,,Yes under Community Eligibility Option (CEO),false,4th Grade,6th Grade
@@ -105,7 +105,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450150000283,Blacksburg High,Cherokee 01,Blacksburg,482,,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 450150000271,Blacksburg Middle,Cherokee 01,Blacksburg,363,,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 450150000859,Blacksburg Primary,Cherokee 01,Blacksburg,363,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
-450108000126,Blackville-Hilda High,Barnwell,Blackville,140,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
+450108000126,Blackville-Hilda High,Barnwell,Blackville,140,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 450255000656,Blaney Elementary,Kershaw 01,Elgin,750,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450297000024,Blenheim Middle School of Discovery,Marlboro 01,Blenheim,367,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 450306001528,Blue Ridge Elementary,Oconee 01,Seneca,579,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -299,8 +299,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450270001627,Deerfield Elementary,Lexington 01,Lexington,753,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450213000427,Delmae Heights Elementary,Florence 01,Florence,988,,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 450391601426,Denmark-Olar Elementary,Bamberg 03,Denmark,232,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-450391600122,Denmark-Olar High,Bamberg 03,Denmark,181,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-450391600123,Denmark-Olar Middle,Bamberg 03,Denmark,144,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
+450391600122,Denmark-Olar High,Bamberg 03,Denmark,181,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+450391600123,Denmark-Olar Middle,Bamberg 03,Denmark,144,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 450267000709,Dennis Elementary,Lee 01,Bishopville,359,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450339001311,Dent Middle,Richland 02,Columbia,1059,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 450117000035,Devon Forest Elementary,Berkeley 01,Goose Creek,925,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -337,7 +337,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450201001483,Eagle Nest Elementary,Dorchester 02,North Charleston,653,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450333000902,Easley High,Pickens 01,Easley,1862,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 450072000023,East Aiken School of the Arts,Aiken 01,Aiken,534,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-450391500331,East Clarendon Middle-High,Clarendon 06,Turbeville,722,,Yes under Community Eligibility Option (CEO),true,6th Grade,12th Grade
+450391500331,East Clarendon Middle-High,Clarendon 06,Turbeville,722,,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
 450144000856,East Cooper Montessori Charter,Charleston 01,Mt. Pleasant,433,,Yes participating without using any Provision or the CEO,false,Prekindergarten,8th Grade
 450201001769,East Edisto Middle,Dorchester 02,Summerville,1031,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 450333000885,East End Elementary,Pickens 01,Easley,618,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -365,7 +365,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450342001185,Empowerment and Enrichment Academy,Dept of Juvenile Justice,Columbia,0,,Yes participating without using any Provision or the CEO,true,5th Grade,12th Grade
 450258000675,Erwin Elementary,Lancaster 01,Lancaster,418,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450391200611,Estill Elementary,Hampton,Estill,196,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
-450391200612,Estill Middle,Hampton,Estill,154,,Yes under Community Eligibility Option (CEO),true,5th Grade,8th Grade
+450391200612,Estill Middle,Hampton,Estill,154,,Yes under Community Eligibility Option (CEO),false,5th Grade,8th Grade
 450306000194,Fair-Oak Elementary,Oconee 01,Westminster,583,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450210001392,Fairfield Central High,Fairfield 01,Winnsboro,619,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 450210001407,Fairfield Elementary,Fairfield 01,Winnsboro,418,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -463,8 +463,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450117000178,Hanahan High,Berkeley 01,Hanahan,1061,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 450117000169,Hanahan Middle,Berkeley 01,Hanahan,799,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 450336001300,Hand Middle,Richland 01,Columbia,755,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-450216000450,Hannah Pamplico High School,Florence 02,Pamplico,332,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-450216001409,Hannah-Pamplico Elementary/Middle School,Florence 02,Pamplico,782,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
+450216000450,Hannah Pamplico High School,Florence 02,Pamplico,332,,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+450216001409,Hannah-Pamplico Elementary/Middle School,Florence 02,Pamplico,782,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 450282001345,Harbison West Elementary,Lexington 05,Columbia,510,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450144001214,Harbor View Elementary,Charleston 01,Charleston,621,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450252001395,Hardeeville Elementary,Jasper 01,Hardeeville,691,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
@@ -544,7 +544,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450219001709,J. Paul Truluck Creative Arts and Science Magnet,Florence 03,Lake City,385,,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 450339001676,Jackson Creek Elementary,Richland 02,Columbia,551,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450255000657,Jackson School,Kershaw 01,Camden,530,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-450072001321,Jackson STEM Middle,Aiken 01,Jackson,302,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+450072001321,Jackson STEM Middle,Aiken 01,Jackson,302,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 450144001329,James B. Edwards Elementary,Charleston 01,Mt. Pleasant,767,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450360001476,James Byrnes Freshman Academy,Spartanburg 05,Duncan,792,,Yes participating without using any Provision or the CEO,false,9th Grade,9th Grade
 450360001022,James F. Byrnes High,Spartanburg 05,Duncan,2391,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -688,7 +688,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450072001197,M. B. Kennedy Middle,Aiken 01,Aiken,643,,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
 450264000702,M. S. Bailey Child Development Center,Laurens 56,Clinton,139,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Prekindergarten
 450000101376,Macdougall High,Dept Of Correction N04,Ridgeville,4,,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-450108000124,Macedonia Elementary-Middle,Barnwell,Blackville,349,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
+450108000124,Macedonia Elementary-Middle,Barnwell,Blackville,349,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,8th Grade
 450117001208,Macedonia Middle,Berkeley 01,Moncks Corner,375,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 450219000451,Main Street Elementary,Florence 03,Lake City,318,,Yes under Community Eligibility Option (CEO),false,3rd Grade,6th Grade
 450144000222,Malcolm C. Hursey Montessori,Charleston 01,North Charleston,471,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
@@ -697,8 +697,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450391500551,Manning Early Childhood Center,Clarendon 06,Manning,667,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,3rd Grade
 450391501439,Manning Elementary,Clarendon 06,Manning,473,,Yes under Community Eligibility Option (CEO),false,3rd Grade,5th Grade
 450000100939,Manning High,Dept Of Correction N04,Columbia,2,,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-450391500327,Manning High,Clarendon 06,Manning,741,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-450391500326,Manning Junior High,Clarendon 06,Manning,483,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
+450391500327,Manning High,Clarendon 06,Manning,741,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+450391500326,Manning Junior High,Clarendon 06,Manning,483,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 450390800765,Marion High,Marion 10,Marion,572,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 450390800053,Marion Intermediate,Marion 10,Marion,390,,Yes under Community Eligibility Option (CEO),false,3rd Grade,5th Grade
 450297001434,Marlboro County High,Marlboro 01,Bennettsville,987,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -752,7 +752,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450144000211,Midland Park Primary,Charleston 01,North Charleston,357,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,Kindergarten
 450072001198,Midland Valley High,Aiken 01,Graniteville,1558,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 450390101614,Midlands Middle College,SC Public Charter School District,West Columbia,115,,Yes participating without using any Provision or the CEO,false,10th Grade,12th Grade
-450390901642,Midlands STEM Charter School,Charter Institute at Erskine,Winnsboro,306,,Yes participating without using any Provision or the CEO,false,Prekindergarten,12th Grade
+450390901642,Midlands STEM Charter School,Charter Institute at Erskine,Winnsboro,306,,Yes participating without using any Provision or the CEO,true,Prekindergarten,12th Grade
 450090000687,Midway Elementary,Anderson 05,Anderson,675,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450255000659,Midway Elementary,Kershaw 01,Cassatt,338,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450270000052,Midway Elementary,Lexington 01,Lexington,856,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -814,7 +814,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450144001611,North Charleston Creative Arts Elementary,Charleston 01,North Charleston,399,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450144000219,North Charleston Elementary,Charleston 01,North Charleston,329,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450144000251,North Charleston High,Charleston 01,North Charleston,829,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-450391200609,North District Middle,Hampton,Varnville,239,,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
+450391200609,North District Middle,Hampton,Varnville,239,,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
 450258001262,North Elementary,Lancaster 01,Lancaster,645,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450186000354,North Hartsville Elementary,Darlington 01,Hartsville,486,,Yes under Community Eligibility Option (CEO),false,1st Grade,5th Grade
 450391000876,North Middle/High,Orangeburg,North,227,,Yes under Community Eligibility Option (CEO),false,6th Grade,12th Grade
@@ -910,7 +910,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450390001535,Pleasant Knoll Elementary,York 04,Fort Mill,774,,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 450390001683,Pleasant Knoll Middle,York 04,Fort Mill,916,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 450390201452,Pocalla Springs Elementary,Sumter 01,Sumter,609,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-450390101781,Polaris Tech Charter School,SC Public Charter School District,Ridgeland,514,,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
+450390101781,Polaris Tech Charter School,SC Public Charter School District,Ridgeland,514,,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 450339001076,Polo Road Elementary,Richland 02,Columbia,665,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450303001282,Pomaria-Garmany Elementary,Newberry 01,Pomaria,339,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450339001442,Pontiac Elementary,Richland 02,Elgin,880,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
@@ -920,7 +920,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450078001444,Powdersville Middle,Anderson 01,Greenville,801,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 450111001549,Pritchardville Elementary,Beaufort 01,Bluffton,887,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450303001286,Prosperity-Rikard Elementary,Newberry 01,Prosperity,386,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
-450144000265,R. B. Stall High,Charleston 01,North Charleston,2135,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+450144000265,R. B. Stall High,Charleston 01,North Charleston,2135,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 450333000897,R. C. Edwards Middle,Pickens 01,Central,835,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 450390201068,R. E. Davis College Preparatory Academy,Sumter 01,Sumter,391,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 450273001273,R. H. Fulmer Middle,Lexington 02,West Columbia,526,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
@@ -971,9 +971,9 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450270001547,Rocky Creek Elementary,Lexington 01,Lexington,805,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450363000029,Roebuck Elementary,Spartanburg 06,Roebuck,853,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450201000399,Rollings Middle School of the Arts,Dorchester 02,Summerville,797,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
-450219001647,Ronald E. McNair Junior High,Florence 03,Lake City,275,,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
+450219001647,Ronald E. McNair Junior High,Florence 03,Lake City,275,,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 450228000478,Rosemary Middle,Georgetown 01,Andrews,356,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-450186000356,Rosenwald Elementary,Darlington 01,Society Hill,71,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
+450186000356,Rosenwald Elementary,Darlington 01,Society Hill,71,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,5th Grade
 450336001306,Rosewood Elementary,Richland 01,Columbia,338,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 450339000814,Round Top Elementary,Richland 02,Blythewood,581,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450390901590,Royal Live Oaks Academy of the Arts and Sciences Charter Sch,Charter Institute at Erskine,Hardeeville,688,,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
@@ -1015,8 +1015,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450390101581,Sc Whitmore School,SC Public Charter School District,Columbia,431,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 450342001186,Scdjj Evaluation and Detention Center,Dept of Juvenile Justice,Columbia,417,,Yes participating without using any Provision or the CEO,true,4th Grade,12th Grade
 450072001201,Schofield Middle,Aiken 01,Aiken,356,,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
-450391500323,Scott's Branch High,Clarendon 06,Summerton,197,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-450391500188,Scott's Branch Middle,Clarendon 06,Summerton,145,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
+450391500323,Scott's Branch High,Clarendon 06,Summerton,197,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+450391500188,Scott's Branch Middle,Clarendon 06,Summerton,145,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
 450219000456,Scranton Elementary,Florence 03,Scranton,389,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 450390101803,Sea Islands Heritage Academy,SC Public Charter School District,Beaufort,38,,Yes participating without using any Provision or the CEO,false,6th Grade,7th Grade
 450249000192,Seaside Elementary,Horry 01,Garden City,398,,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
@@ -1144,7 +1144,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450228001518,Waccamaw Intermediate,Georgetown 01,Pawleys Island,415,,Yes participating without using any Provision or the CEO,false,4th Grade,6th Grade
 450228000739,Waccamaw Middle,Georgetown 01,Pawleys Island,329,,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
 450231000566,Wade Hampton High,Greenville 01,Greenville,1790,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
-450072000057,Wagener-Salley High,Aiken 01,Wagener,245,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
+450072000057,Wagener-Salley High,Aiken 01,Wagener,245,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 450306000834,Walhalla Elementary,Oconee 01,West Union,612,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 450306000842,Walhalla High,Oconee 01,Walhalla,1118,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 450306001288,Walhalla Middle,Oconee 01,Walhalla,857,,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
@@ -1200,8 +1200,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 450000200444,Williams Memorial Elementary,Dorchester 04,St. George,553,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450213000441,Williams Middle,Florence 01,Florence,792,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 450390901805,Willie Jeffries School of Excellence,Charter Institute at Erskine,Orangeburg,274,,No,false,Kindergarten,6th Grade
-450108000129,Williston-Elko High,Barnwell,Williston,192,,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
-450108001327,Williston-Elko Middle,Barnwell,Williston,149,,Yes participating without using any Provision or the CEO,true,6th Grade,8th Grade
+450108000129,Williston-Elko High,Barnwell,Williston,192,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+450108001327,Williston-Elko Middle,Barnwell,Williston,149,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 450390201062,Willow Drive Elementary,Sumter 01,Sumter,504,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 450213000442,Wilson High,Florence 01,Florence,1373,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 450339000972,Windsor Elementary,Richland 02,Columbia,579,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade

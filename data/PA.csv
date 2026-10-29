@@ -50,7 +50,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 420249002724,Annville El Sch,Annville-Cleona SD,Annville,429,,Yes participating without using any Provision or the CEO,false,3rd Grade,6th Grade
 420249002725,Annville-Cleona HS,Annville-Cleona SD,Annville,464,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 420249007417,Annville-Cleona MS,Annville-Cleona SD,Annville,235,,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
-420248000820,Antietam HS,Antietam SD,Reading,360,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+420248000820,Antietam HS,Antietam SD,Reading,360,,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 420081306909,Antonia Pantoja Community CS,Antonia Pantoja Community CS,Philadelphia,752,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 420255000779,Apollo-Ridge El Sch,Apollo-Ridge SD,Spring Church,545,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 420255002320,Apollo-Ridge HS,Apollo-Ridge SD,Spring Church,327,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
@@ -130,8 +130,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 422639000104,Bell Avenue School,William Penn SD,Yeadon,265,,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 420501001692,Bellaire El Sch,Carlisle Area SD,Carlisle,407,,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 421533002054,Belle Valley El Sch,Millcreek Township SD,Erie,626,,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-420321004930,Belle Vernon Area HS,Belle Vernon Area SD,Belle Vernon,735,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-420321007513,Belle Vernon Area MS,Belle Vernon Area SD,Belle Vernon,386,,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
+420321004930,Belle Vernon Area HS,Belle Vernon Area SD,Belle Vernon,735,,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+420321007513,Belle Vernon Area MS,Belle Vernon Area SD,Belle Vernon,386,,Yes participating without using any Provision or the CEO,true,7th Grade,8th Grade
 420324001343,Bellefonte Area HS,Bellefonte Area SD,Bellefonte,850,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 420324001342,Bellefonte Area MS,Bellefonte Area SD,Bellefonte,591,,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 420324001341,Bellefonte El Sch,Bellefonte Area SD,Bellefonte,318,,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -490,7 +490,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 421752004572,Conewago El Sch,Northeastern York SD,York,343,,Yes participating without using any Provision or the CEO,false,Kindergarten,3rd Grade
 420655006268,Conewago Twp El Sch,Conewago Valley SD,Hanover,475,,Yes participating without using any Provision or the CEO,false,Kindergarten,3rd Grade
 420655000841,Conewago Valley Intrmd Sch,Conewago Valley SD,New Oxford,842,,Yes participating without using any Provision or the CEO,false,4th Grade,6th Grade
-420659007434,Conneaut Area MS,Conneaut SD,Conneaut Lake,408,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+420659007434,Conneaut Area MS,Conneaut SD,Conneaut Lake,408,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 420659007439,Conneaut Area Senior High,Conneaut SD,Linesville,564,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 420659006132,Conneaut Lake-Sadsbury El Sch,Conneaut SD,Conneaut Lake,392,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 420659006133,Conneaut Valley El Sch,Conneaut SD,Conneautville,374,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
@@ -877,7 +877,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 421314002581,Fulton El Sch,Lancaster SD,Lancaster,274,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,5th Grade
 421899003818,Furness Horace HS,Philadelphia City SD,Philadelphia,896,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 422630003008,G a R MS,Wilkes-Barre Area SD,Wilkes-Barre,1101,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
-421053010035,Galeton Area Sch,Galeton Area SD,Galeton,145,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,6th Grade
+421053010035,Galeton Area Sch,Galeton Area SD,Galeton,145,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 421053010036,Galeton Jshs,Galeton Area SD,Galeton,144,,No,false,7th Grade,12th Grade
 421899000551,Gamp,Philadelphia City SD,Philadelphia,634,,Yes under Community Eligibility Option (CEO),true,5th Grade,12th Grade
 420882007267,Garden Spot MS,Eastern Lancaster County SD,New Holland,404,,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
@@ -1328,7 +1328,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 421899006530,Lea Henry C Sch,Philadelphia City SD,Philadelphia,503,,Yes under Community Eligibility Option (CEO),true,Prekindergarten,8th Grade
 420723004701,Leaders Heights El Sch,Dallastown Area SD,York,140,,Yes participating without using any Provision or the CEO,false,Kindergarten,3rd Grade
 428028007075,Lebanon County Career and Technology Center,Lebanon County Career and Technology Center,Lebanon,9,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-421344002754,Lebanon Intermediate Sch,Lebanon SD,Lebanon,380,,Yes under Community Eligibility Option (CEO),false,6th Grade,6th Grade
+421344002754,Lebanon Intermediate Sch,Lebanon SD,Lebanon,380,,Yes under Community Eligibility Option (CEO),true,6th Grade,6th Grade
 421344010050,Lebanon JHS,Lebanon SD,Lebanon,693,,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
 421344005155,Lebanon SHS,Lebanon SD,Lebanon,1393,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 421142007271,Lee Park El Sch,Hanover Area SD,Hanover Township,322,,Yes under Community Eligibility Option (CEO),false,3rd Grade,4th Grade
@@ -2864,8 +2864,8 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 420204004910,Willow Hill Sch,Abington SD,Willow Grove,362,,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 420855007352,Willow Lane El Sch,East Penn SD,Macungie,593,,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 422652006963,Wilmington Area El Sch,Wilmington Area SD,New Wilmington,357,,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
-422652002721,Wilmington Area Jshs,Wilmington Area SD,New Wilmington,444,,Yes participating without using any Provision or the CEO,false,7th Grade,12th Grade
-422652000033,Wilmington Area Upper El Sch,Wilmington Area SD,New Wilmington,142,,Yes under Community Eligibility Option (CEO),false,5th Grade,6th Grade
+422652002721,Wilmington Area Jshs,Wilmington Area SD,New Wilmington,444,,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
+422652000033,Wilmington Area Upper El Sch,Wilmington Area SD,New Wilmington,142,,Yes under Community Eligibility Option (CEO),true,5th Grade,6th Grade
 422655003522,Wilson Area HS,Wilson Area SD,Easton,709,,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 422655006785,Wilson Area Intermediate Sch,Wilson Area SD,Easton,643,,Yes under Community Eligibility Option (CEO),true,5th Grade,8th Grade
 422655007251,Wilson Borough El Sch,Wilson Area SD,Easton,285,,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade

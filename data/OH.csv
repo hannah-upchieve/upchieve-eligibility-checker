@@ -174,7 +174,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390435500122,Beachwood Middle School,Beachwood City,Beachwood,327,73,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 390158605871,Beacon Academy,Beacon Academy,Canton,200,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 390470102744,Beacon Elementary School,Hilliard City,Hilliard,451,178,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
-390146305666,Beacon Hill Community School Aka Beacon Hill Academy,Beacon Hill Community School AKA Beacon Hill Academy,Mt Eaton,176,64,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
+390146305666,Beacon Hill Community School Aka Beacon Hill Academy,Beacon Hill Community School AKA Beacon Hill Academy,Mt Eaton,176,64,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
 390486503324,Beallsville Elementary School,Switzerland of Ohio Local,Beallsville,136,118,Yes participating without using any Provision or the CEO,false,Kindergarten,6th Grade
 390486503325,Beallsville High School,Switzerland of Ohio Local,Beallsville,93,64,Yes participating without using any Provision or the CEO,true,7th Grade,12th Grade
 390443901310,Bear Primary School,Miamisburg City,Miamisburg,170,121,Yes participating without using any Provision or the CEO,false,Prekindergarten,2nd Grade
@@ -439,7 +439,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390504103937,Carlisle Junior High School,Carlisle Local,Carlisle,242,89,Yes participating without using any Provision or the CEO,false,7th Grade,8th Grade
 390504103938,Carlisle Primary Elementary School,Carlisle Local,Carlisle,526,225,Yes participating without using any Provision or the CEO,false,Prekindergarten,3rd Grade
 390452702155,Carrollton Elementary School,Carrollton Exempted Village,Carrollton,804,457,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
-390452702154,Carrollton High School,Carrollton Exempted Village,Carrollton,517,206,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
+390452702154,Carrollton High School,Carrollton Exempted Village,Carrollton,517,206,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
 390452710894,Carrollton Middle School,Carrollton Exempted Village,Carrollton,418,215,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 390444505427,Carson Elementary School,Newark City,Newark,414,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
 390437503703,Carson School,Cincinnati Public Schools,Cincinnati,742,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
@@ -486,7 +486,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390438000605,Champion Middle School,Columbus City Schools District,Columbus,338,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 390501303845,Champion Middle School,Champion Local,Warren,366,153,Yes participating without using any Provision or the CEO,false,5th Grade,8th Grade
 390451602063,Chaney High,Youngstown City,Youngstown,536,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-390451602091,Chaney Middle,Youngstown City,Youngstown,253,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+390451602091,Chaney Middle,Youngstown City,Youngstown,253,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 390469602714,Chapelfield Elementary School,Gahanna-Jefferson City,Gahanna,409,189,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 390448401727,Chapman Elementary School,Strongsville City,Strongsville,446,111,Yes participating without using any Provision or the CEO,false,Prekindergarten,5th Grade
 390471805974,Chardon Early Learning Center,Chardon Local,Chardon,219,62,Yes participating without using any Provision or the CEO,false,Prekindergarten,Kindergarten
@@ -968,7 +968,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390015504767,Fairborn Digital Academy,Fairborn Digital Academy,Fairborn,257,,No,true,9th Grade,12th Grade
 390439600927,Fairborn High School,Fairborn City,Fairborn,1027,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 390439600930,Fairborn Intermediate School,Fairborn City,Fairborn,1047,,Yes under Community Eligibility Option (CEO),false,2nd Grade,5th Grade
-390439600924,Fairborn Middle School,Fairborn City,Fairborn,926,,Yes under Community Eligibility Option (CEO),false,6th Grade,8th Grade
+390439600924,Fairborn Middle School,Fairborn City,Fairborn,926,,Yes under Community Eligibility Option (CEO),true,6th Grade,8th Grade
 390439610876,Fairborn Online Learning,Fairborn City,Fairborn,4,,No,false,7th Grade,11th Grade
 390439600928,Fairborn Primary School,Fairborn City,Fairborn,1261,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,2nd Grade
 390472402812,Fairbrook Elementary School,Beavercreek City,Beavercreek,547,114,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -1024,7 +1024,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390459104244,Federal Hocking Middle School,Federal Hocking Local,Stewart,185,,No,false,6th Grade,8th Grade
 390463302513,Felicity-Franklin Local Elementary School,Felicity-Franklin Local,Felicity,346,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 390463302514,Felicity-Franklin Local High School,Felicity-Franklin Local,Felicity,184,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
-390463300821,Felicity-Franklin Local Junior High School,Felicity-Franklin Local,Felicity,106,,Yes under Community Eligibility Option (CEO),false,7th Grade,8th Grade
+390463300821,Felicity-Franklin Local Junior High School,Felicity-Franklin Local,Felicity,106,,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
 390472405960,Ferguson Hall Freshman School,Beavercreek City,Beavercreek,633,138,Yes participating without using any Provision or the CEO,false,9th Grade,9th Grade
 390447501609,Fernway Elementary School,Shaker Heights City,Shaker Heights,326,103,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 390491903525,Field High School,Field Local,Mogadore,524,164,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
@@ -1036,7 +1036,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390448001658,Finland Elementary School,South-Western City,Columbus,371,337,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 390448001659,Finland Middle School,South-Western City,Columbus,673,591,Yes participating without using any Provision or the CEO,true,7th Grade,8th Grade
 390473310843,Finneytown Elementary,Finneytown Local,Cincinnati,648,,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
-390473302840,Finneytown Secondary Campus - Middle and High School,Finneytown Local,Cincinnati,501,,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
+390473302840,Finneytown Secondary Campus - Middle and High School,Finneytown Local,Cincinnati,501,,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 390481503128,Firelands Elementary School,Firelands Local,Oberlin,783,352,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 390481503129,Firelands High School,Firelands Local,Oberlin,471,259,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 390481503143,Firelands Middle School,Firelands Local,Oberlin,407,170,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -1224,7 +1224,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390442401172,Green Elementary School,Logan-Hocking Local,Logan,316,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,4th Grade
 390505503984,Green Elementary School,Green Local,Smithville,524,,No,false,Kindergarten,5th Grade
 390496103648,Green High School,Green Local,Franklin Furnace,231,,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
-390500103797,Green High School,Green Local,Uniontown,1229,288,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+390500103797,Green High School,Green Local,Uniontown,1229,288,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 390002501543,Green Inspiration Academy,Green Inspiration Academy,Cleveland,130,,No,true,Kindergarten,8th Grade
 390500100710,Green Intermediate Elementary School,Green Local,Uniontown,873,242,Yes participating without using any Provision or the CEO,false,4th Grade,6th Grade
 390500103798,Green Middle School,Green Local,Green,617,154,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -1406,7 +1406,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390448003796,Holt Crossing Intermediate School,South-Western City,Grove City,733,569,Yes participating without using any Provision or the CEO,false,5th Grade,6th Grade
 390449201854,Hook Elementary School,Troy City,Troy,272,141,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 390445001417,Hoover High School,North Canton City,North Canton,1502,419,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
-390018104705,Hope Academy Northcoast Campus,Hope Academy Northcoast Campus,Cleveland,177,,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+390018104705,Hope Academy Northcoast Campus,Hope Academy Northcoast Campus,Cleveland,177,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 390152005819,Hope Learning Academy of Toledo,Hope Learning Academy of Toledo,Toledo,58,,No,true,Kindergarten,8th Grade
 390461102436,Hopewell Early Childhood School,Lakota Local,West Chester,727,328,Yes participating without using any Provision or the CEO,false,Kindergarten,2nd Grade
 390470206053,Hopewell Elementary,Dublin City,Dublin,536,283,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
@@ -1854,7 +1854,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390482703186,Madison-Plains Junior High,Madison-Plains Local,London,169,,No,true,7th Grade,8th Grade
 390437300272,Magsig Middle School,Centerville City,Centerville,571,162,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 390512404075,Mahoning Career & Technical,Mahoning Co Career & Tech Ctr,Canfield,727,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
-390132905451,Mahoning Valley Community School,Mahoning Valley Community School,Youngstown,107,104,Yes under Provision 2,false,7th Grade,12th Grade
+390132905451,Mahoning Valley Community School,Mahoning Valley Community School,Youngstown,107,104,Yes under Provision 2,true,7th Grade,12th Grade
 390472402815,Main Elementary School,Beavercreek City,Beavercreek,725,172,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 390151105765,Main Preparatory Academy,Main Preparatory Academy,Akron,103,,Yes under Community Eligibility Option (CEO),false,Kindergarten,7th Grade
 390445605290,Main Street School,Norwalk City,Norwalk,375,,Yes under Community Eligibility Option (CEO),false,5th Grade,6th Grade
@@ -1865,7 +1865,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390461705296,Malvern Middle School,Brown Local,Malvern,143,,No,true,6th Grade,8th Grade
 390053705249,Manchester Elementary School,Manchester Local,Manchester,352,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 390053705248,Manchester High School,Manchester Local,Manchester,335,,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
-390500003793,Manchester High School,Manchester Local,New Franklin,394,128,Yes participating without using any Provision or the CEO,true,9th Grade,12th Grade
+390500003793,Manchester High School,Manchester Local,New Franklin,394,128,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 390500003792,Manchester Middle School,Manchester Local,Akron,275,94,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
 390448101693,Mann Elementary School,Springfield City School District,Springfield,438,,Yes under Community Eligibility Option (CEO),false,Kindergarten,6th Grade
 390442901219,Mansfield Middle School,Mansfield City,Mansfield,387,,Yes under Community Eligibility Option (CEO),true,7th Grade,8th Grade
@@ -2339,7 +2339,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390153005808,Ohio Construction Academy,Ohio Construction Academy,Columbus,122,,Yes under Community Eligibility Option (CEO),false,9th Grade,12th Grade
 390161506004,Ohio Digital Learning School,Ohio Digital Learning School,Maumee,1198,,No,false,9th Grade,12th Grade
 390513304079,Ohio Hi-Point,Ohio Hi-Point Career Center,Bellefontaine,586,310,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
-391005810881,Ohio School for the Deaf,Ohio Deaf and Blind Education Services,Columbus,127,68,Yes participating without using any Provision or the CEO,true,Kindergarten,12th Grade
+391005810881,Ohio School for the Deaf,Ohio Deaf and Blind Education Services,Columbus,127,68,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 391005810880,Ohio State School for the Blind,Ohio Deaf and Blind Education Services,Columbus,114,58,Yes participating without using any Provision or the CEO,false,Kindergarten,12th Grade
 390619004234,Ohio Valley Career & Technical Center,Adams County Ohio Valley Local,West Union,354,,Yes under Community Eligibility Option (CEO),false,11th Grade,12th Grade
 390018004704,Ohio Virtual Academy,Ohio Virtual Academy,Maumee,15339,,No,true,Kindergarten,12th Grade
@@ -3058,7 +3058,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390057305065,Toledo Preparatory and Fitness Academy,Toledo Preparatory and Fitness Academy,Toledo,292,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 390449006075,Toledo Public Schools Virtual Academy,Toledo City,Toledo,191,,No,false,3rd Grade,12th Grade
 390005603084,Toledo School for the Arts,Toledo School For The Arts,Toledo,750,385,Yes participating without using any Provision or the CEO,true,6th Grade,12th Grade
-390449004560,Toledo Technology Academy of Engineering High School,Toledo City,Toledo,293,,Yes under Community Eligibility Option (CEO),false,7th Grade,12th Grade
+390449004560,Toledo Technology Academy of Engineering High School,Toledo City,Toledo,293,,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
 390468905547,Toll Gate Elementary,Pickerington Local,Pickerington,948,,Yes under Community Eligibility Option (CEO),false,Kindergarten,4th Grade
 390468905559,Toll Gate Middle School,Pickerington Local,Pickerington,592,,Yes under Community Eligibility Option (CEO),false,5th Grade,6th Grade
 390635104124,Tolles Career & Technical Center,Tolles Career & Technical Center,Plain City,268,265,Yes participating without using any Provision or the CEO,false,6th Grade,12th Grade
@@ -3160,7 +3160,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390496403660,Valley Middle School,Valley Local,Lucasville,302,129,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
 390156505820,Valley Stem+me2 Academy,Valley STEM+ME2 Academy,Canfield,200,,No,true,9th Grade,10th Grade
 390437800544,Valley View Elementary School,Cleveland Municipal,Cleveland,157,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
-390487403383,Valley View Elementary School,Valley View Local,Germantown,814,228,Yes participating without using any Provision or the CEO,true,Kindergarten,5th Grade
+390487403383,Valley View Elementary School,Valley View Local,Germantown,814,228,Yes participating without using any Provision or the CEO,false,Kindergarten,5th Grade
 391002901896,Valley View Elementary School,Wadsworth City,Wadsworth,319,108,Yes participating without using any Provision or the CEO,false,Kindergarten,4th Grade
 390487403386,Valley View High School,Valley View Local,Germantown,468,186,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 390487403385,Valley View Middle School,Valley View Local,Germantown,385,102,Yes participating without using any Provision or the CEO,false,6th Grade,8th Grade
@@ -3329,7 +3329,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390488803439,West Muskingum Elementary School,West Muskingum Local,Zanesville,691,343,Yes participating without using any Provision or the CEO,false,Prekindergarten,4th Grade
 390488803443,West Muskingum High School,West Muskingum Local,Zanesville,431,173,Yes participating without using any Provision or the CEO,false,9th Grade,12th Grade
 390488803444,West Muskingum Middle School,West Muskingum Local,Zanesville,514,268,Yes participating without using any Provision or the CEO,true,5th Grade,8th Grade
-390151405778,West Park Bilingual Academy,West Park Bilingual Academy,Cleveland,204,,Yes under Community Eligibility Option (CEO),false,Kindergarten,8th Grade
+390151405778,West Park Bilingual Academy,West Park Bilingual Academy,Cleveland,204,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 390446801566,West Park Elementary School,Ravenna City,Ravenna,125,,Yes under Community Eligibility Option (CEO),false,Kindergarten,Kindergarten
 390619004113,West Union Elementary School,Adams County Ohio Valley Local,West Union,656,,Yes under Community Eligibility Option (CEO),false,Prekindergarten,6th Grade
 390619004114,West Union High School,Adams County Ohio Valley Local,West Union,435,,Yes under Community Eligibility Option (CEO),true,7th Grade,12th Grade
@@ -3501,7 +3501,7 @@ nces_id,school_name,district_name,city_name,total_students,frl_eligible_students
 390058005072,Youngstown Academy of Excellence,Youngstown Academy of Excellence,Youngstown,243,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 390001701509,Youngstown Community School,Youngstown Community School,Youngstown,356,,Yes under Community Eligibility Option (CEO),true,Kindergarten,8th Grade
 390163406183,Youngstown Preparatory Academy,Youngstown Preparatory Academy,Youngstown,126,,Yes under Community Eligibility Option (CEO),false,Kindergarten,5th Grade
-390451605948,Youngstown Preschool,Youngstown City,Youngstown,190,,No,false,Prekindergarten,Prekindergarten
+390451605948,Youngstown Preschool,Youngstown City,Youngstown,190,,No,true,Prekindergarten,Prekindergarten
 390451604934,Youngstown Rayen Early College High School,Youngstown City,Youngstown,296,,Yes under Community Eligibility Option (CEO),true,9th Grade,12th Grade
 390451606086,Youngstown Virtual Academy,Youngstown City,Youngstown,100,,No,false,6th Grade,12th Grade
 390437100261,Youtz Intermediate School,Canton City,Canton,273,,Yes under Community Eligibility Option (CEO),false,4th Grade,6th Grade
